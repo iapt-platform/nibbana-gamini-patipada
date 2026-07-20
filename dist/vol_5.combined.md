@@ -1531,17 +1531,6 @@ abyākatā vedanā sukhumā, dukkhā vedanā oḷārikā, samāpannassa vedanā 
 应当如实无误地，以观智（vipassanāñāṇa）的光明，破开色的团块、名（nāma）的团块，予以破析、洞穿而观照。
 应当好好地领会：这正是此处所要表达的意思。
 
-**【文件：[1]b 道非道智见清净释 - 思惟智章/[45]四种名蕴.md】**
-
-### 四种名蕴（nāmakkhandha）
-
-再者，请重新回顾、缘取上述粗（oḷārika）、细（sukhuma）、劣（hīna）、殊胜（paṇīta）、远（dūra）、近（santika）的种种区分与判定方式。
-在区分、判定四种名蕴时，唯作（kiriya）无记（abyākata）速行（javana）与出世间（lokuttara）速行也包含在内。
-在还只处于凡夫（puthujjana）、禅修者（yogī）阶段的你这位善人的相续流（santāna）中，唯作无记速行尚不可能生起，因此暂且略去。
-出世间速行也不是观（vipassanā）智所观照的所缘，因此也暂且略去。
-正如名业处（nāmakammaṭṭhāna）篇的各表中所列示的那样：如果能在全部六条线上、彻底无余地摄取善（kusala）速行起作用的速行心路（vīthi）以及不善（akusala）速行起作用的速行心路，并加以观照、审察，那么粗—细、劣—殊胜、远—近这四种名蕴也就一并涵盖在内、已经观照完毕——对此也应当心领神会。
-在过去、未来、现在三时，以及内在（ajjhatta）、外（bahiddhā）两种相续流当中，凡是已生、正生、将生的一切色（rūpa）、名（nāma），若能全部概括（令种类无余）、细密地摄取，并加以观照、审察，那么粗—细、劣—殊胜、（远）—近的五蕴一切色名诸法也就一并涵盖在内了——对此也应当心领神会。
-
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[45]b 在色蕴中分别观照的方法.md】**
 
 ### 在色蕴（rūpakkhandhā）中分别观照的方法
@@ -1599,17 +1588,16 @@ abyākatā vedanā sukhumā, dukkhā vedanā oḷārikā, samāpannassa vedanā 
 yaṃ kiñci samudayadhammaṃ, sabbaṃ taṃ nirodhadhammaṃ = 凡是具有生起之性质的法，全部都具有坏灭之性质——应当依此，参照那把三地（tebhūmaka）一切行统摄起来观照的观照角度。
 （相应部 3，397。）（紧叔迦喻经（Kiṃsukopama Sutta）。）这是三地业处行者、阿拉汉（arahanta）长老（thera）大师的观照角度。
 
-**【文件：[1]b 道非道智见清净释 - 思惟智章/[47]相之确立篇 = 无常思惟、苦思惟、无我思惟.md】**
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[45]四种名蕴.md】**
 
-### 相（lakkhaṇa）之确立篇 = 无常（anicca）思惟（sammasana）、苦（dukkha）思惟、无我（anatta）思惟
+### 四种名蕴（nāmakkhandha）
 
-如此，依过去、未来、现在、内在（ajjhatta）、外在（bahiddha）、粗（oḷārika）、细（sukhuma）、劣（hīna）、殊胜（paṇīta）、远（dūra）、近（santika）这十一种样态而有差别的色法（rūpadhamma），以观智（vipassanāñāṇa）加以审察、观照；正因如此，这虽有十一种差别、却又是全部的思惟，依 **aniccaṃ khayaṭṭhena** = 由于那色法生起之后便不断地灭尽、消逝，故依「**anicca**（无常）」这一种样态而成——以此思惟之力，依「无常」这一种样态来审察为缘，便称为一种思惟。
-虽然依「无常」这一种样态来审察为缘而称为一种思惟，但依过去等所依的处所（okāsa）之分，仍有十一种差别。（《清净之道》2,245。）
-
-再者，那同样是全部、也有十一种差别的色法，依 **bhayaṭṭha** = 由于具有可怖畏的性质，故称为苦——如此审察、观照，即观为「苦、苦」。
-
-**bhayaṭṭha** 的意思是：由于具有「可怖畏」之义。的确如此：凡是生起之后便会坏灭、无常的色法，皆具有无常的性质；而那无常的色法，正会招致可怖畏的危难。
-若问这会使何者生起怖畏——正如世尊宣说 **《狮子喻经》（Sīhopama Sutta）** 时，连那些长寿的天神与梵天也会生起恐惧、惊惶战栗一般。---
+再者，请重新回顾、缘取上述粗（oḷārika）、细（sukhuma）、劣（hīna）、殊胜（paṇīta）、远（dūra）、近（santika）的种种区分与判定方式。
+在区分、判定四种名蕴时，唯作（kiriya）无记（abyākata）速行（javana）与出世间（lokuttara）速行也包含在内。
+在还只处于凡夫（puthujjana）、禅修者（yogī）阶段的你这位善人的相续流（santāna）中，唯作无记速行尚不可能生起，因此暂且略去。
+出世间速行也不是观（vipassanā）智所观照的所缘，因此也暂且略去。
+正如名业处（nāmakammaṭṭhāna）篇的各表中所列示的那样：如果能在全部六条线上、彻底无余地摄取善（kusala）速行起作用的速行心路（vīthi）以及不善（akusala）速行起作用的速行心路，并加以观照、审察，那么粗—细、劣—殊胜、远—近这四种名蕴也就一并涵盖在内、已经观照完毕——对此也应当心领神会。
+在过去、未来、现在三时，以及内在（ajjhatta）、外（bahiddhā）两种相续流当中，凡是已生、正生、将生的一切色（rūpa）、名（nāma），若能全部概括（令种类无余）、细密地摄取，并加以观照、审察，那么粗—细、劣—殊胜、（远）—近的五蕴一切色名诸法也就一并涵盖在内了——对此也应当心领神会。
 
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[47]b 狮子喻经.md】**
 
@@ -1680,6 +1668,18 @@ Rūpañca hidaṃ, bhikkhave, attā abhavissa, nayidaṃ rūpaṃ ābādhāya sa
 如此，藉由把过去等种种差别的色法思惟为「无我」，因而也具有十一种差别的这一思惟，也是——**anattā asārakaṭṭhena** ＝由于不具有名为「我」的实质，故依「无我」这一行相而思惟；以这一思惟之力，依「无我」这一行相而思惟，由此便称为一种思惟。
 虽说如此，但依过去等所依的处所、空间的差别，仍有十一种差别。
 在受蕴等四种名蕴中，也应当运用此色蕴中所说的方法。（《清净之道》2,246。）
+
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[47]相之确立篇 = 无常思惟、苦思惟、无我思惟.md】**
+
+### 相（lakkhaṇa）之确立篇 = 无常（anicca）思惟（sammasana）、苦（dukkha）思惟、无我（anatta）思惟
+
+如此，依过去、未来、现在、内在（ajjhatta）、外在（bahiddha）、粗（oḷārika）、细（sukhuma）、劣（hīna）、殊胜（paṇīta）、远（dūra）、近（santika）这十一种样态而有差别的色法（rūpadhamma），以观智（vipassanāñāṇa）加以审察、观照；正因如此，这虽有十一种差别、却又是全部的思惟，依 **aniccaṃ khayaṭṭhena** = 由于那色法生起之后便不断地灭尽、消逝，故依「**anicca**（无常）」这一种样态而成——以此思惟之力，依「无常」这一种样态来审察为缘，便称为一种思惟。
+虽然依「无常」这一种样态来审察为缘而称为一种思惟，但依过去等所依的处所（okāsa）之分，仍有十一种差别。（《清净之道》2,245。）
+
+再者，那同样是全部、也有十一种差别的色法，依 **bhayaṭṭha** = 由于具有可怖畏的性质，故称为苦——如此审察、观照，即观为「苦、苦」。
+
+**bhayaṭṭha** 的意思是：由于具有「可怖畏」之义。的确如此：凡是生起之后便会坏灭、无常的色法，皆具有无常的性质；而那无常的色法，正会招致可怖畏的危难。
+若问这会使何者生起怖畏——正如世尊宣说 **《狮子喻经》（Sīhopama Sutta）** 时，连那些长寿的天神与梵天也会生起恐惧、惊惶战栗一般。---
 
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[50]a 唯有行苦才是根本.md】**
 
@@ -2620,15 +2620,6 @@ Anipatassapi sabbena sabbaṃ asāratāya thirabhāvassa abhāvatāya. (Mahāṭ
 就像从极幼嫩之时起便一片片凋落坠下的树果一样：在年幼娇嫩之龄、欢乐嬉戏之龄等等一切年龄、种种时段当中，（诸行）都具有终将坠落的性质，因此（是不坚固的）；纵然尚未坠落，由于从一切方面来说都毫无实质、并不具备坚固牢靠之性，因此（也是不坚固的）——所以，诸行（saṅkhāra）都只是不坚固的 addhuva 之法。
 应以智（ñāṇa）观照、照见这一性质，如此作意『**addhuva, addhuva**』而修观（vipassanā）。
 
-**【文件：[1]b 道非道智见清净释 - 思惟智章/[76]无常相（十）项/[79]六、变易法.md】**
-
-### 六、变易法
-
-Jarāya ceva maraṇena cāti dvedhā pariṇāmapakatitāya **vipariṇāmadhammato**. (Visuddhi 2,247.)
-五蕴（khandha）即色（rūpa）、名（nāma）诸法，由于被称为「老」（jarā）的住（ṭhiti）时阶段，以及被称为「死」（maraṇa）的坏灭（bhaṅga）阶段——如此以这两种方式，便具有变坏、变迁的变易（vipariṇāma）性质。
-它们从名为「生」（jāti）的生起（uppāda）状态，变迁到名为「老」的住时状态；又从名为「老」的住时阶段，变迁到名为「死」的坏灭状态——刹那刹那地不断变坏、变迁。
-由于诸行（saṅkhāra）具有这样的变易性质，便以智（ñāṇa）观照、看清这一性质，如此作观：**vipariṇāmadhamma vipariṇāmadhamma**。
-
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[76]无常相（十）项/[79]b 七、无实质.md】**
 
 ### 七、无实质
@@ -2657,13 +2648,14 @@ Vigatabhavatāya, vibhavasambhūtatāya ca **vibhavato**. (Visuddhi 2,248.)
 如此一来，诸行法：或因离于增长、繁盛的性质，或因是从无有爱、无有见中产生的缘故，又或依另一种说法——因是在父亲灭坏毁灭之后于后来时段才产生出来的缘故，便具有「vibhavaṃ＝趋于灭尽」的性质。
 应以智（ñāṇa）观照、照见这一性质，并念诵「**vibhava, vibhava**（灭尽、灭尽）」而作观。
 
-**【文件：[1]b 道非道智见清净释 - 思惟智章/[76]无常相（十）项/[80]九、就死法而言 = 死殁.md】**
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[76]无常相（十）项/[79]六、变易法.md】**
 
-### 九、就死法而言（maraṇadhamma）= 死殁（maccu）
+### 六、变易法
 
-maraṇapakatitāya **maraṇadhammato**.（《清净之道》2,248。）
-色法、名法等诸行（saṅkhāra），由于具有「死 = 灭 = 坏灭（bhaṅga）」这种死亡的自性，因而都具有死法 = 死殁 = 死亡的自性。
-应以智（ñāṇa）观照、照见这一自性，如此观照：**maraṇadhamma maraṇadhamma**（= maccu maccu）。
+Jarāya ceva maraṇena cāti dvedhā pariṇāmapakatitāya **vipariṇāmadhammato**. (Visuddhi 2,247.)
+五蕴（khandha）即色（rūpa）、名（nāma）诸法，由于被称为「老」（jarā）的住（ṭhiti）时阶段，以及被称为「死」（maraṇa）的坏灭（bhaṅga）阶段——如此以这两种方式，便具有变坏、变迁的变易（vipariṇāma）性质。
+它们从名为「生」（jāti）的生起（uppāda）状态，变迁到名为「老」的住时状态；又从名为「老」的住时阶段，变迁到名为「死」的坏灭状态——刹那刹那地不断变坏、变迁。
+由于诸行（saṅkhāra）具有这样的变易性质，便以智（ñāṇa）观照、看清这一性质，如此作观：**vipariṇāmadhamma vipariṇāmadhamma**。
 
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[76]无常相（十）项/[80]b 十、就有为而言.md】**
 
@@ -2700,6 +2692,14 @@ Hetupaccayehi abhisaṅkhatatāya **saṅkhatato**.（《清净之道》（Visud
 
 在缘起（paṭiccasamuppāda）诸支当中，也同样可以观照这无常相（aniccalakkhaṇa）的十个要点。
 至此，无常相的十个要点结束。
+
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[76]无常相（十）项/[80]九、就死法而言 = 死殁.md】**
+
+### 九、就死法而言（maraṇadhamma）= 死殁（maccu）
+
+maraṇapakatitāya **maraṇadhammato**.（《清净之道》2,248。）
+色法、名法等诸行（saṅkhāra），由于具有「死 = 灭 = 坏灭（bhaṅga）」这种死亡的自性，因而都具有死法 = 死殁 = 死亡的自性。
+应以智（ñāṇa）观照、照见这一自性，如此观照：**maraṇadhamma maraṇadhamma**（= maccu maccu）。
 
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[81]苦相（二十五）项/[81]苦相（二十五）项.md】**
 
@@ -3025,21 +3025,6 @@ Tāṇāsīsāya upagatassa **alabbhaneyyakhematā**. (Mahāṭī 2,396.)
 诸行法在生起之后，要守护、维持它们使之不坏灭也是极为困难的；纵然怀着想要守护的渴欲去依止守护，也无论用什么方法都不能、也不可能获得免于坏灭这一险难的安稳。
 （诸行）正是那令人怖畏的 bhayaṭṭha＝险难苦迫之义本身。
 
-**【文件：[1]b 道非道智见清净释 - 思惟智章/[81]苦相（二十五）项/[91]十二、就无避护而言.md】**
-
-### 十二、就无避护而言
-
-Allīyituṃ anarahatāya, allīnānampi ca leṇakiccākāritāya **aleṇato**.
-（《清净之道》2,247。）
-
-Dukkhabhītiyā upalīyanādhippāyena **allīyituṃ**.
-Dukkhanivattanaṃ **leṇakiccaṃ**. （《大复注》2,396。）
-
-一切名色法（rūpa-nāma）、诸行（saṅkhāra），都因畏惧苦——（尤其是畏惧那因生灭的捶击而无间断地遭受逼迫、折磨的苦）——而生起想要投靠、依附的渴求；然而，由于它们不堪被如此投靠、依附，
-
-又由于：对于那些因畏惧苦、怀着投靠依附的渴求而前来投靠、依附的人，它们也不能成办「令苦消失、隐没」这种庇护的职责——所以说 aleṇaṃ ＝ 即是毫无遮蔽守护、纯然为危险渊薮者。
-应以智慧（ñāṇa）看清这一性质，如此默念「**aleṇa aleṇa**（无避护、无避护）」而修观（vipassanā）。
-
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[81]苦相（二十五）项/[91]b 十三、就无所依靠而言.md】**
 
 ### 十三、就无所依靠而言
@@ -3066,20 +3051,20 @@ Ime rūpādayo sukhahetu, na dukkhahetūti janitavissāsānaṃ hananasīlatāya
 因此，每一蕴正是这样的杀手家族：它使依世俗谛（sammutisacca）而恰当施设、被称为人、天、梵天的有情，于（生、住、灭）三时刹那间、在不久之内趋于坏灭，相续不断、无时或停地在内里加以杀戮。
 应以观智（vipassanāñāṇa）观照、照见这一性质，如此而观：「**vadhaka vadhaka**」。
 
-**【文件：[1]b 道非道智见清净释 - 思惟智章/[81]苦相（二十五）项/[92]十五、祸患之根本.md】**
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[81]苦相（二十五）项/[91]十二、就无避护而言.md】**
 
-### 十五、就祸患之根本而言
+### 十二、就无避护而言
 
-Aghahetutāya **aghamūlato**. (Visuddhi 2,247.)
+Allīyituṃ anarahatāya, allīnānampi ca leṇakiccākāritāya **aleṇato**.
+（《清净之道》2,247。）
 
-Aghassa pāpassa hetutā **aghahetutā**.
-Khandhapaṭibaddhameva hi sabbaṃ kibbisanti. (Mahāṭī 2,397.)
-一切恶行，都恒常与五蕴（khandha）、色法（rūpa）、名法（nāma）相系。
-倘若没有五蕴，恶行也就无从存在。
-因此，五蕴、色法名法正是粗重、粗恶的恶行不善（akusala）的真实根源、是其重大成因，所以说 aghamūlaṃ＝徒劳无义、是一切祸患（苦）的根本。
+Dukkhabhītiyā upalīyanādhippāyena **allīyituṃ**.
+Dukkhanivattanaṃ **leṇakiccaṃ**. （《大复注》2,396。）
 
-无论是以色法为所缘、或依止色法而生起，还是以名法为所缘、或与名法相应而生起，种种恶行不善——那一类一类的法聚——便会生起。
-应以智（ñāṇa）观照、洞见这一性质，作意默念「祸患之根本、祸患之根本（aghamūla aghamūla）」而修观（vipassanā）。
+一切名色法（rūpa-nāma）、诸行（saṅkhāra），都因畏惧苦——（尤其是畏惧那因生灭的捶击而无间断地遭受逼迫、折磨的苦）——而生起想要投靠、依附的渴求；然而，由于它们不堪被如此投靠、依附，
+
+又由于：对于那些因畏惧苦、怀着投靠依附的渴求而前来投靠、依附的人，它们也不能成办「令苦消失、隐没」这种庇护的职责——所以说 aleṇaṃ ＝ 即是毫无遮蔽守护、纯然为危险渊薮者。
+应以智慧（ñāṇa）看清这一性质，如此默念「**aleṇa aleṇa**（无避护、无避护）」而修观（vipassanā）。
 
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[81]苦相（二十五）项/[92]b 十六、就过患而言.md】**
 
@@ -3123,6 +3108,21 @@ Rūpaṃ bhikkhave aniccaṃ, yopi hetu yopi paccayo rūpassa uppādāya, sopi a
 正如孤苦无依的穷人无所依怙，诸蕴也是如此：生起之后，再没有任何可藏身、可栖息、可依靠之处，能使它们不坏灭、不落入无常、苦、变易法的境地。
 如此，诸蕴因与无所依怙、孤苦无依的穷人相似，所以无非就是「过患＝无所依怙、孤苦无依的穷人」。
 应以观智（vipassanāñāṇa）的慧观照、看清这一自性，并默念「**ādīnava ādīnava**（过患、过患）」而修观（vipassanā）。
+
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[81]苦相（二十五）项/[92]十五、祸患之根本.md】**
+
+### 十五、就祸患之根本而言
+
+Aghahetutāya **aghamūlato**. (Visuddhi 2,247.)
+
+Aghassa pāpassa hetutā **aghahetutā**.
+Khandhapaṭibaddhameva hi sabbaṃ kibbisanti. (Mahāṭī 2,397.)
+一切恶行，都恒常与五蕴（khandha）、色法（rūpa）、名法（nāma）相系。
+倘若没有五蕴，恶行也就无从存在。
+因此，五蕴、色法名法正是粗重、粗恶的恶行不善（akusala）的真实根源、是其重大成因，所以说 aghamūlaṃ＝徒劳无义、是一切祸患（苦）的根本。
+
+无论是以色法为所缘、或依止色法而生起，还是以名法为所缘、或与名法相应而生起，种种恶行不善——那一类一类的法聚——便会生起。
+应以智（ñāṇa）观照、洞见这一性质，作意默念「祸患之根本、祸患之根本（aghamūla aghamūla）」而修观（vipassanā）。
 
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[81]苦相（二十五）项/[93]a 十七、就有漏而言.md】**
 
@@ -3610,17 +3610,6 @@ Ekaccharakkhaṇe koṭisatasahassasaṅkhā uppajjitvā nirujjhati.（SN-A 2,29
 本然的眼见尚且有如此巨大的威力，那么观智之眼的威势、威力比之更要超出千倍万倍、不止千百倍地巨大——这一点，你这位尊贵的修行者必须予以接受。
 你这位善男子，实在应当格外谨慎，切莫与佛陀的崇高教法发生重大的错谬偏差。
 
-**【文件：[1]b 道非道智见清净释 - 思惟智章/[96]无我相（五）项/[110]慧修习能够圆满.md】**
-
-### 慧修习能够圆满
-
-Evaṃ kālena rūpaṃ kālena arūpaṃ sammasitvāpi tilakkhaṇaṃ āropetvā anukkamena paṭipajjamāno eko paññābhāvanaṃ sampādeti.（Visuddhi 2,253）
-
-“**Anukkamenā**”ti udayabbayañāṇādhigamānukkamena **paññābhāvanaṃ sampādeti** arahattaṃ adhigacchati.（Mahāṭī 2,405）
-
-如是，有时思察色法、有时思察名法，将三相（lakkhaṇa）之车乘轮番安立，从而修习观修习（vipassanābhāvanā）；如此一来，循着获得生灭智（udayabbayañāṇa）等等的次第、按部就班地修习、努力、培育的一位修行者（yogāvacara），便能够圆满慧修习（paññābhāvanā）。
-便能够证得阿拉汉（arahant）果。（Visuddhi 2,253；Mahāṭī 2,405）
-
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[96]无我相（五）项/[110]b 唯是古道旧辙.md】**
 
 ### 唯是古道旧辙
@@ -3661,6 +3650,17 @@ dukkhā」（Saṃ 3,369）这转法轮开示，五种取蕴（upādānakkhandha
 
 再者，世尊又以**《无我相经》（Anattalakkhaṇasutta）**的教法开示，令已成就入流的五比库诸尊者更上一层、安立于阿拉汉果。那《无我相经》的教法开示，乃是世尊就五取蕴的无常（anicca）之相、苦（dukkha）之相、无我（anatta）之相，以无常一轮、苦一轮、无我一轮，一轮一轮往复问答，待五比库诸尊者承认禀白五取蕴是无常、是苦、是无我之后，世尊再开示指点其观照依过去、未来、现在等十一种行相而安住的五取蕴的**三转法轮的法之开示（teparivaṭṭadhammadesanā）**。
 在此，为令诸位善男子能以圆满的信心、信（saddhā）德，记取听闻——那五比库诸尊者趋向阿拉汉果所观照思惟的观究竟是何种观，故继续撰写呈示**《无我相经》的教法开示**。
+
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[96]无我相（五）项/[110]慧修习能够圆满.md】**
+
+### 慧修习能够圆满
+
+Evaṃ kālena rūpaṃ kālena arūpaṃ sammasitvāpi tilakkhaṇaṃ āropetvā anukkamena paṭipajjamāno eko paññābhāvanaṃ sampādeti.（Visuddhi 2,253）
+
+“**Anukkamenā**”ti udayabbayañāṇādhigamānukkamena **paññābhāvanaṃ sampādeti** arahattaṃ adhigacchati.（Mahāṭī 2,405）
+
+如是，有时思察色法、有时思察名法，将三相（lakkhaṇa）之车乘轮番安立，从而修习观修习（vipassanābhāvanā）；如此一来，循着获得生灭智（udayabbayañāṇa）等等的次第、按部就班地修习、努力、培育的一位修行者（yogāvacara），便能够圆满慧修习（paññābhāvanā）。
+便能够证得阿拉汉（arahant）果。（Visuddhi 2,253；Mahāṭī 2,405）
 
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[96]无我相（五）项/[112] 无我相经教法开示.md】**
 
@@ -4191,17 +4191,6 @@ Sabbasaṅkhārā tassa aniccato dukkhato anattato khamanti ruccantīti khanti. 
 若不能圆满称为随顺忍的、随顺于出世间圣道法的观慧（vipassanāpaññā），那么他要趣入称为「不偏不变、决定坚固之性」的、名为正性决定（sammattaniyāma）的圣道法——这样的事是不可能有的。
 若不能趣入称为「不偏不变、决定坚固之性」的、名为正性决定的圣道法，那么他要现证入流果（sotāpattiphala）、一来果（sakadāgāmiphala）、不来果（anāgāmiphala）、阿拉汉果（arahattaphala）——这样的事是不可能有的。（Aṅ 2,384-385）
 
-**【文件：[1]b 道非道智见清净释 - 思惟智章/[131]色七法观法/[131]色七法观法.md】**
-
-## 色七法观法
-
-你这位修行者（yogāvacara），虽已依上述聚思惟（kalāpasammasana）观法修观，但若仍未获得满意的把握，那么若想接着以色七法（rūpasattaka）观法、七非色（arūpasattaka）观法继续修观，也是完全可以修观的。
-这些修观的方法，是从《清净之道》（Visuddhimagga）义注与《大复注》（Mahāṭīkā）中撷取要旨而写出陈述的。
-
-Ādānanikkhepanato, vayovuḍḍhatthagāmito.
-Āhārato ca ututo, kammato cāpi cittato.
-Dhammatārūpato satta, vitthārena vipassati.（Visuddhi 2,253）
-
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[131]色七法观法/[131]b 一、以取舍而观的方法.md】**
 
 ### 一、以取舍而观的方法
@@ -4258,6 +4247,17 @@ Jarāya ceva maraṇena cāti dvedhā pariṇāmapakatitāya **vipariṇāmadham
 常之性的没有，便正是对常之性的否定。
 诚然，对于那些了知「身为无常法的诸行法，正是以那不恒常的无常之性而存在」的修行者（yogāvacara）而言，便等于是否定了那些行法（＝无常法）的恒常性、常性。
 正因如此，才说「并非常，而是无常」。（Visuddhi 2,253；Mahāṭī 2,406）
+
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[131]色七法观法/[131]色七法观法.md】**
+
+## 色七法观法
+
+你这位修行者（yogāvacara），虽已依上述聚思惟（kalāpasammasana）观法修观，但若仍未获得满意的把握，那么若想接着以色七法（rūpasattaka）观法、七非色（arūpasattaka）观法继续修观，也是完全可以修观的。
+这些修观的方法，是从《清净之道》（Visuddhimagga）义注与《大复注》（Mahāṭīkā）中撷取要旨而写出陈述的。
+
+Ādānanikkhepanato, vayovuḍḍhatthagāmito.
+Āhārato ca ututo, kammato cāpi cittato.
+Dhammatārūpato satta, vitthārena vipassati.（Visuddhi 2,253）
 
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[131]色七法观法/[133]苦行相.md】**
 
@@ -4464,17 +4464,6 @@ Tassevaṃ pabbapabbagate saṅkhāre vipassato rūpasammasanaṃ sukhumaṃ hot
 
 在每一天、每一天里，摄取那四相续色＝以智分别取来，以内观智观见：饥饿之时所生起的色，并不会到达进食饱满之时，便已在饥饿的时段中灭去；进食饱满之时所生起的色，也不会到达饥饿之时，便已在那饱满的时段中灭去——如此看见之后，将三种相各轮转一遍而修习内观。（Visuddhi 2,258-259）
 
-**【文件：[1]b 道非道智见清净释 - 思惟智章/[131]色七法观法/[140]四、时节生色观法.md】**
-
-### 四、时节生色（utumayarūpa）观法
-
-同样地，你这位修行者（yogāvacara）善士，在一日又一日之中——
-
-- （甲）于炎热之时所生起的四相续（catusantati）色（rūpa）法；
-- （乙）于寒冷之时所生起的四相续色法——
-
-应当总摄＝以智辨别这些色法，并将那些色法分别安立于三种特相（lakkhaṇa）之车乘上，逐一修习内观（vipassanā）。（参见 Visuddhi 2,259。）
-
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[131]色七法观法/[140]b 五、业生色观法.md】**
 
 ### 五、业生色（kammajarūpa）观法
@@ -4633,6 +4622,17 @@ vayanti ca ＝ 又坏灭。
 iti ayaṃ attho ＝ 如此这般的义理，
 pākaṭo ＝ 明显，
 hoti ＝ 即是。（Mahāniddesa 32；Visuddhi 2,260。）
+
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[131]色七法观法/[140]四、时节生色观法.md】**
+
+### 四、时节生色（utumayarūpa）观法
+
+同样地，你这位修行者（yogāvacara）善士，在一日又一日之中——
+
+- （甲）于炎热之时所生起的四相续（catusantati）色（rūpa）法；
+- （乙）于寒冷之时所生起的四相续色法——
+
+应当总摄＝以智辨别这些色法，并将那些色法分别安立于三种特相（lakkhaṇa）之车乘上，逐一修习内观（vipassanā）。（参见 Visuddhi 2,259。）
 
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[131]色七法观法/[143]七、法性色——观法.md】**
 
@@ -4876,6 +4876,59 @@ Vipāko hi kammaṃ ārammaṇaṃ katvā gahitapaṭisandhikassa kusalāramma�
 唯有诸行（saṅkhāra）观照诸行、安立相之车乘而审察、辨别忆持为「无常」、「苦」、「无我」、摄取、辨取。
 对于如此受持的修行者，所谓拔除慢，便发生了。（Visuddhi 2,263）
 
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[144]a 七非色观法/[152]a 七、令尼坎提遍尽＝渴爱（＝尼坎提）灭尽、不生起的观法.md】**
+
+### 七、令好乐遍尽(nikantipariyādāna)＝渴爱(taṇhā)(＝好乐〔nikanti〕)灭尽、不再生起的观法
+
+『vipassituṃ sakkomi＝我能够进行观(vipassanā)修』——对于如此玩味、贪着于观的瑜伽行者(yogāvacara)而言，名为好乐的渴爱那如水般枯竭、灭尽的状态，是不可能生起的。
+适当而言——唯有行法(saṅkhāra dhamma)在观照诸行法，安立特相(lakkhaṇa)之车乘而审察。
+辨别记取为无常(anicca)、苦(dukkha)、无我(anatta)，加以收摄，辨别而取。
+对于如此而取的瑜伽行者而言，名为好乐的渴爱那如水般枯竭、灭尽的状态便会生起。（《清净之道》、2、263。）
+
+再者，为成就拔除邪见(diṭṭhiugghāṭana)、拔除我慢(mānaugghāṭana)、好乐遍尽，为使渴爱执、我慢(māna)执、邪见(diṭṭhi)执崩塌瓦解，对于应修习、审察之观
+的次第，注疏(aṭṭhakathā)大长老也依下文继续作了开示。-----
+
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[144]a 七非色观法/[152]b 断除邪见 - 断除慢 - 喜爱.md】**
+
+### diṭṭhiugghāṭana - mānaugghāṭana - nikantipariyādāna (5 - 6 - 7.)
+
+1. sace saṅkhārā attā bhaveyyuṃ, attāti gahetuṃ vaṭṭeyyuṃ, anattā ca pana attāti gahitā, tasmā te avasavattanaṭṭhena anattā, hutvā abhāvaṭṭhena aniccā, uppādavayapaṭipīḷanaṭṭhena dukkhāti passato **diṭṭhiugghāṭanaṃ** nāma hoti.
+
+2. sace saṅkhārā niccā bhaveyyuṃ, niccāti gahetuṃ vaṭṭeyyuṃ, aniccā ca pana niccāti gahitā, tasmā te hutvā abhāvaṭṭhena aniccā, uppādavayapaṭipīḷanaṭṭhena dukkhā, avasavattanaṭṭhena anattāti passato **mānasamugghāṭo** nāma hoti.
+
+3. sace saṅkhārā sukhā bhaveyyuṃ, sukhāti gahetuṃ vaṭṭeyyuṃ, dukkhā ca pana sukhāti gahitā, tasmā te uppādavayapaṭipīḷanaṭṭhena dukkhā, hutvā abhāvaṭṭhena aniccā, avasavattanaṭṭhena anattāti passato **nikantipariyādānaṃ** nāma hoti.
+
+4. evaṃ saṅkhāre anattato passantassa **diṭṭhisamugghāṭanaṃ** nāma hoti. 
+aniccato passantassa **mānasamugghāṭanaṃ** nāma hoti. 
+dukkhato passantassa **nikantipariyādānaṃ** nāma hoti. 
+iti ayaṃ vipassanā attano attano ṭhāneyeva tiṭṭhatīti. (visuddhi, 2, 263-264.)
+
+yasmā diṭṭhisamugghāṭanaṃ nāmettha visesato anattānupassanāya hoti, tasmā taṃ dassentena “sace saṅkhārā”tiādinā anattānupassanāvidhiṃ vatvā yasmā pana anattato anupassantena saṅkhārā aniccatopi dukkhatopi anupassitabbā eva tadupabrūhanato, tasmā “**hutvā abhāvaṭṭhenā**”tiādivuttaṃ.
+
+yasmā mānasamugghāṭanaṃ nāma aniccānupassanāya hoti. 
+khaṇe khaṇe bhijjanake saṅkhāre passantassa kuto mānassa avasaro. 
+aniccasaññā bhāvetabbā asmimānasamugghāṭāyāti hi vuttaṃ.
+
+yasmā nikantipariyādānaṃ nāma dukkhānupassanāya hoti. 
+na hi sabhāvato, dukkhavatthuto ca dukkhabhūte saṅkhāre passantassa tattha īsakampi abhirato hoti. 
+assādānupassino hi tattha taṇhā uppajjeyya. 
+sesaṃ anattalakkhaṇe vuttanayameva. 
+ayaṃ panettha saṅkhepattho --- vuttanayena paṭipāṭito sammasanaṃ pasutassa yogino yadā anattānupassanā tikkhā sūrā visadā pavattati, itarā dvepi tadanugatikā, tadānena diṭṭhiugghāṭanaṃ kataṃ hoti. 
+attadiṭṭhimūlikā hi sabbā diṭṭhiyo.
+anattānupassanā ca attadiṭṭhiyā ujupaṭipakkhā.
+
+yadā pana aniccānupassanā tikkhā sūrā visadā pavattati, itarā dvepi tadanugatikā, tadānena mānasamugghāṭanaṃ kataṃ hoti. 
+sati hi niccagāhe mānajappanā “idaṃ niccaṃ, idaṃ dhuva”nti ādinā **bakabrahmuno** viya. 
+aniccānupassanā ca niccagāhassa ujupaṭipakkhā.
+
+yadā pana dukkhānupassanā tikkhā sūrā visadā pavattati, itarā dvepi tadanugatikā, tadānena nikantipariyādānaṃ kataṃ hoti. 
+sati hi sukhasaññāya taṇhāgāhova, dukkhānupassanā ca nikantiyā ujupaṭipakkhā.
+
+evaṃ tissannaṃ anupassanānaṃ kiccavisesavasena diṭṭhiugghāṭanādīni honti. 
+tena vuttaṃ “**iti ayaṃ vipassanā attano attano ṭhāneyeva tiṭṭhatī**”ti. 
+anupassanānaṃ yathārahaṃ sakakiccakaraṇañhi sakaṭṭhāneyeva ṭhānaṃ. 
+tasmā visuṃ sammasananayo natthīti na vattabbanti adhippāyo. (mahāṭī, 2, 416.)
+
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[144]a 七非色观法/[153]以不自在之义故为无我.md】**
 
 ### 以不自在转起之义故为无我
@@ -4896,6 +4949,35 @@ Vipāko hi kammaṃ ārammaṇaṃ katvā gahitapaṭisandhikassa kusalāramma�
 因此，把那无我随观的修习次第以「诸行法若真是我」等等解说之后，接着又解说道：正在以无我＝观诸行法为无我的修行者，对那些诸行法也应当安立无常、苦之相的车乘而修内观、审察。
 何以故 ---- 因为那无常随观智（aniccānupassanāñāṇa）、苦随观智（dukkhānupassanāñāṇa）能增长无我随观智（anattānupassanāñāṇa）＝因为无常随观智、苦随观智二者以有力的强依止（upanissaya）之力资助无我随观智、令其充满能拔除邪见的诸般力量，故无我随观智成为力量增长、圆满的随观智，变得锐利、敏锐。
 因此，把诸行法安立无我之相的车乘观察之后，接着还应安立无常、苦之相的车乘而观察——义注（aṭṭhakathā）阿阇梨如是接着解说。（Mahāṭī 2,415-416）
+
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[144]a 七非色观法/[154]以成已不存在之义故为无常.md】**
+
+### 以成已不存在之义故为无常
+
+义注（aṭṭhakathā）在阐释无常相（aniccalakkhaṇa）时——hutvā abhāvaṭṭhena aniccā ＝ 由于「成已之后归于不存在（abhāva）之状态」这一义理，开示了诸行（saṅkhāra）法之所以为无常（anicca）的道理。
+其中，hutvā ＝「成已之后」这一语句，先显示了诸行法在生起（uppāda）之前并不显现、处于空无的状态，进而显示其在「生—住（ṭhiti）—坏灭（bhaṅga）」这三个剎那（khaṇa）的聚合之中间显现存在的状态。
+而那「hutvā ＝ 成已之后」这一语句解说完毕之后，又再次提及 abhāva（不存在），从而先显示诸行法在「生—住—灭」这三个剎那的聚合之中间显现存在的状态，进而显示其坏灭 ＝ 即在灭之后的后分中不再显现、消逝坏灭的状态。
+以「hutvā、abhāva」这两个语句，也显示了：诸行法只能在「未成之前的不存在」与「成已之后的不存在」这两种不存在的中间，仅以暂时、片刻的方式存在，而无法时时恒常存在——这便是无常相。（亦请参见 Pyi Nissaya 5,148。）
+
+2、诸行法若真是常（nicca），那便理应能以慧（paññā）辨别、执取为「常」。
+然而，诸行法明明实在是无常，却把那些诸行法执取为「常」。
+因此，那些诸行法——由于「先前并不显现、如今骤然生起、转瞬间便坏灭，故归于不存在」这一本然之义，故为「无常」。
+由于「生与灭反复地逼迫、折磨」这一本然之义，故为「苦」（dukkha）。
+由于「没有能随顺自己心意而转的我（atta）」这一本然之义，故为「无我」（anatta）。
+如是修习、审察内观（vipassanā）的修行者（yogāvacara），在其相续流（santāna）中，所谓拔除我慢（māna）便发生了。（Visuddhi 2,263。）
+
+所谓拔除我慢，特别是依随观无常（aniccānupassanā）而生起。
+对于以观智观见那剎那剎那、剎那不停、哗哗地崩坏坏灭的诸行法的修行者，在其智（ñāṇa）中，那高举「我、我」而生起的慢法，岂还能有可作为依凭、立足之处的机会呢？
+（在三十一界之内，也只有诸行法的堆堆聚聚而已。
+除了诸行法之外，所谓「我」、所谓「他」是不存在的。
+诸行法也只是那剎那剎那、剎那不停、哗哗地崩坏坏灭的本质法（sabhāvadhamma）而已。
+在那些诸行法之中，也根本没有一个足以让人执取、足以让人称说「这个诸行法就是我、这个诸行法就是他」等等的时段。
+因此，那高举「我、我」等等而生起的慢法，在亲自以观智的慧眼现见、洞穿了知诸行法无常情状的修行者的觉知之智中，是得不到任何依凭、立足之处的——此即其意。）
+佛陀（Buddha）亲自在《美奇亚经》（Meghiya Sutta，见《感慨》（Udāna）120）中——
+
+aniccasaññā bhāvetabbā asmimānasamugghāṭāya.
+
+＝ 为了拔除那高举「我、我」而生起的慢法，应当修习、精勤培育无常想（aniccasaññā）——如是开示。（Mahāṭī 2,416。）
 
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[144]a 七非色观法/[155]以生灭逼迫之义故为苦.md】**
 
@@ -4924,6 +5006,101 @@ Vipāko hi kammaṃ ārammaṇaṃ katvā gahitapaṭisandhikassa kusalāramma�
 然而那苦随观智，须由无常随观智、无我随观智二者本性上、自然地以强依止之力资助、令其充满能令渴爱＝微细欲求枯竭的诸力，那苦随观智方才成为力量增长、圆满的随观智，变得锐利、敏锐、勇猛。
 因此，把诸行法安立苦之相的车乘而修内观、审察之后，还应把那些诸行法安立无常、无我之相的车乘而修内观、审察——义注阿阇梨在（Visuddhi 2,264）中如是接着解说。
 
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[144]a 七非色观法/[156] 应记取的要点扼要.md】**
+
+### 应记取的要点扼要
+
+在此处，下面将要讲述的这段话，乃是扼要陈说的核心要点之义理。
+在上述七非色观法中，已写出并陈述了名为「次第(paṭipāṭi)＝依次第的观法」这一观(vipassanā)的观修方法。
+如此按照所写所阐释的那样，以次第法对诸行法(saṅkhāra dhamma)立起三种特相(lakkhaṇa)而修习观、加以省察的思惟(sammasana)这一作业，在熟练精勤的修行者(yogāvacara)之智(ñāṇa)中，于某时，无我随观智(anattānupassanā ñāṇa)变得锐利、变得勇猛、清清净净地生起。
+那时，无常随观智(aniccānupassanā ñāṇa)与苦随观智(dukkhānupassanā ñāṇa)这两种也持续不断地跟随在那无我随观智之后。
+那时，无我随观智便完成了去除邪见(diṭṭhi)的工作。
+的确如此——一切邪见(micchādiṭṭhi)都以我论(attavāda)、我见(attadiṭṭhi)为其根本之因与源头。
+无我随观也正是与我见正面相冲、直接对立的随观(anupassanā)。因此，无常随观智与苦随观智这两者以强大的所依、强依止(upanissaya)之殊胜力予以资助，由此承接到那巨大的势力威能、能量充沛圆满、锐利尖锐、勇猛清净的无我随观智，便能击破我见。(大义疏(Mahāṭī),2,416。)
+
+而在某时，无常随观智变得锐利尖锐、变得勇猛、清清净净地生起；那时，苦随观智与无我随观智这两种也持续不断地跟随在那无常随观智之后。
+那时，无常随观智便完成了去除慢(māna)的工作。
+的确如此——当把诸行法执取为常(nicca)这一点明显存在时，「idaṃ niccaṃ idaṃ dhuvaṃ ＝ 此处所是恒常之常、坚固之恒(dhuva)」(中部,1,401。)——
+如此等等，正如在巴卡梵天(Baka brahma)的相续流(santāna)中那样，慢这一法高举亢奋的情况便会生起。
+随观无常(aniccānupassanā)也正是与那把诸行法执取为常的常执(niccagāha)正面相冲、直接对立的随观。
+因此，苦随观智与无我随观智这两者以强大的所依、强依止之殊胜力予以资助，由此承接到那巨大的势力威能、能量充沛圆满、锐利尖锐、勇猛清净的无常随观智，便能击破、摧毁慢执。(大义疏,2,416。)
+
+而在某时，苦随观智变得锐利尖锐、变得勇猛、清清净净地生起。
+那时，无常随观智、无我随观智这两种也持续不断地跟随在那苦随观智之后。
+那时，苦随观智便完成了令渴爱(taṇhā)＝微细的欲求(nikanti)之法枯竭的工作。
+的确如此——当对诸行法以为是乐(sukha)的认知想(saññā)明显存在时，把那些诸行法以渴爱执取为「我的」的渴爱执(taṇhāgāha)之法便会明显生起。
+苦随观(dukkhānupassanā)也正是与渴爱＝微细的欲求之法正面相冲、直接对立的一种随观。
+因此，无常随观智与无我随观智这两种以强大的所依、强依止之殊胜力予以资助，由此承接到那巨大的势力威能、能量充沛圆满、锐利尖锐、勇猛清净的苦随观智，便能令渴爱＝微细的欲求之法枯竭、毁坏。(大义疏,2,416。)
+
+如此，在以观智(vipassanā ñāṇa)将诸行法观见为无我(anatta)的修行者之相续流中，所谓「去除邪见」便生起。
+在以观智将诸行观见为无常的修行者之相续流中，所谓「去除慢」便生起。
+在以观智将诸行观见为苦(dukkha)的修行者之相续流中，所谓「令渴爱＝微细的欲求枯竭」便生起。
+如此，便指明了「此观唯安立、安住于各自的范围处所」这一方法教诫。(《清净之道》,2,264。)
+
+因此，善男子你应当恭敬地听取并铭记这样一条古老的修行传统法教诫(dhammūpadesa)——唯有把诸行法立起全部三种特相而修观、省察，方能拔除渴爱执、慢执、邪见执这全部三种执着。依此法教诫，仅仅把诸行法观为无我，那无我随观智也不能以暂时(tadaṅga)的方式去除、断除邪见。
+仅仅观为无常，那无常随观智也不能以暂时的方式去除、断除慢执。
+仅仅观为苦，那苦随观智也不能令微细的欲求渴爱(nikanti-taṇhā)枯竭，不能以暂时的方式断除。
+应当了知：唯有当其余两个随观智(anupassanā ñāṇa)以强大的所依、强依止之力来扶助、支持某一个随观智时，相应的随观智方能以暂时的方式去除、断除各自相应的诸染(kilesā)。
+
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[144]a 七非色观法/[158]a 已成纯熟.md】**
+
+### 已成纯熟(paguṇa)
+
+ettāvatā panassa rūpakammaṭṭhānampi arūpakammaṭṭhānampi paguṇaṃ hoti. (Visuddhi,2,264.)
+
+正如以上所写陈述的那样，若能在内(ajjhatta)、外(bahiddha)两处，透彻而娴熟有力地修习、观照(vipassanā)色七法(rūpasattaka)观法与非色七法(arūpasattaka)观法，那么色业处(rūpakammaṭṭhāna)、名业处(nāmakammaṭṭhāna)这两类也就都已透彻而娴熟有力地学习完毕，已经纯熟了。(《清净之道》，2，264。)
+
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[144]a 七非色观法/[158]b 十八种大观（清净之道2,264.md】**
+
+### 十八种大观（mahāvipassanā）（Visuddhi 2,264）
+
+这位已极为娴熟、透彻地修习了色业处（rūpakammaṭṭhāna）、名业处（nāmakammaṭṭhāna）的瑜伽行者（yogāvacara puggala），从上面的坏灭随观（bhaṅgānupassanā）开始，凭借断遍知（pahānapariññā）之力，拥有那将要被宣说的十八种大观——它们不像在此思惟智（sammasana ñāṇa）部分这样仅就一分一处而言，而是既就本相、又就作用、并就一切方面而言。
+在正是作为度遍知（tīraṇapariññā）阶段的此思惟智部分中，那十八种大观便已最先透彻地了知一分一处，因而那各个随观智（anupassanā ñāṇa）就在此处舍弃、断除了与各自随观正相对立的、误认为常（nicca）的常想（niccasaññā）等等。
+
+以无常随观（aniccānupassanā）等为首的诸观慧（vipassanā paññā），名为十八种大观。在那十八种大观当中，于诸行（saṅkhāra）法之上——
+
+- 1、修习无常随观的禅修者（yogī），断除误以为常的常想。
+- 2、修习苦随观（dukkhānupassanā）的禅修者，断除误以为乐（sukha）的乐想（sukhasaññā）。
+- 3、修习无我随观（anattānupassanā）的禅修者，断除误以为我（atta）的我想（attasaññā）。
+- 4、一再以厌烦之相观照那些因随观无常等而善加生起的诸行法——修习这种厌离随观（nibbidānupassanā）的禅修者，断除对诸行法的喜爱珍重、即欢喜（nandī）之法。
+- 5、以那了知诸行法是无常、苦、无我而成为不可意、不净之相的观智（vipassanā ñāṇa）为前导，一再以厌恶可憎之相观照那些诸行法——修习这种离欲随观（virāgānupassanā）的禅修者，断除对诸行法贪着的贪（rāga）。
+（诸行法的坏灭（bhaṅga），是可厌可憎的离欲（virāga）本质之法。
+以观智将那离欲自性观见，把三相（lakkhaṇa）之乘逐一轮番安立，如此观照省察的观，便称为离欲随观。
+另一种说法——取诸行的坏灭为所缘，安立三相之乘，正当观照省察之时，贪便以彼分（tadaṅga）而灭息。
+因此，那种随观（anupassanā）便称为离欲随观。
+缘取贪真正灭尽之处——涅槃（nibbāna）而生起的圣道（ariya magga）智，也称为离欲随观。Visuddhi 1,282。）
+- 6、取诸行法刹那（khaṇa）不断、连续不绝地灭坏的刹那坏灭为所缘，安立三相之乘而观照省察——修习这种灭尽随观（nirodhānupassanā）的禅修者，断除诸行法的根本因——集（samudaya）。
+（缘取诸行法刹那不断、连续不绝地灭坏的刹那坏灭而生起的随观，也称为灭尽随观。
+这是以彼分使诸烦恼（kilesa）灭息的随观。
+缘取贪真正灭息之处——涅槃而生起的圣道智，也同样称为灭尽随观。——Visuddhi 1,282。）
+- 7、不再执取、不再贪着诸行法、而成为舍弃之因的定弃观（paṭinissaggānupassanā）——修习这种随观的禅修者，断除以新有（bhava）之相再次执取诸行法、以及以常等之相而生起的贪着。
+（取诸行法的坏灭为所缘、安立三相之乘而能观照省察的观，由于以彼分之力连同造作五蕴（khandha）与新有的诸行（abhisaṅkhāra）法一起断除诸烦恼，故名为遍舍舍（pariccāgapaṭinissagga）；又由于观见诸有为（saṅkhata）法刹那不断、连续不绝地灭坏的有为之过患，从而向着与那有为法正相对立、相反的无为（asaṅkhata）涅槃这一至尊妙法倾注、归趋而跃入，故又名为跃入舍（pakkhandanapaṭinissagga）。
+圣道智，由于以无余断尽的正断（samuccheda）之力连同蕴与诸行法一起断除诸烦恼，故名为遍舍舍；又由于以现前亲证所缘之力而跃入无为、寂灭之界——涅槃，故名为跃入舍。Visuddhi 1,282。
+具足那种弃舍（paṭinissagga）的观智，名为定弃观。）
+- 8、取诸行法在每一刹那、每一刹那中的灭坏即刹那坏灭为所缘，安立三相之乘而一再观照——令这种尽随观（khayānupassanā）生起的禅修者，断除在色团色块、名团名块这一团块之上误认的密集想（ghanasaññā）。
+（以某种观慧，将诸行法的相续密集（santatighana）、组合密集（samūhaghana）、作用密集（kiccaghana）、所缘密集（ārammaṇaghana）这些色团色块、名团名块加以辨别、剖析、破除瓦解，于是把那些作为真正究竟法（paramattha）、界之精髓的诸行法——aniccaṃ khayaṭṭhena ＝由于具有会灭尽、会坏灭之义，而观为无常。
+那种观慧便名为尽随观。
+从一再观照诸行法的刹那坏灭开始，由于那尽随观的周遍圆满得以达成，密集想的脱离便得以发生。
+而在那坏灭随观＝尽随观之前的阶段，由于尽随观的周遍圆满尚未达成，密集想的脱离便尚未发生。
+所谓密集想，就是凭借相续密集、组合密集、作用密集、所缘密集之力，把诸行法执取为单一一体的错误认取。）
+- 9、一再观照诸行法的坏灭、灭尽——令这种灭随观（vayānupassanā）生起的禅修者，断除那名为加行（āyūhana）、能将善行（kusala saṅkhāra）与不善行（akusala saṅkhāra）积聚汇集起来的渴爱（taṇhā）。
+（无论是以现量（paccakkha），还是以比量（anumāna）推度而知的推论途径，观照诸行法的坏灭，唯独于那被称为坏灭的灭尽之中作意、心向于此，这便名为灭随观。
+借着观照诸行法那坏灭、灭尽的灭随观，能够舍离那将名为福行（puññābhisaṅkhāra）、非福行（apuññābhisaṅkhāra）、不动行（āneñjābhisaṅkhāra）的诸行积集汇聚的渴爱。
+为了那不断接续、连续生起的轮转（vaṭṭa）法，凭着某种渴爱而将善行、不善行积集、汇聚、合拢起来＝培育增长起来。
+于那轮转法，那禅修者的心已不再凭渴爱而倾向，因此说：令灭随观生起的禅修者，断除加行。Mahāṭī 2,417。）
+- 10、一再观照诸行法以老—死（jarā-maraṇa）（＝住时—坏灭时）这两种分位而变坏败坏的变易（vipariṇāma）自性——令这种变易随观（vipariṇāmānupassanā）生起的瑜伽行者，断除那执取诸行法为坚固恒常的坚固想（dhuvasaññā）。
+- 11、令那名为无相随观（animittānupassanā）的无常随观生起的瑜伽行者，由于不破除相续密集、组合密集，便断除那种相（nimitta）——它是被那种把色相续（rūpasantati）、名相续（nāmasantati）、色聚（rūpakalāpa）、名聚（nāmakalāpa）认取为单一一体究竟法质料、一团一块的想所执取的、宛如有着完整实体之身般贴附而显现之相。
+- 12、令那名为无愿随观（appaṇihitānupassanā）、能成为「无可贪求、无可欣乐」之了知智生起之因的苦随观生起的瑜伽行者，断除那渴求乐的、名为渴爱的愿（paṇidhi）。
+- 13、令那名为空随观（suññatānupassanā）、能一再观照诸行法空无有我的无我随观生起的瑜伽行者，断除那把诸行法误作我而作意的我执着（attābhinivesa）。
+- 14、缘取诸行法空无常、乐、我而生起、被称为超胜之观的增上慧法观（adhipaññādhammavipassanā）——令这种观生起的瑜伽行者，断除那凭着把诸行法执取为常、为实等而生起的、被称为错误作意的、与渴爱俱起的见（diṭṭhi）＝取实执（sārādānābhinivesa）。
+- 15、令那如实智见（yathābhūtañāṇadassana）——即能如实观见与因法俱起的名色（nāmarūpa）的观慧，以及能如实观见与因法俱起的那名色的无常之相、苦之相、无我之相的观慧——生起的瑜伽行者，断除那以「我在过去世曾经存在过吗」这般生起的、以错误方式作意的痴迷执（sammohābhinivesa），以及那以「世间是由作为主宰者（issara）的至上梵天帕拉梅斯瓦拉（Paramissara）等所生」这般生起的、以错误方式作意的痴迷执。
+- 16、以观智观见诸行法的坏灭，安立三相之乘而持续观照省察的瑜伽行者，在其智中，这些诸行法便显现为可怖畏的大恶难。
+凭着这样显现为可怖畏大恶难之力而生起的、能观见一切有中诸行法那变坏败坏的变易法之过患的过患随观（ādīnavānupassanā）——令这种随观生起的瑜伽行者，由于看到任何一种诸行法也都没有可藏身、可依靠之处，从而断除那把诸行法误执为依靠而错误作意的、名为渴爱的执藏执（ālayābhinivesa）。
+- 17、令那名为省察随观（paṭisaṅkhānupassanā）、被称为成为舍离诸行法之因而能于这些诸行法的无常点、苦点、无我点等一再省思、观照的观智生起的瑜伽行者，断除那名为「不省察」（appaṭisaṅkha）、与能于诸行法的无常点等一再省思、观照的观智相对立的无明（avijjā）。
+- 18、为了轮回（saṃsāra）轮转之苦的彻底止息、灭息而一再观照、名为退转随观（vivaṭṭānupassanā）的行舍智（saṅkhārupekkhāñāṇa）与随顺智（anulomañāṇa）——令这二智生起的瑜伽行者，断除那被称为与欲乐（kāmaguṇa）相应等之烦恼生起的、错误作意的系缚执（saṃyogābhinivesa）。（Visuddhi 2,264）
+
+在那十八种大观当中，由于这位瑜伽行者凭借无常、苦、无我这三相之总和之力而得以观见诸行法，因此无常随观、苦随观、无我随观便名为值得获得（应得）的。
+
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[144]a 七非色观法/[161]a 无相随观、无愿随观、空随观.md】**
 
 ### 无相随观（animittānupassanā）、无愿随观（appaṇihitānupassanā）、空随观（suññatānupassanā）
@@ -4933,3 +5110,10095 @@ Yā ca aniccānupassanā yā ca animittānupassanā, ime dhammā ekatthā, byañ
 无常随观（aniccānupassanā）与无相随观，此二种随观（anupassanā），依义相同，唯语词有别。
 苦随观（dukkhānupassanā）与无愿随观，此二种随观，依义相同，唯语词有别。
 无我随观（anattānupassanā）与空随观，此二种随观，依义相同，唯语词有别。（Paṭisaṃ 259。Visuddhi 2,265）
+
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[144]a 七非色观法/[161]b 无相随观.md】**
+
+### 无相随观（animittānupassanā）
+
+**nimitta**nti santatiyaṃ, samūhe ca ekattasaññāya gayhamānaṃ kālantarāvaṭṭhāyibhāvena, niccabhāvena ca saṅkhārānaṃ sakiccaparicchedatāya saviggahaṃ viya (saviggahānaṃ viya) upaṭṭhānamattaṃ. (Mahāṭī, 2, 417.)
+
+**nimitta**nti saṅkhāranimittaṃ. yaṃ saṅkhārānaṃ samūhādighanavasena, sakiccaparicchedatāya ca saviggahānaṃ viya upaṭṭhānaṃ. (Mahāṭī, 2, 439.)
+
+**nimittadhammesū**ti samūhādighanavasena ca sakiccaparicchedatāya ca sapariggahesu khandhesu. (Mūlaṭī, 1, 113.)
+
+nimittadhammā saṅkhārā tehi sanimittā saviggahā viya upaṭṭhahantīti tesaṃ abhāvitabhāvanassa bhāvitabhāvanassa ca upaṭṭhahanākāraṃ dassento "**samūhādī**"tiādimāha. (Anuṭī, 1, 121.)
+
+**nimitta**nti saṅkhāranimittaṃ, atītānāgatapaccuppannānaṃ saṅkhārānamevetaṃ adhivacanaṃ. (Visuddhi, 2, 284.)
+
+**saṅkhāranimitta**nti "saṅkhārānaṃ samūhādighanavasena, sakiccaparicchedatāya ca saviggahānaṃ viya upaṭṭhāna"nti vutto vāyamattho.
+saṅkhārānaṃ pana tathā upaṭṭhānaṃ saṅkhāravinimuttaṃ na hotīti āha "**atītā. pa. adhivacana**"nti. (Mahāṭī, 2, 447.)
+
+《清净之道》义注（aṭṭhakathā）的大长老（Sayadaw），在（Visuddhi, 2, 284）中开示道：相（nimitta）一词意指行相（saṅkhāra nimitta）；并且「相」这一名称，乃是过去、未来、现在这三时之内所存在的诸行法（saṅkhāra dhamma）的名称。
+
+与这样的解说相关联，复注（ṭīkā）的诸位大长老，依照「凡有同义词（adhivacana）即名（nāma）之处，便有借代（upacā，即 upacāra）」这一语法（saddā）规则，作了如下的解说。
+未曾为令智见抵达究竟法（paramattha）、未曾为到达真正的、真实的观（vipassanā）境地而修习过观修业处（vipassanā bhāvanā kammaṭṭhāna）的人，以及虽曾修习、却把观业处（vipassanā kammaṭṭhāna）暂时搁置或长久搁置的人，往往把色－名－因－果＝诸行法看成成团成块的；他们对于色法，不破除相续密集（santati ghana）一团一块、聚合密集（samūha ghana）一团一块、作用密集（kicca ghana）一团一块，对于名法也是不破除相续密集一团一块、聚合密集一团一块、作用密集一团一块、所缘密集（ārammaṇa ghana）一团一块，而成团成块地看着。
+
+那相续密集一团一块＝色名相续次第的一团一块，聚合密集一团一块＝色名聚合积聚的一团一块，作用密集一团一块＝色－名工作作用的一团一块，所缘密集一团一块＝能取所缘的、正在修观的诸名法的一团一块——这些一团一块，只不过是对于尚未修习观修习、或者已将观业处搁置的人而言显现出来的色－名法、诸行法的一团一块罢了。
+倘若诸行法不存在，一团一块也就不可能存在了。
+因为，凡是脱离了诸行法的所谓一团一块，是不可能存在的。
+
+作为诸行法之积聚的相续密集一团一块、聚合密集一团一块、作用密集一团一块、所缘密集一团一块所具有的「**行相**」这一名称，被借代安立到那些已成一份一份、密集已破、为真正究竟法、为界（dhātu）之精华的诸行法之上，于是便把诸行法本身也称作、解说为「**行相**」。
+
+依据这些教示，倘若对于色法、名法尚未以智把各种密集破除分解，尚未以智见抵达究竟法，而只照着成团成块的样子修观；倘若只是看着那成团成块的样子而观其生灭；倘若只是观为无常（anicca）——那么这就还只能算是仅在观照「相」而已。
+还不能算是在观照「**无相**（animitta）」。
+倘若还只是在观照相，倘若还不能观照无相，就还不能称为「**无相随观**」。
+倘若还不能称为无相随观，那么也就还不能称为「**随观无常**（aniccānupassanā）」。
+倘若还不能称为随观无常，那么真正的观智（vipassanā ñāṇa）也就还未生起。
+也就还未抵达佛陀（Buddha）所开示的、真正的真实之观。
+
+让它显明吧。——佛陀所开示的真正的真实之观，是这样一种工作领域：当以智见到色聚（rūpa kalāpa）、名聚（nāma kalāpa）时，便以智把这些色聚、名聚——即色团色块、名团名块这样的色密集（rūpa ghana）、名密集（nāma ghana）——破除、分解、摧毁，待摄取到为真正究竟法、为界之精华的色、名之后，再以智去看、去见到这些色名究竟法的无常之相状、苦（dukkha）之相状、无我（anatta）之相状，把三种相（lakkhaṇā）轮番安立上去，反复观修、审察。
+倘若你这位善男子，当向自己的蕴身内部专注观照时，只是成团成块地见到硬、粗、重、软、滑、轻，流动、凝聚，热、冷，支持、推动这些界的本质（sabhāva）；倘若连色聚、名聚也尚未以智见到；倘若虽见到色聚、名聚，却尚不能为令智见抵达究竟法而把各种色密集、名密集破除摧毁、从而摄取到色究竟法、名究竟法——像这样尚未以智见抵达究竟法、而只见到含成分的地（sasambhāra pathavī）、含成分的水（sasambhāra āpo）、含成分的火（sasambhāra tejo）、含成分的风（sasambhāra vāyo）界这般程度的你这位善男子，倘若对那只能成团成块见到的诸界本质修观，或者说自称在修观，那么那种观便只是仅仅观照相的观，还不是观照无相的无相随观、随观无常。
+因此才说，尚不能把色名摄取到令智见抵达究竟法的修行者（yogāvacara）的观，还不是真正的、佛陀所开示的真实之观。
+
+倘若你这位善男子凭借巴拉密（pāramī）而见到了众多色聚，并看着那些色聚极其迅速的生起、坏灭，而观为生灭，或观为无常——这也仍然只能算是在观照相法（nimitta dhamma）。
+所谓众多色聚，乃是未脱离组合概念（samūha paññatti）、形状概念（saṇṭhāna paññatti）等概念，概念尚未清净的、最微小的概念性一团一块。
+凡是概念（paññatti），都只是相法之类。
+唯有当能够以智把那些色聚的各种密集破除、分别、剖析而观照时，智见才抵达究竟法，而唯有那些究竟法的色法才是无相法（animitta dhamma）。也唯有那些无相法，才是观智所观照的所缘。
+
+倘若你这位善男子说：在修习观修习业处时，连众多色聚都尚未见过；换句话说，连色聚、名聚都尚未见过，而只是照着色团色块、名团名块的样子观其生灭、观为无常——那么像这样的观照，仅仅是尚未以智见抵达作为色究竟法、名究竟法的无相法的观照而已，因此得不到「无相随观、随观无常」之名——这一点也就无须特别多说了。
+而「倘若得不到无相随观、随观无常之名，真实之观也就还不可能生起」这一点，也是清楚、明白、显然的。
+纵然是有慧（paññā）者，正念也是难以生起的。
+
+唯有当智见抵达每一个色聚、名聚之内所存在的色法、名法各个究竟界质（paramattha dhātu）的生起（uppāda）边际、坏灭（bhaṅga）边际时，「**相续密集**」才会破除。
+倘若不以智分辨地见到生起边际、坏灭边际，而把一个色聚、名聚之内所存在的诸究竟界质的坏灭之时，与另一个色聚、名聚之内所存在的诸究竟界质的生起之时——换句话说，把前前诸究竟界质的坏灭之时与后后诸究竟界质的生起之时——当作连成一片、连成一串那样地显现着、看着、见着，倘若不能把生起边际、坏灭边际划界、分辨开来而见，那么便会生起「诸行法能够从『生－住（ṭhiti）－灭（uppāda-ṭhiti-bhaṅga）』这一时延续到『生－住－灭』那另一时」这样的错误见解。
+便会逐渐把前前的究竟界质与后后的究竟界质认作是同一个。
+这便是同一性想（ekatta saññā）。
+倘若这样认定，便会逐渐把诸行法接受为常（nicca）。
+
+再者，倘若不能以智把一个色聚、名聚之内所存在的、一组一组地存在着的色法、名法诸究竟界质——这是地（pathavī）、这是水（āpo）、这是火（tejo）、这是风（vāyo）等等，以及这是触（phassa）、这是受（vedanā）、这是想（saññā）、这是思（cetanā）、这是识（viññāṇa）等等——一个一个地分别、剖析而取、而观、而见，那么「**聚合密集＝色聚合积聚的一团一块、名聚合积聚的一团一块**」便不会破除。
+倘若聚合密集不破除，聚合概念、形状概念便仍无法脱离，于是便仍只是「有形质之法（saviggaha dhamma）＝具有形状质素之法」一类。
+便会逐渐把那些有形质之法显现为、看成、认作是单一的究竟界质——这便是同一性想。凡是具有形状质素之法、凡是有形质之法，都只是相法。
+倘若对那些相法修观，由于不能称为无相随观，因而也不能称为随观无常，所以那也还不是真正、真实之观——应当如此铭记。
+
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[144]a 七非色观法/[164] 无愿随观.md】**
+
+### 无愿随观（appaṇihitānupassanā）
+
+**paṇidhi**nti sukhapatthanaṃ, rāgādipaṇidhiṃ vā, atthato taṇhāvasena saṅkhāresu ninnataṃ. (Mahāṭī, 2, 417.)
+
+渴望追求安乐之乐，称为愿（paṇidhi）。 
+另一种说法 ——— 以贪（rāga）等为首的渴求 = 即名为贪的渴求，称为愿。 
+若就究竟法（paramattha）法体的意义而言，则是指由于渴爱（taṇhā）之力，而对名色行（saṅkhāra）诸法倾注、偏向的状态。 
+所谓无愿（appaṇihita），即是那愿的对立面。
+
+所谓无愿随观，乃是为了断除对诸行法以渴爱而起的渴望追求而修习的一种随观（anupassanā）。 
+当对诸行法的苦随观智（dukkhānupassanā ñāṇa）成熟时，便会抵达无愿。因此，无愿随观与苦随观（dukkhānupassanā）在法体意义上是相同的。
+
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[144]a 七非色观法/[165] 空随观.md】**
+
+### 空随观（suññatānupassanā）
+
+在诸行法（saṅkhāra dhamma）中，那些持有教外见解、信奉我论（attavāda）的人，把它们构想为「主人（sāmi）、居住者（nivāsi）、施动者（kāraka）、受者（vedaka）、主宰者（adhiṭṭhāyaka）」这样的我（atta）；为了见到诸行法空无此「我」，而一再反复地观察的随观智（anupassanā ñāṇa），名为**空随观智（suññatānupassanā ñāṇa）**。
+因此，空随观智与无我随观智（anattānupassanā ñāṇa），就法体本身的意义而言是相同的。
+
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[144]a 七非色观法/[165]b 增上慧法观.md】**
+
+### 增上慧法观（adhipaññādhammavipassanā）
+
+adhipaññādhammavipassanā pana sabbāpi vipassanā. (Visuddhi, 2, 265.)
+
+rūpādiārammaṇaṃ ñatvā tadārammaṇassa cittassa bhaṅgaṃ disvā saṅkhārā eva bhijjanti, saṅkhārānaṃ maraṇaṃ, na añño koci atthīti bhaṅgavasena suññataṃ gahetvā pavattā vipassanā adhipaññā ca sā dhammesu ca vipassanāti **adhipaññādhammavipassanā**, tāya niccasārādiādānavasena pavattaṃ abhinivesaṃ sataṇhaṃ diṭṭhiṃ pajahati. (Mahāṭī, 2, 417.)
+
+所谓增上慧法观，是指一切的观智(vipassanā ñāṇa)。(《清净之道》，2，265。)
+
+知道了作为观智之所观对象的、色法、名法等诸行所缘(saṅkhāra)之后，又见到以那色法名法等为所缘而生起之心 = 观的意门速行心路的心相续之坏灭 = 坏灭(bhaṅga)，于是『唯有诸行法坏灭，唯有诸行法之死，除了坏灭、死去的诸行法之外，并无其他任何称为人、有情者存在』——如此以坏灭=坏灭之力，将诸行法的空性 = 从那以凝块、坚固坚牢之实体形态而住立的我(atta)中空脱的状态，以智加以辨别摄取，由此生起的观智既是超胜之慧，那超胜之慧又是于诸行法中观照着的观智，因此便名为**增上慧法观**。
+凭着那增上慧法观，便能断除那与渴爱(taṇhā)俱起的、凭着『诸行法中有名为常(nicca)的实体、有名为乐(sukha)的实体、有名为我的实体』等而执取之力所生起的见(diṭṭhi)——即被称为『将诸行法坚固地作意为常—乐—我—恒(dhuva)等』的那种见。(Mahāṭī, 2, 417。)
+
+**【文件：[1]b 道非道智见清净释 - 思惟智章/[144]a 七非色观法/[165]c 如实智见.md】**
+
+### 如实智见（yathābhūtañāṇadassana）
+
+yathābhūtañāṇadassanaṃ kaṅkhāvitaraṇavisuddhiyā eva saṅgahitaṃ. (Visuddhi, 2, 265.)
+
+**yathābhūtañāṇadassanaṃ** nāma sappaccayanāmarūpadassanaṃ. 
+tena "ahosiṃ nu kho ahamatītamaddhāna"nti eva mādikaṃ, "issarato loko sambhavatī"ti eva mādikañca **sammohābhinivesaṃ pajahati**. (Mahāṭī, 2, 417-418.)
+
+能够认知见到与因法一起的名色（nāmarūpa）之智，便名为如实智见。 
+该智唯有归摄于度疑清净（kaṅkhāvitaraṇavisuddhi）部分之中。 
+凭借该智，对「我于过去世是否曾经存在过呢？」这类强烈迷惑、错谬颠倒地作意，以及「世间乃是因创造主、所有主、主宰者（issara）而得以生起。」 
+如此这类强烈迷惑、错谬颠倒地作意——〔这些〕也都能够予以舍弃断除。(Mahāṭī, 2, 417-418。)
+
+如此一来，修行者（yogāvacara）正是确实应当获得无常随观智（aniccānupassanā ñāṇa）、苦随观智（dukkhānupassanā ñāṇa）、无我随观智（anattānupassanā ñāṇa）、无相随观智（animittānupassanā ñāṇa）、无愿随观智（appaṇihitānupassanā ñāṇa）、空随观智（suññatānupassanā ñāṇa）、增上慧法观（adhipaññādhammavipassanā）、如实智见这些观智(vipassanā ñāṇa)了。
+在以厌离随观（nibbidānupassanā）为首的其余十种观智当中，有些已经获得，有些则尚未获得。 
+于后面将会明了。
+
+**思惟智（sammasana ñāṇa）章 完结。**
+
+**【文件：[167]生灭智章/[167]a 生灭智章.md】**
+
+# 生灭智（udayabbaya ñāṇa）章
+
+那位修行者（yogāvacara）如是因能舍断与随观无常（aniccānupassanā）等相违的常想（niccasaññā）等污染（saṃkilesa）污垢，格外清净的观智（vipassanā ñāṇa）便在那位人的相续流（santāna）中生起。
+正如因乌云等的远离，天空的周遭呈现清净；正如因淤泥污垢的远离，水的周遭呈现清净；正如因铁等污垢的远离，黄金呈现清净；同样地，因作为观智染污之因的常想等污染污垢的远离，观智的周遭清净也得以生起。
+
+此外，由于在混杂着众多行相的行法（saṅkhāra dhamma）上安立特相（lakkhaṇa）之车、名为「修观（vipassanā）观照思察」的思惟智（sammasana ñāṇa）的工作已圆满完成，那位修行者也已到达思惟智的彼岸。
+具足那思惟智之见的修行者，应当为了圆满具足生灭智之见而继续重振精进。（《清净之道》2,265。《大复注》2,419。）
+
+**【文件：[167]生灭智章/[167]b 在《无碍解道》巴利圣典中开示的方式.md】**
+
+### 在《无碍解道(Paṭisambhidā Magga)》巴利圣典中开示的方式
+
+Kathaṃ paccuppannānaṃ dhammānaṃ vipariṇāmānupassane paññā udayabbayānupassane ñāṇaṃ? Jātaṃ rūpaṃ paccuppannaṃ, tassa nibbattilakkhaṇaṃ udayo, vipariṇāmalakkhaṇaṃ vayo, anupassanā ñāṇaṃ. Jātā vedanā, saññā, saṅkhārā, viññāṇaṃ. Jātaṃ cakkhu. pe. jāto bhavo paccuppanno, tassa nibbattilakkhaṇaṃ udayo, vipariṇāmalakkhaṇaṃ vayo, anupassanā ñāṇaṃ. (Paṭisaṃ 52. Visuddhi 2, 265.)
+
+依照上面这段《无碍解道》巴利圣典，在生灭智(udayabbaya ñāṇa)的部分中，观(vipassanā)开始所要观照的观智之所观对象——即诸所缘法，是属于现在(paccuppanna)的、被称为生起(uppāda)-住(ṭhiti)-坏灭(bhaṅga)的三个剎那(khaṇa)之集合所摄的取蕴(upādānakkhandhā)五种、处(āyatana)十二种、界(dhātu)十八种、世间诸根(indriya)法，以及从无明(avijjā)直到有(bhava)的缘起(paṭiccasamuppāda)支分十种。
+
+**【文件：[167]生灭智章/[167]c 两种生灭洞见.md】**
+
+### 两种生灭洞见（udayabbayadassana）
+
+- 1。 **由缘的生灭洞见（paccayato udayabbayadassana）** = 借由因之法来观照生灭，
+- 2。 **由剎那的生灭洞见（khaṇato udayabbayadassana）** = 借由所谓生起(uppāda)-住(ṭhiti)-坏灭(bhaṅga)的剎那(khaṇa)来观照生灭 ---
+
+如是，生灭洞见有两种。 
+这两种当中，由剎那的生灭洞见 = 借由所谓生起-住-坏灭的三个刹那(khaṇattaya) = 为了获得能契入三个刹那、了知诸行法(saṅkhāra dhamma)之生起与坏灭的生灭智(udayabbaya ñāṇa)，首先要从生灭的简略法门入手而精进。 
+指示如何精进的巴利圣典内容如下。 ----
+
+**【文件：[167]生灭智章/[168] 所谓现在.md】**
+
+### 所谓现在(paccuppanna)
+
+Ettha ca khaṇādikathāva nippariyāyā. Sesā sapariyāyā. (Visuddhi-2-103.)
+
+Paccuppannarūpaṃ nāma jātaṃ khaṇattayapariyāpannanti attho. Taṃ pana ādito duppariggahanti santatipaccuppannavasena vipassanābhiniveso kātabbo. (Mahāṭī-2-419.)
+
+现在分为「一期现在(addhā-paccuppanna)」、「相续现在(santati-paccuppanna)」、「剎那现在(khaṇa-paccuppanna)」三种；在「思惟智(sammasana ñāṇa)」的阶段，要从一期现在之法开始，作意修习「观(vipassanā)」。
+而在这「生灭智(udayabbaya ñāṇa)」的阶段，则要从相续现在开始，直到抵达剎那现在为止，作意修观。
+无论是从一期现在之法开始作意修观，还是从相续现在之法开始作意修观，都必定要修观，直到智见抵达诸「行(saṅkhāra)」法以「生起-住-坏灭(uppāda-ṭhiti-bhaṅga)」这剎那而呈现的生起、坏灭=剎那现在为止。
+
+在那三种现在之中，一期现在与相续现在是「方便说(pariyāya kathā)」之语。
+在名为一期现在的行法、名为相续现在的行法之中，作为法体的诸「究竟法(paramattha)」在前后之间是有差别的。
+其含义是这样的——名为一期现在的、由从「结生(paṭisandhi)」直到「死殁(cuti)」的一期生命所界定的诸法，是有种种类别的。
+并非整个一生当中只有单一一种「究竟界(paramattha dhātu)」在生起。
+而是有种种的「色(rūpa)」、种种的「名(nāma)」、种种的「善(kusala)」、种种的「不善(akusala)」、种种的「果报(vipāka)」、种种的「唯作(kiriya)」在生起。
+在相续现在之诸法当中，也应当如此相应地同样了知。
+
+在那一期现在、相续现在之诸法当中，若从某一个「生起-住-坏灭」这三个剎那的聚合=「三个刹那(khaṇattaya)」来观察，有些是已经越过三剎那的过去之法，有些则是尚未到达三剎那的未来之法。
+有些则是正在到达三剎那的现在之法。
+因此，所谓一期现在、相续现在这些说法，只是「方便说」=以方便而称之为现在的说法而已。
+唯有那与剎那现在相关、说「具足『生起-住-坏灭』这三个剎那之聚合即三剎那的法，必定称为现在之法」的说法，以及说「在该三剎那之前生起的法是过去之法，在该三剎那之后生起的法是未来之法」的诸说法，才是「究竟说(nippariyāya kathā)」=不带方便的、决定的说法。
+
+其含义是——唯有剎那现在之法，才是决定的现在之法。
+一期现在之法与相续现在之法，则是方便现在之法。
+其原因是：在安住于「生起-住-坏灭」这三剎那之内的剎那现在诸法当中，各究竟界法体之间并无差别。
+诸究竟界的组群都是同类的。
+并无究竟界的差别、相异，而只有「生起之时、住之时、坏灭之时」这样的时间差别。
+这是因为：在该三剎那之内，不像一期现在、相续现在之诸法那样，能够以某种方便之法说「这是过去之法、这是未来之法」，并无这样可说的特别之处。
+
+为了让基础「阿毗达摩(Abhidhamma)」知识较弱的人能够理解，现以一个名为相续现在的「眼门心路(cakkhudvāravīthi)」心之相续为例，列出图式再作进一步阐明。——
+
+在一个「极大所缘(atimahantārammaṇa)」的眼门心路心之相续当中，有「五门转向(pañcadvārāvajjana)」、「眼识(cakkhuviññāṇa)」、「领受(sampaṭicchana)」、「推度(santīraṇa)」、「确定(voṭṭhabbana)」、「速行(javana)」（七）次、「彼所缘(tadārammaṇa)」（两）次等诸路心。
+在这眼门心路之内所安住的一切名法，都是相续现在的诸法之聚。
+
+其中，在五门转向的「心识刹那(cittakkhaṇa)」之际，「心(citta)」+「心所(cetasika)」=（十一）个名法同时生起，构成一类「名聚(nāma kalāpa)」、一类组群。
+在眼识的心识刹那之际，心+心所=（八）个名法同时生起，构成一类名聚、一类组群。
+如此等等，在每一个心识刹那当中，心+心所=诸名法的组群，都各自是一类与另一类各别不同的。
+由于前前心识刹那之内所安住的诸名法之聚坏灭消逝之后，后后心识刹那之内所安住的诸名法之聚才得以生起，所以前前心识刹那的究竟界法体与后后心识刹那的究竟界法体并不相同。
+前面的「触(phassa)」是一回事、后面的触是另一回事，前面的「受(vedanā)」是一回事、后面的受是另一回事——如此等等，都各是一类与另一类不同的。
+如此一来，前心识刹那与后心识刹那在究竟界彼此之间也是有差别的。
+
+再者，若从眼识的「生起-住-坏灭」=三剎那来看，五门转向是过去，领受是未来，如此等等，也存在着过去与未来的差别。
+因此，在「相续现在」这一说法当中——
+
+- 一、究竟界法体存在着种种的差别相异；
+- 二、过去之法与未来之法夹杂地混含在其中——
+
+由于这些原因，相续现在并不是真正纯粹的现在，而只是以方便而称之为现在的说法。
+在一期现在当中，也应当同样地理解。
+归属于「生起-住-坏灭」这三个剎那之聚合=三剎那、且具足三剎那的究竟法，即是剎那现在；唯有那剎那现在之法，才是真正纯粹的现在，是决定的现在。
+
+因此应当体认到：那从相续现在之法开始、修观直到抵达剎那现在的修观，既还不是在直接观照真正的现在，其中也还夹杂混含着过去之法与未来之法。
+依照以上这些阐明，贤善的你——
+
+- 一、「对于安住在三时之内的各个「缘起(paṭiccasamuppāda)」支，要观照各该支在其各自那一剎那的生起、安住、坏灭，以智照见，从而修观直到抵达剎那现在」这样的说法；
+- 二、「要从相续现在之法起，修观直到智见抵达剎那现在之法」这样的说法——
+
+需要结合这些说法，对此处所说的现在，恰如其分地把握其正确含义。
+
+Idāni anantaraṃ vuttassa sammasanañāṇassa nānānayehi bhāvanāthirakaraṇena pāraṃ gantvā ṭhitena aniccādito diṭṭhe saṅkhāre udayabbayena paricchindittvā aniccādito vipassanatthaṃ vuttassa udayabbayānupassanāñāṇassa niddese **jātaṃ rūpa**nti ādīsu santativasena yathāsakaṃ paccayehi nibbattaṃ rūpaṃ. **tassa** jātassa rūpassa **nibbattilakkhaṇaṃ** jātiṃ uppādaṃ abhinavākāraṃ **udayoti, vipariṇāmalakkhaṇaṃ** khayaṃ bhaṅgaṃ **vayo**ti, **anupassanā** punappunaṃ nisāmanā, udayabbayānupassanāñāṇanti attho. vedanādīsupi eseva nayo.(Paṭisaṃ-ṭṭha-1-234.)
+
+如今，藉由以紧接其后所宣说、所开示的「思惟智」之种种殊胜方法，使「观」之修习坚固稳定，从而到达彼岸而安住的「修行者(yogāvacara)」，把以无常等而观见过的诸行法，以生起与坏灭来界定，以无常等安立「特相(lakkhaṇa)」之导引而修观——为了如此修观而开示宣说的「生灭随观智(udayabbayānupassanā ñāṇa)」的「广释(niddesa)」当中——
+
+在 **jātaṃ rūpaṃ** 等巴利文句当中，藉由「相续(santati)」之力、由各自相关的自身因法所生起的色法，即是 **jāta rūpa**（已生之色），是正在生起之色。
+那正在生起的 jāta rūpa 色法的、作为其**「转生相(nibbattilakkhaṇā)」**的「生(jāti)」之性、「生起(uppāda)」之性这种崭新的状态，称为 **「生(udaya)」**=生起之性；作为其**「变易相(vipariṇāmalakkhaṇā)」**的耗尽、坏灭之性，称为 **「灭(vaya)」**=坏灭之性；而能够一再反复地观照那生起、坏灭、生与灭之性的智，就称为「生灭随观智」=能够一再反复地观照「生-灭」的智。（《无碍解道》义注1,234。）
+
+在以上这段「义注(aṭṭhakathā)」之语当中——
+
+- 一、「到达思惟智彼岸而安住的修行者，把（在思惟智阶段）以无常等而观见过的诸行法，以生起与坏灭来界定，以无常等安立特相之导引而修观——为了如此修观而开示宣说的『生灭随观智』」这样一段话；
+- 二、「藉由相续之力、由各自相关的自身因法所生起的色，即是 jāta rūpa（已生之色）=正在生起之色」这样一段话——这两段话，贤善的你要仔细地铭记。
+
+**Jāta**nti nibbattaṃ paṭiladdhattabhāvaṃ. Ayaṃ hi jātasaddo khaṇattayasamaṅgitaṃ sandhāya vutto "ye dhammā jātā bhūtā"ti ādīsu viya, na atītaṃ ----
+
+“Ye te jātā, na te santi, ye na jātā, tattheva te.<br>Laddhattabhāvā no bhaggā, teva santi sabhāvato.”ti ----
+
+ādīsu viya, nāpi jātatāmattaṃ "yaṃ taṃ jātaṃ bhūtaṃ saṅkhata"nti ādīsu viya. Tenāha "**jātaṃ rūpaṃ paccuppanna**"nti. Paccuppannarūpaṃ nāma jātaṃ khaṇattayapariyāpannanti attho. Taṃ pana ādito duppariggahanti santatipaccuppannavasena vipassanābhiniveso kātabbo. (Mahāṭī-2-419.)
+
+**jāta**（已生）是指已经生起的、应得的「自体(attabhāva)」。
+（所谓色、名诸究竟界藉由「生起-住-坏灭」而实质明明显显地生起，就称为获得自体。在一个色聚之内——硬、粗、重，或软、滑、轻这样的「地界(pathavī dhātu)」，流动或凝聚这样的「水界(āpo dhātu)」，热或冷这样的「火界(tejo dhātu)」，支撑、推动这样的「风界(vāyo dhātu)」——诸如此类的诸究竟界，藉由「生起-住-坏灭」之态而使实质本体、质料明明显显地生起出来，就称为获得自体。
+在诸名聚当中，也应当同样地了知。）这个「jāta」之词——
+
+ye dhammā jātā bhūtā（《阿毗达摩》1,213。）= 凡诸法已生起、已显著地生起，正如在这一类巴利文句当中那样，是指向具足「生起-住-坏灭」这三个剎那之聚的「三剎那具足(khaṇattaya samaṅgī)」=具足三剎那之聚的状态而言；以「jātaṃ rūpaṃ paccuppannaṃ」等语，在《无碍解道》巴利圣典当中如此宣说。
+
+「ye te jātā na te santi. pa. teva santi sabhāvato」= 凡诸法已经生起完毕，那些已生起完毕的过去之法，如今并非现存。
+凡诸法尚未生起，那些尚未生起的未来之法，同样也并非现存。
+凡诸法以「生起-住-坏灭」使实质本体、质料明明显显地生起，具有这种应得的自体，尚未坏灭——唯有那些法，才以「有为究竟法(saṅkhata paramattha)」之本质，正显著地现存着。」
+
+在诸如此类的处所当中，jāta 之词是指向过去之法而宣说的。
+而在这「jātaṃ rūpaṃ paccuppannaṃ」等巴利圣典当中，却不是像那样指向过去之法而宣说的。再者——
+
+「yaṃ taṃ jātaṃ bhūtaṃ saṅkhataṃ」（《长部》2,119。《相应部》3,141。）= 凡那个法已经生起。
+已显著地生起。
+由诸因法聚合而被造作。
+『愿那个法绝对不要坏灭』——如此渴求而能够实现的机会，是不可能存在的。」----
+
+在诸如此类的巴利圣典当中，jāta 之词所宣说的只是单纯的生起=「仅是生起(jātamatta)」而已。
+而在这「jātaṃ rūpaṃ paccuppannaṃ」等当中，jāta 之词也并非宣说那样的「仅是生起」=单纯生起之义。
+它所宣说的，乃是具足「生起-住-坏灭」这三剎那具足=三个剎那之聚的状态。
+因此，「jātaṃ rūpaṃ paccuppannaṃ」=所谓现在色，乃是宣说：它即是归属于显著地生起出来的「生起-住-坏灭」这三个剎那之内的法。
+而那具足这三个剎那之聚、属于三剎那具足的现在之法，对于刚刚开始用功修观的「初学者(ādikammika)」来说，要能把握住是相当困难的；因此，「大复注(Mahāṭīkā)」论师才开示说，要从相续现在之法开始作意修观。
+依照这一指示，贤善的你要从相续现在之法出发，逐步地持续修习作意修观，直到抵达剎那现在。（参见《大复注》2,419。）
+
+在这段话当中，要铭记这一要点：归属于「生起-住-坏灭」这三个剎那之聚=三剎那（即应得「藉由生起-住-坏灭而实质本体明明显显生起出来的究竟界」这种本体自体的三剎那）之内的法，就称为**现在**之法。
+唯有如此，才能够理解以下这段巴利圣典的观察要点。
+
+Jātaṃ rūpaṃ paccuppannaṃ, tassa nibbattilakkhaṇaṃ udayo, vipariṇāmalakkhaṇaṃ vayo, anupassanā ñāṇaṃ. pa.
+Jātā avijjā paccuppannā, tassā nibbattilakkhaṇaṃ udayo, vipariṇāmalakkhaṇaṃ vayo, anupassanāñāṇaṃ. (Paṭisaṃ-52.)
+
+正在生起的、藉由「生起-住-坏灭」而使实质本体明明显显地生起这种应得自体的、=正在获得自体的「无明(avijjā)」，称为现在。
+（所谓现在的无明，意思即是：它是正在生起、归属于「生起-住-坏灭」这三个剎那之聚之内的无明。）
+那现在的无明的、应当了知为初始生起的「有为相(saṅkhata lakkhaṇā)」，称为「生」=生起。
+应当了知为变易坏灭的有为相，称为「灭」=坏灭。
+一再反复地观照那「生-灭」的「慧(paññā)」，称为智。
+
+**【文件：[167]生灭智章/[172] 应当思考的要点.md】**
+
+### 应当思考的要点
+
+在上述《无碍解道》(Paṭisambhidā Magga)巴利圣典中，就「无明(avijjā)」而言，可以涵盖归属于过去、未来、现在这三时之内的种种无明；这一点应当与先前在**缘起(paṭiccasamuppāda)部分中**所撰写阐述的
+诸观照段落联系起来理解。
+归属于现在(paccuppanna)的果报(vipāka)五蕴(khandha)诸因法之中、在过去某某生里所培育起来的无明，也包括在内。
+归属于过去的果报五蕴诸因法之中、在过去某某生里所培育起来的无明，也包括在内。
+为了获得未来的果报五蕴而正在培育的现在诸因法之中所涵摄的无明，也包括在内。
+对于还须继续未来轮回(saṃsāra)旅程的善人们而言，存在于未来某某生中的果报五蕴诸因法集合之中所涵摄的未来无明，也包括在内。
+凡是以过去、未来、现在这三时全部加以总括计算的一切无明，都包括在内。就连每一种这样的无明，也都----
+
+jātā avijjā paccuppannā,
+
+正在生起的、通过生起(uppāda)—住(ṭhiti)—坏灭(bhanga)而使其形质本身明明显显地生起、亦即已获得（＝正在获得）自体(attabhāva)的无明，称为「现在」 = 所谓现在的无明，乃是正在生起、归属于所谓生起—住—坏灭这三个剎那(khaṇa)之集合之内的无明。
+（世尊）便是如此宣说的。
+对于其余的缘起支，也应以同样的方法来理解。倘若如此----
+
+以「jātaṃ rūpaṃ paccuppannaṃ」----等等所宣说的色(rūpa)—受(vedanā)—想(saññā)—行(saṅkhāra)—识(viññāṇa)，又是属于什么样的五蕴呢？这是有待提问的。
+答案是----应当回答说：它们也正是归属于过去、未来、现在这三时，以及内(ajjhatta)、外(bahiddha)这两种相续(santāna)之内的五蕴。
+
+若问为何如此，那是因为：依照上面所撰写阐述的《无碍解道》义注(aṭṭhakathā)（1，234）中所记载的话语，这种生灭随观(udayabbayānupassanā)的修习方法，是为了让那位紧接在生灭智(udayabbaya ñāṇa)之前生起、已到达思惟智(sammasana ñāṇa)彼岸而安住的瑜伽行者(yogāvacara)，把那些已以无常(anicca)等方式观照过、见过的行法(saṅkhāra dhamma)，再以生起与坏灭即生灭(udayabbaya)加以分辨，从而以无常等方式修习观(vipassanā)、加以省察——正是为此而宣说的缘故----应当如此回答。
+正是那些已由思惟智以无常等方式观照过、见过的行法，这生灭智也再以生灭＝生起与坏灭加以分辨，重新地修观。
+
+所谓由思惟智观照过、见过的行法，乃是存在于过去、未来、现在这三时，以及内、外这两种相续之内的五蕴＝名色(nāmarūpa)诸法。
+在这些法之中，缘起的十二支也包括在内。
+正是这些法，这生灭智也必须再一次地以无常等方式来修观。
+
+因此，以「jātaṃ rūpaṃ paccuppannaṃ」---等等所宣说的五蕴，正是属于过去、未来、现在以及内、外的五蕴。
+倘若如此，那么为何要宣说为「jātaṃ rūpaṃ paccuppannaṃ」呢？这是有待提问的。
+在观照存在于三时、两种相续之内的任何一种法时，都必须修观到见到该法之生起—住—坏灭即剎那现在(khaṇapaccuppanna)、必须修观到抵达剎那现在——正是为了让人明白这一点，才宣说为「jātaṃ rūpaṃ paccuppannaṃ」。
+因此应当记住：所谓「paccuppannaṃ（现在）」，并非仅指归属于现在这一生的法本身，而是仅指归属于三时之内、所谓生起—住—坏灭这三个剎那之集合＝三剎那(khaṇattaya)之内的、正在生起着的法。
+
+**【文件：[167]生灭智章/[173] 此处所要说的本质法.md】**
+
+### 此处所要说的本质(sabhāva)法
+
+意思是这样的。
+在此生灭智(udayabbaya ñāṇa)部分,以生灭随观智(udayabbayānupassanā ñāṇa)修习观(vipassanā)所应观照的观智(vipassanā ñāṇa)之所观对象法,正是处于称为生起(uppāda)-住(ṭhiti)-坏灭(bhaṅga)的三剎那(khaṇa)合集=三个刹那(khaṇattaya)之内仍存在着的法。
+
+1. 那个法,就时间而言,即使是属于现在(paccuppanna)世、现在期间所摄的法,也应当以智(ñāṇa)看见那个法在称为生起-住-坏灭的三剎那合集=三个刹那之内仍存续着的当下,以智摄取那处于这三剎那中所摄之法的生起与坏灭为所缘,以智观看,把那个法逐一确立为无常(anicca)(为苦(dukkha)、为无我(anatta))的特相(lakkhaṇā),而修观。
+
+2. 那个法,就时间而言,即使是属于过去世、过去期间所摄的法,也应当以智看见那个法在过去时与称为生起-住-坏灭的三个刹那圆满具足的当下,以智看见处于那三剎那合集之内的法的生起与坏灭=生(udaya)-灭(vaya)的本质,逐一确立为无常(为苦、为无我)的特相,而修观。
+
+3. 那个法,就时间而言,即使是属于未来世、未来期间所摄的法,也应当以智看见那个法在那未来期间与称为生起-住-坏灭的三个刹那圆满具足的当下,以智看见处于那三剎那合集即三个刹那之内的法的生起与坏灭——生灭,逐一确立无常(为苦、为无我)的特相,而修观。
+
+应以生灭智修习观、加以省察的那个法,无论它是过去世、过去期间曾经生起过的法也好,是属于现在世、现在期间所摄的法也好,是属于未来世、未来期间所摄的法也好,无论对哪一种法修观,都只应当在作为那观智之所观对象的法与称为生起-住-坏灭的三个刹那具足(samaṅgī)=三剎那合集圆满具足的当下,以智看见那个法的生起端、坏灭端即生起与坏灭,确立为无常(为苦、为无我)的特相,而修观。
+
+贤善者,请再次取缘起(paṭiccasamuppāda)的诸支为所缘观看。
+在这现在,作为识(viññāṇa)、名色(nāmarūpa)、六处(saḷāyatana)、触(phassa)、受(vedanā)这些果报(vipāka)轮五蕴之真正起因的无明(avijjā)、渴爱(taṇhā)、取(upādāna)、行(saṅkhāra)、业(kamma)这五种因法,则归摄于过去的五蕴中。
+无明、渴爱、取,是烦恼轮(kilesa vaṭṭa)意门速行心路(manodvārika javana vīthi)心相续中的名法(nāma dhamma)聚。
+至于行与业,若专就身为人类的贤善者而言,则是业轮(kamma vaṭṭa)大善(mahā kusala)意门速行心路心相续中的名法聚。
+含有无明、渴爱、取的各个速行心识刹那(javana cittakkhaṇa),若是悦俱(somanassa sahagata)、邪见相应(diṭṭhigata sampayutta)、无行(asaṅkhārika),则名法各(20)个会存在于该各个速行之中。
+
+如果贤善者越过去取那个无明为所缘而修观,则应当依据那不可相离的不相离(avinābhāva)之法,把位于速行之前的意门转向(manodvārāvajjana)名法聚,以及当速行之后落入彼所缘(tadārammaṇa)时那些彼所缘名法聚,也一并掺杂进来而修观。
+如此观照时,应以智看见那烦恼轮意门速行心路中每一个心识刹那(cittakkhaṇa)的名法聚之生起与坏灭,确立特相而修观。
+尤其要以观智看见由无明、渴爱、取所引领的各个速行心识刹那中所存在的名法聚之生起与坏灭=生起端、坏灭端,确立特相而修观。
+若能如此观照,贤善者便可以说已经能够把无明——换句话说,把与无明俱在的名法聚——观照到抵达现在、契合现在的程度了。
+
+同样地,如果贤善者越过去取作为业轮的行-业为所缘而修观,则应当依据那不可相离的不相离之法,把位于速行之前的意门转向名法聚,以及当速行之后落入彼所缘时那些彼所缘名法聚,也一并掺杂进来而修观。
+如此观照时,应以智看见那业轮大善意门速行心路心相续中,每一个心识刹那、每一个心识刹那里,每一组名法聚、每一组名法聚的,尤其是每一个速行心识刹那、每一个速行心识刹那里所存在的每一组名法聚、每一组名法聚的生起与坏灭(=生-灭)的本质,把三项特相轮流逐一确立而修观。
+若能如此观照,贤善者便可以说已经能够把行——换句话说,把与行俱在的名法聚——观照到抵达现在、契合现在的程度了。
+对于其余的缘起诸支,也请以同样的方法去领会其本质。
+
+因此,如果有人说:在观这件事上、在修观时,只应当观那纯然现在的、恰恰正现在的、当下显现什么就观什么的法,而过去、未来不可修观——那么这种说法完全不正确。
+在观处于三时、二种相续流(santāna)之内的任何一种法时,若说:要看见自己想修习的那个法的生-灭=生起与坏灭,把它观照到抵达称为生-住-灭的剎那现在(khaṇa paccuppanna)、契合现在的程度——那么这种说法乃是毫无例外、正确无误的话。
+
+因此,在这生灭智章中,以「jātaṃ rūpaṃ paccuppannaṃ」——如此等等——所开示的「现在之法」,其要旨应当牢记为:**就是现在的、正在生起着的,并且归摄于称为生起-住-坏灭的三剎那合集之内的法**。
+
+贤善者如果无法接受上述这种见解——
+
+- 1. 那就会落到连「生灭智要把思惟智(sammasana ñāṇa)部分所观过的那些行法(saṅkhāra dhamma),再一次以生起端、坏灭端加以区分而修观」这一论断也不予接受的地步。
+- 2. 由于这样不予接受,也会落入「思惟观智的所观对象法与生灭观智的所观对象法二者并不相同」这样的过失。
+- 3. 也会招致一些无法解决的过失:对于归摄于三时的缘起诸支,用「现在」一词以「jātā avijjā paccuppannā」等等所作的开示,也将变得无法解释。
+
+若是如此——
+
+Santatipaccuppanne khaṇapaccuppanne vā dhamme udayabbayadassanābhiniveso kātabbo, na atītānāgate. (Mahāṭī, 2, 419.)
+
+=在相续现在(santati paccuppanna)法上,以及在剎那现在法上,都应当以生灭智修习观、作意。
+对于过去、未来之法,则不应当以生灭智修习观、作意。
+
+对于大复注(Mahāṭīkā)论师如此解说的这段话,应当如何理解其义呢?这里有此一问需提出。
+
+**【文件：[167]生灭智章/[175] 含义的理解方式.md】**
+
+### 对含义的理解方式
+
+在过去(atīta)、未来(anāgata)、现在(paccuppanna)整个三时段(addhā)之中，凡是已生、当生、正在生的一切真实诸法，在其正生之时、生起之际、生起的过程中，都唯有以被称为生起-住-坏灭(uppāda-ṭhiti-bhaṅga)的剎那现在(khaṇapaccuppanna)的状态，才有其生起的自然法性；（它们）成为已生、当生、正在生的诸法。
+那个被称为生起-住-坏灭的三剎那(khaṇattaya)＝三个剎那之集合的前分中生起的法，便是过去法(atīta dhamma)。
+那个被称为生起-住-坏灭的三剎那＝三个剎那之集合的后分中生起的法，便是未来法(anāgata dhamma)。
+当瑜伽行者(yogāvacara)进入生灭智(udayabbaya ñāṇa)的阶段时，他以生灭随观智(udayabbayānupassanā ñāṇa)对诸行法(saṅkhāra dhamma)修观(vipassanā)、加以审察；此时，对于自己所观的那个行法的、被称为生起-住-坏灭的三剎那＝三个剎那之集合的前分、后分中生起的过去、未来诸法，不应以生灭随观智来作观；唯有对那处于生起-住-坏灭三剎那＝三个剎那之集合之内安住的行法，才应以生灭随观智来作观。其原因是——生灭智的观所观照的所缘法(ārammaṇa)，乃是与生起-住-坏灭三剎那＝三个剎那之集合圆满具足之时、被三个剎那之集合所摄的行法之故。
+
+（这里）所要表达的意思如下。
+无论是属于过去时段所摄的行法也好，属于未来时段所摄的行法也好，还是属于现在时段所摄的行法也好，对任何一种行法，当以生灭随观智去触及、把它取作所缘来作观时，都应当用智去看见、看清那个自己所观的行法的、被称为生起-住-坏灭的三剎那＝三个剎那之集合，如此来作观；而对于那个自己所观的行法的前分、后分中生起的诸行，则不应以生灭随观智来作观——意思就是说：唯有被生起-住-坏灭三个剎那之集合所摄的行法，才是生灭随观智所观照的所缘。
+倘若你这位善男子，也想要观照自己所观的那个行法之前分中的过去行法、以及后分中的未来行法，那么就请以观智去看清你想观照的那个法的、被称为生起-住-坏灭的三剎那＝三个剎那之集合，并用智把那个行法的生起与坏灭加以区分，然后以生灭随观智将（无常等）相(lakkhaṇā)的轨辙安立起来，如此来作观吧。
+（这一点）很难，要能领会实属不易。
+
+因此，对于指示出这个生灭随观(udayabbayānupassanā)部分之观照范围的、伟大的《无碍解道(Paṭisambhidā Magga)》巴利圣典的缅文译文之根本旨趣，应当如下这样来记取。——
+
+kathaṃ paccuppannānaṃ dhammānaṃ vipariṇāmānupassane paññā udayabbayānupassane ñāṇaṃ? Jātaṃ rūpaṃ paccuppannaṃ, tassa nibbattilakkhaṇaṃ udayo, vipariṇāmalakkhaṇaṃ vayo, anupassanā ñāṇaṃ. Jātā vedanā, saññā, saṅkhārā, viññāṇaṃ. Jātaṃ cakkhu. pe. jāto bhavo paccuppanno, tassa nibbattilakkhaṇaṃ udayo, vipariṇāmalakkhaṇaṃ vayo, anupassanā ñāṇaṃ. (Paṭisaṃ 52.)
+
+如何（而名为生灭随观智）呢？——（相续现在(santati paccuppanna)：）对于被称为生起-住-坏灭的三个剎那之集合所摄、属于剎那现在、安住于三界之内的三地(tebhūmaka)行法，对其变坏败坏、即变坏(vipariṇāma)之本质一次又一次、层层反复地观照，于此（观照）中所生起的慧(paññā)，便是在观照生起与坏灭＝生灭(udaya-vaya)时所生起的、名为生灭随观智的（那个慧）——（这就是它的含义）。
+
+被称为生起-住-坏灭＝生-住-灭的三个剎那之集合所摄的、正在生起的＝正在获得究竟法(paramattha)实质身躯、自体(attabhāva)的色(rūpa)，名为现在（＝所谓现在的色，就是正在生起、被生起-住-坏灭三个剎那之集合所摄的色）。
+那现在的色之、应记取为「开始生起」的有为相(saṅkhata lakkhaṇā)，名为生起＝生。
+应记取为「变坏败坏」的有为相，名为坏灭＝灭。
+能够反复观照那个生灭的慧，名为生灭随观智。
+
+被称为生起-住-坏灭＝生-住-灭的三个剎那之集合所摄的、正在生起的＝正在获得究竟法实质身躯、自体的受(vedanā)……
+想(saññā)……诸行……识(viññāṇa)……眼处(cakkhāyatana)、耳处(sotāyatana)、鼻处(ghānāyatana)、舌处(jivhāyatana)、身处(kāyāyatana)、意处(manāyatana)、色处(rūpāyatana)、声处(saddāyatana)、香处(gandhāyatana)、味处(rasāyatana)、触处(phoṭṭhabbāyatana)、法处(dhammāyatana)……
+被称为生起-住-坏灭＝生-住-灭的三个剎那之集合所摄的、正在生起的＝正在获得究竟法实质身躯、自体的无明(avijjā)……
+被称为生起-住-坏灭＝生-住-灭的三个剎那之集合所摄的、正在生起的＝正在获得究竟法实质身躯、自体的有(bhava)（＝业有(kammabhava)、生有(upapattibhava)），名为现在（＝所谓现在的有，就是正在生起、被生起-住-坏灭三个剎那之集合所摄的业有、生有）。
+那现在的有之、应记取为「开始生起」的有为相，名为生起＝生。
+应记取为「变坏败坏」的有为相，名为坏灭＝灭。
+能够反复观照那个生灭的慧，名为生灭随观智。（《无碍解道》52）
+
+**【文件：[167]生灭智章/[177] 以有作为终点而开示.md】**
+
+### 以有作为终点而开示
+
+在思惟智(sammasana ñāṇa)的部分中，于聚思惟(kalāpasammasana)等观(vipassanā)修习的诸项工作里，从无明(avijjā)直到老死(jarā-maraṇa)为止，由于以生(jāti)-老-死为先，因而开示了具有生-老-死本质＝具有生-住-灭本质的色(rūpa)法与名(nāma)法（依经(suttanta)的方法，则为五种果报(vipāka)蕴）。
+而在此生灭智(udayabbaya ñāṇa)的部分中，则是——
+
+jāti paccuppannā, tassā nibbattilakkhaṇaṃ udayo, vipariṇāmalakkhaṇaṃ vayo ----
+
+若像这样等等地，连在生之中也开示有生(udaya)-灭(vaya)的存在，那就好像允许了：在生-老-死各自之中，各自都有生-老-死存在一般。
+（意思是说：这就好像允许了——「生」＝在生法中，也有生起(uppāda)-住(ṭhiti)-坏灭(bhaṅga)＝生-住-灭这三者全部存在；「住」＝在老法中，也有生起-住-坏灭＝生-住-灭这三者全部存在；「坏灭」＝在死法中，也有生起-住-坏灭＝生-住-灭这三者全部存在。）
+此外，倘若说在那生-老-死诸法各自之中、各自分别都有生起-住-坏灭＝生-住-灭，那么也就好像允许了：那些生-老-死也是完成色(nipphannarūpa)，即承认它们具有成为完成色的性质一般。
+因此，为了避免这样的过失，于缘起(paṭiccasamuppāda)诸支(aṅga)之中——
+
+jāto bhavo paccuppanno, tassa nibbattilakkhaṇaṃ udayo, vipariṇāmalakkhaṇaṃ vayo, anupassanāñāṇaṃ.
+
+被涵盖在生起-住-坏灭＝生-住-灭这三个剎那(khaṇa)的聚合之中、正在发生的、＝正在获得究竟法(paramattha)实体、自体(attabhāva)的「有(bhava)」，名为现在(paccuppanna)。
+那作为现在的「有」之最初生起、应被认知为生起的有为相(saṅkhatalakkhaṇā)，名为生。
+应被认知为变异败坏的有为相，名为灭。
+能够一再地观照那生-灭的慧(paññā)，名为生灭随观智(udayabbayānupassanā ñāṇa)——这样，便作了唯以「有」为终点的开示。（《大复注》2,420。）
+
+jātijarāmaraṇavantānaṃyeva udayabbayassa pariggahetabbattā jātijarāmaraṇānaṃ udayabbayābhāvato jātijarāmaraṇaṃ anāmasitvā **jātaṃ cakkhu. pa. jāto bhavo**ti peyyālaṃ kataṃ. (paṭisaṃ, ṭṭha, 1, 234.)
+
+在色世间(rūpaloka)中，所谓的生-老-死，即是被称为真实色之生-住-灭的积聚(upacaya)、相续(santati)、老性(jaratā)、无常性(aniccatā)诸色。
+名法的生-住-灭，也称之为生-老-死。
+这就是究竟谛(paramatthasacca)。
+
+由于唯有具有生-老-死＝生-住-灭的有为法(saṅkhatadhamma)，其生起-坏灭＝生-灭才能、也才得以被摄取；又由于归摄于缘起支中的诸生-老-死，并不具有生-灭＝生-坏灭的本质（生与生起相同，灭与死相同），
+便不论究生-老-死，而——**jātaṃ cakkhu. pa. jāto bhavo**——这样作了省略(peyyāla)。（《无碍解道》义注，1，234。）
+
+以这样一直到此为止的诸段话语，已经将在生灭随观智中应以观修习、观照的、作为所观所缘的诸法，审察并陈述完毕了。
+倘若你这位贤善者固执地认为：只应对纯粹的现在法、唯独现在法这一种来修观，唯有如此修观才好——那么，对你这位贤善者而言，要圆圆满满、完完整整地对从无明直到有为止的缘起诸支修观，无论用什么方法都将不再可能。
+作为此现在果报轮转(vipākavaṭṭa)诸法之真实根本因的无明、行(saṅkhāra)，乃是在过去种种有中建立业有(kammabhava)之时所生起的、归摄于过去有之内的过去诸法而已。
+再者，因在现在所培育的无明、渴爱(taṇhā)、取(upādāna)、行、业(kamma)而将生起的、名为生有(upapattibhava)的果报轮转蕴(khandha)，也仅仅是归摄于未来有之内的未来诸行法而已。
+它们并不是归摄于现在有之内的诸法。
+再者，在归摄于现在果报轮转之内的、名为识(viññāṇa)-名色(nāmarūpa)的缘起诸支当中，那极为重要的结生(paṭisandhi)识、名色也包含在其中。
+而那些结生识、名色，也并非某些当代的瑜伽行者(yogāvacara)所认定接受的那一类现在法。
+它们并不是现在正在不断显现的那一类法。
+它们仅仅是在母胎莲房中、结生初初安立之时所生起的诸行法而已。
+确切地说，它们仅仅是过去诸法而已。
+再者，倘若执着地认为唯应对纯粹的现在来修观才好——
+
+- avijjāsamudayā rūpasamudayo. (paṭisaṃ, 54.)
+- 由于无明生起，故(业生)色生起。
+
+像这样等等的、被称为生灭(udayabbaya)广修法的「由缘观生灭(paccayato udayabbayadassana)」＝依因之诸法而观生灭的方法，也将无论用什么方法都不再能够以现量智(paccakkhañāṇa)亲自现前洞穿、明见地观照了。
+因此，渴望、希求真法、正法的你这位贤善者，对于这些事项应当格外慎重地予以重视、保持正念。
+
+**【文件：[167]生灭智章/[179] 观法体系.md】**
+
+### 观法体系
+
+那位瑜伽行者(yogāvacara),依循以「jātaṃ rūpaṃ paccuppannaṃ ----」如此等语所宣说的《无碍解道》(Paṭisambhidā magga)巴利圣典之法,将那属于名为「生起—住—坏灭(uppāda-ṭhiti-bhaṅga)」的三个剎那(khaṇa)聚合之中、正在生起的名色(nāmarūpa)的、应被认作「开始生起」的、作为有为相(saṅkhata)的、名为转生相(nibbatti)的生起,即那新生起来的情形,观为「udaya(生)」而反复地观 =(架起相之车乘(lakkhaṇa),反复地观。)
+把那作为有为相、应被认作「变易相(vipariṇāma)」的变易毁坏,即穷尽、息灭、破坏的坏灭,观为「vaya(灭)」,架起相之车乘而反复地修观(vipassanā)。(《清净之道》(Visuddhi Magga)2、266。)
+
+如此架起相之车乘、修习观并思察着的那位瑜伽行者,以如下这样的情形清清楚楚地了知:
+
+- 1. 这名色在它生起之前的先前阶段、尚未生起之时,既不存在为了生起而预先等候着的堆积,也不存在聚集。
+这是因为:那尚未获得名为「究竟法(paramattha)本质(sabhāva)之相」的实体自身、自体(attabhāva)的法,其一切方面都无有显现之故。
+- 2. 那正在生起、现起着的名色,也并没有从预先等候着要生起的堆积、或从聚集而来的任何到来。
+- 3. 那正在息灭的名色,也没有朝向正前方、或斜旁方位的任何趋近、前往。
+- 4. 那已经息灭的色名,也没有在某一处所中以堆积、或以聚集的方式而存留的任何情形。
+
+现将这段话阐明清楚。
+从所弹奏的竖琴发出的声音,在那声音生起之前、声音尚未生起之时,并没有在某一处聚集着的聚集、团块存在过。
+那正在生起的声音,也不是从某一个团块、聚集而到来的。
+那正在息灭的声音,也没有朝向正前方、斜旁方位的任何前往、趋近。
+那已经息灭的声音,在息灭之后,也不会在某一处所中聚合积聚而存留。
+其实,依于竖琴、依于琴皮、以及依于弹琴者那适合于使该声音生起的弹琴努力,它先前并不存在,如今才骤然生起;生起之后也不长久存留,而是顷刻间便息灭、消失、毁坏——正如这一譬喻一样 -- 一切色—名法、凡是行法(saṅkhāra)无不也是先前并不存在,如今才骤然生起;(意思是说:当名为因(hetu)之缘由与缘(paccaya)之缘由的种种缘由之法相互协合之时,它们便以生起的方式显现地生起来。)
+生起之后也不长久存留,而是顷刻间便息灭、消失、毁坏。 ---- 
+如此清清楚楚地了知。(《清净之道》2、266。)
+
+依照这些解释,你这位善人,把名为苦圣谛(dukkha sacca)、集谛(samudayasacca)的诸行法 ----
+
+- 1. 或以色—名(rūpa nāma)二者之法门,归作(2)类;
+- 2. 或以蕴(khandha)五种之法门,归作(5)类;
+- 3. 或以处(āyatana)十二种之法门,归作(12)类;
+- 4. 或以界(dhātu)十八种之法门,归作(18)类;
+- 5. 或以缘起(paṭiccasamuppāda)之法门,把从无明(avijjā)起直到有(bhava)为止的诸支,归作(10)类 ---
+
+以如此等方法,把那些行法,以智(ñāṇa)看见它们的生—灭=「生灭(udayabbaya)」之本质,并轮流地架上「无常(anicca)」、或「苦(dukkha)」、或「无我(anatta)」这三种相,而修观。
+愿你能将自己所修观的行法之生—灭=生灭看到抵达剎那现在(paccuppanna)为止。
+
+**【文件：[167]生灭智章/[180] 请架设特相之车.md】**
+
+### 请架设特相之车
+
+在上文所引《清净之道》(Visuddhimagga)义疏(2,266)中，教导开示道：对于具有有为相(saṅkhata-lakkhaṇa)的名色(nāmarūpa)诸法，应以观智(vipassanā-ñāṇa)观看而见到其生起(uppāda)之端、坏灭(bhaṅga)之端，从而作「生(udaya)」、「灭(vaya)」=生-灭的修观(vipassanā)。
+由于如此教导应作「生-灭」而观，便有人或会提问：那么对于那些行法(saṅkhāra-dhamma)，是否就不必再以「无常(anicca)」、「苦(dukkha)」、「无我(anatta)」架设特相之车(lakkhaṇa-yāna)来修观了呢？答案如下。----
+
+aniccato manasikaroto obhāso uppajjati. (Paṭisaṃ, 291. Visuddhi, 2, 269.)
+
+对于那些将行法作意为「无常」、或「苦」、或「无我」而修观的瑜伽行者(yogāvacara)，在其相续流(santāna)之中，会生起光明(obhāsa)=光亮，连同喜(pīti)、轻安(passaddhi)等令观染污的随烦恼(upakkilesa)诸法——这一点，《清净之道》义疏乃引用《无碍解道》(Paṭisambhidāmagga)巴利圣典(291)而作了开示；请依此开示如此记住：瑜伽行者在此生灭智(udayabbaya-ñāṇa)部分，既应见到行法的生-灭，也应对那些行法以「无常」（「苦」、「无我」）架设特相之车而修观。
+
+sammasanañāṇassa. pa. pāraṃ gantvā ṭhitena aniccādito diṭṭhe saṅkhāre udayabbayena paricchinditvā aniccādito vipassanatthaṃ ...(Paṭisaṃ-ṭṭha, 1, 234.)
+
+已到达思惟智(sammasana-ñāṇa)的彼岸而安住的瑜伽行者，为了对那些已由思惟智以无常等方式观见的行法，再以生、灭加以分别（界定），并以无常等方式修观，《无碍解道》巴利圣典中接续开示了此生灭智——上述《无碍解道》义疏也如此开示。
+依此开示，正如在思惟智部分须对行法以「无常」（「苦」、「无我」）架设特相之车而修观一样，在此生灭智部分也同样必须对那些行法以「无常」（「苦」、「无我」）架设特相之车而修观。
+
+再者，在开示种种趣向出起之观(vuṭṭhānagāminī-vipassanā)的那一部分(Abhi-ṭṭha,1,270-271。Visuddhi,2,300-301。)
+中也开示道：有的是在将行法观为「无常」时证入圣道(magga)，有的是在观为「苦」时证入圣道，有的是在观为「无我」时证入圣道。
+由于如此开示，请记住：对行法以「无常」、「苦」、「无我」架设特相之车而修观这件事，一直存在直至趣向出起之观为止。
+但请记住：在「直至趣向出起之观为止」这句话中，并不包含趣向出起之观本身。原因是：名为趣向出起之观、直至随顺智(anuloma-ñāṇa)为止的世间观智(lokī-vipassanā-ñāṇa)，只见到行法的无常之相、或苦之相、或无我之相，而并不对那些行法以「无常」、或「苦」、或「无我」架设特相之车；意思是说，它只是〔自然地〕显现而已，并不刻意架设。
+
+因此，在此生灭智部分，仅仅把行法观为「**生-灭**」，紧要之事仍未能完成；唯有在见此生-灭之后，再以观智观看而见到那些行法的生-灭，并交替地架设「无常」、「苦」、「无我」三种特相之车而修观，紧要之事才能完成。
+请确定无疑、坚定不移地记取领受：〔如此〕方能证达圣道(ariya-magga)。
+
+如此对行法架设特相之车而修观时，请努力以智极其迅速地见到那些行法的生灭；无论修观存在于过去(atīta)、未来(anāgata)、现在(paccuppanna)三时与内(ajjhatta)、外(bahiddha)两种相续流之中的哪一种行法，都要以智观看而见到该行法的生与灭，使之从相续现在(santati-paccuppanna)抵达刹那现在(khaṇa-paccuppanna)，乃至直到抵达刹那现在为止，并交替地架设特相之车而修观；行法的生-灭尽管极其迅速、极其众多，但以「无常」、或「苦」、或「无我」架设特相之车而修观时，只须徐缓地观。
+
+行法的生与灭极为迅速：在一眨眼、一闪电、一弹指间这样极其短暂的时间之内，便有数以千俱胝(koṭi)、数以万俱胝计的行法生起之后随即坏灭；在如此短暂的时间内，对如此众多、如此迅速地生灭而过的每一行法，是无法以千俱胝、万俱胝之数去架设特相之车而修观的；因此，在你这位善人的观智中，让行法的生与灭尽其所能地迅速吧，让智见抵达刹那现在吧，而以「无常」、或「苦」、或「无我」架设特相之车而修观这件事，则只须徐缓地、平静地观；行法的生与灭有多快，若也以相应的快速去追逐着架设特相之车，时间一久便会疲惫不堪；请如名业处(nāmakammaṭṭhāna)部分诸表中所写的那样，一行接一行、按行次第地观。
+
+正如在思惟智部分修观的方式那样，在此生灭智部分也----
+
+- 1。 有时观内色法，
+- 2。 有时观外色法，
+- 3。 有时观内名法，
+- 4。 有时观外名法，
+
+请如此轮番交替地、并交替地架设三种特相之车而修观；当诸观智变得极为锐利敏锐、勇猛清净时，在那观智中，行法的生与灭便会极其迅速地显现；当观智变得锐利敏锐、迅速、清净时，便会清清楚楚、心满意足地见到色-名的生灭从相续现在抵达刹那现在；如此见到之后，请将色与名配对（如名业处部分诸表中所写、将色名并合摄取的那样），以智观看那些色-名法、行法的生灭，使之抵达刹那现在，并交替地架设三种特相之车而修观；请内一番、外一番地观；观外时，要从近处逐步扩展到远处，遍摄三十一界(bhūmi)、或在能力所及时遍摄众多个三十一界而修观。
+内一番、外一番地多次反复修习审察之后，观智便会格外地变得锐利敏锐，变得勇猛，变得清净。
+
+在修观现在的行法时，当观智变得极为敏捷，乃至智见抵达行法的刹那现在，格外地锐利敏锐、勇猛而极为清净时，对过去、未来的行法也请援用同样的方法、依同样的方式来观。
+如此观时，你这位善人若已将过去五世为止的色-名-因-果=行法都摄取在心，那么----
+
+- 1。 从第五过去世的结生(paṭisandhi)直到死殁(cuti)，
+- 2。 从第四过去世的结生直到死殁，
+- 3。 从第三过去世的结生直到死殁，
+- 4。 从第二过去世的结生直到死殁，
+- 5。 从第一过去世的结生直到死殁，
+- 6。 从现在世的结生直到死殁，
+- 7。 从第一未来世的结生直到死殁，
+- 8。 （若有的话）从第二未来世的结生直到死殁，
+
+如此等等，从自己所摄取的最远的过去世，直到最末的未来世为止----对存在于过去-现在-未来这三时之中、存在于内-外两种相续流之中的----
+
+- 1。 纯色法，
+- 2。 纯名法，
+- 3。 以及色与名配对 ----
+
+总摄概观，观看而见到那些行法的生灭=生起之端、坏灭之端----
+
+- 1。 有时作「无常」，
+- 2。 有时作「苦」，
+- 3。 有时作「无我」 ---
+
+如此交替地架设三种特相之车，多次反复地修观。
+如此观时，请不要把色聚(rūpakalāpa)的生灭取为所缘(ārammaṇa)，而只把那些色聚之内的色之究竟法(rūpa-paramattha)取为所缘而修观；对名之究竟法(nāma-paramattha)也请同样地理解。
+譬如——在五门转向(pañcadvārāvajjana)心识刹那(cittakkhaṇa)之际：连同色所缘(rūpārammaṇa)与心所依处色(hadayavatthu)在内的五十四种色也生-灭，五门转向的十一个名法也生-灭，作「无常」——如此等等，以智观看而见到色与名一组一组的生灭，并交替地架设三种特相之车而修观。
+对存在于三时、两种相续流之中的行法，若智见已清净到抵达刹那现在，那便已从思惟智进入了生灭法门(udayabbaya-naya)之中。
+但请特别慎重地、多次修观地审察：在路心(vīthi-citta)的心识刹那中、在离路心(vīthimutta-citta)的心识刹那中、以及在色法中，智见是否都清净到抵达刹那现在。
+
+当以色名两者的方法观而获得满足时----
+
+- 1。 以五蕴(khandha)的方法，
+- 2。 以十二处(āyatana)的方法，
+- 3。 以十八界(dhātu)的方法，
+- 4。 以缘起(paṭiccasamuppāda)的第一种方法，将因果相联，把缘起诸支从无明直到有分为十支，以缘起的方法 ---
+
+请继续修观；再者，如先前思惟智部分所写的那样-
+
+- 1。 依处(vatthu)+所缘+受(vedanā)=（受随观(vedanānupassanā)）
+- 2。 依处+所缘+识(viññāṇa)=（心随观(cittānupassanā)）
+- 3。 依处+所缘+触(phassa)=（法随观(dhammānupassanā)）
+
+对这受随观、心随观、法随观这些观照点，也请继续修观。
+在修观缘起诸支时----
+
+1。 因无明生起，故行(saṅkhāra)生起；
+  - 无明也生-灭 --- 无常，
+  - 行也生-灭 --- 无常，
+
+如此架设特相之车而修观；对苦、无我也请以同样的方法观。
+如此观时，请以智将以无明为首的意门速行心路(manodvārika-javana-vīthi)、以善思(kusala-cetanā)心所(cetasika)行为首的意门速行心路，逐一破除其密集(ghana)、加以破析摧毁，使智见抵达究竟法；并摄取连同无明在内的究竟法、连同行在内的究竟法，架设特相之车而修观。
+有(bhava)有业有(kammabhava)、生有(upapattibhava)两种，其中作为生有之法体的五取蕴(upādānakkhandhā)，正是适合修观的诸法。
+生(jāti)虽不宜再加以修观，但作为生之法体、名为生有的五取蕴，却正是适合修观的；因此，《无碍解道》巴利圣典(52)中才教导说，在此生灭智部分要把「有」也纳入而修观。
+
+如此一来，你这位善人若能心满意足地修观审察，对存在于过去、未来、现在三时与内、外两种相续流之中的色名两者=五取蕴，交替地架设无常-苦-无我三种特相之车，乃至以正见(sammādiṭṭhi)之智慧亲自现见、洞穿了知，那么便能对下文《无我相经》(Anattalakkhaṇa Sutta)中所载的观照点心生大欢喜、深契其义；也能对佛陀(Buddha)、以及以五比库(pañcavaggī)为首的往昔诸大圣者善人，生起大净信。
+
+tasmātiha bhikkhave ...
+
+1. yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ "netaṃ mama, nesohamasmi, na meso attā"ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.
+
+- 2. yā kāci vedanā. pa.
+- 3. yā kāci saññā. pa.
+- 4. ye keci saṅkhārā. pa.
+- 5. yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ viññāṇaṃ "netaṃ mama, nesohamasmi, na meso attā"ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ. (Saṃ, 2, 56.)
+
+诸比库……正因为五取蕴只是无常-苦-无我而存在，所以在此殊胜的教法(sāsana)之中，你们应当----
+
+1。 既有过去、未来、现在的一切色法，也有属内、属外的一切色法，也有粗劣的粗(oḷārika)、与微细柔润的细(sukhuma)的一切色法，也有低劣的劣(hīna)、与殊妙的胜(paṇīta)的一切色法，也有远的远(dūra)、与近的近(santika)的一切色法。
+对以十一种行相而存在的一切色法，请如此地、不颠倒地、如实地以观智之光破析穿透色团色块、名团名块而观：「此色法不是我的(mama)，此色法非是我，此色法非我之我(attā)」。
+
+- 2。 过去、未来、现在的一切受。pa。
+- 3。 过去、未来、现在的一切想(saññā)。pa。
+- 4。 过去、未来、现在的一切行。pa。
+- 5。 既有过去、未来、现在的一切识法，也有属内、属外的一切识法，也有粗劣的粗、与微细柔润的细的一切识法，也有低劣的劣、与殊妙的胜的一切识法，也有远的远、与近的近的一切识法。
+对以十一种行相而存在的一切识法，请如此地、不颠倒地、如实地以观智之光破析穿透色团色块、名团名块而观：「此识法不是我的，此识法非是我，此识法非我之我」。(Saṃ, 2, 56 ---- Anattalakkhaṇasutta。)
+
+[**注** ---- 请记住：此处所说「netaṃ mama, nesohamasmi, na meso attā=此色法不是我的，此色法非是我，此色法非我之我」而观，与所说对以这十一种行相而存在的色法作「无常」、「苦」、「无我」而观，二者是相同的。
+对全部五蕴也请同样地理解。(Ma-ṭṭha, 4, 232 - 参看。)]
+
+**【文件：[167]生灭智章/[185] 应当这样领会其相同之处.md】**
+
+### 应当这样领会其相同之处
+
+以行法(saṅkhāra)诸法生起、灭去的打击不断地遭受折磨、压迫之自性为所缘，标立『苦(dukkha)』之相(lakkhaṇa)，持续而强力地修观(vipassanā)时，若以观的正见(sammādiṭṭhi)智慧亲自现见、洞穿、了知那些行法直到剎那现在(khaṇapaccuppanna)被生起、灭去之苦的打击所压迫的苦之自性，清清楚楚、明明白白，那么对那些行法生起『我的——我的』这样执取的渴爱执(taṇhā)，便再也得不到执取的机会了；因此，把行法观为『苦』与观为『不是我的』，二者相同。
+
+再者，正是对这些行法，以观的正见智慧设法观见它们直到剎那现在的生起、灭去，标立『无常(anicca)』之相，修观、思察时，对刹那不停、淅淅沥沥、不断崩塌灭坏的行法，连『这个行法是我，那个行法是他』等等执取的机会、乃至执取的时间都再也得不到了；这是因为，把一眨眼、一闪电、一弹指这样的时间分成数千俱胝(koṭi)份，或分成数十万俱胝份，(每个行法)也仅有约一份的寿量；因此，观为『无常』与观为『不是我』，二者相同。
+
+再者，对这些行法，以不坏灭、作为坚结、坚固、精髓而恒常存立的『我(atta)之不存在』的自性为所缘，标立『无我(anatta)』之相，持续而强力地修观时，便能心满意足地接受这些行法中我之不存在的无我自性；那时，对这些行法执为『我』的我执，便再也无法立足了；其缘由在于：色法(rūpa)的一眨眼、一闪电、一弹指、一秒钟这样的时间若分成约五千余俱胝份，(色法)仅有约一份的寿量；而名法(nāma)的这样的时间若分成约十万俱胝份，(名法)也仅有约一份的寿量——这些都以观的正见智慧亲自现见、洞穿、了知，所以对那些色、名、法、行诸法，『此法乃坚固的精髓、是我』这样执取的机会，又哪里还能找到立足、安住之处呢？因此，观为『无我』与观为『不是我之我』，二者相同。
+
+**【文件：[167]生灭智章/[186] 崇高的活着.md】**
+
+### 崇高的活着
+
+对于以这（11）种方式存在的上述五取蕴（upādānakkhandhā），在每一个蕴上，依次安立无常相（aniccalakkhaṇā）一轮、苦相（dukkhalakkhaṇā）一轮、无我相（anattalakkhaṇā）一轮——如此把这三相之乘逐一轮替地修起，从而修习观（vipassanā）、加以审察的这条禅修（bhāvanā）行道，正是以佛陀（Buddha）等五比库（pañcavaggī）五位为首的、往昔诸位圣者（ariya）善人前往涅槃（nibbāna）所行经的、唯一的那条古老大道。
+你这位善人，若也真切地渴望、企求佛陀所说的、真实的涅槃这一崇高大法，那就唯有沿着那条古老大道，以收摄诸根、保有德行的姿态，端端正正、安安静静地行走才行；其原因在于，前往涅槃的道路并无两条，只有唯一的一条。
+
+- yo ca vassasataṃ jīve, apassaṃ udayabbayaṃ.
+- ekāhaṃ jīvitaṃ seyyo, passato udayabbayaṃ. (Dhammapada, 30.)
+
+yo ca = 凡是那样的人。
+udayabbayaṃ = 五蕴 = 色（rūpa）、名（nāma）诸法的生起—坏灭 = 生—灭（udaya-vaya）之本质（sabhāva）。
+apassaṃ = apassanto = 不以观慧（vipassanā-paññā）、道慧（magga-paññā）了知、照见。
+vassasataṃ = 长达（100）年之久的时间。
+ce jīve = 倘若活着。
+tassa = 那个人的。
+taṃ jīvitaṃ = 那样长寿地活着。
+na seyyo = 并不崇高。
+
+yo ca = 凡是那样的人。
+udayabbayaṃ = 五蕴 = 色、名诸法的生起—坏灭 = 生—灭之本质。
+passati = 以观慧、道慧了知、照见。
+udayabbayaṃ = 五蕴 = 色、名诸法的生起—坏灭 = 生—灭之本质。
+passato = 以观慧、道慧了知、照见的（那个人）。
+tassa = 那个人的。
+ekāhaṃ = 仅仅一天、一日、一个清晨。
+jīvitaṃ = 这样活着。
+seyyo = 实在崇高。（《法句》（dhammapada），30。偈颂第113号。）
+
+对于不以观慧、或圣道慧（ariyamagga）了知、照见五蕴即色、名诸法的生起—坏灭 = 生—灭之本质的人而言，纵然活到长达（100）年之久，也并不崇高；而对于以观慧、或圣道慧了知、照见五蕴即色、名诸法的生起—坏灭 = 生—灭之本质的人而言，哪怕仅仅活一天、一日、一个清晨，那才是崇高的——由于佛陀亲自如此宣说、开示、教诫，所以你这位善人也应当依照佛陀的意愿，努力修行、勤勉精进、广修不辍，使自己的一生成为一个层次极高、崇高殊胜的人生。
+
+**【文件：[167]生灭智章/[187]a 生灭的详细观修方法 - 集法随观部分.md】**
+
+### 生灭(udayabbaya)的详细观修方法 - 集法随观(samudayadhammānupassī)部分
+
+paccayato udayabbayadassana = 通过作为原因的法来观照生灭的方法；换一种说法，把「通过作为原因的法观照生灭的方法」与「通过剎那(khaṇa)观照生灭的方法」这两种方法结合起来作观(vipassanā)的方法，正是被称为生灭的详细观修方法。
+在此，首先列出精通巴利语(pāli)者应当预先背诵、以便能够熟记于心的圣典巴利文。
+
+**【文件：[167]生灭智章/[187]b 色蕴中的生起观法 - 巴利圣典.md】**
+
+### 色蕴(rūpakkhandha)中的生起观法 - 巴利圣典
+
+- 1. avijjāsamudayā rūpasamudayoti paccayasamudayaṭṭhena rūpakkhandhassa udayaṃ passati.
+- 2. taṇhāsamudayā rūpasamudayoti paccayasamudayaṭṭhena rūpakkhandhassa udayaṃ passati.
+- 3. kammasamudayā rūpasamudayoti paccayasamudayaṭṭhena rūpakkhandhassa udayaṃ passati.
+- 4. āhārasamudayā rūpasamudayoti paccayasamudayaṭṭhena rūpakkhandhassa udayaṃ passati.
+- 5. nibbattilakkhaṇaṃ passantopi rūpakkhandhassa udayaṃ passati.
+
+rūpakkhandhassa udayaṃ passanto imāni pañca lakkhaṇāni passati.
+
+**【文件：[167]生灭智章/[187]c 色蕴中的灭观法 - 巴利圣典.md】**
+
+### 色蕴(rūpakkhandha)中的灭观法 - 巴利圣典
+
+- 1. avijjānirodhā rūpanirodhoti paccayanirodhaṭṭhena rūpakkhandhassa vayaṃ passati.
+- 2. taṇhānirodhā rūpanirodhoti paccayanirodhaṭṭhena rūpakkhandhassa vayaṃ passati.
+- 3. kammanirodhā rūpanirodhoti paccayanirodhaṭṭhena rūpakkhandhassa vayaṃ passati.
+- 4. āhāranirodhā rūpanirodhoti paccayanirodhaṭṭhena rūpakkhandhassa vayaṃ passati.
+- 5. vipariṇāmalakkhaṇaṃ passantopi rūpakkhandhassa vayaṃ passati.
+
+rūpakkhandhassa vayaṃ passanto imāni pañca lakkhaṇāni passati.<br>udayabbayaṃ passanto imāni dasa lakkhaṇāni passati.
+
+**【文件：[167]生灭智章/[187]d 受蕴中的生起观法 - 巴利圣典.md】**
+
+### 受蕴(vedanākkhandha)中的生起观法 - 巴利圣典
+
+- 1. avijjāsamudayā vedanāsamudayoti paccayasamudayaṭṭhena vedanākkhandhassa udayaṃ passati.
+- 2. taṇhāsamudayā vedanāsamudayoti paccayasamudayaṭṭhena vedanākkhandhassa udayaṃ passati.
+- 3. kammasamudayā vedanāsamudayoti paccayasamudayaṭṭhena vedanākkhandhassa udayaṃ passati.
+- 4. phassasamudayā vedanāsamudayoti paccayasamudayaṭṭhena vedanākkhandhassa udayaṃ passati.
+- 5. nibbattilakkhaṇaṃ passantopi vedanākkhandhassa udayaṃ passati.
+
+vedanākkhandhassa udayaṃ passanto imāni pañca lakkhaṇāni passati.
+
+**【文件：[167]生灭智章/[187]f 受蕴中的灭观法 - 巴利圣典.md】**
+
+### 受蕴(vedanākkhandha)中的灭观法 - 巴利圣典
+
+- 1. avijjānirodhā vedanānirodhoti paccayanirodhaṭṭhena vedanākkhandhassa vayaṃ passati.
+- 2. taṇhānirodhā vedanānirodhoti paccayanirodhaṭṭhena vedanākkhandhassa vayaṃ passati.
+- 3. kammanirodhā vedanānirodhoti paccayanirodhaṭṭhena vedanākkhandhassa vayaṃ passati.
+- 4. phassanirodhā vedanānirodhoti paccayanirodhaṭṭhena vedanākkhandhassa vayaṃ passati.
+- 5. vipariṇāmalakkhaṇaṃ passantopi vedanākkhandhassa vayaṃ passati.
+
+vedanākkhandhassa vayaṃ passanto imāni pañca lakkhaṇāni passati.<br>udayabbayaṃ passanto imāni dasa lakkhaṇāni passati.
+
+**【文件：[167]生灭智章/[188]a 想蕴中的生起观法 - 巴利圣典.md】**
+
+### 想蕴(saññākkhandha)中的生起观法 - 巴利圣典
+
+- 1. avijjāsamudayā saññāsamudayoti paccayasamudayaṭṭhena saññākkhandhassa udayaṃ passati.
+- 2. taṇhāsamudayā saññāsamudayoti paccayasamudayaṭṭhena saññākkhandhassa udayaṃ passati.
+- 3. kammasamudayā saññāsamudayoti paccayasamudayaṭṭhena saññākkhandhassa udayaṃ passati.
+- 4. phassasamudayā saññāsamudayoti paccayasamudayaṭṭhena saññākkhandhassa udayaṃ passati.
+- 5. nibbattilakkhaṇaṃ passantopi saññākkhandhassa udayaṃ passati.
+
+saññākkhandhassa udayaṃ passanto imāni pañca lakkhaṇāni passati.
+
+**【文件：[167]生灭智章/[188]b 想蕴中的灭观法 - 巴利圣典.md】**
+
+### 想蕴(saññākkhandha)中的灭观法 - 巴利圣典
+
+- 1. avijjānirodhā saññānirodhoti paccayanirodhaṭṭhena saññākkhandhassa vayaṃ passati.
+- 2. taṇhānirodhā saññānirodhoti paccayanirodhaṭṭhena saññākkhandhassa vayaṃ passati.
+- 3. kammanirodhā saññānirodhoti paccayanirodhaṭṭhena saññākkhandhassa vayaṃ passati.
+- 4. phassanirodhā saññānirodhoti paccayanirodhaṭṭhena saññākkhandhassa vayaṃ passati.
+- 5. vipariṇāmalakkhaṇaṃ passantopi saññākkhandhassa vayaṃ passati.
+
+saññākkhandhassa vayaṃ passanto imāni pañca lakkhaṇāni passati.<br>udayabbayaṃ passanto imāni dasa lakkhaṇāni passati.
+
+**【文件：[167]生灭智章/[188]c 行蕴中的生起观法 - 巴利圣典.md】**
+
+### 行蕴(saṅkhārakkhandha)中的生起观法 - 巴利圣典
+
+- 1. avijjāsamudayā saṅkhārasamudayoti paccayasamudayaṭṭhena saṅkhārakkhandhassa udayaṃ passati.
+- 2. taṇhāsamudayā saṅkhārasamudayoti paccayasamudayaṭṭhena saṅkhārakkhandhassa udayaṃ passati.
+- 3. kammasamudayā saṅkhārasamudayoti paccayasamudayaṭṭhena saṅkhārakkhandhassa udayaṃ passati.
+- 4. phassasamudayā saṅkhārasamudayoti paccayasamudayaṭṭhena saṅkhārakkhandhassa udayaṃ passati.
+- 5. nibbattilakkhaṇaṃ passantopi saṅkhārakkhandhassa udayaṃ passati.
+
+saṅkhārakkhandhassa udayaṃ passanto imāni pañca lakkhaṇāni passati.
+
+**【文件：[167]生灭智章/[188]d 行蕴中的灭观法 - 巴利圣典.md】**
+
+### 行蕴(saṅkhārakkhandha)中的灭观法 - 巴利圣典
+
+- 1. avijjānirodhā saṅkhāranirodhoti paccayanirodhaṭṭhena saṅkhārakkhandhassa vayaṃ passati.
+- 2. taṇhānirodhā saṅkhāranirodhoti paccayanirodhaṭṭhena saṅkhārakkhandhassa vayaṃ passati.
+- 3. kammanirodhā saṅkhāranirodhoti paccayanirodhaṭṭhena saṅkhārakkhandhassa vayaṃ passati.
+- 4. phassanirodhā saṅkhāranirodhoti paccayanirodhaṭṭhena saṅkhārakkhandhassa vayaṃ passati.
+- 5. vipariṇāmalakkhaṇaṃ passantopi saṅkhārakkhandhassa vayaṃ passati.
+
+saṅkhārakkhandhassa vayaṃ passanto imāni pañca lakkhaṇāni passati.<br>udayabbayaṃ passanto imāni dasa lakkhaṇāni passati.
+
+**【文件：[167]生灭智章/[189]a 识蕴中的生起观法 - 巴利圣典.md】**
+
+### 识蕴(viññāṇakkhandha)中的生起观法 - 巴利圣典
+
+- 1. avijjāsamudayā viññāṇasamudayoti paccayasamudayaṭṭhena viññāṇakkhandhassa udayaṃ passati.
+- 2. taṇhāsamudayā viññāṇasamudayoti paccayasamudayaṭṭhena viññāṇakkhandhassa udayaṃ passati.
+- 3. kammasamudayā viññāṇasamudayoti paccayasamudayaṭṭhena viññāṇakkhandhassa udayaṃ passati.
+- 4. nāmarūpasamudayā viññāṇasamudayoti paccayasamudayaṭṭhena viññāṇakkhandhassa udayaṃ passati.
+- 5. nibbattilakkhaṇaṃ passantopi viññāṇakkhandhassa udayaṃ passati.
+
+viññāṇakkhandhassa udayaṃ passanto imāni pañca lakkhaṇāni passati.
+
+**【文件：[167]生灭智章/[189]b 识蕴中的灭观法 - 巴利圣典.md】**
+
+### 识蕴(viññāṇakkhandha)中的灭观法 - 巴利圣典
+
+- 1. avijjānirodhā viññāṇanirodhoti paccayanirodhaṭṭhena viññāṇakkhandhassa vayaṃ passati.
+- 2. taṇhānirodhā viññāṇanirodhoti paccayanirodhaṭṭhena viññāṇakkhandhassa vayaṃ passati.
+- 3. kammanirodhā viññāṇanirodhoti paccayanirodhaṭṭhena viññāṇakkhandhassa vayaṃ passati.
+- 4. nāmarūpanirodhā viññāṇanirodhoti paccayanirodhaṭṭhena viññāṇakkhandhassa vayaṃ passati.
+- 5. vipariṇāmalakkhaṇaṃ passantopi viññāṇakkhandhassa vayaṃ passati.
+
+viññāṇakkhandhassa vayaṃ passanto imāni pañca lakkhaṇāni passati.<br>udayabbayaṃ passanto imāni dasa lakkhaṇāni passati. (paṭisaṃ, 52-55.)
+
+上面这些观法项目，正是《无碍解道》(paṭisambhidā magga)巴利圣典中所记载的「生灭(udayabbaya)的详细观修方法」的观法项目。
+该巴利圣典中所记载的完整观法项目，将在后面继续撰写呈现；现今则先行撰写呈现一些阐明该巴利圣典本意旨趣的《无碍解道》注释(aṭṭhakathā)的解说，以及一些大复注(mahāṭīkā)的解说。
+
+tattha **avijjāsamudayā rūpasamudayo**ti “purimakammabhavasmiṃ moho avijjā”ti vuttāya avijjāya sati imasmiṃ bhave rūpassa uppādo hotīti attho, **paccayasamudayaṭṭhenā**ti paccayassa uppannabhāvenāti attho, avijjā-taṇhā-kammāni cettha idha paṭisandhihetubhūtā atītapaccayā, imesu ca tīsu gahitesu saṅkhārupādānāni gahitāneva honti, **āhārasamudayā**ti pavattipaccayesu kabaḷīkārāhārassa balavattā soyeva gahito, tasmiṃ pana gahite pavattihetubhūtāni utucittānipi gahitāneva honti. (paṭisaṃ, ṭṭha, 1, 235.)
+
+tattha **avijjāsamudayā**ti avijjāya uppādā, atthibhāvāti attho. nirodhavirodhī hi uppādo atthibhāvavācakopi hotīti vutto vāyamattho, tasmā purimabhavasiddhāya avijjāya sati imasmiṃ bhave rūpassa uppādo hotīti attho. **paccayasamudayaṭṭhenā**ti paccayassa uppannabhāvena, atthibhāvatoti attho. avijjādīhi ca tīhi atītakālikāni tesaṃ sahakārīkāraṇabhūtāni upādānādīnipi gahitānevāti daṭṭhabbaṃ.
+
+pavattipaccayesu kabaḷīkārāhārassa balavatāya soeva gahito “**āhārasamudayā**”ti. tasmiṃ pana gahite pavattipaccayatāsāmaññena utucittānipi gahitāneva hontīti catusamuṭṭhānikarūpassa paccayato udayadassanaṃ vibhāvitamevāti daṭṭhabbaṃ. avijjātaṇhupanissayasahiteneva kammunā rūpakāyassa nibbatti. asati ca avijjupanissayāya bhavanikantiyā jātiyā asambhavo evāti. yathā ca rūpassa avijjātaṇhupanissayatā, evaṃ vedanādīnampi daṭṭhabbā. āhāro pana uppannassa rūpassa posako, kabaḷīkārāhārassa adhippetattā, kāmadhātādhiṭṭhānattā ca desanāya. ukkaṃsaniddesena vā āhāra-ggahaṇaṃ, “**nibbattilakkhaṇa**”ntiādinā kālavasena udayadassanamāha. tattha addhānavasena pageva udayaṃ passitvā ṭhito idha santativasena disvā anukkamena khaṇavasena passati. (mahāṭī, 2, 420-421.)
+
+上面这些注释(aṭṭhakathā)、复注(ṭīkā)的本意旨趣如下。----
+avijjāsamudayā rūpasamudayo = 由于无明(avijjā)的生起，(业生 kammaja)色生起——在如此等的开示之中，意思是说：在过去诸世培育业有(kammabhava)之时所生起的无明、渴爱(taṇhā)、业(kamma)，那能令其果报色生起的自然力能若明显存在，则于此世中(业生)色法便明显地生起出来；如此，借由该因法已经生起这一事实，亦即借由那能在该因法中令果报法生起的自然力能明显存在这一事实，瑜伽行者(yogāvacara)应当以观(vipassanā)智(ñāṇa)亲自现见、洞穿了知色蕴(rūpakkhandhā)的生起 = 生起(udaya)。
+
+在那些因法当中，由于直接取无明与渴爱而开示，因此与该无明、渴爱同属烦恼轮(kilesavaṭṭa)的取(upādāna)，也已一并被取来开示了。 
+由于直接取业而开示，因此与该业同属业轮(kammavaṭṭa)的行(saṅkhāra)，也已一并被取来开示了。 
+因此，能直接令业生色法与果报(vipāka)名法生起的那些因法，正是被无明、渴爱、取所环绕的行、业；换一种说法，正是无明、渴爱、取、行、业。
+
+在一期有(bhava)当中，结生(paṭisandhi)与入灭(cuti)之间的时段称为生命期间(pavatti)；在该生命期间所生起的那些因法，称为生命期间因 = 生命期间缘(pavattipaccaya)；该生命期间缘，正是归属于名为「时分现在(addhāpaccuppanna)」的现在(paccuppanna)世之中的现在因法。 
+在那些生命期间因当中——即在心(citta)、时节(utu)、食(āhāra)这些能令色法生起的因法当中——食是占主导地位的。 
+(食)是强而有力的因法。 
+唯有获得段食(kabaḷīkārāhāra)的支持，欲界(kāmabhūmi)中的色法们才能够长久地持续存留。 
+段食能守护、能滋养已经生起的四相续色(catusantatirūpa)。 
+其原因在于：一方面是因为(此开示)需要段食这一因法——即这「生灭详细观修方法」的观法开示需要段食这一因法；另一方面也是因为这观法开示是以名为欲有(kāmabhava)的欲界(kāmadhātu)作为其立足处之故。
+
+换一种说法，在生命期间诸因当中，只取「食」这一个因法而开示，乃是指出最殊胜者的「上首广释(ukkaṃsaniddesa) = 上首广释(ukkaṭṭhaniddesa)」之法。
+若与《导论(netti)》大巴利圣典中所记载的「相之食导论法(lakkhaṇāhāra netti)」相参对而取，则透过在生命期间诸因当中只取「食」这一个因法而开示，那些与生命期间因相同的时节、心也已一并被取来、开示并明示了；这是因为(世尊)把特相(lakkhaṇa)相同者合在一起开示之故。 
+因此应当记住：连同因心、时节而生起的色法也一并纳入而作观(vipassanā)的这件事，也已被明示了。
+
+在此，无明、渴爱、取、行、业这些因法，乃是过去世曾生起的、由某一过去世培育而成的烦恼轮、业轮诸法；像现今这样，当善男子你亲自实地修习名为「生灭详细观修方法」的观法项目之时，那五种过去因法，并不是以生-住-灭(uppāda-ṭhiti-bhaṅga)的方式明显地正在生起着的那一类法；因此，在「由于该无明、渴爱、取、行、业的生起，色法生起」这一说法中，所谓那些因法的「生起」，是指那些因法那能令其果报法生起的自然力能之明显存在；而所谓那明显存在，并不是指以生-住-灭的方式获得究竟法(paramattha)实体本身、明明显显地生起、明明显显地存在、获得究竟自体(attabhāva)之意；而仅仅是指那能令那些因法的果报法生起的自然力能之明显存在这种「生起」、生起(uppāda)的性质，亦即仅指尚未灭尽、力能尚未耗尽的不灭(anirodha)之性质。
+
+那不灭 = 所谓「尚未灭」之性质是什么呢？——一方面，由于尚未被圣道(ariya magga)之法所断除，因而处于明显存在的状态；另一方面，由于尚有尚未令其生起的果报 = 处于尚未给出果报的状态、处于尚不应被圣道之法断除的状态，因而处于应当令果报法生起的状态——这便称为不灭(anirodha)，称为存在(atthibhāva) = 明显存在、生起的性质。
+
+现以明示之——无明、渴爱、取等不善(akusala)诸法，乃是应被圣道之法断除的不善诸法；若圣道之法尚未断除那些不善诸法，则那些法便尚未灭寂，因此那些不善诸法称为不灭；由于仍明显存在，因此称为存在；正是这不灭之性质、存在之性质，在此处便是指生起(uppāda) = 生起之意，是指集(samudaya)之意。
+
+再者，善(kusala)法以及无记(abyākata) = 果报、唯作(kiriya)诸法，乃是不被圣道之法断除、也不应被断除的诸法。 
+对于尚未成为、尚未证得阿拉汉(arahant)的人们而言，在那些善、无记诸法上会生起结缚(samyojana)诸法。 
+(这些结缚)即：贪恋耽著人界之有、人之蕴(khandha)、天界之有、天之蕴；以及贪恋耽著那些能得获、能到达人界之有、人之蕴、天界之有、天之蕴的善法等等。那些结缚诸法的尚未耗尽，也正称为未断之状态(appahīnabhāva) = 尚未被圣道之法断除的状态。确实如此——由于随眠界(anusaya dhātu)尚未被圣道之法毫无残余地断除，因此连同结缚的诸蕴之不断生起，正称为缘起(paṭiccasamuppāda)。 
+若随眠界尚未被断除，则那能给予果报的力能仍明显存在的行、业，便不会变得贫瘠失效。 
+以异剎那业力(nānākhaṇikakammasatti)的方式，那能令适当果报法生长起来的力能，始终是存续着的。
+
+应当记住：正是像这样——无明、渴爱、取这些烦恼轮诸法尚未被圣道之法断除，由于那些随眠界尚在潜伏存续，因此行、业以异剎那业力的方式仍存续于色名诸蕴的相续之中——就这一点，(世尊)以「avijjāsamudayā ... taṇhāsamudayā ... kammasamudayā ...，由于无明的生起……由于渴爱的生起……由于业的生起……色生起」如此等方式而开示；至于这并非是无明、渴爱、取、行、业以生-住-灭的方式明显地正在生起着的那种生起，则请务必留意。
+
+**【文件：[167]生灭智章/[192] 转生相.md】**
+
+### 转生相(nibbattilakkhaṇā)
+
+**nibbattilakkhaṇa**nti addhā-santati-khaṇavasena rūpassa uppādaṃ, uppādoyeva saṅkhatalakkhaṇattā lakkhaṇanti ca vutto. (Paṭisaṃ-ṭṭha-1-235.)
+
+“**nibbattilakkhaṇa**”ntiādinā kālavasena udayadassanamāha. tattha addhānavasena pageva udayaṃ passitvāṭhito idha santativasena disvā anukkamena khaṇavasena passati. (Mahāṭī-2-421.)
+
+tīṇimāni bhikkhave saṅkhatassa saṅkhatalakkhaṇāni. katamāni tīṇi, uppādo paññāyati, vayopaññāyati, ṭhitassa aññathattaṃ paññāyati. (Aṅ-1-150.)
+
+佛陀在《有为相经》(Saṅkhatalakkhaṇa Sutta)（Aṅ-1-150）中,对于一切有为(saṅkhata)法——
+
+- 一、生起(uppāda)＝生成，
+- 二、灭(vaya)＝坏灭，
+- 三、住异(ṭhitassa aññathatta)＝已住立之法朝向将坏灭的一方倾侧、衰颓的状态,即所谓「住」的住时——
+
+如是,(佛陀)开示了(诸有为法)各自具有三种相(lakkhaṇā)的道理。
+
+在思惟智(sammasana ñāṇa)阶段,先前已凭借过去、现在、未来这一时段之力观照过色法的生起＝生(udaya)之性的修行者(yogāvacara),在此生灭智(udayabbaya ñāṇa)阶段,须凭借相续(santati)之力,以观智(vipassanāñāṇa)观见色法的生起＝生之性。
+以观智观见相续之力的色法的生起＝生之性之后,再循序渐进、继续以观智观见剎那(khaṇa)之力的色法的生起＝生之性;那剎那之力的色法的生起＝生之性＝生起之性,正是名为转生(nibbatti)。
+依《无碍解道》(Paṭisambhidā magga)义注之意,凭借那「时段—相续—剎那」(addhā-santati-khaṇa)之力的色法的生起＝生起之性＝生之性,正是名为转生。
+正因为这转生本身即是有为的相,所以这转生本身也被开示为「相」。
+把转生与相两者合起来,便成为转生相。
+对于受蕴(vedanākkhandhā)等(诸名蕴)也应依此方法一一类推、了知。
+
+**【文件：[167]生灭智章/[193] 无明灭故色灭.md】**
+
+### avijjānirodhā rūpanirodho
+
+**avijjānirodhā rūpanirodho**ti anāgatabhavassa paccayabhūtāya imasmiṃ bhave avijjāya arahattamaggañāṇena nirodhe kate paccayābhāvā anāgatassa rūpassa anuppādanirodho hotītiattho. **paccayanirodhaṭṭhenā**ti paccayassa niruddhabhāvenāti attho. nirodho cettha anāgatapaṭisandhipaccayānaṃ idha avijjā-taṇhā-kammānaṃyeva nirodho. (paṭisaṃ, ṭṭha, 1, 236.)
+
+**avijjānirodhā rūpanirodho**ti aggamaggañāṇena avijjāya anuppādanirodhato anāgatassarūpassa anuppādanirodho hoti paccayābhāve abhāvato. **paccayanirodhaṭṭhenā**ti avijjāsaṅkhātassaanāgate uppajjanakarūpapaccayassa niruddhabhāvena. **taṇhānirodhā kammanirodhā**ti etthāpi eseva nayo.(mahāṭī, 2, 421.)
+
+「由于无明灭，色灭」——在以这样开头等方式所宣说的观(vipassanā)的观照范围中，当阿拉汉道(arahattamagga)无余地断除无明(avijjā)、渴爱(taṇhā)、取(upādāna)时，或者能够断除时，由无明、渴爱、取所引领的烦恼轮转(kilesavaṭṭa)诸法将完全寂灭，并将到达以不再生起之灭而寂灭的不生灭尽(anuppādanirodha)体性；由于烦恼轮转诸法无余地寂灭，那些唯有在烦恼的湿润界、黏液界存在时才具有给予果报之能力的、称为行(saṅkhāra)与业(kamma)的业轮转(kammavaṭṭa)诸法也将寂灭。
+由于能令新的有(bhava)再次生起的因法借由阿拉汉道而完全寂灭，因此那些唯有在因法显著存在时才能在般涅槃入灭(parinibbānacuti)之后续中生起的未来果报轮转(vipākavaṭṭa)诸法，也因不再有生起的机会而随之寂灭。
+（在那果报轮转中，也包含将于般涅槃入灭之无间的未来有中生起的色(rūpa)诸法。） 
+由于因法不再显著存在，果法也就不再能够显著存在。 
+修行者(yogāvacara)抵达阿拉汉道时，借由那阿拉汉道，由于无明、渴爱、取、行、业的寂灭，对于那些有可能在般涅槃入灭之无间的未来有中生起的、属于果报轮转的色法（以及名(nāma)法）的寂灭，应当以观智(vipassanā ñāṇa)＝生灭随观智(udayabbayānupassanā ñāṇa)看到为止，应当将这一观照范围观察到看见为止。
+
+**【文件：[167]生灭智章/[193]b 证得阿拉汉道的时刻.md】**
+
+### 证得阿拉汉道的时刻
+
+有这样一个问题：所谓阿拉汉道，是会在什么时候生起的阿拉汉道呢？
+如今，这一观法，是巴利圣典(pāli)、注释(aṭṭhakathā)、复注(ṭīkā)特别着重地、为那些想要从凡夫(puthujjana)之身跨进圣者(ariya)之身的善良瑜伽行者(yogāvacara)所宣说、所阐释的
+观法。
+也并非说圣者善人们就不应当修这一观法。
+无论是凡夫也好、是圣者善人也好，任何瑜伽行者，只要尚未抵达阿拉汉道，在那一整段期间内，若其根(indriya)尚未成熟，这些就都是应当修习的观(vipassanā)观法。
+不过，这里所说的，只是为了让人明白：巴利圣典、注释、复注之所以指示一位凡夫善人也要修习这一观的观法，正是为了使他能够跨进圣者善人之身。
+像如今这样，为了证得生灭智(udayabbaya ñāṇa)而仍在努力精进、仍只停留于凡夫之身的你这位瑜伽行者，由于阿拉汉道也尚未证得，所以所谓阿拉汉道，并不像某些尊贵的导师们所认定的那样，是一种纯属现在(paccuppanna)的法＝纯粹现在的法；因为在仅停留于凡夫阶段的你这位善人的相续(santāna)之中，当还只停留在这生灭智阶段之时，阿拉汉道智也尚未生起的缘故。
+
+倘若你这位善人高声疾呼、大声宣称：唯有纯粹现在、唯有纯属现在才值得作观——那么，这一名为「paccayato udayabbaya dassana＝借由因法而观生-灭的方法」的、详尽修习生灭(udayabbaya)的观观法，对你这位善人来说，就有可能成为一种毫无意义的观法；甚至可能会演变成这样一种意涵：佛陀(Buddha)并不曾为你这位善人开示过这一观的观法。为了不致于对佛陀以及佛陀的法(dhamma)产生重大的偏差，实在应当格外地谨慎留意。
+
+对于仍只停留在这生灭智阶段、仍只是凡夫的你这位善人来说，所谓阿拉汉道，是将在未来某个时候才会生起的法；而那未来，既可能是此生之内某个时候这样的未来，也可能是此生入灭(cuti)之后将生起的某个未来之有(bhava)。
+
+至于那阿拉汉道将会生起的时候，《清净之道》大义疏(Visuddhi Magga Mahāṭī)中是这样开示的：「由于阿拉汉道使无明(avijjā)以不再生起的灭而寂灭，因此，在般涅槃入灭(parinibbānacuti)之后续中，那些倘若因法尚未穷尽便有可能生起的未来色法，便会以不再生起的灭而寂灭、止息」——如此等等，不限定有之范围、不指明是哪一种有，只作了一般性的开示。
+不过，在前面已撰写呈现的《无碍解道》(Paṭisambhidā magga)义注中，则是——［ nirodho cettha anāgatapaṭisandhipaccayānaṃ idha avijjā-taṇhā-kammānaṃyeva nirodho.（《无碍解道》义注，1，236。）］
+「若能在此生之中，便借由阿拉汉道智，将作为未来有之根源的无明（亦即无明-渴爱(taṇhā)-取(upādāna)-行(saṅkhāra)-业(kamma)）予以寂灭，那么，由于因法不再显著存在，将于未来生起的、属于未来的结生(paṭisandhi)色法，便会以不再生起的灭而寂灭、止息。」
+
+如此等等地作了阐释。
+像这样把阿拉汉道阐释为将在此生之中生起，应当认为：那只是顺着多数情形、依一般性的方式而作的阐释而已。
+换一种说法，应当认为：这是依「以影显形」的譬喻方式(upalakkhaṇa)、举例方式(nidassana)，以那将在此生之中抵达阿拉汉道的瑜伽行者(yogī)善人作为范例而加以阐释的。
+若问其原因——那是因为：在此生之中尚不能抵达圣道(ariya magga)智、只能证得这生灭智等观智的凡夫、一种子(ekabīji)须陀洹(sotāpanna)、家家(kolaṃkola)须陀洹、极七返(sattakkhattuparama)须陀洹，以及将在天界、梵天界(brahma)中般涅槃(parinibbāna)的一来者(sakadāgāmī)、不来者(anāgāmī)等善人，都唯有在未来某一种有之中才能证得阿拉汉道的缘故。
+
+无论如何，倘若瑜伽行者将在此生之中便证得阿拉汉道，那么，由于那阿拉汉道使无明、渴爱、取、行、业以不再生起的灭而寂灭＝以不生灭尽(anuppādanirodha)之性而寂灭，因此，对于那些倘若不证得阿拉汉道便有可能生起的、将于来世未来之有中生起的色蕴(rūpakkhandhā)（即果报(vipāka)名蕴）的、以不再生起的灭而寂灭的不生灭尽之性，应当以观智(vipassanā ñāṇa)看到为止，从而修习这一详尽修习生灭的观法。（请重新作意前面在缘起(paṭiccasamuppāda)部分已撰写呈现的逆缘起(paṭiloma paṭiccasamuppāda)观法。）
+
+倘若你这位善人将在未来某一种有之中才证得阿拉汉道，那么，由于那阿拉汉道使无明、渴爱、取、行、业以不再生起的灭而寂灭、达到不生灭尽之性，因此，对于那些在证得那阿拉汉道的未来之有之后、倘若不证得阿拉汉道便有可能生起的色蕴（即果报名蕴）的、以不再生起的灭而寂灭的不生灭尽之性，应当以观智看到为止，从而修习这一详尽修习生灭智的观法。
+
+请重新作意前面在缘起部分已撰写呈现的缘起第五法(paṭiccasamuppāda pañcama naya)观法。
+应当依照那第五法，来修习这一详尽修习生灭的方法。
+以缘起第五法摄持因法与果法之时，曾把因法与果法一直摄持到未来缘起轮回(saṃsāra)之轮停止之时，或一直摄持到那有为止。
+在那将终结轮回旅程的有之中，于轮回旅程尚未终结之前、轮回之轮尚未停止之前的某个时候，借由阿拉汉道，无明、渴爱、取、行、业便以不生灭尽之性而寂灭、止息了。
+由于那无明、渴爱、取、行、业以不生灭尽之性而寂灭，因此对于五蕴(khandha)也以不生灭尽之性而寂灭，应当以观智看到为止，从而修这一「由于无明灭故色灭」等的、详尽修习生灭的观法。
+
+诸行法(saṅkhāra dhamma)以坏灭、坏(bhaṅga)而应当了知的变易(vipariṇāma)之性，也正是有为(saṅkhata)的特相(lakkhaṇa)，故称为**变易相(vipariṇāmalakkhaṇa)**。
+对于受蕴(vedanā)等等，也请同样地了知。
+
+**触(phassa)** ------ phuṭṭho vedeti, phuṭṭho sañjānāti, phuṭṭho ceteti.（《相应部》(Sam)，2，292。）
+
+触及所缘(ārammaṇa)的人感受所缘，触及所缘的人识知所缘，触及所缘的人策励、努力使相应(sampayutta)诸法落到所缘之上。
+如此等等，
+
+phassapaccayā vedanā, cakkhusamphassajā vedanā, saññā, cetanā.（《阿毗达摩》(Abhidhamma)，2，143。）
+
+由于名为触的因，受生起；眼触所生(cakkhusamphassaja)之受、想(saññā)、思(cetanā)也都生起——如此等等，
+
+由于佛陀如此开示，所以触是受蕴、想蕴(saññā)、行蕴(saṅkhāra)的生命期间之缘(pavatti paccaya)＝生命期间的因法＝现在的因法。
+由于那触以不生灭尽之性而寂灭，因此那受蕴、想蕴、行蕴也以不生灭尽之性而寂灭、止息。
+
+**《大本经》(Mahāpadāna Sutta)**（《长部》(Dī)，2，28。），
+**《大缘经》(Mahānidāna Sutta)**（《长部》，2，48。）
+等之中，以及**《阿毗达摩·相互缘品》(Abhidhamma Aññamañña paccaya vāra)**（《阿毗达摩》，4，371。）
+之中——由于佛陀开示了「nāmarūpapaccayā viññāṇaṃ」，所以名色(nāmarūpa)是识蕴(viññāṇa)的生命期间之缘＝生命期间的因法＝现在的因法；由于那名色以不生灭尽之性而寂灭，因此识蕴也以不生灭尽之性而寂灭、止息。因此——
+
+phassasamudayā vedanāsamudayo, phassanirodhā vedanānirodho. nāmarūpasamudayā viññāṇasamudayo, nāmarūpanirodhā viññāṇanirodho ...
+
+＝由于触生起故受生起，由于触灭故受灭。
+由于名色生起故识生起，由于名色灭故识灭……
+
+如此等等，于《无碍解道》巴利圣典中作了开示。（《大义疏》(Mahāṭī)，2，422。）
+
+**【文件：[167]生灭智章/[196] 生起灭尽 - 不生灭尽.md】**
+
+### uppādanirodha - anuppādanirodha
+
+无明(avijjā)、渴爱(taṇhā)、取(upādāna)等烦恼轮诸法，只要尚未被各自相应的圣道(ariya magga)之法所断除，在整个期间，便作为随眠界(anusaya dhātu)，潜伏、随附、安住于诸有情的名色相续流(santāna)之中；当能令〔它们〕以生起-住-坏灭(uppāda-ṭhiti-bhaṅga)之方式显现生起的诸因法和合相聚时，那些烦恼轮诸法便以生起-住-坏灭之方式显现而生起；当如此显现生起之时，依照诸究竟法(paramattha)本质之自然法则，于生起之后便进入坏灭之时段而灭坏；如此灭坏而去，即是生起灭尽(uppādanirodha)。
+〔这种生起灭尽，〕是当能令〔它们〕以生起-住-坏灭之方式显现生起的诸因法再度和合相聚时，便仍有机会再一次以生起-住-坏灭之方式显现生起的那种灭。
+一切称为烦恼(kilesa)者，只要其随眠界之根株尚未被各自相应的圣道之法毫无残余地断除，在整个期间便一律是如此这般的情形。
+而到了某个时候，那些随眠烦恼界之根株被各自相应的圣道之法毫无残余地断除了；那时，各自相应的诸烦恼便以将来不再生起之灭而寂灭；如此地以将来不再生起之灭而寂灭，即称为不生灭尽(anuppādanirodha)。
+
+**【文件：[167]生灭智章/[196]b 五种灭.md】**
+
+### 五种灭（nirodha）
+
+- 1. 由大善（mahākusala）所应断除之烦恼（kilesa）的无有、即所谓「不存在（abhāva）」的，称为**彼分灭（tadaṅganirodha）**，
+- 2. 由色界（rūpāvacara）善、无色界（arūpāvacara）善所应断除之烦恼的无有、即所谓「不存在」的，称为**抽离灭（vikkhambhananirodha）**，
+- 3. 由圣道（ariya magga）法所无余断除、摧毁之烦恼的无有、即所谓「不存在」的，称为**正断灭（samucchedanirodha）**，
+- 4. 由圣果（ariya phala）所应断除之烦恼的无有、即所谓「不存在」的，称为**止息灭（paṭipassaddhinirodha）**，
+- 5. 心（citta）-心所（cetasika）(色（rūpa）)于每一剎那、每一剎那，每一坏灭时、每一坏灭时的灭去，称为**剎那坏灭（khaṇabhaṅganirodha）**——如此便有五种灭。（阿毗、注、3、311。）
+
+其中，彼分灭、抽离灭、剎那坏灭这几种，属于生起灭（uppādanirodha）。
+是在因尚未穷尽时仍有机会再度生起的灭。（在那些法当中，不包括般涅槃入灭（parinibbānacuti）。）
+正断灭与止息灭这两种，则属于不生灭尽（anuppādanirodha）。
+是以不再有机会生起、不再生起的灭而止息下来的那一类止息。
+在般涅槃入灭之后，五蕴（khandha）的止息——蕴般涅槃（khandhaparinibbāna）——也是以不再生起的灭而止息的，正是不生灭尽。
+
+若细看以上这些解说，贤善的你想必已能领会：这一生灭（udayabbaya）的详细修观方法，与缘起（paṭiccasamuppāda）第五法的观照诸格，彼此之间是相互助益的；正如在缘起第五法中所撰写呈现的那样，只要能掌握因法与果法，便能轻易地领会这一生灭的详细修观方法。
+在此，仅就修观的方法体系的若干样式，写出来加以呈现，以使能够领会而已。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[197]a 集法随观篇 - 生起见 = 唯观生起的观法.md】**
+
+## 集法随观（samudayadhammānupassī）篇 ## 生起见（udayadassana） = 唯观生起的观法
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[197]b 结生 - 色蕴.md】**
+
+### 结生(paṭisandhi) - 色蕴(rūpakkhandha)
+
+善男子若想观「由缘而见生起(paccayato udayadassana)＝以因法观生起的观法」与「由剎那而见生起(khaṇato udayadassana)＝以剎那观生起的观法」这两种生起见(udayadassana)，首先应当摄取自己想要观修的色蕴、名蕴(nāmakkhandha)；此后，既要继续观修各自的因法令各自的果法生起之情形，也要继续观修果蕴纯粹生起的生起(udaya)之性。
+善男子，假设你想在结生五蕴中观这个观法项目；首先请把结生五蕴再一次重新摄取；此后请把自己想观的色蕴再度摄取。
+在那结生色蕴中，含有(30)种业生色(kammaja rūpa)。 
+而那色蕴，是由善男子自己在过去某一生中所培育积聚的无明(avijjā)、渴爱(taṇhā)、取(upādāna)、行(saṅkhāra)、业(kamma)所生起的法。 
+那些无明、渴爱、取、行、业，以及由那些无明、渴爱、取、行、业而使结生色蕴生起的情形，在以缘起(paṭiccasamuppāda)第五法摄取因法与果法之时，善男子自己便已经摄取过了。 
+是何种类的无明、渴爱、取、行、业，在那时也已经摄取过、了知过了。 
+善男子，如同在那缘起第五法中所观的那样，由于那些名为无明、渴爱、取、行、业的过去因法而使结生业生色(paṭisandhi kammaja rūpa)生起的情形，请以观智(vipassanā ñāṇa)努力看清；看清之时，请观下面的观法项目。 
+
+- 一、由于无明(20)生起，(结生业生)色生起。
+- 二、由于渴爱(20)生起，(结生业生)色生起。
+- 三、由于取(20)生起，(结生业生)色生起。
+- 四、由于行(34)生起，(结生业生)色生起。
+- 五、由于业(= 行-34-的业力(kammasatti))生起，(结生业生)色生起。
+  - \* (结生业生)色之生起之性。
+
+此处仅将无明-渴爱-取以(20)作为一种范式呈现，(它们)可随宜为(19-20-21-22)；行-业也仅以(34)作为一种范式撰写呈现，(它们)可随宜为(34-33-33-32)。 
+善男子只须依照在某一生中、自己色名相续流(santāna)之中实际发生过的情形来观。 
+请注意：如同在缘起第五法中所撰写呈现的那样，在这一生与那一生当中，无明、渴爱、取、行、业仅是名称相同，其生起的情状、种类却各不相同。 
+首先，请摄取能令现在(paccuppanna)这一生的结生色蕴生起的无明、渴爱、取、行、业。 
+其次，请以观智努力看清由那些无明、渴爱、取、行、业而使结生色蕴生起的情形，然后观上面的观法项目。 
+由缘而见生起＝即以因法观生起。
+其次，呈现了一个名为「诸业生色之生起之性」的观法项目。 
+所谓「诸业生色之生起之性」这一观法项目，正是凭借剎那(khaṇa)观结生色蕴的生起、即生起(uppāda)＝转生相(nibbattilakkhaṇa)。
+正是由剎那而见生起。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[198] 结生 - 受蕴中观生起的方式.md】**
+
+### 结生(paṭisandhi)——受蕴(vedanākkhandhā)中观生起(udaya)的方式
+
+首先，善男子应当依照在缘起(paṭiccasamuppāda)篇第五法中收摄因法与果法的方式，以观智(vipassanā ñāṇa)观看以下二者直至得见：其一，由于无明(avijjā)、渴爱(taṇhā)、取(upādāna)、行(saṅkhāra)、业(kamma)等过去的因法，结生受蕴如何生起；其二，由于与结生受蕴一同生起的依处(vatthu)(心所依处色(hadaya vatthu))、所缘(ārammaṇa)、触(phassa)等生命期间(pavatti)的因 = 现在(paccuppanna)的因法，结生受蕴如何生起。
+得见之后，再观以下的观察格。
+
+- 1. 因无明(20)生起，(结生)受(vedanā)生起。
+- 2. 因渴爱(20)生起，(结生)受生起。
+- 3. 因取(20)生起，(结生)受生起。
+- 4. 因行(34)生起，(结生)受生起。
+- 5. 因业(= 行-34-的业力(kammasatti))生起，(结生)受生起。
+- 6. 因依处(= 心所依处色)生起，(结生)受生起。
+- 7. 因所缘(结生的所缘)生起，(结生)受生起。
+- 8. 因触(= 34 - 受 = 33)生起，(结生)受生起。
+  - \* (结生)受的生起样态。
+
+此处所说的依处，即是与结生受蕴一同生起的心所依处色；不过，应依照不可分离的不相离(avinābhāva)之法，将与心所依处色俱在、安住于心脏中的一切色法(rūpa dhamma)都取为所缘而观，于每一处都以同样的方法记取。
+所说的所缘，即是作为结生名法(nāmadhamma)聚之所缘的业、业相(kamma nimitta)、趣相(gatinimitta)这三种所缘当中的某一种。
+请善男子亲自依照缘起第五法中所书写陈述的那样，审察那所缘究竟是哪一种所缘。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[199]a 结生 - 想蕴中的生起观法.md】**
+
+### 结生(paṭisandhi) - 想蕴(saññā)中的生起观法
+
+- 1. 因为无明(avijjā)(20)的生起，(结生)想生起。
+- 2. 因为渴爱(taṇhā)(20)的生起，(结生)想生起。
+- 3. 因为取(upādāna)(20)的生起，(结生)想生起。
+- 4. 因为行(saṅkhāra)(34)的生起，(结生)想生起。
+- 5. 因为业(kamma)(=行34的业力(kammasatti))的生起，(结生)想生起。
+- 6. 因为依处(vatthu)(=心所依处色(hadaya vatthu))的生起，(结生)想生起。
+- 7. 因为所缘(ārammaṇa)(=结生的所缘)的生起，(结生)想生起。
+- 8. 因为触(phassa)(=34-想=33)的生起，(结生)想生起。
+  - \* (结生)想的生起之性质。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[199]b 结生 - 行蕴中的生起观法.md】**
+
+### 结生(paṭisandhi) - 行蕴(saṅkhārakkhandha)中的生起观法 (第一法)
+
+- 一、由于无明(avijjā)(20)生起，(结生)行(saṅkhāra)生起。
+- 二、由于渴爱(taṇhā)(20)生起，(结生)行生起。
+- 三、由于取(upādāna)(20)生起，(结生)行生起。
+- 四、由于行(34)生起，(结生)行生起。
+- 五、由于业(kamma)(= 行-34-的业力(kammasatti))生起，(结生)行生起。
+- 六、由于依处(vatthu)(= 心所依处色(hadaya vatthu))生起，(结生)行生起。
+- 七、由于所缘(ārammaṇa)(= 结生的所缘)生起，(结生)行生起。
+- 八、由于触(phassa)(= 34 - 思(cetanā) = 33)生起，(结生)行生起。
+
+\* (结生)行之生起之性。
+
+在此法中，仅把与结生识(viññāṇa)相应的思摄取为行蕴；因此，在因法这一边，是除思之外剩余的名法(nāma dhamma)(33)。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[199]c 结生 - 行蕴中的生起观法.md】**
+
+### 结生(paṭisandhi) - 行蕴(saṅkhārakkhandha)中的生起观法（第二法）
+
+- 一、由于无明(avijjā)（20）生起，（结生心所(cetasika)）行(saṅkhāra)生起。
+- 二、由于渴爱(taṇhā)（20）生起，（结生心所）行生起。
+- 三、由于取(upādāna)（20）生起，（结生心所）行生起。
+- 四、由于行（34）生起，（结生心所）行生起。
+- 五、由于业(kamma)（＝行-34-的业之力(kammasatti)）生起，（结生心所）行生起。
+- 六、由于依处(vatthu)（＝心所依处色(hadaya vatthu)）生起，（结生心所）行生起。
+- 七、由于所缘(ārammaṇa)（＝结生的所缘）生起，（结生心所）行生起。
+- 八、由于其余三种名蕴(nāmakkhandha)生起，（结生心所）行生起。
+  - \* （结生心所）行的生起之性。
+
+在这行蕴中，把思(cetanā)取为行蕴的第一法，与把除受(vedanā)、想(saññā)之外其余一切心所取为行蕴的第二法，共有两种方法；你这位善士对这两种方法都应当加以观照。
+在把思取为行蕴的第一法中，于名为触(phassa)的因法这一边，除思之外其余的、连同触在内的、相伴相应(sampayutta)之法，凡是相应的，都将如其所应地存在着。
+而在把除受、想之外其余一切心所取为行蕴的第二法中，于那编号（8）的因法部分里，只有受、
+想、识(viññāṇa)这名为〔受、想、识〕的其余三种名蕴而已。
+这是因为：在名为行蕴的果法这一边，除受、想之外其余一切心所全都包含在内的缘故。
+对于每一处，都应依此同样的方法记取。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[200]a 结生 - 识蕴中的生起观法.md】**
+
+### 结生(paṭisandhi) - 识蕴(viññāṇakkhandhā)中的生起观法
+
+- 1. 因为无明(avijjā)(20)的生起，(结生)识(viññāṇa)生起。
+- 2. 因为渴爱(taṇhā)(20)的生起，(结生)识生起。
+- 3. 因为取(upādāna)(20)的生起，(结生)识生起。
+- 4. 因为行(saṅkhāra)(34)的生起，(结生)识生起。
+- 5. 因为业(kamma)(=行34的业力(kammasatti))的生起，(结生)识生起。
+- 6. 因为名色(nāmarūpa)的生起，(结生)识生起。
+  - \* (结生)识的生起之性质。
+
+此处，所谓的名(nāma)，即与结生识相应的诸心所(cetasika)法聚；所谓的色(rūpa)，也是指所依的依处色(vatthu rūpa)；倘若结生的所缘相(ārammaṇa)是色法，则也指那个所缘色法；结生的所缘究竟是不是色法，请善男子亲自审察一番。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[200]b 有分 - 于色蕴中观生起之法.md】**
+
+### 有分（bhavaṅga）——于色蕴（rūpakkhandhā）中观生起（udaya）之法
+
+从结生（paṭisandhi）之后的第一个有分开始，于整个生命期间，在一切随应生起的有分之中，可结成五蕴，凭自己的智（ñāṇa）所能及的范围，观照这个观照范围。
+结生之后第一个有分所依靠的色法（rūpa），就是与结生心一同生起的心所依处色（hadaya vatthu）。
+在那第一个有分之际，不只是业生色（kammaja rūpa），心生色（cittaja rūpa）、时节生色（utuja rūpa）也都已经生起了。
+只有食生色（āhāraja rūpa）还不能生起。
+应把那一切色法都归入色蕴中来观照。
+在如此修习观（vipassanā）的时候，于那些有分的诸心剎那（citta-kkhaṇa）中，业生色、心生色、时节生色、食生色这一切色都随应地生起着。
+在此，于如此修习观的时候，对在你这位善人的相续（santāna）中正在生起的有分心剎那之际的五蕴观照范围，在此作为范例样式写出陈示。
+
+- 一、因无明（avijjā）（20）的生起，（有分 业生）色生起。
+- 二、因渴爱（taṇhā）（20）的生起，（有分 业生）色生起。
+- 三、因取（upādāna）（20）的生起，（有分 业生）色生起。
+- 四、因行（saṅkhāra）（34）的生起，（有分 业生）色生起。
+- 五、因业（kamma）（= 行34的业力〔kammasatti〕）的生起，（有分 业生）色生起。
+  - \* （有分 业生）色的生起之性。
+- 六、因心（citta）的生起，（有分 心生）色生起。
+  - \* （有分 心生）色的生起之性。
+- 七、因时节（utu）的生起，（有分 时节生）色生起。
+  - \* （有分 时节生）色的生起之性。
+- 八、因食（āhāra）的生起，（有分 食生）色生起。
+  - \* （有分 食生）色的生起之性。
+
+正如把在结生之际生起的诸色法称为「结生业生色」一样，对在有分心剎那之际生起的诸色，也分别称为「有分业生色」、「有分心生色」、「有分时节生色」、「有分食生色」。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[201] 有分 - 受蕴中的生起观法.md】**
+
+### 有分（bhavaṅga）- 受蕴（vedanākkhandha）中的生起观法
+
+- 1. 因「无明（avijjā）（20）」的生起，故（有分）受（vedanā）生起。
+- 2. 因「渴爱（taṇhā）（20）」的生起，故（有分）受生起。
+- 3. 因「取（upādāna）（20）」的生起，故（有分）受生起。
+- 4. 因「行（saṅkhāra）（34）」的生起，故（有分）受生起。
+- 5. 因「业（kamma）（=行-34-的业力（kammasatti））」的生起，故（有分）受生起。
+- 6. 因「所依（vatthu）（=心所依（hadayavatthu））」的生起，故（有分）受生起。
+- 7. 因「所缘（ārammaṇa）（=有分的所缘）」的生起，故（有分）受生起。
+- 8. 因「触（phassa）（=34-受=33）」的生起，故（有分）受生起。
+  - \* （有分）受的生起之性质。
+
+此处，所谓所缘，是指在过去世临死时刻，由临死速行（maraṇāsannajavana）所执取的、称为「业、业相（kammanimitta）、趣相（gatinimitta）」的三种所缘当中的某一种所缘。 
+有分的所缘与结生（paṭisandhi）名法聚的所缘是相同的。 
+在有分的全部四个名蕴（nāmakkhandha）中，应以同样的方法记取。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[201]b 有分 - 行蕴中的生起观法（第一种方法）.md】**
+
+### 有分（bhavaṅga）- 行蕴（saṅkhārakkhandha）中的生起观法（第一种方法）
+
+**（就行（saṅkhāra）而言，取「思（cetanā）」。）**
+
+- 1. 因「无明（avijjā）（20）」的生起，故（有分心所（cetasika））行生起。
+- 2. 因「渴爱（taṇhā）（20）」的生起，故（有分心所）行生起。
+- 3. 因「取（upādāna）（20）」的生起，故（有分心所）行生起。
+- 4. 因「行（34）」的生起，故（有分心所）行生起。
+- 5. 因「业（kamma）（=行-34-的业力（kammasatti））」的生起，故（有分心所）行生起。
+- 6. 因「所依（vatthu）（=心所依（hadayavatthu））」的生起，故（有分心所）行生起。
+- 7. 因「所缘（ārammaṇa）」的生起，故（有分心所）行生起。
+- 8. 因「触（phassa）（=34-思=33）」的生起，故（有分心所）行生起。
+  - \* （有分心所）行的生起之性质。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[202]c 有分 - 行蕴中的生起观法（第二种方法）.md】**
+
+### 有分（bhavaṅga）- 行蕴（saṅkhārakkhandha）中的生起观法（第二种方法）
+
+**（就行（saṅkhāra）而言，取心所（cetasika）31个。）**
+
+- 1. 因「无明（avijjā）（20）」的生起，故（有分心所）行生起。
+- 2. 因「渴爱（taṇhā）（20）」的生起，故（有分心所）行生起。
+- 3. 因「取（upādāna）（20）」的生起，故（有分心所）行生起。
+- 4. 因「行（34）」的生起，故（有分心所）行生起。
+- 5. 因「业（kamma）（=行-34-的业力（kammasatti））」的生起，故（有分心所）行生起。
+- 6. 因「所依（vatthu）（=心所依（hadayavatthu））」的生起，故（有分心所）行生起。
+- 7. 因「所缘（ārammaṇa）」的生起，故（有分心所）行生起。
+- 8. 因「其余三种名蕴」的生起，故（有分心所）行生起。
+  - \* （有分心所）行的生起之性质。
+
+在此行蕴第一种方法的观照范围中，由于就行蕴只取「思（cetanā）」这一个，所以在果法一方只有「思」一个，而在因法一方，除「思」以外的、与触（phassa）相伴的一切名法都存在着；在行蕴第二种方法的观照范围中，则就行蕴取除受（vedanā）、想（saññā）、识（viññāṇa）以外的、与触相伴的心所（31）个，触则存在于果法一方，因此名为受、想、识的其余三种名蕴便存在于该行蕴的因法部分中；每一处都依同样的方法记取。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[203]a 有分 - 识蕴中的生起观法.md】**
+
+### 有分（bhavaṅga）- 识蕴（viññāṇakkhandhā）中的生起观法
+
+- 1. 因「无明（avijjā）（20）」的生起，故（有分）识（viññāṇa）生起。
+- 2. 因「渴爱（taṇhā）（20）」的生起，故（有分）识生起。
+- 3. 因「取（upādāna）（20）」的生起，故（有分）识生起。
+- 4. 因「行（saṅkhāra）（34）」的生起，故（有分）识生起。
+- 5. 因「业（kamma）（=行-34-的业力（kammasatti））」的生起，故（有分）识生起。
+- 6. 因「名色（nāmarūpa）」的生起，故（有分）识生起。
+  - \* （有分）识的生起之性质。
+
+就名而言，请收取与有分识相应的全部心所（cetasika）。 
+自己所摄取、修观的、与有分识相应的诸心所名法，只是在一个心剎那（cittakkhaṇa）之内同时生起的诸法而已。 
+心剎那并无间隔。 
+所谓色，是指作为有分所依的心所依处色（hadayavatthu），连同心脏中不可或缺地存在的（54）种色法。 
+倘若有分名法聚的所缘（ārammaṇa）是色法，则连同那个色法也一并纳入「名色」清单中来观。
+在整个一生当中正在生起的每一个有分心剎那中，都应以同样的方法记取。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[203]b 五门转向 - 色蕴中观生起的方式.md】**
+
+### 五门转向(pañcadvārāvajjana) - 色蕴(rūpakkhandha)中观生起(udaya)的方式
+
+善男子应当再次回顾名业处(nāmakammaṭṭhāna)篇的诸表，并铭记于心。
+如同那些表中所示，应当在每一个心路心刹那(vīthicittakkhaṇa)中构建五蕴，并于每一蕴中逐一地观此观察格。
+那五门转向之际的色蕴观察格，与有分(bhavanga)色蕴观察格完全相同。
+仅将受蕴(vedanākkhandhā)等的观察格书写陈述出来。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[203]c 色所缘线 - 五门转向 - 受蕴中观生起的方式.md】**
+
+### 色所缘（rūpārammaṇa）线 - 五门转向（pañcadvārāvajjana） - 受蕴（vedanākkhandhā）中观生起（udaya）的方式
+
+- 1. 因「所依（vatthu）（=心所依（hadayavatthu））」的生起，故（五门转向）受（vedanā）生起。
+- 2. 因「所缘（ārammaṇa）（=色所缘）」的生起，故（五门转向）受生起。
+- 3. 触（phassa）=（甲）因「有分（bhavaṅga）意触（manosamphassa）（=34）」的生起，故（五门转向）受生起。
+- （乙）因「五门转向意触（=11-受=10）」的生起，故（五门转向）受生起。
+  - \* （五门转向）受的生起样态。
+
+此处，五门转向受恒定地是舍受（upekkhāvedanā）。
+该五门转向所依止的依处，正是心所依。
+应依照不可分离的不相离（avinābhāva）之法，将与该心所依俱在、正在心脏之内生起的（54）种色法（rūpadhamma）都取为所缘而观。
+而所缘在此处也正是色所缘。
+然而，也应依照不可分离的不相离之法，将与该色所缘俱在生起的、同一色聚（kalāpa）的色法也一并收摄，令其密集（ghana）破除、达至究竟法（paramattha），如此而观。
+如此而观，仅仅是为了破除密集、使智（ñāṇa）的洞见达至究竟法。
+于一切处都以同样的方法记取。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[204]a 五门转向 - 想蕴中观生起的方式.md】**
+
+### 五门转向（pañcadvārāvajjana） - 想蕴（saññākkhandhā）中观生起（udaya）的方式
+
+- 1. 因「所依（vatthu）（=心所依（hadaya）=6=54）」的生起，故（五门转向）想（saññā）生起。
+- 2. 因「所缘（ārammaṇa）（=色所缘（rūpārammaṇa））」的生起，故（五门转向）想生起。
+- 3. 触（phassa）=（甲）因「有分（bhavaṅga）意触（manosamphassa）（=34）」的生起，故（五门转向）想生起。
+（乙）因「五门转向意触（=11-想=10）」的生起，故（五门转向）想生起。
+
+\* （五门转向）想的生起样态。
+
+- 3. 触（phassa）=（甲）因「有分（bhavaṅga）意触（manosamphassa）（=34）」的生起，故（五门转向）受（vedanā）生起。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[204]b 五门转向 - 行蕴中的生起观法（第一种方法）.md】**
+
+### 五门转向（pañcadvārāvajjana）- 行蕴（saṅkhārakkhandha）中的生起观法（第一种方法）
+
+**（就行（saṅkhāra）而言，取「思（cetanā）」。）**
+
+- 1. 因「所依（vatthu）（= 心（hadaya）= 6 = 54）」的生起，故（五门转向）行生起。
+- 2. 因「所缘（ārammaṇa）（= 色所缘（rūpārammaṇa））」的生起，故（五门转向）行生起。
+- 3. 触（phassa）=（甲）因「有分意触（bhavaṅgamanosamphassa）（= 34）」的生起，故（五门转向）行生起。
+  - （乙）因「五门转向意触（pañcadvārāvajjanamanosamphassa）（= 11 - 思 = 10）」的生起，故（五门转向）行生起。
+
+\* （五门转向）行的生起之性质。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[204]c 五门转向 - 行蕴中的生起观法（第二种方法）.md】**
+
+### 五门转向（pañcadvārāvajjana）- 行蕴（saṅkhārakkhandha）中的生起观法（第二种方法）
+
+**（就行（saṅkhāra）而言，取「8 个心所（cetasika）」。）**
+
+- 1. 因「所依（vatthu）（= 心（hadaya）= 6 = 54）」的生起，故（五门转向）行生起。
+- 2. 因「所缘（ārammaṇa）（= 色所缘（rūpārammaṇa））」的生起，故（五门转向）行生起。
+- 3. 触（phassa）=（甲）因「有分意触（bhavaṅgamanosamphassa）（= 34）」的生起，故（五门转向）行生起。
+（乙）因「其余的三名蕴（nāmakkhandha）」的生起，故（五门转向）行生起。
+
+\* （五门转向）行的生起之性质。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[205]a 五门转向 - 识蕴中的生起.md】**
+
+### 五门转向(pañcadvārāvajjana) - 识蕴(viññāṇakkhandha)中的生起(udaya)观法
+
+- 1. 因「有分(bhavaṅga)意触(manosamphassa)(= 34)」生起，「(五门转向)识(viññāṇa)生起」。
+- 2. 因「名色(nāma-rūpa)」生起，「(五门转向)识生起」。
+
+\* (五门转向)识的生起现象。
+
+于此，所谓「名」，是指与五门转向识相应的十个心所(cetasika)。 
+所谓「色」，正是指作为五门转向识所依的心所依处色(hadayavatthu-rūpa)以及与之俱在的五十四种色，还有色所缘(rūpārammaṇa)。
+现在再次，于眼识(cakkhuviññāṇa)的心剎那(cittakkhaṇa)之际，分别五蕴，把生起=唯观生起的观法继续呈现如下。 
+其中，色蕴(rūpakkhandha)正是指作为眼识所依的眼所依处色(cakkhuvatthu-rūpa)以及与之俱在的、存在于眼中的五十四种色法，还有色所缘。 
+观法与有分色蕴的观法完全相同。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[205]b 眼识 - 受蕴中的生起观法.md】**
+
+### 眼识(cakkhuviññāṇa) - 受蕴(vedanākkhandha)中的生起(udaya)观法
+
+- 1. 因「无明(avijjā)(20)」生起，「(眼识)受(vedanā)生起」。
+- 2. 因「渴爱(taṇhā)(20)」生起，「(眼识)受生起」。
+- 3. 因「取(upādāna)(20)」生起，「(眼识)受生起」。
+- 4. 因「行(saṅkhāra)(34)」生起，「(眼识)受生起」。
+- 5. 因「业(kamma)(= 行-34-的业力(kammasatti))」生起，「(眼识)受生起」。
+- 6. 因「所依(vatthu)(= 存在于眼中的色-54)」生起，「(眼识)受生起」。
+- 7. 因「所缘(ārammaṇa)(= 色所缘(rūpārammaṇa))」生起，「(眼识)受生起」。
+- 8. 因「触(phassa)(= 眼触(cakkhusamphassa)= 8 - 受 = 7)」生起，「(眼识)受生起」。
+- 9. 因「光(āloka)(= 光亮)」生起，「(眼识)受生起」。
+- 10. 因「作意(manasikāra)(= 五门转向(pañcadvārāvajjana)= 11)」生起，「(眼识)受生起」。
+
+\* (眼识)受的生起现象。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[205]c 眼识 - 想蕴中的生起观法.md】**
+
+### 眼识(cakkhuviññāṇa) - 想蕴(saññākkhandha)中的生起(udaya)观法
+
+- 1. 因「无明(avijjā)(20)」生起，「(眼识)想(saññā)生起」。
+- 2. 因「渴爱(taṇhā)(20)」生起，「(眼识)想生起」。
+- 3. 因「取(upādāna)(20)」生起，「(眼识)想生起」。
+- 4. 因「行(saṅkhāra)(34)」生起，「(眼识)想生起」。
+- 5. 因「业(kamma)(= 行-34-的业力(kammasatti))」生起，「(眼识)想生起」。
+- 6. 因「所依(vatthu)(= 存在于眼中的色-54)」生起，「(眼识)想生起」。
+- 7. 因「所缘(ārammaṇa)(= 色所缘(rūpārammaṇa))」生起，「(眼识)想生起」。
+- 8. 因「触(phassa)(= 眼触(cakkhusamphassa)= 8 - 想 = 7)」生起，「(眼识)想生起」。
+- 9. 因「光(āloka)(= 光亮)」生起，「(眼识)想生起」。
+- 10. 因「作意(manasikāra)(= 五门转向(pañcadvārāvajjana)= 11)」生起，「(眼识)想生起」。
+
+\* (眼识)想的生起现象。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[206]a 眼识 - 行蕴中的生起观法（第一种方法）.md】**
+
+### 眼识（cakkhuviññāṇa）- 行蕴（saṅkhārakkhandha）中的生起观法 -（第一种方法）
+**（就行（saṅkhāra）而言，取「思（cetanā）」。）**
+
+- 1. 因「无明（avijjā）（20）」的生起，故（眼识）行生起。
+- 2. 因「渴爱（taṇhā）（20）」的生起，故（眼识）行生起。
+- 3. 因「取（upādāna）（20）」的生起，故（眼识）行生起。
+- 4. 因「行（34）」的生起，故（眼识）行生起。
+- 5. 因「业（kamma）（=行-34-的业力（kammasatti））」的生起，故（眼识）行生起。
+- 6. 因「所依（vatthu）（=眼所依（cakkhuvatthu）=54）」的生起，故（眼识）行生起。
+- 7. 因「所缘（ārammaṇa）（=色所缘（rūpārammaṇa））」的生起，故（眼识）行生起。
+- 8. 因「触（phassa）（=眼触（cakkhusamphassa）=8-思=7）」的生起，故（眼识）行生起。
+- 9. 因「光（āloka）（=光亮）」的生起，故（眼识）行生起。
+- 10. 因「作意（manasikāra）（=五门转向（pañcadvārāvajjana）=11）」的生起，故（眼识）行生起。
+
+\* （眼识）行的生起之性质。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[206]b 眼识 - 行蕴中的生起观法（第二种方法）.md】**
+
+### 眼识(cakkhuviññāṇa) - 行蕴(saṅkhārakkhandha)中观生起的方式（第二种方法）
+
+**（就行(saṅkhāra)而言，取5个心所(cetasika)。）**
+
+- 1. 由于无明(avijjā)(20)生起，(眼识)行生起。
+- 2. 由于渴爱(taṇhā)(20)生起，(眼识)行生起。
+- 3. 由于取(upādāna)(20)生起，(眼识)行生起。
+- 4. 由于行(34)生起，(眼识)行生起。
+- 5. 由于业(kamma)(= 行-34的业力(kammasatti))生起，(眼识)行生起。
+- 6. 由于依处(vatthu)(= 眼依处(cakkhuvatthu)= 54)生起，(眼识)行生起。
+- 7. 由于所缘(ārammaṇa)(= 色所缘(rūpārammaṇa))生起，(眼识)行生起。
+- 8. 由于其余三个名蕴(nāmakkhandha)生起，(眼识)行生起。
+- 9. 由于光(āloka)(= 光亮)生起，(眼识)行生起。
+- 10. 由于作意(manasikāra)(= 五门转向(pañcadvārāvajjana)= 11)生起，(眼识)行生起。
+
+\* (眼识)行生起的现象。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[206]c 眼识 - 识蕴中的生起观法.md】**
+
+### 眼识(cakkhuviññāṇa) - 识蕴(viññāṇakkhandha)中的生起(udaya)观法
+
+- 1. 由于无明(avijjā)(20)生起，眼识生起。
+- 2. 由于渴爱(taṇhā)(20)生起，眼识生起。
+- 3. 由于取(upādāna)(20)生起，眼识生起。
+- 4. 由于行(saṅkhāra)(34)生起，眼识生起。
+- 5. 由于业(kamma)(= 行-34-的业力(kammasatti))生起，眼识生起。
+- 6. 由于名色(nāmarūpa)生起，眼识生起。
+- 7. 由于光(āloka)(= 光亮)生起，眼识生起。
+- 8. 由于作意(manasikāra)(= 五门转向(pañcadvārāvajjana)= 11)生起，眼识生起。
+
+\* 眼识生起的现象。
+
+名(nāma) = 相应的心所(cetasika)共7个。<br>色(rūpa) = 眼门(cakkhudvāra)中所存在的、作为所依的依处色(vatthurūpa)54种与色所缘(rūpārammaṇa)。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[207]a 领受 - 受蕴中的生起观法.md】**
+
+### 领受（sampaṭicchana）- 受蕴（vedanākkhandha）中的生起观法
+
+- 1. 因「无明（avijjā）（20）」的生起，故（领受）受（vedanā）生起。
+- 2. 因「渴爱（taṇhā）（20）」的生起，故（领受）受生起。
+- 3. 因「取（upādāna）（20）」的生起，故（领受）受生起。
+- 4. 因「行（saṅkhāra）（34）」的生起，故（领受）受生起。
+- 5. 因「业（kamma）（=行-34-的业力（kammasatti））」的生起，故（领受）受生起。
+- 6. 因「所依（vatthu）（=心所依（hadayavatthu）=54）」的生起，故（领受）受生起。
+- 7. 因「所缘（ārammaṇa）（=色所缘（rūpārammaṇa））」的生起，故（领受）受生起。
+- 8. (a) 因「眼触（cakkhusamphassa）（=8）」的生起，故（领受）受生起。
+  - (b) 因「领受的意触（manosamphassa）（=11-受=10）」的生起，故（领受）受生起。
+
+\* （领受）受的生起之性质。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[207]b 领受 - 想蕴中的生起观法.md】**
+
+### 领受（sampaṭicchana）- 想蕴（saññākkhandha）中的生起观法
+
+- 1. 因「无明（avijjā）（20）」的生起，故（领受）想（saññā）生起。
+- 2. 因「渴爱（taṇhā）（20）」的生起，故（领受）想生起。
+- 3. 因「取（upādāna）（20）」的生起，故（领受）想生起。
+- 4. 因「行（saṅkhāra）（34）」的生起，故（领受）想生起。
+- 5. 因「业（kamma）（=行-34-的业力（kammasatti））」的生起，故（领受）想生起。
+- 6. 因「所依（vatthu）（=心所依（hadayavatthu）=54）」的生起，故（领受）想生起。
+- 7. 因「所缘（ārammaṇa）（=色所缘（rūpārammaṇa））」的生起，故（领受）想生起。
+- 8. (a) 因「眼触（cakkhusamphassa）（=8）」的生起，故（领受）想生起。
+  - (b) 因「领受的意触（manosamphassa）（=11-想=10）」的生起，故（领受）想生起。
+
+\* （领受）想的生起之性质。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[207]c 领受 - 行蕴中的生起观法（第一种方法）.md】**
+
+### 领受（sampaṭicchana）- 行蕴（saṅkhārakkhandha）中的生起观法 -（第一种方法）
+
+**（取「思（cetanā）」。）**
+
+- 1. 因「无明（avijjā）（20）」的生起，故（领受）行生起。
+- 2. 因「渴爱（taṇhā）（20）」的生起，故（领受）行生起。
+- 3. 因「取（upādāna）（20）」的生起，故（领受）行生起。
+- 4. 因「行（saṅkhāra）（34）」的生起，故（领受）行生起。
+- 5. 因「业（kamma）（=行-34-的业力（kammasatti））」的生起，故（领受）行生起。
+- 6. 因「所依（vatthu）（=心所依（hadayavatthu）=54）」的生起，故（领受）行生起。
+- 7. 因「所缘（ārammaṇa）（=色所缘（rūpārammaṇa））」的生起，故（领受）行生起。
+- 8. (a) 因「眼触（cakkhusamphassa）（=8）」的生起，故（领受）行生起。
+  - (b) 因「领受的意触（manosamphassa）（=11-思=10）」的生起，故（领受）行生起。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[208]a 领受 行蕴中的生起.md】**
+
+### 领受(sampaṭicchana) - 行蕴(saṅkhārakkhandha)中观生起的方式（第二种方法）
+**（取8个心所(cetasika)。）**
+
+- 1. 由于无明(avijjā)(20)生起，(领受)行(saṅkhāra)生起。
+- 2. 由于渴爱(taṇhā)(20)生起，(领受)行生起。
+- 3. 由于取(upādāna)(20)生起，(领受)行生起。
+- 4. 由于行(34)生起，(领受)行生起。
+- 5. 由于业(kamma)(= 行-34的业力(kammasatti))生起，(领受)行生起。
+- 6. 由于依处(vatthu)(= 心所依处(hadayavatthu)= 54)生起，(领受)行生起。
+- 7. 由于所缘(ārammaṇa)(= 色所缘(rūpārammaṇa))生起，(领受)行生起。
+- 8. (a) 由于眼触(cakkhusamphassa)(= 8)生起，(领受)行生起。
+  - (b) 由于其余三个名蕴(nāmakkhandha)生起，(领受)行生起。
+
+\* (领受)行生起的现象。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[208]b 领受 - 识蕴中的生起观法.md】**
+
+### 领受(sampaṭicchana) - 识蕴(viññāṇakkhandha)中的生起观法
+
+- 1. 由于无明(avijjā)(20)生起，(领受)识(viññāṇa)生起。
+- 2. 由于渴爱(taṇhā)(20)生起，(领受)识生起。
+- 3. 由于取(upādāna)(20)生起，(领受)识生起。
+- 4. 由于行(saṅkhāra)(34)生起，(领受)识生起。
+- 5. 由于业(kamma)(= 行-34的业力(kammasatti))生起，(领受)识生起。
+- 6. 由于眼触(cakkhusamphassa)(= 8)生起，(领受)识生起。
+- 7. 由于(领受)名(nāma)-色(rūpa)生起，(领受)识生起。
+
+\* (领受)识生起的现象。
+
+「名」是指与领受心(sampaṭicchanacitta)相应的心所(cetasika)(10)。<br>「色」是指存在于心脏(hadaya)中的所依处色(vatthurūpa)(54)与色所缘(rūpārammaṇa)。
+
+若依此程度的方法，对于已熟练通达、已精熟「缘起法(paṭiccasamuppāda)第五法」观察篇的善人而言，对于以色所缘等那些(6)种所缘(ārammaṇa)为所缘而生起的诸路心剎那(vīthicittakkhaṇa)，在每一心剎那、每一心剎那(cittakkhaṇa)中编组五蕴(khandha)，已足以修习这「生起见(udayadassana)= 观生起的修习法」了。 
+然而，对于智(ñāṇa)较弱的人，以下接着以示范样例的形式书写呈现：其一，在眼门路(cakkhudvāravīthi)中、若大善速行(mahākusalajavana)(7)次运行时，第二速行的受蕴(vedanākkhandha)观察篇之一例；其二，在持续以色所缘为所缘的意门路(manodvāravīthi)中，第二速行受蕴观察篇之一例。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[209]a 眼门心路 - 大善第二速行.md】**
+
+### 眼门心路（cakkhudvāravīthi）- 大善（mahākusala）第二速行（dutiyajavana）受蕴（vedanākkhandha）
+
+- 1. 因「所依（vatthu）（=心所依（hadayavatthu）=54）」的生起，故（第二速行）受（vedanā）生起。
+- 2. 因「所缘（ārammaṇa）（=色所缘（rūpārammaṇa））」的生起，故（第二速行）受生起。
+- 3. (a) 因「眼触（cakkhusamphassa）（=8）」的生起，故（第二速行）受生起。<br>(b) 因「第一速行（paṭhamajavana）意触（manosamphassa）（=34）」的生起，故（第二速行）受生起。<br>(c) 因「第二速行意触（=34-受=33）」的生起，故（第二速行）受生起。
+- 4. 因「如理作意（yonisomanasikāra）（=确定（voṭṭhabbana）=12）」的生起，故（第二速行）受生起。
+
+\* （第二速行）受的生起之性质。
+
+**【文件：[167]生灭智章/[197]a 集法随观篇 - 生起见 = 唯观生起的观法/[209]b 色所缘线 - 意门心路 - 大善.md】**
+
+### 色所缘（rūpārammaṇa）线 - 意门心路（manodvāravīthi）- 大善（mahākusala）第二速行（dutiyajavana）受蕴（vedanākkhandha）
+
+- 1. 因「所依（vatthu）（=心所依（hadayavatthu）=54）」的生起，故（第二速行）受（vedanā）生起。
+- 2. 因「所缘（ārammaṇa）（=色所缘）」的生起，故（第二速行）受生起。
+- 3. (a) 因「眼触（cakkhusamphassa）（=8）」的生起，故（第二速行）受生起。<br>(b) 因「有分（bhavaṅga）意触（manosamphassa）（=34）」的生起，故（第二速行）受生起。<br>(c) 因「第一速行（paṭhamajavana）意触（=34）」的生起，故（第二速行）受生起。<br>(d) 因「第二速行意触（=34-受=33）」的生起，故（第二速行）受生起。
+- 4. 因「如理作意（yonisomanasikāra）（=意门转向（manodvārāvajjana）=12）」的生起，故（第二速行）受生起。
+
+\* （第二速行）受的生起之性质。
+
+请依照参照上述这些观察栏样式的方法——即在「名业处篇（nāmakammaṭṭhāna）」诸表格中所写出的、于每一心路心剎那（vīthicittakkhaṇa）中组成五蕴、在缘起法（paṭiccasamuppāda）第五种方法中收摄因法与果法的那种方法——在此「依缘的生起见（paccayato udayadassana）篇」中也观察由相关的因法生起相关果法的样子。
+请将（六）条线全部彻底无遗地观察。
+在此结束「集法随观（samudayadhammānupassī）篇」，接着继续写出展示「灭法随观（vayadhammānupassī）篇」观察栏的少许提示样式。
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[210]a 灭法随观篇.md】**
+
+## 灭法随观（vayadhammānupassī）篇
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[210]b 所谓灭法随观者.md】**
+
+### 所谓「灭法随观者（vayadhammānupassī）」
+
+已能修习观照——由于无明（avijjā）、爱（taṇhā）、取（upādāna）、行（saṅkhāra）、业（kamma）而有的色蕴（rūpakkhandha）生起（udaya）体性——的善男子，由于那无明、爱、取、行、业借阿拉汉道（arahattamagga）而以无生之灭（anuppādanirodha）的体性、以不再生起的灭、无余地寂灭息灭，故应当用观智（vipassanāñāṇa）看见：与那结生（paṭisandhi）色蕴同类的未来色蕴，在般涅槃死（parinibbānacuti）之后的接续中，以不再生起的灭而无余地寂灭——即其无生之灭的体性，然后观照这一观照单元。
+于一切处，皆应以此方法记取。
+
+**avijjānirodhā rūpanirodho**ti aggamaggañāṇena avijjāya anuppādanirodhato anāgatassa rūpassa anuppādanirodho hoti paccayābhāve abhāvato. **paccayanirodhaṭṭhenā**ti avijjāsaṅkhātassa anāgate uppajjanakarūpapaccayassa niruddhabhāvena. **taṇhānirodhā kammanirodhā**ti etthāpi eseva nayo.(Mahāṭī-2-421)
+
+所谓「由于无明、爱、取、行、业的灭，故色灭」，是指：由于阿拉汉道，无明、爱、取、行、业以不再生起的灭而无余地寂灭息灭，因此在般涅槃死之后有可能生起的未来色法，也以不再生起的灭、无余地寂灭，以无生之灭（anuppādanirodha）的体性而寂灭息灭。
+这是因为：原因之法若不显现存在，果之法便不可能显现存在之故。
+由于被称为无明、爱、取、行、业的——那将在般涅槃死之后于未来生起的色法之原因法寂灭息灭，因此作为果的色法也随之寂灭息灭。(Mahāṭī-2-421)
+
+因此，所谓「以缘观灭（paccayato vayadassana） = 藉由原因法观照坏灭、寂灭」，是指：只就同类色法以不再生起的灭而寂灭这一点，延伸（向未来）地去观照。
+然而，观照像自己正在观照的结生色蕴那样的色蕴之坏灭、变易相（vipariṇāmalakkhaṇa），则是「依刹那观灭（khaṇato vayadassana）」。
+这样的观照与未来色法无关。
+它只与自己正以观（vipassanā）观照的色蕴有关。
+善男子应当对「以缘观灭」与「依刹那观灭」这两种灭观（vayadassana）都加以观照。
+
+业生色（kammajarūpa）则与般涅槃死同时而灭。
+般涅槃死心则不能生起心生色（cittajarūpa）。
+般涅槃死之前的诸心，仍能生起心生色。
+在般涅槃死之后，最迟到约（16）个心刹那（cittakkhaṇa）为止，诸心生色便寂灭息灭。
+同样地，食生色（āhārajarūpa）的生起也随之断绝。
+时节生色（utujarūpa）则在般涅槃死之后，仍可能依其相应而持续相当长的时间——长达数日、数月、乃至数年地生起。
+善男子由于那业-心-时节-食以不再生起的灭而无余地寂灭息灭，因此应当以智（ñāṇa）看见：在未来时，业生色、心生色、时节生色、食生色都以不再生起的灭而寂灭，从而修习「以缘观灭 = 藉由原因法观照坏灭、寂灭」。
+至于「依刹那观灭 =藉由刹那观照坏灭、寂灭」，则应取善男子自身正在观照其生起（udaya）的五蕴中所摄的业生色、心生色、时节生色、食生色的坏灭、坏灭时（bhaṅgakāla）为所缘而观照。
+在结生的当下，由于心生色、时节生色、食生色尚未生起，所以不需要观照。
+只在心生色、时节生色、食生色诸法明显生起的心刹那中，才需要观照。
+四名蕴（nāmakkhandha）则以般涅槃死为最后，以不再生起的灭、以无生之灭（anuppādanirodha）的体性而寂灭息灭。
+已能观照各个心路过程心（vīthicitta）或各个名法之生起的善男子，应当用观智看见：在般涅槃死之后，所有同类名法之寂灭、即无生之灭的体性，从而观照「以缘观灭」的观照单元。
+至于在「依刹那观灭」部分，则应取自己正在修习观照的诸蕴之坏灭、坏灭（bhaṅga）为所缘而观照。
+若观照结生五蕴，便取那结生五蕴本身的坏灭；若观照有分（bhavaṅga）五蕴，便取那有分五蕴本身的坏灭 ---- 如此等等地去领会。
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[211]a 结生 - 色蕴中的灭观法.md】**
+
+### 结生（paṭisandhi） - 色蕴（rūpakkhandha）中的灭（vaya）观法
+
+- 1. 由于无明（avijjā）灭，故色（rūpa）灭。（这是不生灭尽（anuppādanirodha）。）
+- 2. 由于渴爱（taṇhā）灭，故色灭。（这是不生灭尽。）
+- 3. 由于取（upādāna）灭，故色灭。（这是不生灭尽。）
+- 4. 由于行（saṅkhāra）灭，故色灭。（这是不生灭尽。）
+- 5. 由于业（kamma）灭，故色灭。（这是不生灭尽。）
+
+\* （业生（kammaja））色的灭尽体性。（这是生起灭尽（uppādanirodha）。）
+
+由于因法的显著生起与存续，而以观智（vipassanāñāṇa）看见果法显著生起的修行者（yogāvacara），若也以观智去眺望、观照那由于因法的寂灭息灭而使果法寂灭的情形，便能极为轻易地见到。
+而对于佛陀（Buddha）的教法，怀有圆满的信赖、即具足之信（saddhā），实在是极为必要的。
+倘若轻视智（ñāṇa）的力量、气势与威神力，而对那以自己寻常所能思惟推度之智无法企及的事物——即被称为「非寻思所行境」（atakkāvacara）、并非思惟构想之寻（vitakka）所游历之领域的缘起法（paṭiccasamuppāda）灭去的次第——过度地、一味片面地、如盲象闯林般莽撞地横加评断，那么对贤善的你而言，反倒有可能成为道智（maggañāṇa）、果智（phalañāṇa）的障难（antarāya）。
+如此，由于相关的因法仍显著存在，而以观智看见相关果法显著生起的贤善的你，应当用观智观看直到见到：由于那些因法以不生灭尽的体性寂灭息灭，故同类果法也以不生灭尽的体性寂灭的情形；以及果法的坏灭、即所谓「坏灭」（bhaṅga）的生起灭尽体性——然后观照以下的诸观照单元。
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[212]a 结生 - 受蕴中的灭观法.md】**
+
+### 结生（paṭisandhi） - 受蕴（vedanākkhandha）中的灭（vaya）观法
+
+- 1. 由于无明（avijjā）灭，故受（vedanā）灭。
+- 2. 由于渴爱（taṇhā）灭，故受灭。
+- 3. 由于取（upādāna）灭，故受灭。
+- 4. 由于行（saṅkhāra）灭，故受灭。
+- 5. 由于业（kamma）灭，故受灭。
+- 6. 由于依处（vatthu）灭，故受灭。
+- 7. 由于所缘（ārammaṇa）灭，故受灭。
+- 8. 由于触（phassa）灭，故受灭。（这是不生灭尽（anuppādanirodha）。）
+
+\* 受的灭尽体性。（这是生起灭尽（uppādanirodha）。）
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[212]b 结生 - 想蕴中的灭观法.md】**
+
+### 结生（paṭisandhi） - 想蕴（saññākkhandha）中的灭（vaya）观法
+
+- 1. 由于无明（avijjā）灭，故想（saññā）灭。
+- 2. 由于渴爱（taṇhā）灭，故想灭。
+- 3. 由于取（upādāna）灭，故想灭。
+- 4. 由于行（saṅkhāra）灭，故想灭。
+- 5. 由于业（kamma）灭，故想灭。
+- 6. 由于依处（vatthu）灭，故想灭。
+- 7. 由于所缘（ārammaṇa）灭，故想灭。
+- 8. 由于触（phassa）灭，故想灭。（这是不生灭尽（anuppādanirodha）。）
+
+\* 想的灭尽体性。（这是生起灭尽（uppādanirodha）。）
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[212]c 结生 - 行蕴中的灭观法.md】**
+
+### 结生（paṭisandhi） - 行蕴（saṅkhārakkhandha）中的灭（vaya）观法（第一法 - 以思（cetanā）为行）
+
+- 1. 由于无明（avijjā）灭，故行（saṅkhāra）灭。
+- 2. 由于渴爱（taṇhā）灭，故行灭。
+- 3. 由于取（upādāna）灭，故行灭。
+- 4. 由于行灭，故行灭。
+- 5. 由于业（kamma）灭，故行灭。
+- 6. 由于依处（vatthu）灭，故行灭。
+- 7. 由于所缘（ārammaṇa）灭，故行灭。
+- 8. 由于触（phassa）灭，故行灭。（这是不生灭尽（anuppādanirodha）。）
+
+\* 行的灭尽体性。（这是生起灭尽（uppādanirodha）。）
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[213]a 结生 - 行蕴中的灭观法.md】**
+
+### 结生（paṭisandhi） - 行蕴（saṅkhārakkhandha）中的灭（vaya）观法（第二法）
+
+- 1. 由于无明（avijjā）灭，故行（saṅkhāra）灭。
+- 2. 由于渴爱（taṇhā）灭，故行灭。
+- 3. 由于取（upādāna）灭，故行灭。
+- 4. 由于行灭，故行灭。
+- 5. 由于业（kamma）灭，故行灭。
+- 6. 由于依处（vatthu）灭，故行灭。
+- 7. 由于所缘（ārammaṇa）灭，故行灭。
+- 8. 由于其余三个名蕴灭，故行灭。（这是不生灭尽（anuppādanirodha）。）
+
+\* 行的灭尽体性。（这是生起灭尽（uppādanirodha）。）
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[213]b 结生 - 识蕴中的灭观法.md】**
+
+### 结生（paṭisandhi） - 识蕴（viññāṇakkhandha）中的灭（vaya）观法
+
+- 1. 由于无明（avijjā）灭，故识（viññāṇa）灭。
+- 2. 由于渴爱（taṇhā）灭，故识灭。
+- 3. 由于取（upādāna）灭，故识灭。
+- 4. 由于行（saṅkhāra）灭，故识灭。
+- 5. 由于业（kamma）灭，故识灭。
+- 6. 由于名色（nāmarūpa）灭，故识灭。（这是不生灭尽（anuppādanirodha）。）
+
+\* 识的灭尽体性。（这是生起灭尽（uppādanirodha）。）
+
+若已熟练掌握在缘起法（paṭiccasamuppāda）第五法中收摄因法与果法的方式，则在本篇中，也应依照那样的方式，把因与果联系起来，观察生起体性（udaya）与灭体性。
+观察了结生五蕴之后，也应依此方法继续观察有分（bhavanga）五蕴。
+此后，在「有爱贪速行（bhavanikantika lobhajavana）」＝贪著、爱乐新有的贪速行所生起的心路（vīthi）中，应分别依此方法观察意门转向（manodvārāvajjana）中的五蕴、以及有爱贪速行中的各个五蕴。
+此后，应在色所缘线（rūpārammaṇa）的眼门心路（cakkhudvāravīthi）、意门心路（manodvāravīthi）中继续观察。
+在善速行（kusalajavana）运行的眼门心路、意门心路，以及不善速行（akusalajavana）运行的眼门心路、意门心路中，应于每一心剎那（cittakkhaṇa）组成五蕴，并就每一蕴观察「以缘观灭（paccayato vayadassana）」与「依刹那观灭（khaṇato vayadassana）」这两种观察栏。
+对耳门心路（sotadvāravīthi）、意门心路等等，也应以同样的方法观察。
+应当分别地观察：于全部(六)系列之内所有心路的每一心路心剎那（vīthicittakkhaṇa）中组成五蕴，以及于诸心路彼此之间所存在的有分心剎那（bhavangacittakkhaṇa）中组成五蕴。
+若已熟练掌握缘起法第五法的观察栏，那么这一观察栏对贤善的你而言，也必定是轻而易举的。
+
+由于佛陀（Buddha）在开示缘起法观察栏的教法时，只着重、优先强调内（ajjhatta）名色相续之流中因果相系属的体性，因此在观照外（bahiddha）时，贤善的你也只需依内（ajjhattika）的分量即可观照。
+如此观照时，不应对补特伽罗（puggala）、有情（satta）等加以分别区辨，而应把诸外在者一视同仁、作为普通的总体笼统地观照。
+至于在弟子波罗蜜智（sāvakapāramīñāṇa）的范畴中，以诸弟子（sāvaka）的观智（vipassanāñāṇa），是无法把存在于各个有情相续之中的无明、渴爱、取、行、业一一彻底无遗、圆满完备地了知的。
+唯有借助宿住随念神通智（pubbenivāsānussati abhiññāṇa）、天眼神通智（dibbacakkhu abhiññāṇa）、他心识别神通智（paracitta vijānana abhiññāṇa）等等这些神通智，才能随其分量地了知。
+然而，在本篇中，对有智慧的善人们而言，值得审察研究的要点实在有很多。
+在此，为使智羸弱者能够更进一步地领会观察栏，特再额外写出一个存在于眼识（cakkhuviññāṇa）心剎那之内的五蕴观察栏，呈示如下。
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[214]b 眼识 - 色蕴中的灭观法.md】**
+
+### 眼识（cakkhuviññāṇa） - 色蕴（rūpakkhandha）中的灭（vaya）观法
+
+- 1. 由于无明（avijjā）灭，故（业生（kammaja））色（rūpa）灭。（这是不生灭尽（anuppādanirodha）。）
+- 2. 由于渴爱（taṇhā）灭，故（业生）色灭。（这是不生灭尽。）
+- 3. 由于取（upādāna）灭，故（业生）色灭。（这是不生灭尽。）
+- 4. 由于行（saṅkhāra）灭，故（业生）色灭。（这是不生灭尽。）
+- 5. 由于业（kamma）灭，故（业生）色灭。（这是不生灭尽。）
+  - \* （业生）色的灭尽体性。（这是生起灭尽（uppādanirodha）。）
+- 6. 由于心（citta）灭，故（心生（cittaja））色灭。（这是不生灭尽。）
+  - \* （心生）色的灭尽体性。（这是生起灭尽。）
+- 7. 由于时节（utu）灭，故（时节生（utuja））色灭。（这是不生灭尽。）
+  - \* （时节生）色的灭尽体性。（这是生起灭尽。）
+- 8. 由于食（āhāra）灭，故（食生（āhāraja））色灭。（这是不生灭尽。）
+  - \* （食生）色的灭尽体性。（这是生起灭尽。）
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[215]a 眼识 - 想蕴中的灭观法.md】**
+
+### 眼识（cakkhuviññāṇa） - 想蕴（saññākkhandha）中的灭（vaya）观法
+
+- 1. 由于无明（avijjā）灭，故（眼识）想（saññā）灭。
+- 2. 由于渴爱（taṇhā）灭，故（眼识）想灭。
+- 3. 由于取（upādāna）灭，故（眼识）想灭。
+- 4. 由于行（saṅkhāra）灭，故（眼识）想灭。
+- 5. 由于业（kamma）灭，故（眼识）想灭。
+- 6. 由于依处（vatthu）（= 眼依处（cakkhuvatthu））灭，故（眼识）想灭。
+- 7. 由于所缘（ārammaṇa）（= 色所缘（rūpārammaṇa））灭，故（眼识）想灭。
+- 8. 由于眼触（cakkhusamphassa）（= 8 - 想 = 7）灭，故（眼识）想灭。
+- 9. 由于光（āloka）灭，故（眼识）想灭。
+- 10. 由于作意（manasikāra）（= 五门转向（pañcadvārāvajjana）= 11）灭，故（眼识）想灭。
+
+\* （眼识）想的灭尽体性。
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[215]b 眼识 - 行蕴中的灭观法.md】**
+
+### 眼识（cakkhuviññāṇa） - 行蕴（saṅkhārakkhandha）中的灭（vaya）观法（第一法）
+
+- 1. 由于无明（avijjā）灭，故（眼识）行灭。
+- 2. 由于渴爱（taṇhā）灭，故（眼识）行灭。
+- 3. 由于取（upādāna）灭，故（眼识）行灭。
+- 4. 由于行（saṅkhāra）灭，故（眼识）行灭。
+- 5. 由于业（kamma）灭，故（眼识）行灭。
+- 6. 由于依处（vatthu）（= 眼依处（cakkhuvatthu））灭，故（眼识）行灭。
+- 7. 由于所缘（ārammaṇa）（= 色所缘（rūpārammaṇa））灭，故（眼识）行灭。
+- 8. 由于眼触（cakkhusamphassa）（= 8 - 思（cetanā）= 7）灭，故（眼识）行灭。
+- 9. 由于光（āloka）灭，故（眼识）行灭。
+- 10. 由于作意（manasikāra）（= 11）灭，故（眼识）行灭。
+
+\* （眼识）行的灭尽体性。
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[215]c 眼识 - 行蕴中的灭观法.md】**
+
+### 眼识（cakkhuviññāṇa） - 行蕴（saṅkhārakkhandha）中的灭（vaya）观法（第二法）
+
+- 1. 由于无明（avijjā）灭，故（眼识）行灭。
+- 2. 由于渴爱（taṇhā）灭，故（眼识）行灭。
+- 3. 由于取（upādāna）灭，故（眼识）行灭。
+- 4. 由于行（saṅkhāra）灭，故（眼识）行灭。
+- 5. 由于业（kamma）灭，故（眼识）行灭。
+- 6. 由于依处（vatthu）（= 眼依处（cakkhuvatthu））灭，故（眼识）行灭。
+- 7. 由于所缘（ārammaṇa）（= 色所缘（rūpārammaṇa））灭，故（眼识）行灭。
+- 8. 由于其余三名蕴（nāmakkhandha）灭，故（眼识）行灭。
+- 9. 由于光（āloka）灭，故（眼识）行灭。
+- 10. 由于作意（manasikāra）（= 11）灭，故（眼识）行灭。
+
+\* （眼识）行的灭尽体性。
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[216]a 眼识 - 识蕴中的灭观法.md】**
+
+### 眼识(cakkhuviññāṇa) - 识蕴(viññāṇakkhandha)中的灭观法
+
+- 1. 由于无明(avijjā)的灭，眼识灭。
+- 2. 由于渴爱(taṇhā)的灭，眼识灭。
+- 3. 由于取(upādāna)的灭，眼识灭。
+- 4. 由于行(saṅkhāra)的灭，眼识灭。
+- 5. 由于业(kamma)的灭，眼识灭。
+- 6. 由于名-色(nāma-rūpa)的灭，眼识灭。
+- 7. 由于光(āloka)的灭，眼识灭。
+- 8. 由于作意(manasikāra)(= 11)的灭，眼识灭。
+
+\* 眼识的灭之体性。
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[216]b 一般性建议.md】**
+
+### 一般性建议
+
+按照缘起法(Paṭiccasamuppāda)第五法在观修区中收摄因之法与果之法的方式，逐一细密地审查，于眼门心路(cakkhudvāravīthi)等等那些心路心(vīthicitta)的每一个心剎那(cittakkhaṇa)中也好，于某些某些
+有分(bhavaṅga)心剎那中也好，分别组合各自的五蕴(khandha)，应当观集的本质(samudaya)与灭的本质(vaya)。
+
+如此观修时，唯观集、即唯观生起，请于现在(paccuppanna)、在全部六(6)行中、把内(ajjhatta)外(bahiddha)两种相续(santāna)全部穷尽地观。
+于现在唯观集，在内、外两种相续中观完之后，于过去(atīta)、于未来(anāgata)也依此方法、以同样的方式观；从自己所能铭记的历世历代的过去到现在、从现在直到未来的尽头，请把唯有集观到心满意足为止。
+请于内、外两种当中都观。
+请依照名部分(nāma)的各表格而观。
+
+此后，于现在唯观灭的本质 = 即唯观止息，于内、外中把全部六(6)行穷尽地观。
+若已心满意足，就把自己所观的一切，从历世历代的过去到现在、从现在直到未来的尽头，把唯有灭的本质于内、外两种当中观。
+
+另一种方法 ---- 于每一个心剎那中组合五蕴，在一一蕴中 ----
+
+- 1。 唯有集 = 唯有生起，
+- 2。 唯有灭 = 唯有止息 ---
+
+也可以这样观。
+把存在于某一个心剎那之内的五蕴，既唯观集
+也唯观灭，观完之后，就可以转去观存在于另一个心剎那之内的五蕴。
+例如 ---- 在五门转向(pañcadvārāvajjana)的五蕴中观完唯有集、唯有灭之后，就可以转去观眼识(cakkhuviññāṇa)的五蕴中的唯有集、唯有灭。
+为了智慧稚嫩的人，特将耳识(sotaviññāṇa)心剎那中的五蕴观修区作为示例，列出范式书写呈示如下。 ----
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[217]a 耳识 - 色蕴中的生起观法.md】**
+
+### 耳识（sotaviññāṇa） - 色蕴（rūpakkhandha）中的生起（udaya）观法
+
+- 1. 由于无明（avijjā）生起，故（业生（kammaja））色（rūpa）生起。
+- 2. 由于渴爱（taṇhā）生起，故（业生）色生起。
+- 3. 由于取（upādāna）生起，故（业生）色生起。
+- 4. 由于行（saṅkhāra）生起，故（业生）色生起。
+- 5. 由于业（kamma）生起，故（业生）色生起。
+  - \* （业生）色的生起体性。
+- 6. 由于心（citta）生起，故（心生（cittaja））色生起。
+  - \* （心生）色的生起体性。
+- 7. 由于时节（utu）生起，故（时节生（utuja））色生起。
+  - \* （时节生）色的生起体性。
+- 8. 由于食（āhāra）生起，故（食生（āhāraja））色生起。
+  - \* （食生）色的生起体性。
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[217]b 耳识 - 色蕴中的灭观法.md】**
+
+### 耳识（sotaviññāṇa） - 色蕴（rūpakkhandha）中的灭（vaya）观法
+
+- 1. 由于无明（avijjā）灭，故（业生（kammaja））色（rūpa）灭。
+- 2. 由于渴爱（taṇhā）灭，故（业生）色灭。
+- 3. 由于取（upādāna）灭，故（业生）色灭。
+- 4. 由于行（saṅkhāra）灭，故（业生）色灭。
+- 5. 由于业（kamma）灭，故（业生）色灭。
+  - \* （业生）色的灭尽体性。
+- 6. 由于心（citta）灭，故（心生（cittaja））色灭。
+  - \* （心生）色的灭尽体性。
+- 7. 由于时节（utu）灭，故（时节生（utuja））色灭。
+  - \* （时节生）色的灭尽体性。
+- 8. 由于食（āhāra）灭，故（食生（āhāraja））色灭。
+  - \* （食生）色的灭尽体性。
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[218]a 耳识 - 受蕴中的生起观法.md】**
+
+### 耳识（sotaviññāṇa） - 受蕴（vedanākkhandha）中的生起（udaya）观法
+
+- 1. 由于无明（avijjā）生起，故（耳识）受（vedanā）生起。
+- 2. 由于渴爱（taṇhā）生起，故（耳识）受生起。
+- 3. 由于取（upādāna）生起，故（耳识）受生起。
+- 4. 由于行（saṅkhāra）生起，故（耳识）受生起。
+- 5. 由于业（kamma）生起，故（耳识）受生起。
+- 6. 由于耳所依（sotavatthu）（54）生起，故（耳识）受生起。
+- 7. 由于声所缘（saddārammaṇa）生起，故（耳识）受生起。
+- 8. 由于耳触（sotasamphassa）（7）生起，故（耳识）受生起。
+- 9. 由于空（ākāsa）生起，故（耳识）受生起。
+- 10. 由于作意（manasikāra）（= 11）生起，故（耳识）受生起。
+ - \* （耳识）受的生起体性。
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[218]b 耳识 - 受蕴中的灭观法.md】**
+
+### 耳识（sotaviññāṇa） - 受蕴（vedanākkhandha）中的灭（vaya）观法
+
+- 1. 由于无明（avijjā）灭，故受（vedanā）灭。
+- 2. 由于渴爱（taṇhā）灭，故受灭。
+- 3. 由于取（upādāna）灭，故受灭。
+- 4. 由于行（saṅkhāra）灭，故受灭。
+- 5. 由于业（kamma）灭，故受灭。
+- 6. 由于耳所依（sotavatthu）灭，故受灭。
+- 7. 由于声所缘（saddārammaṇa）灭，故受灭。
+- 8. 由于耳触（sotasamphassa）灭，故受灭。
+- 9. 由于空（ākāsa）灭，故受灭。
+- 10. 由于作意（manasikāra）（= 11）灭，故受灭。
+  - \* （耳识）受的灭尽体性。
+  - 在想蕴（saññākkhandha）、行蕴（saṅkhārakkhandha）中，请参照此方法观照观照单元。
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[218]c 耳识 - 识蕴中的生起观法.md】**
+
+### 耳识（sotaviññāṇa） - 识蕴（viññāṇakkhandha）中的生起（udaya）观法
+
+- 1. 由于无明（avijjā）生起，故耳识生起。
+- 2. 由于渴爱（taṇhā）生起，故耳识生起。
+- 3. 由于取（upādāna）生起，故耳识生起。
+- 4. 由于行（saṅkhāra）生起，故耳识生起。
+- 5. 由于业（kamma）生起，故耳识生起。
+- 6. 由于名色（nāma-rūpa）生起，故耳识生起。
+- 7. 由于空间（ākāsa）生起，故耳识生起。
+- 8. 由于作意（manasikāra）（= 11）生起，故耳识生起。
+  - \* 耳识的生起体性。
+
+**【文件：[167]生灭智章/[210]灭法随观篇/[219] 耳识 - 识蕴中的灭观法.md】**
+
+### 耳识（sotaviññāṇa） - 识蕴（viññāṇakkhandha）中的灭（vaya）观法
+
+- 1. 由于无明（avijjā）灭，故耳识灭。
+- 2. 由于渴爱（taṇhā）灭，故耳识灭。
+- 3. 由于取（upādāna）灭，故耳识灭。
+- 4. 由于行（saṅkhāra）灭，故耳识灭。
+- 5. 由于业（kamma）灭，故耳识灭。
+- 6. 由于名色（nāmarūpa）灭，故耳识灭。
+- 7. 由于空（ākāsa）灭，故耳识灭。
+- 8. 由于作意（manasikāra）（= 11）灭，故耳识灭。
+  - \* 耳识的灭尽体性。
+
+名（nāma） = 与耳识相应的（7）个心所（cetasika）。<br>色（rūpa） = 耳所依（sotavatthu）（= 54）与声所缘（saddārammaṇa）。
+
+说到这般程度，应当已足以领会其义理了。
+在过去（atīta）、未来（anāgata）、现在（paccuppanna）这三时，以及内（ajjhatta）、外（bahiddha）这两种相续流（santāna）之中，依照上述方法，于心路心（vīthicitta）、离心路心（vīthimuttacitta）这每一个心识刹那（cittakkhaṇa）中，各各编组为五蕴（khandha），并在每一蕴中尽情地、心满意足地观照生起（udaya）的体性与灭（vaya）的体性；若能如此观照，便能领会下面《大念处经》（Mahāsatipaṭṭhāna Sutta）行道篇中所开示的诸观照单元里，第（1-2）个观照单元了。
+
+- 1. samudayadhammānupassī vā kāyasmiṃ viharati.
+- 2. vayadhammānupassī vā kāyasmiṃ viharati.
+- 3. samudayavayadhammānupassī vā kāyasmiṃ viharati. (Dī 2,232.)
+
+- 1. samudayadhammānupassī vā vedanāsu viharati.
+- 2. vayadhammānupassī vā vedanāsu viharati.
+- 3. samudayavayadhammānupassī vā vedanāsu viharati. (Dī 2,237.)
+
+- 1. samudayadhammānupassī vā cittasmiṃ viharati.
+- 2. vayadhammānupassī vā cittasmiṃ viharati.
+- 3. samudayavayadhammānupassī vā cittasmiṃ viharati. (Dī 2,237.)
+
+- 1. samudayadhammānupassī vā dhammesu viharati.
+- 2. vayadhammānupassī vā dhammesu viharati.
+- 3. samudayavayadhammānupassī vā dhammesu viharati. (Dī 2,239.)
+
+- 1. 于身（kāya）中（= 于色身（rūpakāya）、名身（nāmakāya）中），一次又一次、反复多次地观照生起之因的体性与生起的体性，并如此安住。
+- 2. 于身中（= 于色身、名身中），一次又一次、反复多次地观照灭尽之因的体性与灭尽的体性，并如此安住。
+- 3. 于身中（= 于色身、名身中），一次又一次、反复多次地观照生起之因的体性与生起的体性、以及灭尽之因的体性与灭尽的体性，并如此安住。（Dī 2,232.）
+- 1. 于诸受（vedanā）中，一次又一次、反复多次地观照生起之因的体性与生起的体性，并如此安住。
+- 2. 于诸受中，一次又一次、反复多次地观照灭尽之因的体性与灭尽的体性，并如此安住。
+- 3. 于诸受中，一次又一次、反复多次地观照生起之因的体性与生起的体性、以及灭尽之因的体性与灭尽的体性，并如此安住。（Dī 2,237.）
+- 1. 于心（citta）中，一次又一次、反复多次地观照生起之因的体性与生起的体性，并如此安住。
+- 2. 于心中，一次又一次、反复多次地观照灭尽之因的体性与灭尽的体性，并如此安住。
+- 3. 于心中，一次又一次、反复多次地观照生起之因的体性与生起的体性、以及灭尽之因的体性与灭尽的体性，并如此安住。（Dī 2,237.）
+- 1. 于诸法（dhamma）即诸自性法中，一次又一次、反复多次地观照生起之因的体性与生起的体性，并如此安住。
+- 2. 于诸法即诸自性法中，一次又一次、反复多次地观照灭尽之因的体性与灭尽的体性，并如此安住。
+- 3. 于诸法即诸自性法中，一次又一次、反复多次地观照生起之因的体性与生起的体性、以及灭尽之因的体性与灭尽的体性，并如此安住。（Dī 2,239.）
+
+在此念处（satipaṭṭhāna）教法的三种行道当中，你这位善人如今已经修习过第（1-2）种行道了。
+而第（3）种——即名为「生灭法随观（samudayavayadhammānupassī）」的行道——则还须继续修习。
+关于该行道，义注（aṭṭhakathā）、复注（ṭīkā）如下解说。
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[221]a 集灭法随观篇.md】**
+
+## 集灭法随观（samudayavayadhammānupassī）篇
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[221]b 所谓集灭法随观.md】**
+
+### 所谓集灭法随观（samudayavayadhammānupassī）
+
+**samudayavayadhammānupassī vā**ti kālena samudayaṃ, kālena vayaṃ anupassanto. (Ma-A 1,255.)
+
+ajjhattabahiddhānupassanā viya bhinnavatthuvisayatāya samudayavayadhammānupassanāpi ekakāle na labbhatīti āha "**kālena samudayaṃ kālena vayaṃ anupassanto**"ti. (Ma-ṭ 1,350.)
+
+依照上述这些义注(aṭṭhakathā)、复注(ṭīkā)的解说，应当记取：所谓「集灭法随观」，意即对五蕴(khandha)有时观照其集(samudaya)之本质、有时观照其灭(vaya)之本质，如此轮番交替地观照。
+佛陀(Buddha)是在（行者）于五蕴中观了纯粹的集、纯粹的灭之后，才开示了这个集灭法随观的观照范畴。
+单凭一个观照之心(vipassanācitta)，是无法在同一时刻同时并观集与灭这两者的。
+内在(ajjhatta)诸法与外在(bahiddha)诸法，乃是正在观照的、称为观智(vipassanā ñāṇa)的（大善(mahākusala)）意门速行心路(manodvārikajavanavīthi)心相续所缘取的依处(vatthu)。
+内在五蕴是观智的一种依处。
+外在五蕴是观智的另一种依处。
+（两者的）依处各不相同。
+像这样依处各不相同的内在与外在这两类法，由于依处各不相同，便无法以单凭一个观照之心在同一时刻同时并观。
+同样地，集法(samudayadhamma)与灭法(vayadhamma)是各不相同的所缘(ārammaṇa)法，因此无法以单凭一个观照之心在同一时刻同时并观那集法、灭法这两者。
+然而，若以各别的观照之心，则是可以观得的。
+因此，观了集之本质以后，若再接着观灭之本质，便确实是可以观得的。
+像这样观照时，就正可称为：有时观集之本质、有时观灭之本质。
+因此，此处把集与灭这两者一个接一个、连贯相续地接续观照的若干观法样式，作为标准范例加以呈现。
+在这样观照时，是否还应当架设特相之车(lakkhaṇayāna)呢？——有此一问。
+答案是：应当架设。
+
+sappaccayanāmarūpavasena tilakkhaṇaṃ āropetvā vipassanāpaṭipāṭiyā "aniccaṃ dukkhaṃ anattā"ti sammasanto vicarati. (Ma-A 1,281.)
+
+在上述这一段义注中，把那些应当架设三项特相之车、加以观修审察的诸法，开示为 sappaccaya-nāmarūpavasena ＝ 连同因之诸法在内的名色(nāmarūpa)。
+应当依照那部义注的种种解说而记取：对于连同因之诸法在内的名色，应当轮番架设三项特相之车，按照观智的次第，逐级地观修审察。
+就把因与果这两者关联起来、架设特相之车而作观这件事而言，这一部分实在是一个极好的良机。
+因此，你这位善男子，应当以正见(sammādiṭṭhi)观智去看清：由于因法显现而果法随之显现的情形、由于因法寂灭而果法随之寂灭的情形；并且也要看清因法、果法这两者的生起与坏灭＝生灭(udaya-vaya)，然后轮番架设三项特相之车而作观。
+此处把少数几个观照范畴作为样式书写呈现。
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[222] 结生 - 色蕴中生灭的观法.md】**
+
+### 结生(paṭisandhi) - 色蕴(rūpakkhandhā)中生灭(udaya-vaya)的观法
+**(samudayavayadhammānupassī vā kāyasmiṃ viharati.)**
+
+- 1. 因无明(avijjā)的生起，(业生 kammaja)色(rūpa)生起。
+  - 因无明的灭去，(业生)色灭去。
+  - 无明 ---- 生-灭 - 无常(anicca)。
+  - (业生)色 ---- 生-灭 - 无常。
+
+- 2. 因渴爱(taṇhā)的生起，(业生)色生起。
+  - 因渴爱的灭去，(业生)色灭去。
+  - 渴爱 ---- 生-灭 - 无常。
+  - (业生)色 ---- 生-灭 - 无常。
+
+- 3. 因取(upādāna)的生起，(业生)色生起。
+  - 因取的灭去，(业生)色灭去。
+  - 取 ---- 生-灭 - 无常。
+  - (业生)色 ---- 生-灭 - 无常。
+
+- 4. 因行(saṅkhāra)的生起，(业生)色生起。
+  - 因行的灭去，(业生)色灭去。
+  - 行 ---- 生-灭 - 无常。
+  - (业生)色 ---- 生-灭 - 无常。
+
+- 5. 因业(kamma)的生起，(业生)色生起。
+  - 因业的灭去，(业生)色灭去。
+  - 业 ---- 生-灭 - 无常。
+  - (业生)色 ---- 生-灭 - 无常。
+
+对于苦相(dukkha lakkhaṇa)之乘、无我相(anatta lakkhaṇa)之乘，也各自轮流提起，依相同方法修观(vipassanā)。
+如前面缘起法(paṭiccasamuppāda)篇中已清楚阐明的那样，无明、渴爱、取属于贪见(lobha-diṭṭhi)类的名(nāma)法(dhamma)，因而它们只是意门(manodvārika)速行(javana)心(citta)相续中的名法聚。
+行、业对于尚且只是一介人类的你这位善男子而言，也只是意门大善(kusala)速行心相续中的名法聚。
+你这位善男子在观照那些烦恼轮(kilesa vaṭṭa)、业轮(kamma vaṭṭa)诸法时，应仅按它们实际生起的心、心所(cetasika)的数量，以观智(vipassanā ñāṇa)修观直至照见。
+再者，在摄持因法与果法的部分、修观的部分中，就业而言，应摄取异刹那(nānākkhaṇika)业力(kammasatti)而修观。
+然而，在观的部分＝观生-灭的部分中，那业力由于不是以生(uppāda)-住(ṭhiti)-坏灭(bhaṅga)的方式明显存在的那类法，所以是不宜以观观照的法。
+那业力所依处的思(cetanā)——换言之，以思为首的相应(sampayutta)法聚——则适宜以观观照。
+行与思，就法体本义而言是相同的。
+前面缘起法篇中，已阐明行与业有(kammabhava)的差别。
+应依那一区分来修观。
+在造作善行之前及正造作时，于其间生起的诸多意门速行心路心当中，各别所具的速行7次、速行7次——若能将之提到相(lakkhaṇa)之乘上而以观观照，则行、业两者便都将含摄在内。
+之后也应同样地记取。
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[223] 结生 - 受蕴中 生灭观法.md】**
+
+### 结生(paṭisandhi) - 受蕴(vedanākkhandhā)中 生灭(udaya-vaya)观法
+
+**(samudayavayadhammānupassī vā vedanāsu viharati.)**
+
+- 1. 由于无明(avijjā)生起，受(vedanā)生起。
+  - 由于无明灭去，受灭去。
+  - 无明 ---- 生-灭 - 无常(anicca)。
+  - 受 ---- 生-灭 - 无常。
+
+- 2. 由于渴爱(taṇhā)生起，受生起。
+  - 由于渴爱灭去，受灭去。
+  - 渴爱 ---- 生-灭 - 无常。
+  - 受 ---- 生-灭 - 无常。
+
+- 3. 由于取(upādāna)生起，受生起。
+  - 由于取灭去，受灭去。
+  - 取 ---- 生-灭 - 无常。
+  - 受 ---- 生-灭 - 无常。
+
+- 4. 由于行(saṅkhāra)生起，受生起。
+  - 由于行灭去，受灭去。
+  - 行 ---- 生-灭 - 无常。
+  - 受 ---- 生-灭 - 无常。
+
+- 5. 由于业(kamma)生起，受生起。
+  - 由于业灭去，受灭去。
+  - 业 ---- 生-灭 - 无常。
+  - 受 ---- 生-灭 - 无常。
+
+- 6. 由于依处(vatthu)生起，受生起。
+  - 由于依处灭去，受灭去。
+  - 依处 ---- 生-灭 - 无常。
+  - 受 ---- 生-灭 - 无常。
+
+- 7. 由于所缘(ārammaṇa)生起，受生起。
+  - 由于所缘灭去，受灭去。
+  - 所缘 ---- 生-灭 - 无常。
+  - 受 ---- 生-灭 - 无常。
+
+- 8. 由于触(phassa)生起，受生起。
+  - 由于触灭去，受灭去。
+  - 触 ---- 生-灭 - 无常。
+  - 受 ---- 生-灭 - 无常。
+
+这结生(有分-死)的所缘，是业-业相(kammanimitta)-趣相(gatinimitta)这三种所缘当中的某一种。
+其中，业，对于人类而言，即善的思(cetanā)。
+趣相也被认定为色所缘(rūpārammaṇa)。(Abhi-ṭṭha-2-149。)
+业相则随其适合属于概念(paññatti)或究竟法(paramattha)而可能出现。
+那业相若是佛塔佛像，则当专注观照存在于佛塔佛像中的四大界(mahābhūta)时，像现在这样已达到生灭智(udayabbayañāṇa)阶段的尊贵瑜伽行者(yogāvacara)，不久便只会见到其智慧所及的色聚(rūpakalāpa)微粒。
+那些色聚都只是时节生的食素第八色(utuja-ojaṭṭhamaka)。
+应将存在于各个色聚中的那些时节生食素第八色法收摄起来，把那些究竟色法安立于特相(lakkhaṇa)而修观(vipassanā)。
+对于花、油灯等作为供养物的业相，也以同样方法观照。
+倘若那业相是诸比库(bhikkhu)等受供养者这类有生命的有情众生，则应以观智(vipassanāñāṇa)观照存在于那些受供养者各自名色相续中的四大界，直到见到为止。
+当见到诸色聚时，应将存在于(6)门(dvāra)(42)身分(koṭṭhāsa)中的诸色究竟法整体地汇聚、收摄，把那些究竟法安立于特相而修观。
+至于在那作为业相的受供养者相续中正在生起的诸名法，声闻(sāvaka)弟子的观智则无法精确了知地观照。
+这只是他心识别神通(paracittavijānana abhiññā)、天眼神通(dibbacakkhu abhiññā)的境域。
+因此，对于那些外在(bahiddha)的诸名法，由于名法彼此相同，只能笼统地、整体地汇聚起来而修观。
+以想蕴(saññākkhandhā)、行蕴(saṅkhārakkhandhā)诸法聚为首要而修观，属于法随观(dhammānupassanā)念处(satipaṭṭhāna)的范畴。
+在此，想蕴与行蕴第一法的观区，应依受蕴观区那样观照。
+行蕴第二法的观区，接续书写陈述如下。----
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[224] 结生 - 行蕴中生灭观法.md】**
+
+### 结生(paṭisandhi) - 行蕴(saṅkhārakkhandhā)中生灭(udaya-vaya)观法（第二法）
+**(samudayavayadhammānupassī vā dhammesu viharati.)**
+
+- 1. 由于无明(avijjā)生起，行(saṅkhāra)生起。
+  - 由于无明灭去，行灭去。
+  - 无明 ---- 生-灭 - 无常(anicca)。
+  - 行 ---- 生-灭 - 无常。
+
+- 2. 由于渴爱(taṇhā)生起，行生起。
+  - 由于渴爱灭去，行灭去。
+  - 渴爱 ---- 生-灭 - 无常。
+  - 行 ---- 生-灭 - 无常。
+
+- 3. 由于取(upādāna)生起，行生起。
+  - 由于取灭去，行灭去。
+  - 取 ---- 生-灭 - 无常。
+  - 行 ---- 生-灭 - 无常。
+
+- 4. 由于行生起，(心所(cetasika))行生起。
+  - 由于行灭去，(心所)行灭去。
+  - 行 ---- 生-灭 - 无常。
+  - (心所)行 ---- 生-灭 - 无常。
+
+- 5. 由于业(kamma)生起，行生起。
+  - 由于业灭去，行灭去。
+  - 业 ---- 生-灭 - 无常。
+  - 行 ---- 生-灭 - 无常。
+
+- 6. 由于依处(vatthu)生起，行生起。
+  - 由于依处灭去，行灭去。
+  - 依处 ---- 生-灭 - 无常。
+  - 行 ---- 生-灭 - 无常。
+
+- 7. 由于所缘(ārammaṇa)生起，行生起。
+  - 由于所缘灭去，行灭去。
+  - 所缘 ---- 生-灭 - 无常。
+  - 行 ---- 生-灭 - 无常。
+
+- 8. 由于其余三种名蕴(nāmakkhandhā)生起，行生起。
+  - 由于其余三种名蕴灭去，行灭去。
+  - 其余三种名蕴 ---- 生-灭 - 无常。
+  - 行 ---- 生-灭 - 无常。
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[225] 结生 - 识蕴中生灭观法.md】**
+
+### 结生(paṭisandhi) - 识蕴(viññāṇakkhandhā)中生灭(udaya-vaya)观法
+
+**(samudayavayadhammānupassī vā cittasmiṃ viharati.)**
+
+- 1. 由于无明(avijjā)生起，识(viññāṇa)生起。
+  - 由于无明灭去，识灭去。
+  - 无明 ---- 生-灭 - 无常(anicca)。
+  - 识 ---- 生-灭 - 无常。
+
+- 2. 由于渴爱(taṇhā)生起，识生起。
+  - 由于渴爱灭去，识灭去。
+  - 渴爱 ---- 生-灭 - 无常。
+  - 识 ---- 生-灭 - 无常。
+
+- 3. 由于取(upādāna)生起，识生起。
+  - 由于取灭去，识灭去。
+  - 取 ---- 生-灭 - 无常。
+  - 识 ---- 生-灭 - 无常。
+
+- 4. 由于行(saṅkhāra)生起，识生起。
+  - 由于行灭去，识灭去。
+  - 行 ---- 生-灭 - 无常。
+  - 识 ---- 生-灭 - 无常。
+
+- 5. 由于业(kamma)生起，识生起。
+  - 由于业灭去，识灭去。
+  - 业 ---- 生-灭 - 无常。
+  - 识 ---- 生-灭 - 无常。
+
+- 6. 由于名(nāma)-色(rūpa)生起，识生起。
+  - 由于名-色灭去，识灭去。
+  - 名-色 ---- 生-灭 - 无常。
+  - 识 ---- 生-灭 - 无常。
+  - 苦(dukkha)与无我(anatta)也请以同样方式继续观察。
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[226] 有分色蕴等色蕴中的生灭观察法.md】**
+
+### 有分(bhavanga)色蕴(rūpakkhandhā)等色蕴中的生灭(udaya vaya)观察法
+
+- 1. 因无明(avijjā)生起，（业生(kammaja)）色(rūpa)生起。
+  - 因无明灭去，（业生）色灭去。
+  - 无明 ---- 生-灭 - 无常(anicca)。
+  - （业生）色 ---- 生-灭 - 无常。
+
+- 2. 因渴爱(taṇhā)生起，（业生）色生起。
+  - 因渴爱灭去，（业生）色灭去。
+  - 渴爱 ---- 生-灭 - 无常。
+  - （业生）色 ---- 生-灭 - 无常。
+
+- 3. 因取(upādāna)生起，（业生）色生起。
+  - 因取灭去，（业生）色灭去。
+  - 取 ---- 生-灭 - 无常。
+  - （业生）色 ---- 生-灭 - 无常。
+
+- 4. 因行(saṅkhāra)生起，（业生）色生起。
+  - 因行灭去，（业生）色灭去。
+  - 行 ---- 生-灭 - 无常。
+  - （业生）色 ---- 生-灭 - 无常。
+
+- 5. 因业(kamma)生起，（业生）色生起。
+  - 因业灭去，（业生）色灭去。
+  - 业 ---- 生-灭 - 无常。
+  - （业生）色 ---- 生-灭 - 无常。
+
+- 6. 因心(citta)生起，（心生(cittaja)）色生起。
+  - 因心灭去，（心生）色灭去。
+  - 心 ---- 生-灭 - 无常。
+  - （心生）色 ---- 生-灭 - 无常。
+
+- 7. 因时节(utu)生起，（时节生(utuja)）色生起。
+  - 因时节灭去，（时节生）色灭去。
+  - 时节 ---- 生-灭 - 无常。
+  - （时节生）色 ---- 生-灭 - 无常。
+
+- 8. 因食(āhāra)生起，（食生(āhāraja)）色生起。
+  - 因食灭去，（食生）色灭去。
+  - 食 ---- 生-灭 - 无常。
+  - （食生）色 ---- 生-灭 - 无常。
+
+苦(dukkha)、无我(anatta)也以同样的方法观察。
+观看以上这样写出陈述的示范模式，将五蕴划分开来——于诸心路过程心(vīthi citta)的每一个心剎那(cittakkhaṇa)中，于结生心(paṭisandhi)、死心(cuti)中，以及于存在于诸心路过程之间的某些有分心剎那中——把集(samudaya)之本质、灭(vaya)之本质、集灭之本质毫无遗漏地观察。
+于色所缘(rūpārammaṇa)线等全部（6）条线中，于每一条线、每一条线里把善的一组、不善的一组的名法(nāma)毫无遗漏地观察。
+说到这里，对缘起法(paṭiccasamuppāda)第五法观察单元已经透彻地学习过、观察过的你这位善人——藉由「samudaya vaya dhammānupassī vā kāyasmiṃ viharati」等等，将之纳入念处(satipaṭṭhāna)篇的修行次第中，对佛陀亲自宣说的集灭法(samudaya vaya dhamma)观察单元，已经能够理解、能够领会了，已经能够善于观察了。
+
+在这个观察单元中——「因无明生起，色生起；因无明灭去，色灭去」——如此等等作意而修习观察，便是 **---- 依缘(paccayato)生灭(udayabbaya)之洞见(dassana) = 依原因法而观生灭之观法**。
+「无明 - 生-灭 - 无常，色 - 生-灭 - 无常」---- 如此等等的观察单元便是 **依剎那(khaṇato)生灭之洞见 = 依剎那而观生-灭之观法**。
+把「因法生起故果法生起、因法灭去故果法灭去」如此观察，亦即依缘(paccayato)生灭之洞见 = 依原因法而观生-灭之观法，以此为首要而观察之后，再者，舍弃那些因法与果法之间因果关联的本质，不再观看那因果关联的本质，而以智(ñāṇa)取具有生起边(uppāda)、坏灭边(bhaṅga)的无明等蕴(khandha)、色等蕴，把那些蕴的生起-灭去，即生起边坏灭边这一剎那现在(khaṇa paccuppanna) = khaṇattaya samaṅgī = 与三剎那之集合相具足之际，以观智(vipassanā ñāṇa)看至明见，再依无常等而安立特相(lakkhaṇa)之车乘，如此观察。
+如此观察，便正是依剎那(khaṇato)生灭之洞见 = 依剎那而观生灭之观法。
+应当如此观察这一点，也可以从下面接着将要写出陈述的大复注(mahāṭīkā)文句中得知。
+
+以观(vipassanā)观察名法的生灭时，关于能否观察至触及剎那现在这一问题，《无碍解道》(Paṭisambhidā magga)义注的大长老尊者(bhadanta)大名(Mahānāma)长老(thera)与《清净之道》(Visuddhi Magga)大复注的大长老老师(ācariya)法护(dhammapāla)长老二位，彼此一来一往地相互争论着。
+那场争论，正是智者们的一场法义交锋。
+这也正是在修观时极其重要、应当了知的一个问题。
+《无碍解道》义注中如此解说：
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[228] 《无碍解道》义注的主张.md】**
+
+### 《无碍解道》（Paṭisambhidāmagga）义注（aṭṭhakathā）的主张
+
+**nibbattilakkhaṇa**nti addhā-santati-khaṇa vasena rūpassa uppādaṃ. 
+uppādoyeva saṅkhatalakkhaṇattā lakkhaṇanti ca vutto. pa. 
+**vipariṇāmalakkhaṇa**nti addhā-santati-khaṇa vasena rūpassa bhaṅgaṃ. 
+bhaṅgoyeva saṅkhatalakkhaṇattā lakkhaṇanti vutto. pa. ayaṃ pana viseso ---- arūpakkhandhānaṃ udayabbayadassanaṃ addhā-santati vasena, na khaṇa vasena. (paṭisaṃ, ṭṭha, 1, 235-236.)
+
+《无碍解道》义注的大长老持有如下见解——在观照色（rūpa）法的「生灭（udayabbaya）」＝生起坏灭之处——
+
+- 一、凭借由一个「有（bhava）」所划分的漫长时段、即「时分（addhā）」之力的生起与坏灭，
+- 二、凭借「相续（santati）」＝色的相续序列之力的生起与坏灭，
+- 三、凭借称为「生起—住—坏灭（uppāda-ṭhiti-bhaṅga）」的「剎那（khaṇa）」之力的生起与坏灭——
+
+他持有这样的见解：这三种「生灭」＝生起坏灭全都能够观照得到。另一方面，在观照名（nāma）法的「生灭」＝生起坏灭之处，则——
+
+- 一、凭借由一个「有」所划分的漫长时段、即「时分」之力的生起与坏灭，
+- 二、凭借「相续」＝称为「一个心路（vīthi）」的名之相续序列之力的生起与坏灭——
+
+这种「生灭」＝生起坏灭只有两种能够观照得到；并且他还阐明说：凭借称为「生起—住—坏灭」的「剎那」之力的「生灭」＝生起坏灭则无法观照得到。关于这一阐释，《大复注》（Mahāṭīkā）的大长老因不满意，便如下所示加以反驳辩析。
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[229] 大复注的回辩.md】**
+
+### 大复注(mahāṭīkā)的回辩
+
+大复注西亚多的回辩,是对下面《清净之道》义注(aṭṭhakathā)的解释,因此首先把那段《清净之道》义注的文句书写呈示如下。----
+
+evaṃ ekekassa khandhassa udayabbayadassane dasa dasa katvā paññāsa lakkhaṇāni vuttāni. tesaṃ vasena evampi rūpassa udayo evampi rūpassa vayo, evampi rūpaṃ udeti, evampi rūpaṃ vetīti paccayato ceva khaṇato ca vitthārena manasikāraṃ karoti. (visuddhi 2 267.)
+
+ettha ca keci tāva āhu ---- "arūpakkhandhānaṃ udayabbayadassanaṃ addhā-santativaseneva, na khaṇavasenā"ti. tesaṃ matena khaṇato udayabbayadassanameva na siyā. apare panāhu "paccayato udayabbayadassane atītādivibhāgaṃ anāmasitvā sabbasādhāraṇato avijjādipaccayā vedanāsambhavaṃ labbhamānataṃ passati, na uppādaṃ. avijjādiabhāve ca tassā asambhavaṃ alabbhamānataṃ passati, na bhaṅgaṃ. khaṇato udayabbayadassane paccuppannānaṃ uppādaṃ bhaṅgañca passatī"ti, taṃ yuttaṃ. santativasena hi rūpārūpadhamme udayato vayato ca manasikarontassa anukkamena bhāvanāya balappattakāle ñāṇassa tikkhavisadabhāvappattiyā khaṇato udayabbayā upaṭṭhahantīti. ayañhi paṭhamaṃ paccayato udayabbayaṃ manasikaronto avijjādike paccayadhamme vissajjetvā udayabbayavante khandhe gahetvā tesaṃ paccayato udayabbayadassanamukhena khaṇatopi udayabbayaṃ manasikaroti. tassa yadā ñāṇaṃ tikkhaṃ visadaṃ hutvā pavattati, tadā rūpārūpadhammā khaṇe khaṇe uppajjantā, bhijjantā ca hutvā upaṭṭhahanti. tena vuttaṃ "evampi rūpassa udayo"tiādi.
+
+tattha **evampi rūpassa udayo**ti evaṃ vuttanayena avijjāsamudayāpi. pa. taṇhā. pa. kamma. pa. āhārasamudayāpi rūpassa sambhavo. **evampi rūpassa vayo**ti evaṃ vuttanayeneva avijjānirodhāpi. pa. taṇhā. pa. kamma. pa. āhāranirodhāpi rūpassa vayo anuppādoti **paccayato vitthārena manasikāraṃ****karoti. evampi rūpaṃ udetī**ti evaṃ vuttanayena nibbattilakkhaṇaṃ passantopi kammasamuṭṭhānarūpampi āhāra-utu-cittasamuṭṭhānarūpampi udeti uppajjati nippajjatīti. evaṃ vuttanayeneva vipariṇāmalakkhaṇaṃ passanto kammasamuṭṭhānarūpampi āhāra-utu-cittasamuṭṭhānarūpampi **veti** nirujjhatīti khaṇato vitthārena manasikāraṃ karotīti yojanā. (mahāṭī 2 422-423.)
+
+上面《清净之道》义注的意旨是这样的。在对每一个蕴(khandha)观照生灭(udayabbaya)时,由于各有生智(udaya ñāṇa)五种、灭智(vaya ñāṇa)五种,所以在每一个蕴上有生灭智(udayabbaya ñāṇa)十种。
+
+- 1. 由于无明(avijjā)的生起,色(rūpa)生起。
+- 2. 由于渴爱(taṇhā)的生起,色生起。
+- 3. 由于业(kamma)的生起,色生起。
+- 4. 由于食(āhāra)的生起,色生起。
+- 5. 色的生起之性质。(生智——五种)
+
+- 1. 由于无明的灭尽,色灭尽。
+- 2. 由于渴爱的灭尽,色灭尽。
+- 3. 由于业的灭尽,色灭尽。
+- 4. 由于食的灭尽,色灭尽。
+- 5. 色的灭尽之性质。(灭智——五种)
+
+如是,在每一个蕴上,生智五种、灭智五种,两者合计则成为生灭智十种。
+(在无明、渴爱中,也把名为取(upādāna)的因法一并纳入;在业中,也把名为行(saṅkhāra)的因法一并纳入;在食中,也把名为心(citta)、季节(utu)的诸因法一并纳入。)
+也称为生灭相(udayabbaya lakkhaṇā)。
+而在五蕴上,生灭智=生灭相则有五十种。
+凭借那五十种生灭智的力量,修行者(yogāvacara)
+
+- 1. 由于此因,色法也明显地生起。
+- 2. 由于此因,色法也灭尽寂止。
+- 3. 色法也如此以生起(uppāda)而明显地生起。
+- 4. 色法也如此以坏灭(bhaṅga)而灭坏。 ---
+
+如是,既以因法、也以剎那(khaṇa),广泛地作意观修生灭之性质。(《清净之道》,2,267。)
+
+那段上面的《清净之道》义注的文句,大复注西亚多在解释它们时,对《无碍解道》(paṭisambhidā magga)义注的西亚多——尊者大名长老(bhadanta mahānāma thera)的见解,作了如下的回辩。
+
+继续再说——在此,某些老师=诸keci(某些)老师们,在观照此生灭洞见(udayabbaya dassana)=诸行法的生灭时,首先这样说道。
+"对名蕴(nāma khandha)四者的生起、坏灭=生灭性质的观照,唯有凭借期间现在(addhā paccuppanna)、相续现在(santati paccuppanna)的力量才能够进行=唯有凭借期间现在、相续现在的力量才能够观照。
+而凭借剎那现在(khaṇa paccuppanna)的力量则不能够进行=不能观照到达于剎那现在的程度。"他们这样说道。
+按照那些keci老师的主张,以剎那来观照生灭洞见=生起-坏灭这件事本身,就变得不可能了。
+
+而其他老师=另外一类(apare)老师们则这样说道。
+"在名为以因法观照生起、坏灭的'从缘(paccayato)生灭洞见'这件事上,不考量过去等的分别,而是从与一切共通的角度,观照由于无明等因法而使受(vedanā)等得以生起的那种'值得获得性',而不观照那正在生起的生起。
+(=不观照无明正在生起的生、受等正在生起的生,而只观照由于无明等而使受等生起的那种因果关联的性质。)
+此外,当无明等因法不明显存在时,只观照那受(=那受等)'不应生起'、即'不值得获得'的那种状态,而不观照那正在坏灭的坏灭。
+(=由于因法以无生(anuppāda)灭(nirodha)的性质而灭尽寂止,所以也只观照果法以无生灭的性质而灭尽寂止。
+因与果两者、或果之名法聚以剎那而坏灭=剎那坏灭则不观照。)而在以剎那观照生灭的'剎那生灭洞见(khaṇato udayabbaya dassana)'=以剎那观照生灭这件事上,则既观照属于现在(paccuppanna)的受蕴(vedanā khandha)等诸法正在生起的生,也观照其正在坏灭的坏灭。"他们这样说道。
+
+那些另外一类老师的说法十分恰当。
+原因是这样的——对于那以相续现在的力量(=从相续现在开始)对色法、名法既以生起、也以坏灭而作意观修的修行者来说,随着观(vipassanā)修习(bhāvanā)业处(kammaṭṭhāna)逐渐地修习而来,当达到观修习强盛、有力之时,由于观智(vipassanā ñāṇa)达到了锐利、敏锐以及清净纯洁的状态,所以以剎那的生起、坏灭=生灭性质便显现出来了。
+因此,那些另外一类老师的说法十分恰当。
+
+确实如此——这位修行者首先以"由于无明的生起,色生起"等这样的方式,作意名为以因法观照生起、坏灭的'从缘生灭性质(paccayato udayabbaya)'。
+如此作意之后,放下对无明等因法的作意(=不再作意由于无明等因法而使果法生起的情形),以智(ñāṇa)分辨那些具有生起、坏灭=生灭性质的诸蕴,以那些蕴的以因法的生灭为主导,从而也以剎那来作意生起、坏灭。
+在那位修行者的相续流(santāna)中,无论在何时观智变得锐利、敏锐,变得清净。
+在那时,色法、名法在名为生起-住(ṭhiti)-坏灭的每一个剎那、每一个剎那中,既生起、也坏灭地显现出来。因此——
+
+- 1. 由于此因,色法也明显地生起。
+- 2. 由于此因,色法也灭尽寂止。
+- 3. 色法也如此以生起而明显地生起。
+- 4. 色法也如此以坏灭而灭坏。 ---
+如此等等的话语,是义注西亚多在(《清净之道》,2,267)中所开示的。(大复注,2,422-423。)
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[231] 补充说明.md】**
+
+### 补充说明
+
+从缘生灭洞见(paccayato udayabbaya dassana) = 在以因法观生-灭这件事上，所谓诸因法的明显生起、明显存在，（如前面所解说的那样）也是指无明(avijjā)、渴爱(taṇhā)-取(upādāna)-行(saṅkhāra)-业(kamma)这些因法以异剎那业力(nānākkhaṇika kamma satti)的方式而明显存在的意思。
+（并非指心(citta)-时节(utu)-食(āhāra)-依处(vatthu)-所缘(ārammaṇa)-触(phassa)等这些因法。）
+瑜伽行者(yogāvacara)以观智(vipassanā ñāṇa)看清那样的无明-渴爱-取-行-业这些因法以异剎那业力的方式而明显存在，并且只把那些因法与其果报蕴(vipāka khandha)之间因-果关联的性质作为主导，以「由于无明的生起，色(rūpa)生起」等方式来作观。
+
+再者，作为生命期间之缘(pavatti paccaya)的那些现在(paccuppanna)因法，也是具足了所谓生起-住-坏灭(uppāda-ṭhiti-bhaṅga)的三剎那(khaṇattaya) = 三个剎那之集合的诸法；然而，并不把那些因法的生起、坏灭作为主导，而只把「由于因法的明显生起，故果法明显生起」作为主导，以「由于心的生起，心生色(cittaja rūpa)生起」如此等方式来作观。
+如此作观时，正如不作意诸因法以剎那(khaṇa)而生、而灭一样，对诸果法以剎那而生、而灭也同样不作意。
+如此，不观、不作意因与果两者以剎那而生、而灭的生灭(udaya vaya)性质，而只观「由于因法的明显存在、明显生起，故果法明显存在、明显生起」，这就是从缘生洞见(paccayato udaya dassana)的工作。
+由于因法的不明显存在、不明显生起，而观果法的不明显存在，这就是从缘灭洞见(paccayato vaya dassana)的工作。
+
+在那样作观时，指示不要以过去(atīta)等加以区分、辨析地去省察。
+无明、渴爱、取、行、业这些因法的异剎那业力，并不是以生起-住-坏灭的方式明显存在着的那一类法，因此无法以过去、未来(anāgata)等来加以辨析；然而，作为那些异剎那业力之源头、从根本上开始发生过的、正在发生的、即将发生的无明、渴爱、取、行、业，若就其以生起-住-坏灭而明显生起之时、存续之时而言，则可以辨析、区分为过去、未来、现在。
+
+- atīte hetavo pañca, idāni phalapañcakaṃ.
+- idāni hetavo pañca, āyatiṃ phalapañcakaṃ. (Visuddhi 2 214.)
+
+- = 由于五种过去因法，而生起五种现在果法。
+- 由于五种现在因法，而生起五种未来果法。
+
+请参照这样等等的诸开示(desanā)。
+再者，名为生命期间之缘的心-时节-食-依处-所缘-触等这些因法，在生起之时是值得获得生起-住-坏灭的那一类法，因此正是可以用过去等来加以区分、辨析的。
+然而，在观那些生命期间之缘诸法与其各自的果法之间因果关联的性质时，不应以过去等加以区分、辨析、省察，而只应观：由于心等因法的明显存在，心生色等果法的应当生起；由于依处等因法的明显存在，受(vedanā)等果法的应当生起——只观其值得获得的状态。
+
+为了那些还不能领会其要旨的瑜伽行者(yogī)善男子，再略加补充解说如下——那些无明、渴爱、取、行、业，是可以随其相应而成为过去因法、现在因法、未来因法等的。
+尽管可以那样，但在所谓从缘生灭洞见、即以因法观生-灭的这一部分里，不要再以过去因法对现在果法、现在因法对未来果法等加以区分、辨析地作意，而只观：由于因法的明显存在、由于明显生起，故果法应当生起的样子——只观其值得获得的状态。不要观生起(uppāda)的性质。
+当无明等因法不明显存在、不明显生起时，只观受等果法的不应当生起的样子——只观其不值得获得的状态。
+不要观坏灭(bhaṅga)的性质。
+观生起与坏灭，乃是剎那生灭洞见(khaṇato udayabbaya dassana) = 以剎那观生-灭的方法，唯是因蕴、果蕴的转生相(nibbatti lakkhaṇā)与变易相(vipariṇāma lakkhaṇā)而已。
+
+唯有在生起-住-坏灭这三个剎那之集合圆满具足之时、即三剎那具足(khaṇattaya samaṅgī)之内安住的法，才是现在；在那三剎那之集合之前安住的法是过去，在其后安住的法是未来。
+剎那生灭洞见 = 以剎那看清生-灭的作观，乃是与那处于生起-住-坏灭这三个剎那之集合圆满具足、即三剎那具足之内安住的法的生起端、坏灭端相关。
+应当看清那生起端、坏灭端而修观。
+
+而在以因法观生-灭的作观中，则无需那样专注地省察生起端、坏灭端。
+也无需专注地省察过去、未来。
+由于只需专注省察「由于因法而果法生起」，所以才指示：不以过去等去省察，而去观从缘生灭洞见。
+由于作了那样的指示，不希望（读者）误以为：在所谓「由于过去诸因法的明显生起，现在诸果法明显生起的样子；由于现在诸因法的明显生起，未来诸果法明显生起的样子」这样的因-果关联即缘起(paṭiccasamuppāda)部分里，对于过去因、现在果、现在因、未来果，无需以观智去看清。
+应以观智看清各自的因法与各自的果法之间因-果关联的性质——
+
+「由于无明的生起，色生起」——如此等等也好，
+
+应以观智看清：由于各自的因法以无生之灭(anuppādanirodha)的性质而无余地灭尽寂止，故各自的果法也以无生之灭的性质而无余地灭尽寂止——
+
+「由于无明的灭，色灭」——如此等等也好，
+
+都必须如此修观、省察。
+请注意：那样作观时，要旨只是说「不要作『这是过去法、这是现在法、这是未来法』等的区分、辨析、省察」而已。
+为什么呢——因为这是一项必须以下述为主导、为先导而修观、省察的禅修工作：既要观「由于因法的明显存在、明显生起，故果法明显存在、明显生起的样子」，也要观「由于因法的不明显存在、灭去，故果法不明显存在、灭去的样子」。
+由于必须在极其短促的时间内，无论是以因法还是以剎那，都要恰到好处、精准确切、灵活敏捷、锐利明快、迅速快捷、利落明晰地观照生-灭——
+
+- 1. 从缘生灭洞见 = 在以因法观生-灭时应如何作意，
+- 2. 剎那生灭洞见 = 在以剎那观生-灭时应如何作意
+
+请领会：这是在确定、指示如此作意的方式。
+那样作观时，应当先观所谓「由于因法的生起，果法生起的样子；由于因法的灭，果法灭的样子」的从缘生灭(paccayato udayabbaya)，然后才观以剎那而生-灭。
+在以剎那观生-灭时，以「udayabbaya vante khandhe」之语，确定要观那些具有生起、坏灭性质的诸蕴。
+请知道：依据那项规定，不值得获得生起-住-坏灭的诸异剎那业力，虽然包含在因法之中，却不应观其生-灭。
+只对那异剎那业力的所依——思(cetanā)——修观。
+
+- 由于无明的生起，色生起。
+- 由于无明的灭，色灭。
+- 无明 ---- 生-灭 - 无常(anicca)。
+- 色 ---- 生-灭 - 无常。
+
+如此等等的作观方式。
+然而，由于上述大复注(mahāṭīkā)中解说道「**paccaya dhamme vissajjetvā** = 应舍弃诸因法」而观生-灭，因此请注意：不要对观无明等因法之生-灭一事心生疑惑(saṃsaya)。
+在这一部分里，若不想作意诸因法的生-灭 = 生灭性质，可暂时将其搁置，若只想作意五种果蕴的生-灭，便可作意修观。
+然而，诸因法的生-灭也必须安立（无常等）相(lakkhaṇā)的轨辙而修观，因此往后还要再一次专门地对那些无明等因法也修观。
+其原因是：在这生灭随观智(udayabbayānupassanā ñāṇa)的观所观、所缘清单中，连乃至「有」为止的缘起支也都包含在内之故。如此——
+
+- 1. 从缘生灭洞见 = 以因法观生-灭，
+- 2. 剎那生灭洞见 = 以剎那观生-灭 ---
+
+若能恰当地修习、善能观修这所谓「生灭洞见 = 观两种生-灭」的观修习(vipassanā bhāvanā)工作，那么当生灭随观智变得锐利、敏锐之时，色-名(nāma)以剎那而生、而灭，也必将明现于瑜伽行者的智中。
+这些话语，正是为了让智慧浅弱者也能理解上面所写出的大复注的话语，而特意再加补充解说的话语。
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[234] 与诸大义注相符合.md】**
+
+### 与诸大义注(aṭṭhakathā)相符合
+
+《无碍解道》(Paṭisambhidā magga)义注的论师,是尊者大名长老(Bhadanta Mahānāma Thera)。
+那位尊者大名长老,被大复注(Mahāṭīkā)的论师、尊贵的法护长老(Dhammapāla Thera)称作「某些(keci)师」。
+对那位大名长老的见解,大复注的论师并不认同。
+在以观(vipassanā)观照名法(nāma)时,「声闻弟子也能够以剎那(khaṇa)观见这些名法的生起与坏灭,以至抵达它们的剎那现在(khaṇapaccuppanna)」——唯有这一主张,才为大复注的论师所喜爱、所推崇。
+而这一主张,也正是与诸大义注相符合的。
+在《沙门果经》(Sāmaññaphala Sutta)的念正知论(satisampajañña-kathā)中,关于「直视—斜视(ālokita-vilokita)」=直视之处—斜视环顾之处,如何也借由根本遍知(mūlapariññā)之力而成就无痴正知(asammohasampajañña)的观照之法,便如此解说:
+
+- bhavaṅgāvajjanañceva, dassanaṃ sampaṭicchanaṃ.
+- santīraṇaṃ voṭṭhabbanaṃ, javanaṃ bhavati sattamaṃ. (Dī-A-1-174)
+
+在《根本五十》(Mūlapaṇṇāsa)义注对《大念处经》(Mahāsatipaṭṭhāna Sutta)正知篇的解说(M-A-1-266)中,在念处相应(Satipaṭṭhāna Saṃyutta)《念经》(Sati Sutta)的解说(Sam-A-3-226)中,以及在《迷惑冰消》(Sammohavinodanī)义注对禅分别(Jhānavibhaṅga)的解说(Abhi-A-2-341)中,也都以相同的样式、一致地作了解说。
+这些大义注所要表达的根本含义,即是如此。——
+
+在直视、斜视环顾而见到色所缘(rūpārammaṇa)时,〔过去有分(atīta-bhavaṅga)—有分波动(bhavaṅgacalana)—有分断(bhavaṅgupaccheda)〕、五门转向(pañcadvārāvajjana)、眼识(cakkhuviññāṇa)、领受(sampaṭicchana)、推度(santīraṇa)、确定(voṭṭhabbana)、速行(javana,七次)、(彼所缘(tadārammaṇa)二次)这一系列眼门心路心(cakkhudvārika-vīthicitta)的相续,便与相应法(sampayutta)一同生起。(此处所指的是极大所缘(atimahantārammaṇa)、大所缘(mahantārammaṇa)的心路过程。)
+当以智(ñāṇa)将这些连同相应法的眼门心路心相续等名法之聚的密集(ghana)各各破除、令其崩解,而以智见穿透、洞见、以至抵达究竟法(paramattha)时,即谓无痴正知之智(asammohasampajañña-ñāṇa)已生起——此即其义。
+其详细内容,已在名业处(nāmakammaṭṭhāna)篇中清楚地呈示过了。
+这一解说,正是指向以智将色、名(rūpa-nāma)加以分别把握的名色摄受智(nāmarūpapariggahañāṇa)篇的解说。
+
+再者,在《清净之道》(Visuddhi Magga)义注的思惟智(sammasanañāṇa)篇(Vs-2-252-253)中,也教导:对于眼门心路等种种心路心剎那中,既要以观智(vipassanā ñāṇa)观见连同相应法的心路心名法之聚的生起与坏灭,也要观见在诸心路之间所存在的、连同相应法的有分心(bhavaṅgacitta)的生起与坏灭,从而安立三相(lakkhaṇā),修习观。(已在前面的思惟智篇中解说过了。)
+
+再者,在《迷惑冰消》义注与《清净之道》义注中,也如此解说:
+nānādhātuyo vinibbhujitvā ghanavinibbhoge kate anattalakkhaṇaṃ yāthāvasarasato upaṭṭhāti. (Abhi-A-2-47; Vs-2-276)
+
+若能将种种色界(rūpadhātu)、名界(nāmadhātu),即「色团色块、名团名块」这样的种种色密集(rūpaghana)、名密集(nāmaghana),以智破除、令其崩解,加以分析剖判而得以观照,则无我相(anatta lakkhaṇa)便依其如实的自性,显现于修行者(yogāvacara)的了知之智中。(Abhi-A-2-47; Vs-2-276)
+
+于此,唯有当观见到每一个色聚(rūpakalāpa)、名聚(nāmakalāpa)之内所存在的、名为色究竟法、名究竟法的究竟界(paramatthadhātu)那「生(uppāda)—住(ṭhiti)—坏灭(bhaṅga)」即剎那三法(khaṇattaya)=三剎那之集合之内的生起与坏灭时,相续密集(santatighana)方会崩解。
+唯有当相续密集等种种密集崩解,智见方能抵达究竟法。
+唯有当智见抵达究竟法,无我相方会依其如实的自性,显现于修行者的智中。
+因此,为了获得无我(anatta)之智见、获得观智之智见,如今便须以观智将种种色密集、名密集破除分裂,而修习观。
+唯有当密集崩解,方能抵达剎那现在。
+而唯有当能以剎那观见生灭,相续密集方会崩解;因此,为了密集的崩解、为了获得无我之智见,便须于色、名二者之中都修习观,以观见以剎那而生—灭。
+
+因此,大复注的论师对《无碍解道》义注之论断的反驳——换言之——大复注的论师所谓「在名法之中,也须以观智观见、以剎那而生—灭,以至抵达剎那现在」这一论断,正如恒河(Gaṅgā)之水与亚木那河(Yamunā)之水相互交融一般,与诸大义注的种种解说浑然一体、彼此一致。
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[236] 谛 - 缘起法 - 法 - 相.md】**
+
+### 谛(sacca) - 缘起法(paṭiccasamuppāda) - 法(naya) - 相(lakkhaṇā)等已显现　四谛显现之方式
+
+正如以上书写陈述过的那样 ----
+- 1. 依缘(paccayato)生灭(udayabbaya)之洞见(dassana) = 依因法观照生-灭，
+- 2. 依剎那(khaṇato)生灭之洞见 = 依剎那(khaṇa)观照生-灭——所谓 ----
+
+对这两种生灭体性作意修观的修行者(yogāvacara)的智(ñāṇa)里，「此诸色(rūpa)法、
+名(nāma)法，先前不存在，如今才突然生起；既已生起，又突然
+灭坏、消失」——如此洞察了知的观智(vipassanā ñāṇa)，便格外地、超胜地清净
+纯洁起来了。 
+如此，既以因法、又以剎那，以两类两种
+方式，观照生起、坏灭之生灭体性的那位修行者的智里 ----
+
+- 1. 四谛，
+- 2. 缘起法的体性，
+- 3. 同一性(ekatta)等四种法，
+- 4. 无常相(anicca lakkhaṇa)等五种相 ----
+
+这些法都显现出来了。(《清净之道》,2,267。)
+
+对于如此作意的那位禅修者(yogī)而言，在生灭智(udayabbaya ñāṇa)尚未生起的那一整段期间里，在那整段期间中，色、名诸法的生灭=生起与坏灭并不十分明显，只能模模糊糊地以比量(anumāna)推度、姑且随顺揣测——以此为缘，便与「iti kirime dhammā ahutvā sambhonti, hutvā paṭiventi = 此诸色法、名法先前不存在，如今才突然生起；既已生起，又突然灭坏、消失」这一句里、表示并非亲见(paccakkha)而是以比量来揭示的「kira = 据说」这一语词(saddā)相配合而宣说的。又一种解法——nayadassana = 以指示门径的方式而如此宣说的。
+首先，对现在法(paccuppanna dhamma)的生灭亲自现见之后，从此再依「彼亦同此理」的方式，对过去(atīta)、未来(anāgata)诸法也运用此方法推知。(大复注,2,423。卑谬版《清净之道》义释,5,165。)(运用方法的方式已在第一册中解说过了。)
+
+详细来说便是这样——既观照：由于无明(avijjā)等在前世已经生起，故诸蕴(khandha)理应生起；又观照：由于无明等因法以不生灭尽(anuppādanirodha)的体性无余地寂灭，故诸蕴以所谓「将来不再生起之灭」的不生灭尽体性而寂灭；以观智观照这两者。
+如此观照，便名为那位修行者的依缘生灭之洞见。
+再者，观照转生相(nibbattilakkhaṇā)与变易相(vipariṇāmalakkhaṇā)的修行者，观照诸蕴的生灭。
+如此观照诸蕴的生灭，便名为那位修行者的依剎那生灭之洞见。
+唯有在诸蕴正在生起的生起剎那(uppādakhaṇa)，转生相才会生起。
+唯有在正在坏灭的坏灭剎那(bhaṅgakhaṇa)，变易相才会生起。
+因此，观照那转生相、变易相的修行者，便名为依剎那观照诸蕴的生起、坏灭即生灭。(《清净之道》,2,267。)
+
+1. 因此，正如以上所说，以因法、以剎那这两种方式观照生-灭(udaya-vaya)体性的那位修行者，在其智中——藉由「依缘生起之洞见(udayadassana) = 依因法纯粹观照生起」（= 藉由纯粹观照「因法生起故果法生起」之样态）以观之正见(vipassanā sammādiṭṭhi)的智慧亲自现前、洞穿、了知那直接令五蕴(= 诸苦圣谛法)生起的能生(janaka)因法，故**苦因圣谛(samudaya sacca)**便显现出来。
+
+2. 藉由「依剎那生起之洞见 = 依剎那纯粹观照诸蕴的生起」（= 藉由观见诸蕴的生起即转生相）以观之正见的智慧亲自现前、洞穿、了知五蕴的生起即生苦(jāti dukkha)，故**苦圣谛(dukkha sacca)**便显现出来。
+
+3. 藉由「依缘坏灭之洞见(vayadassana) = 依因法纯粹观见坏灭」=（藉由观见：因法以所谓「将来不再生起之灭」的不生灭尽体性而寂灭，故果法亦以所谓「将来不再生起之灭」的不生灭尽体性而寂灭）**灭圣谛(nirodha sacca)**便显现出来。何以故？因为以观之正见的智慧亲自现前、洞穿、了知：由于诸因法的不生起 = 由于诸因法以不生灭尽体性而寂灭，那些有因法显现而存在的果法 = 那些由因法而得以生起的果法，便以不生灭尽体性而寂灭。(《清净之道》,2,267。)
+
+“**paccayānuppādenā**”ti etena paccayānaṃ anuppādanirodho idha paccayanirodhoti dasseti.(大复注,2,424。)
+
+4. 藉由「依剎那坏灭之洞见 = 观见诸蕴在坏灭时(bhaṅgakāla)变坏、毁坏的变易相这一纯粹的坏灭」，以观之正见的智慧亲自现前、洞穿、了知那称为死苦(maraṇa dukkha)的轮回(saṃsāra vaṭṭa)巨大苦难，故**苦圣谛**法便正是这样显现出来。(《清净之道》,2,267。)
+
+samuddo mayā diṭṭho = 我看见了大海——在这句话中，「samudda（海）」一词虽是聚合而成的整片大海的名称，但正如把整片大海「samudda」之名借代地安置于用作部分的眼睛所能看见的大海某一局部之上，从而以「一分代全体(ekadesūpacāra)」的方式，把那用作部分的眼睛所能看见的大海某一局部也称作「大海」一样；也正如说「看见了大海」一样；
+
+pabbato mayā diṭṭho = 我看见了山——在这句话中，「pabbata（山）」一词虽是聚合而成的整座山的名称，但正如把整座山「pabbata」之名借代地安置于用作部分的眼睛所能看见的山某一局部之上，从而以一分代全体的方式，把那用作部分的眼睛所能看见的山某一局部也称作「pabbata = 山」一样；也正如说「我看见了山」一样；
+
+正如对以局部方式看见大海的人而言，聚合而成的整片大海便显现出来；正如对以局部方式看见山的人而言，聚合而成的整座山便显现出来一样——同样地，以观智看见诸蕴某一局部的生起 = 生苦、坏灭 = 死苦的修行者，也就正是清清楚楚地了知了聚合而成的苦圣谛。(大复注,2,423-424。)
+
+5. 在那位修行者的相续流(santāna)中生起的 ----
+- （甲）依缘生灭之洞见 = 依因法观见诸行(saṅkhāra)法的生灭，
+- （乙）依剎那生灭之洞见 = 依剎那观见诸行法的生灭——所谓 -
+
+对这两种诸行法生灭的真实自性能毫不迷惑地了知的无痴(asammoha) = 以正见(sammādiṭṭhi)为主导的 ----
+
+- （甲）正见 = 如实知见诸行法的两种生灭真实自性，
+- （乙）正思惟(sammāsaṅkappa) = 把相应法(sampayutta dhamma)导向、安置于诸行法两种生灭的自性所缘(ārammaṇa)之上，
+- （丙）正精进(sammāvāyāma) = 为能了知诸行法的两种生灭体性而努力策励精进，
+- （丁）正念(sammāsati) = 忆念诸行法两种生灭的自性所缘，并令心稳固于该所缘，
+- （戊）正定(sammāsamādhi) = 心善加安住于诸行法两种生灭的自性所缘之上——所谓
+
+由于这五种道支(maggaṅga)法体是世间的(lokiya)道支法，故在那位修行者的智中，**道谛(magga sacca)**便显现出来。
+何以故？——因为那些世间的道支法以暂时(tadaṅga)的方式，断除了对诸行法那两种生灭不能如实知见、处于迷惑的痴惑法(sammoha)之故。(《清净之道》,2,267-268。大复注,2,423-424。)
+当那五种世间的道支法体显现生起之时，那些道支法正是一边断除那痴惑法、一边清清楚楚地显现生起的。(大复注,2,424。)
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[239] 缘起法体性显现的样子.md】**
+
+### 缘起法(paṭiccasamuppāda)体性显现的样子
+
+由于「无明(avijjā)」这因之法的显现存在，「行(saṅkhāra)」这果之法便显现地生起；由于「行」这因之法的显现存在，「识(viññāṇa)」这果之法便显现地生起——以如此等等所宣说的教法，便是「随顺(anuloma)缘起法」的教法。
+以「avijjāpaccayā saṅkhārā」等等所宣说的，正是显示轮回之轮如何转动这一进程的教法。
+再者，「avijjāya tweva asesavirāganirodhā saṅkhāranirodho」=由于「无明」借由其「阿拉汉道(arahatta magga)」以「无生(anuppāda)灭(nirodha)」的体性无余地灭尽，「行」以无生灭的体性无余地灭尽便显现地生起——以如此等等明显地显示缘起法这轮回之轮如何止息的止灭次第教法，便称为「逆(paṭiloma)缘起法」的教法。
+
+再者，「paccayato udayadassana」=透过借由因之法观照单纯的生起=透过观照单纯的「由因之法而果之法生起」的样子，在该瑜伽行者(yogāvacara)的相续(santāna)中，便显现出与轮回(vaṭṭa)之苦(dukkha)的生起相顺的——「avijjāpaccayā saṅkhārā」——以如此等等所宣说的**随顺缘起法**体性。
+何以故？——乃因「此『无明』等因之法显现存在时，此『行』等果之法便显现地生起」——如此等等的体性，是借由「观(vipassanā)正见(sammādiṭṭhi)」的智慧亲自现见、洞彻、了知的缘故。（《清净之道》2,268。）
+
+「paccayato vayadassana」=透过借由因之法观照单纯的坏灭=由于「诸因之法以无生灭的体性无余地止息」，借由观智(vipassanā ñāṇa)观照「诸果之法以无生灭的体性无余地止息」，在该瑜伽行者的觉知之智中，便显现出与轮回之苦的生起不相顺、截然相违的——「avijjāya tweva asesavirāganirodhā saṅkhāranirodho」——如此等等的逆缘起法体性。
+何以故？——乃因「由于此『无明』等因之法以无生灭的体性而灭，此『行』等果之法便以无生灭的体性止息」——如此等等的止灭次第体性，是借由观正见的智慧亲自现见、洞彻、了知的缘故。（《清净之道》2,268。）
+
+再者，「khaṇato udayabbayadassana」=借由观智，以「生起(uppāda)-住(ṭhiti)-坏灭(bhaṅga)」这称为「诸行法的转生相(nibbatti lakkhaṇā)、变易相(vipariṇāma lakkhaṇā)」的剎那(khaṇa)，观照其生起与坏灭——透过如此观照，在该瑜伽行者的觉知之智中，便显现出依靠名为**缘所生(paṭiccasamuppanna)**的「生(jāti)」等因之法而生起的「老(jarā)-死(maraṇa)」等果之法。
+何以故？——乃因诸有为法的=诸行法的「生起-住-坏灭」这有为相(saṅkhata lakkhaṇa)，是借由观正见的智慧亲自现见、洞彻、了知的缘故。
+凡是有生起、坏灭体性显现存在的一切真实之法，都是诸有为法；而那些有为法也是——jarāmaraṇaṃ bhikkhave aniccaṃ saṅkhataṃ paṭiccasamuppannaṃ。（相应部，1，264。）
+
+=诸比库……「老-死」（=具有老-死体性的蕴）乃是无常(anicca)之法、有为之法，是缘取因之法而生起的缘所生之法。（相应部，1，264。）
+
+由于佛陀(buddha)如此等等宣说的缘故，便唯有诸缘所生之法生起。
+因此说，借由观智，以剎那观照诸行法的生起与坏灭，在该瑜伽行者的觉知之智中，便显现出诸缘所生之法。（《清净之道》2,268。）
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[240] 四理显现的情形.md】**
+
+### 四理显现的情形
+
+1. paccayato udayadassana = 以因法而观见生起 = 由于因法生起、从而观见果法生起的情形，在那位修行者(yogāvacara)的智中，**同一性理(ekattanaya)**便显现出来。
+要问为什么——这是因为：凭借观正见智慧(vipassanā sammādiṭṭhi)亲自现见、洞彻而了知那因法与果法相互关联、层层不断生起着的名色相续(santati)之流相续不绝、层层生起的情形的缘故。
+如此，对于名色相续之流中因与果相互关联、相续不绝、层层生起的情形，当以观智慧亲自现见、洞彻而了知时，便能极为善巧地舍弃那执取「死后即断灭」的断灭见(ucchedadiṭṭhi)。（《清净之道》，2，268。）
+
+「在先行诸法灭坏之后，紧接着便有后起诸法的生起(uppāda)持续不断地随之而来」——这样的意涵，当通过 paccayato udayadassana = 由于因法而观见果法生起的情形、纯粹观见生起(udaya)而得以成就时，便是为了能以智辨别、把握同一性理 = 也就是为了了知同一性理。
+由于了知此同一性理——「aññokaroti, aññopaṭisaṃvedayati = 是另一个人在造作，是另一个人在领受 = 造作者是一者、领受者是另一者 = 此生此身造作，而由那一生那一身去承受」——便会出现这样的结果：作为成立此类邪说言论之基础的断灭见，已无所依凭、无处立足。
+因此，义注(aṭṭhakathā)解释说：「由于以观正见智慧亲自现见、洞彻而了知因法与果法相互关联、层层生起的名色相续之流相续不绝、层层生起的情形，故同一性理便显现出来。」（大义疏(Mahāṭī)，2，424。）
+
+2. khaṇato udayadassana = 以剎那(khaṇa)而观见诸行(saṅkhāra)的生起——通过如此观见，在那位修行者的智中，**不同性理(nānattanaya)**便显现出来。
+要问为什么——这是因为：凭借观正见智慧亲自现见、洞彻而了知那不断更新、一再生起的诸行刹那不停、连绵不绝的生起情形的缘故。
+如此了知时，便能极为善巧地舍弃那执取「（诸法）恒常」的常见(sassatadiṭṭhi)。（《清净之道》，2，268。）
+
+「诸行在由生起、住(ṭhiti)、坏灭(bhaṅga)三剎那聚合而成的每一个刹那中生起着」——这样的意涵，当通过 khaṇato udayadassana = 以剎那纯粹观见生起而得以成就时，便是为了了知、获得不同性理。
+如此了知不同性理后，由于洞彻了知因 = 缘(paccaya)、果 = 缘生(paccayuppanna)各自的自性相一一差别的缘故——「so karoti, so paṭisaṃvedeti = 正是那个人在造作，正是那个人在领受」——以这样的方式生起的常见，其无所依凭、无处立足、不可能成立的情状，便显明出来。
+因此，上述这段话乃是义注师长老所阐释的。（大义疏，2，424。）
+
+色法、名法在生起、住、坏灭这一寿限届满之时，便要灭坏而去。
+然而，只要因法仍在助益果法生起，在这整段期间，作为果的色法名法只要其因尚未穷尽，便会不断更新、一再地持续生起。
+如此生起之时，先行诸行的自性相是一回事，后起诸行的自性相则是另一回事。
+先行地(pathavī)的自性相是一回事，后起新生之地的自性相则是另一回事；先行触(phassa)的自性相是一回事，后起触的自性相则是另一回事。
+这是因为：先行究竟法(paramattha)的生时与后起究竟法的生时，在剎那上各不相同的缘故。
+这是因为各自的生时彼此互不相同的缘故。
+至于那些生时同时并起的诸法，其自性相的差别就更不待言了。
+因此，在以观智不断观见、了知诸行刹那不停、不断更新、一再生起的善人智中，不同性理便显现出来。
+
+3. paccayato udayabbayadassana = 由于因法生起故果法生起、由于因法灭故果法灭——通过观见生灭(udayabbaya)的情形，在那位修行者的智中，无营务理(abyāpāra)便显现出来。
+要问为什么——这是因为：凭借观正见智慧亲自现见、洞彻而了知诸究竟法绝不随顺任何人、任何有情之意愿这一事实的缘故。
+如此了知时，便能极为善巧地舍弃那执着相信「有我(atta)」的我见(attadiṭṭhi)。（《清净之道》，2，268。）
+
+凭借 paccayato udayabbayadassana 之智——「当因法显明存在时，便会出现果法显明的生起；当因法不显明存在时，便会出现果法不显明的不生起」——由于这样的意涵得以成就，仅仅凭借其显明存在这一点，无明(avijjā)等那些法便成为因法。
+在因法当中，并不显明存在着为了使果法生起而操劳、努力(byāpāra)的那种作意之法。
+如此，在具足 paccayato udayabbayadassana 之智见的修行者的智中，无营务理便显现出来。
+由于无营务理如此显现，我见无所依凭、无处立足、不可能成立的情状便会出现；要问为什么——这是因为：根本得不到、也不可能依照任何人、任何有情或我的意愿而生起的缘故。
+因此，由于修行者凭借观正见智慧亲自现见、洞彻而了知诸究竟法绝不随顺任何人、任何有情之意愿这一事实，那观智便能舍弃执着相信「有我」的我见——义注师长老即就此而阐释。
+与因法这一「他者」存在关联这件事，便称为诸究竟法的不自在性(avasavatti) = 也就是根本得不到、也不可能依照任何人、任何有情或我的意愿而生起的情状。
+应当了知：在诸有为(saṅkhata)究竟法当中，正是各自相应因法的显明存在本身，便是与「他者」存在关联这件事。（大义疏，2，425。）
+
+4. paccayato udayadassana = 由于因法显明生起、显明存在故果法显明生起——通过如此观见，在那位修行者的智中，**如是法性(evaṃdhammatā)理**便显现出来。
+要问为什么——这是因为：修行者凭借观正见智慧亲自现见、洞彻而了知果法是随顺于因法而生起的缘故。
+如此了知时，便能坚定不移地舍弃无作用见(akiriyadiṭṭhi)。（《清净之道》，2，268。）
+
+凭借 paccayato udayadassana = 那能观见「由于因法显明存在故果法显明生起」之情形的 paccayato udayadassana 之智可知：正是由于种种各自相应的因法，这些作为果的诸行才得以生起；尽管如此生起，它们却并非随心所欲、想怎样生起就怎样胡乱生起，而是唯有随顺于因方才生起。由于「因法显明存在的果法」唯有随顺、契合于其因方才得以成就、得以生起，故那执取「纵然造作了种种善(kusala)与不善(akusala)，也算不上造作 = 不会给予果报」的无作用见，其无所依凭、无处立足、根本不可能成立的情状，便显明地显现出来。
+因此，上述这段话乃是义注师长老所阐释的；既然 kāraṇa = 原因(kāraṇa)之因法显明存在，那么无作用论(akiriyavāda)又怎能再得到任何依凭与立足之处呢？
+确实如此——所谓 kāraṇa = 原因之因法，正因为它能够造作，方才称为 kāraṇa = 原因之因法。
+意思是说：正因为它能够造作出果法，方才称为 kāraṇa = 原因之因法。（大义疏，2，425。）
+（关于这四理，在前面的缘起法(paṭiccasamuppāda)篇中也已详细阐明。请将那一篇与本篇关联起来重新阅读参考。）
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[242] 五种相显现之相.md】**
+
+### 五种相(lakkhaṇā)显现之相
+
+一、依缘见生(paccayato udayadassana)＝就由因法而生起[这一点]，由于因法显现地存在、藉由观见果法显现地生起，在那位禅修者(yogāvacara)的智(ñāṇa)中，**无我相(anattalakkhaṇā)**便显现出来。
+若问何故——这是因为[行者]洞彻了知：有为(saṅkhata)究竟法(paramattha)并不为令自己的果法生起而有努力造作的作为(vyāpāra)，[果法]只是依于因法才得以生起。（《清净之道》2·268）
+
+在那因因法显现存在、而正观见果法显现生起之情形、并具足依缘见生之智见的禅修者的相续(santāna)中——当因法显现地存在、当诸因法之中那能令果法生起的自性力用(sabhāva-satti)显现地存在时，果法的生起便显现地出现；如此，诸因法仅以『那能令诸因法之果法生起的自性力用显现存在』这一点，便能助成诸果法的生起，正因如此，有为诸法并没有为令果法生起而努力造作的忙碌作为，[这是其一]；又当因法不显现存在时，果法的不显现存在便出现——如此，诸果法『其生起是依于因法』之事亦应被显现地了知，[这是其二]；由于这显示了[诸法]空离我(atta)的状态，所以注疏师(aṭṭhakathā ācariya)便如上所述地开示：在具足依缘见生之智见的禅修者的相续中，无我相便显现出来。（大义疏2·425）
+
+二、依刹那见生灭(khaṇato udayabbayadassana)＝藉由从刹那(khaṇa)的角度观见诸行法(saṅkhāra)的生与灭，在那位禅修者的智中，**无常相(aniccalakkhaṇā)**便显现出来。
+若问何故——其一，因为[行者]以观(vipassanā)正见(sammādiṭṭhi)之智慧亲自现见、洞彻了知『先前没有、如今才突然生起，不能久住、一下子就坏灭止息消失』；其二，因为[行者]以观正见之智亲自现见、洞彻了知：[诸行]在未生之前那一段、以及坏灭之后那一段，都达到不存在的状态＝空离的状态。（《清净之道》2·268）
+
+藉由从刹那的角度观见诸行法的生与灭，由于了知诸行法是以生与灭来界划的，在那位禅修者的智中，无常相便显现出来。
+因此，注疏师开示道：因为[行者]以观正见之智慧亲自现见、洞彻了知『先前没有、如今才突然生起，不能久住、一下子就坏灭止息消失』，所以无常相便显现出来。
+诚然如此——所谓『生起之后又灭去』，就是生起、存在过之后又归于不存在。
+在未生之前那一段是空离的，生起之后、[灭去]之后那一段也是空离的＝在未生之前那一段是不存在的，生起之后那一段也是不存在的；这就是说：诸行法在『未生之前那一段』即过去(atīta)，与『灭尽之后那一段』即未来(anāgata)——在这过去、未来两段之中是空离的＝不存在的，正是这样一种空无(suñña)的性质。
+诚然如此——诸行法在『生-住-灭(uppāda-ṭhiti-bhaṅga)』这三刹那的总和之前，以及之后，都不显现地存在。
+因此，所谓『因为洞彻了知未生之前那一段、以及坏灭之后那一段是空离的』——应当明白其义理是：因为洞彻了知[诸行]具有开端与终末。（大义疏2·425）
+
+三、**苦相(dukkhalakkhaṇā)**也显现出来。
+若问何故——这是因为[行者]洞彻了知：生与灭、即生灭(udayabbaya)的性质一再地逼迫[诸行]。（《清净之道》2·268）
+
+对于已生起又灭去的诸行法，在生起刹那(uppāda-khaṇa)之后，以『衰朽老化＝老(jarā)＝住刹那(ṭhiti-khaṇa)』与『坏灭＝灭刹那(bhaṅga-khaṇa)』这些特殊的时分之生起，无时无刻不在遭受逼迫。
+那些行法如此地遭受生与灭之打击的逼迫，这一点也藉由善巧而正确地观见诸行法的生与灭而显现出来。
+因此，注疏师开示道：因为[行者]洞彻了知生与灭、即生灭的性质一再地逼迫诸行法，所以苦相也显现出来。（大义疏2·425）
+
+四、藉由从刹那的角度观见诸行法的生与灭，并非只有无常相、苦相显现而已；事实上，被界定为如『地界(pathavī-dhātu)的坚硬之相(kakkhaḷattalakkhaṇā)＝坚硬的性质』、『触(phassa)的触对之相(phusanalakkhaṇā)＝以触及所缘(ārammaṇa)的方式而生起的性质』等等这类、被称为诸究竟法之自性的自性相(sabhāva-lakkhaṇā)，也显现出来；若问何故——这是因为[行者]以观智(vipassanā-ñāṇa)之智慧洞彻了知诸行法是以生与灭来界划的。（《清净之道》2·268）
+
+**pāgabhāvaviddhaṃ sābhāvāvacchinnaṃ** ——意思是说：诸行法被两种『不存在』所界划，即未生之前根本尚未存在，以及坏灭、灭(bhaṅga)时分之后不存在；正是在这前、后两段『不存在』的中间，[诸行]才以『生-住-灭』暂时、短暂刹那地存在着而显现出来。（大义疏2·425）
+
+五、当诸究竟法的自性相显现时，**有为相(saṅkhatalakkhaṇā)**的『生-住-灭』即极短暂的时段这一性质，也显现出来。若问何故——这是因为[行者]以观智洞彻地见知：在正生起的生刹那中没有坏灭即灭，在正坏灭的灭刹那中也没有生起即生。（《清净之道》2·268）
+
+在每一个有为法(saṅkhata dhamma)之中，都各自有『生-住-灭』这三个刹那。因此，凡是具有『生-住-灭』这三刹那的真实法，都是有为法。『生-住-灭』这三刹那的总和，即是用以了知[某法]为有为法的标记＝有为相。
+
+藉由从刹那的角度观见诸行法的生与灭，『生-住-灭』即有为相的生刹那、住刹那、灭刹那这一极其短促的时段之性质，也显现出来。
+若问何故——这是因为那有为相连一个刹那都不能维持住。
+（意思是说：因为生刹那维持不到住刹那，住刹那也维持不到灭刹那，灭刹那也维持不到另一个究竟法＝崭新崭新之究竟法的生刹那。）因此，注疏师开示道：因为[行者]以观智洞彻地见知『在正生起的生刹那中没有坏灭即灭，在正坏灭的灭刹那中也没有生起即生』，所以有为相具有极其短促的寿限时段这一性质，也显现出来。
+再者，此处仅取『生-灭(udaya-vaya)＝生起-坏灭』来解说，是因为这生灭智(udayabbaya-ñāṇa)唯是以观见诸行法的生起-坏灭之力而生起的缘故。
+应当记住：这并不是因为诸行法没有住刹那。（大义疏2·425-426）
+
+如此，在谛(sacca)、缘起法(paṭiccasamuppāda)、理(naya)、相(lakkhaṇa)等各方面都已显现的禅修者的智中，诸行法便显现为：『如此，这些行法先前不曾生起，如今才崭新地生起；已经生起的诸行法，不能久住、一下子就灭坏』——唯是不断地、崭新又崭新地生起。
+[诸行法]不仅显现为不断崭新又崭新地生起而已；事实上，它们还显现为：犹如日光照射下消失的露珠，犹如水泡，犹如在水面上用棍杖划出的笔痕，犹如安放在锥尖上的芥子，犹如闪电一闪＝犹如电光的火花一般，就寿限而言只存续极其短促的一段时间而已。
+
+不仅如此——[诸行法]还显现为：犹如幻术，犹如阳焰，犹如梦境，犹如手持火把绕圈旋转而成的火轮，犹如甘塔巴(gandhabba)天神出于嬉戏游乐的意欲而在空中如城市般显现＝建造幻化出来的乾闼婆城，犹如水沫团，犹如芭蕉树干等等——它们都是毫无实质的，因而空无实质。（《清净之道》2·268-269）
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[245]a 不成熟观智.md】**
+
+### 不成熟观智(taruṇa vipassanā ñāṇa)
+
+Ettāvatānena "vayadhammameva uppajjati, uppannañca vayaṃ upetī"ti iminā ākārena samapaññāsalakkhaṇāni paṭivijjhitvā ṭhitaṃ **udayabbayānupassanaṃ** nāma **taruṇavipassanāñāṇaṃ** adhigataṃ hoti.
+Yassādhigamā **āraddhavipassako**ti saṅkhaṃ gacchati.(《清净之道》2.269)
+
+对于具有这般长度(范围)的诸行(saṅkhāra)的生起、坏灭=生灭(udayabbaya),凭借观修习智(vipassanā bhāvanā ñāṇa)亲身现前、洞穿而了知,直至达到如此程度的修习(bhāvanā)次第,这位瑜伽行者(yogāvacara)便『一切诸行法只因具有坏灭的本性而生起;生起之后,也仅依自身的法性而趋向于坏灭』——以这样的方式,将共计(五十)种相(lakkhaṇa)洞彻了知之后而安住的、名为生灭随观(udayabbayānupassanā)的、幼嫩的不成熟观智,便已获得了。
+由于获得了这生灭随观智(udayabbayānupassanā ñāṇa),便达到了被称为『修观(āraddha vipassaka)=具有已策励之观者=具有正在策励之观的瑜伽行者』这样的称呼。(《清净之道》2.269)
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[245]b 萨迦格的提问 - 佛陀的回答.md】**
+
+### 萨迦格(saccaka)的提问 - 佛陀的回答
+
+Kittāvatā ca nu kho bhoto gotamassa sāvako sāsanakaro hoti ovādapatikaro, tiṇṇavicikiccho vigatakathaṃkatho vesārajjappatto aparappaccayo satthusāsane viharatī"ti. Idha aggivessana mama sāvako yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ "netaṃ mama, nesohamasmi, na meso attā"ti evametaṃ yathābhūtaṃ sammappaññāya passati. Yā kāci vedanā. pa. yā kāci saññā. pa. ye keci saṅkhārā. pa. yaṃ kiñci viññāṇaṃ. pa. Ettāvatā kho aggivessana mama sāvako sāsanakaro hoti ovādapatikaro, tiṇṇavicikiccho vigatakathaṃkatho vesārajjappatto aparappaccayo satthusāsane viharatī"ti. (ma, 1, 297. cūḷasaccakasuttaṃ.)
+
+**sammappaññāya passatī**ti saha vipassanāya maggapaññāya suṭṭhu passati. (saṃ, ṭṭha, 2, 197.)
+
+**samma. pa. passatī**ti pubbabhāge vipassanāñāṇena sammasanavasena, maggakkhaṇe abhisamayavasena suṭṭhu attapaccakkhena ñāṇena passati. (saṃ, ṭī, 2, 181.)
+
+**萨迦格的提问** ----- 以何等的程度(范围)，尊者果德玛(gotama)的弟子声闻才成为遵循教诫者、遵循训示者呢？(他如何)超越了疑惑、远离了犹豫不决的思虑、达到了勇悍(= 勇悍之智)、不再需要依靠他人而信受，安住于世尊的教法(sāsana)之中呢？——如此发问。
+
+**佛陀的回答** ----- 阿吉韦思那(aggivessana)……在这教法之中，我的弟子声闻 -----
+
+- 1. 无论是内在(ajjhatta)，
+- 2. 无论是外在(bahiddha)，
+- 3. 无论是粗(oḷārika)，
+- 4. 无论是细(sukhuma)，
+- 5. 无论是劣(hīna)，
+- 6. 无论是殊胜(paṇīta)，
+- 7. 无论(住)在远(dūra)，
+- 8. 无论(住)在近(santika)，
+- 9.10.11. 对于过去、未来、现在的一切色(rūpa) ----
+
+「此色非我所有，此色非我，此色非我的自身= 我(atta)」——如此地，凭借如实的、(称为观慧(vipassanā paññā)、道慧(magga paññā)的)善慧，观见此色。
+
+- 感受= 受(vedanā)。pa。
+- 忆持= 想(saññā)。pa。
+- 造作= 诸行(saṅkhāra)。pa。
+- 别知= 一切识(viññāṇa)。pa。观见。
+
+阿吉韦思那……以这样的程度(范围)，我的弟子声闻便成为遵循教诫者、遵循训示者；超越了疑惑、远离了犹豫不决的思虑、达到了勇悍之智、不再需要依靠他人而信受，安住于世尊的教法之中——佛陀如此说道。(中部1·297。根本五十(mūlapaṇṇāsa)巴利圣典缅译·305。小萨迦格经。)
+
+[**按语** ---- atītānāgatapaccuppannaṃ aniccato vavatthetī"ti ādinā nayena atītattikasseva ca vasena sammasanassa vuttattā ajjhattādibhedaṃ anāmasitvāpi atītattikasseva vasena paricchinditvāpi aniccādito sammasanaṃ kātabbameva. (paṭisaṃ, ṭṭha, 1, 233.) ---- 
+上述根本五十巴利圣典缅译，正是与这《无碍解道》(paṭisambhidāmagga)义注(aṭṭhakathā)的解说相一致的。]
+
+yasmā panettha passatīti vuttattā sekkhabhūmi dassitā. tasmā uttari asekkhabhūmiṃ pucchanto dutiyaṃ pañhaṃ pucchi, tampissa bhagavā byākāsi. (ma, ṭṭha, 2, 182.)
+
+上述这一回答里 --- 由于宣说了「passati = 观见」，故而指示出了有学地(sekkhabhūmi)。 
+因此，为了请问更上的无学地(asekkhabhūmi)，便接着提出第二个问题来询问；佛陀也给予了回答。 
+那第二组问答如下。
+
+kittāvatā pana bho gotama bhikkhu arahaṃ hoti khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññā vimuttoti.
+
+idha aggivessana bhikkhu yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ "netaṃ mama, nesohamasmi, na meso attā"ti evametaṃ yathābhūtaṃ sammappaññāya disvā anupādā vimutto hoti. yā kāci vedanā. pa. yā kāci saññā. pa. ye keci saṅkhārā. pa. yaṃ kiñci viññāṇaṃ. pa.
+
+ettāvatā kho aggivessana bhikkhu arahaṃ hoti khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano sammadaññā vimutto. (ma, 1, 298.)
+
+**萨迦格的提问** ---- 尊者果德玛，以何等的程度(范围)，比库(bhikkhu)才成为漏(āsava)已尽、道(magga)行已修习、应作之事已作、重担已放下、已到达自己(阿拉汉果arahatta phala)的利益、束缚有(bhava)的结(saṃyojana)已灭尽、以善知而解脱(vimutta)的阿拉汉(arahant)呢？——如此发问。
+
+**佛陀的回答 **---- 阿吉韦思那……在这教法之中，比库 ----
+
+- 1. 无论存在于内部，
+- 2. 无论存在于外部，
+- 3. 无论是粗的，
+- 4. 无论是细的，
+- 5. 无论是劣的，
+- 6. 无论是胜的，
+- 7. 无论(住)在远处，
+- 8. 无论(住)在近处，
+- 9.10.11. 对于过去、未来、现在的一切色 ----
+
+「此色非我所有，此色非我，此色非我的自身」——如此
+
+如此地，凭借如实的、(称为观慧、道慧的)善慧观见此色，不执取而解脱。
+
+- 感受= 受。pa。
+- 忆持= 想。pa。
+- 造作= 诸行。pa。
+- 别知= 一切识。pa。
+
+阿吉韦思那……以这样的程度(范围)，比库便成为漏已尽、道行已修习、应作之事已作、重担已放下、已到达自己(阿拉汉果)的利益、束缚有的结已灭尽、以善知而解脱的阿拉汉——佛陀如此说道。(中部1·298。根本五十巴利圣典缅译·305-306。)
+
+在这一开示(desanā)之中，依照佛陀所指示的观照范围，瑜伽行者(yogāvacara)无论是为了到达有学地，还是为了到达无学地，也就是说为了成为有学圣(sekkha ariya)善士，还是为了成为无学阿拉汉善士 ---- 无论是内、是外、是粗、是细、是劣、是胜、是远、是近，对于过去、未来、现在的一切色、一切受、一切想、一切行、一切识 --- 都只应作「netaṃ mama, nesohamasmi, na meso attā」即「无常(anicca)、苦(dukkha)、无我(anatta)」而观照才是。
+
+依照这些指示，你这位善士也为了使生灭随观智(udayabbayānupassanā ñāṇa)成熟 ----
+
+- 1. 有时观照色法，
+- 2. 有时观照名(nāma)法，
+- 3. 有时观照内的五蕴(khandha)，
+- 4. 有时观照外的五蕴，
+- 5. 有时观照过去的五蕴，
+- 6. 有时观照未来的五蕴，
+- 7. 有时观照现在的五蕴，
+- 8. 有时观照因法，
+- 9. 有时观照果法，如此逐一轮替地 ----
+- 10. 有时观照无常相(anicca lakkhaṇa)，
+- 11. 有时观照苦相(dukkha lakkhaṇa)，
+- 12. 有时观照无我相(anatta lakkhaṇa)，如此逐一举起，持续不断地精勤修观(vipassanā)吧。正如先前所书写陈述过的那样，也以身随观(kāyānupassanā)、受随观(vedanānupassanā)、心随观(cittānupassanā)、法随观(dhammānupassanā)等方法，逐一轮替地修观吧。
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[248] 念处修行次第 - 第三阶.md】**
+
+### 念处(satipaṭṭhāna)修行次第 - 第三阶
+
+凭借此前直到这柔嫩的不成熟观(taruṇa vipassanā)为止所铺陈的言说次第与法义脉络 ----
+
+一、把入出息念定(ānāpānassati samādhi)修习直到第四禅(catutthajhāna)的方法——身随观(kāyānupassanā)念处修行次第第一阶，
+
+二、于内(ajjhatta)有名为身-受-心-法的五蕴，于外(bahiddha)有名为身-受-心-法的五蕴，如此在内、外两者中，把名为身-受-心-法的五取蕴(upādānakkhandhā)加以统摄的方法——念处修行次第第二阶——已分别在入出息念定篇、色业处(rūpakammaṭṭhāna)篇、名业处(nāmakammaṭṭhāna)篇中写明阐述过了。
+现在正在写明阐述念处修行次第第三阶。 
+在该第三阶中，----(甲)缘起法(paṭiccasamuppāda)篇、(乙)思惟智(sammasanañāṇa)篇、(丙)生灭智(udayabbayañāṇa)篇，共含三大篇；指示该第三阶的教法如下。----
+
+3. samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati. (M 1,71.)
+  - samudayadhammānupassī vā vedanāsu viharati, vayadhammānupassī vā vedanāsu viharati, samudayavayadhammānupassī vā vedanāsu viharati. (M 1,75.)
+  - samudayadhammānupassī vā cittasmiṃ viharati, vayadhammānupassī vā cittasmiṃ viharati, samudayavayadhammānupassī vā cittasmiṃ viharati. (M 1,76.)
+  - samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. (M 1,77-78.)
+这些教法，是在名为身-受-心-法、即念(sati)所贴近安住的所缘法当中 ----
+
+- 一、生起之因的体性与生起的体性，
+- 二、灭尽之因的体性与灭尽的体性，
+- 三、生起之因的体性与生起的体性、灭尽之因的体性与灭尽的体性 ----
+
+正是指示人反复再三地观修审察的诸教法。
+依照这些教法，在名为**《去向涅槃之道》**的本书中，也已 --- 把直到**念处修行次第第三阶**为止的种种修行次第写明阐述过了。 
+愿一切渴望、希求涅槃(nibbāna)的诸善士，都能精勤修习、努力培育。
+在这不成熟观篇中，会生起十种随烦恼(upakkilesa)法，这一点在《清净之道》义注(aṭṭhakathā)中有写明解说。 
+接下来将继续写明阐述那些随烦恼法的相关内容。 --
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[249] 十种观随烦恼.md】**
+
+### 观随烦恼(vipassanupakkilesa)(10)种
+
+此后，唯有在以被称为生灭随观(udayabbayānupassanā)的这种不成熟观(taruṇa vipassanā)之力而正在勤修观(vipassanā)的瑜伽行者(yogāvacara)之相续(santāna)中，那些能令观染污的随烦恼(upakkilesa)法(10)种才会生起。
+反过来说，观随烦恼法不会生起于以下诸人的相续中：在已经到达道智(magga ñāṇa)、果智(phala ñāṇa)、通达(paṭivedha)的圣弟子(ariyasāvaka)的相续中；在戒(sīla)败坏等某种行持已破损的人的相续中；在虽修习观修习(vipassanā bhāvanā)、却在修习作业的间歇期、半途某处心志退缩而将观业处(kammaṭṭhāna)弃置一旁的人的相续中；以及在戒等虽已具足、却因懒惰而不修习观修习的人的相续中——都不会生起。
+顺着说则是——在拥有与正确无误的佛陀教法相符的行持、前精进与后精进相接、以善的精进不间断地修习观智修习(vipassanā ñāṇa bhāvanā)、直至生灭智(udayabbaya ñāṇa)仍在勤修观的善男子(ācāra-kulaputta)＝良家子的相续中，则必定会生起。
+不生起则不对。（因为若不生起，那么能辨别是道与非道的道非道智(maggāmagga ñāṇa)便也不应当生起了。）(清净之道,2,269。)
+
+在上述这段义注(aṭṭhakathā)文句中，「随烦恼法不生起于已到达通达之理(paṭivedha naya)的圣弟子善人之相续中」这句话，是依殊胜义释(ukkaṭṭhaniddesa)的方法、为指示最殊胜的情形而就极致而立说的。
+那些随烦恼法，既不会生起于以被称为坏灭随观智(bhaṅgānupassanā ñāṇa)、怖畏随观智(bhayānupassanā ñāṇa)、过患随观智(ādīnavānupassanā ñāṇa)的稚嫩不成熟观之力而正在勤修观的已勤修观者(āraddha-vipassaka)的相续中，也不会生起于以被称为厌离随观智(nibbidānupassanā ñāṇa)等、强劲而坚实有力的强力观(balava vipassanā)之力而正在勤修观的已勤修观者的相续中。
+因此，应当将上述这段义注文句记作殊胜义释的方法。(大义疏,2,427。)
+
+那些随烦恼法共有(10)种，即：光明(obhāsa)、智(ñāṇa)、喜(pīti)、轻安(passaddhi)、乐(sukha)、胜解(adhimokkha)、支持(paggaha)、建立(upaṭṭhāna)、舍(upekkhā)、微细的欲求(nikanti)。
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[250] 《无碍解道》巴利圣典中开示的方式.md】**
+
+### 《无碍解道(paṭisambhidā magga)》巴利圣典中开示的方式
+
+aniccato manasikaroto obhāso uppajjati, "obhāso dhammo"ti obhāsaṃ āvajjati, tato vikkhepo uddhaccaṃ. tena uddhaccena viggahitamānaso aniccato upaṭṭhānaṃ yathābhūtaṃ nappajānāti. dukkhato. anattato upaṭṭhānaṃ yathābhūtaṃ nappajānāti.
+
+aniccato manasikaroto ñāṇaṃ uppajjati. pa. pīti. passaddhi. sukhaṃ. adhimokkho. paggaho. upaṭṭhānaṃ. upekkhā. nikanti uppajjati. "nikanti dhammo"ti nikantiṃ āvajjati, tato vikkhepo uddhaccaṃ. tena uddhaccena viggahitamānaso aniccato upaṭṭhānaṃ yathābhūtaṃ nappajānāti. dukkhato. anattato upaṭṭhānaṃ yathābhūtaṃ nappajānāti. (paṭisaṃ 291. visuddhi 2 269.)
+
+obhāsādīsu "ariyadhammo"ti pavattaṃ uddhaccaṃ vikkhepo dhammuddhaccaṃ, tena dhammuddhaccena vipassanāvīthito ukkamanena virūpaṃ gahitaṃ pavattitaṃ mānasaṃ **dhammuddhaccaviggahitamānasaṃ. obhāso dhammo**ti kāraṇūpacārenāha. īdisaṃ obhāsaṃ vissajjento mama ariyamaggoti attho. obhāsaṃ āvajjati "nibbāna"nti vā "maggo"ti vā "phala"nti vā. **nibbāna**nti gaṇhanto tattha pavattadhamme maggaphalabhāvena gaṇhāti. ñāṇādikepana maggaphalabhāveneva gaṇhāti. pa. tattha **anicca. pa. nappajānāti** "maggaṃ pattosmī"ti saññāya aniccatādivasena manasikārasseva abhāvato. (mahāṭī 2 427-428.)
+
+在把诸行法(saṅkhāra dhamma)观为无常(anicca)而修观的修行者(yogāvacara)的相续流(santāna)中，由于如此把(诸行)观为无常的观智(vipassanā ñāṇa)的威力，光明(obhāsa)=光亮便生起了。
+在把诸行法观为苦(dukkha)而修观的修行者的相续流中，由于如此把(诸行)观为苦的观智的威力，光明=光亮便生起了。
+在把诸行法观为无我(anatta)而修观的修行者的相续流中，由于如此把(诸行)观为无我的观智的威力，光明=光亮便生起了。
+“放出这样的光亮、令光亮生起的法，就是我所渴求的圣道(ariya magga)圣果(phala)、涅槃(nibbāna)法”——他如此把光明=光亮作意。
+把因那观智而生起的那光亮，作意为圣道圣果、涅槃——这样的心散乱，便名为掉举(uddhacca)。
+那掉举，已经从那条——以智去观见诸行法之无常之点、苦之点、无我之点，从而观为无常、观为苦、观为无我的——观(vipassanā)的旧道、大老路上岔离而去了。
+这是因为(行者)已不再以无常等(行相)之力对诸行法作意之故。
+(行者)不再以无常等之力对诸行法作意，反而只把因观智而生起的光亮，当作圣法(ariya dhamma)、诸圣善人的真法、正法来作意。
+对于这样作意的修行者，由于已从观的旧道、大老路岔离，便被称为“拥有被歪曲地执取、被歪曲地生起之心的修行者”。
+这样拥有被歪曲地执取、被歪曲地生起之心的修行者，由于带着“已证得道”这样的标记想，以致根本不再以无常等之力对诸行法作意，因此对于以无常方式显现的行之所缘(ārammaṇa)，便无法不颠倒地、如实正确地了知它是无常。
+对于以苦方式显现的行之所缘，便无法不颠倒地、如实正确地了知它是苦。
+对于以无我方式显现的行之所缘，便无法不颠倒地、如实正确地了知它是无我。
+这样的不了知，正是已从观的道路上偏离开了。(《清净之道》,2,269。大复注,2,427-428。)
+
+这样性质的、放出光亮、令光亮发出的法，被执取为“是我的圣道，是我的圣果”。
+光明=光亮被执取为涅槃。
+当把光明=光亮执取为涅槃时，便把那些以该光明=光亮为所缘而生起的诸法，执取为是圣道法、圣果法。
+而对于以智(ñāṇa)等为首的其余种种随烦恼(upakkilesa)诸法，则仅把它们执取为是圣道、圣果。
+却不把(它们)执取为涅槃。(大复注,2,427-428。)
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[251] 一、光明 = 光亮.md】**
+
+### 一、光明(obhāsa)= 光亮
+
+在五蕴地(pañcavokārabhūmi)的生命期间(pavatti)，依靠心所依处(hadayavatthu)而生起的每一个心(citta)、每一个心，都能产生心生以食素为第八的法聚(cittaja ojaṭṭhamaka rūpa)。
+观(vipassanā)的诸心也同样是依靠着心所依处之色而生起的诸心，因此它们都是能够产生心生以食素为第八的法聚的诸心。
+
+在由观修(vipassanābhāvanā)之心而生起的心生以食素为第八的法聚中，每一个色聚(kalāpa)、每一个色聚里都含有颜色界(vaṇṇadhātu)= 色所缘(rūpārammaṇa)。
+那个色所缘= 颜色界极为光耀明亮。
+每一个观修之心都能产生为数众多的心生以食素为第八的色聚。
+在数秒、数分钟之内，也能生起为数众多的观修之心。
+心生色聚(cittaja rūpa)也能极其大量地生起。
+一个色聚之内所含的颜色界=色所缘的光亮，与另一个色聚之内所含的颜色界=色所缘的光亮，极为紧密地相互摩擦、碰触而生起。
+因此，就像手持一根燃烧的木柴挥舞一般，修行者(yogāvacara)会把那些色聚中所含的颜色界=色所缘的光亮看成是连成一片的。
+
+再者，由那观修之心而生起的每一个心生色聚中，也含有火界(tejodhātu)= 时节(utu)。
+那个火界=时节，也能随着观智(vipassanāñāṇa)威力的大小，大量地产生一个个新的时节生食素为第八的色聚(utuja ojaṭṭhamaka rūpakalāpa)。
+那些时节转起色(utusamuṭṭhāna rūpa)被称为 sasantatipatita-utusamuṭṭhānarūpa = 内在相续的时节转起(sasantatipatita utusamuṭṭhāna)色 = 在自己的色相续(santati)之流中落生而转起的诸时节转起色。
+那每一个时节转起色聚中也都含有颜色界=色所缘。
+那个色所缘也随着智(ñāṇa)的威力大小而极为光耀。
+
+在像这生灭智(udayabbayañāṇa)这样的观修之心而生起的心生以食素为第八的法聚中所含的、极为光耀的颜色界=色所缘的光亮，以及——由那些落生而转起于自己色相续之流中的心生以食素为第八的法聚里所含的火界=时节，随着智威力的大小而辗转相续、一再重复、连绵不断、层层叠叠地生起的——时节转起色中所含的、极为光耀的颜色界=色所缘的光亮，都被称为 **vipassanobhāsa** = **观智之光(vipassanobhāsa)**。
+也称为 **upakkilesāloka**（**随烦恼(upakkilesa)之光**）。
+
+在那两种光亮当中，由观心而生起的心生以食素为第八的法聚中所含的颜色界=色所缘的光亮，只在修行者的身体之内闪烁、灼灼发光地存在着。
+而那些时节生以食素为第八的色中所含的颜色界=色所缘的极为光耀的光亮，不仅在修行者的身体之内，还会脱离身体，随着智的威力向四周遍布、直达十方而存在。
+（由观心而生起的每一个心生色聚中所含的火界=时节，都会产生一个个新的时节生以食素为第八的色聚。
+那些时节生以食素为第八的色中所含的火界=时节，又会产生其他一个个新的时节生以食素为第八的色聚。
+以此方式，随着观智威力的大小——大则大、小则小——如同连环拍击一般，层层叠叠地生起着。
+那些时节生以食素为第八的色，不仅在内在(ajjhatta)、乃至在外在(bahiddha)也连环拍击着 = 一个色聚中所含的火界，帮助产生后续一个个新的色聚，如此不断地生起着。
+随着那些色聚的遍布，那些色聚的颜色界=色所缘的光亮也向四周、直达十方而遍布、存在。）
+那光明=光亮，唯有藉由那修行者的智才显现。
+那修行者也能见到在被那光亮所触及之处所存在的一切色所缘。
+在如此见到之时，究竟是以眼识(cakkhuviññāṇa)见到的呢，还是以意识(manoviññāṇa)见到的呢——应当这样去探究、思惟，诸位尊师如是教示。
+就如在已证得天眼通(dibbacakkhuabhiññā)的诸位补特伽罗的相续中那样，那一切色所缘（= 种种花等色所缘的总集）若领会为唯有以意识才能知见的法，则似乎是恰当的。（大复注，2，428-429。）
+
+那观的光明=光亮一旦生起，修行者便会想：“对我而言，从今以前从未曾生起过具有这种本质的光亮啊；我必定无疑已经到达圣道(ariyamagga)了，已经到达圣果(ariyaphala)了”——如此把并非圣道的光明执取为圣道，把并非圣果的光明执取为圣果。
+把并非圣道的执取为圣道、把并非圣果的执取为圣果的那位修行者，他的观之常轨已经偏离了。
+（修行者由于“我已经到达圣道了”这般的期盼而舍弃了观业处(vipassanākammaṭṭhāna)，因此那位补特伽罗的观便从观的正轨、正道上脱出、偏离了。
+另一种说法：正是由于那位修行者认为“已如此证得道”，他的观便被称为从观的正轨、正道上脱出了。）
+那位修行者把自己称为“观”的根本业处
+舍弃，而唯独耽乐于光明=光亮，安坐其中。
+（这是已陷入歧途、错路之中。）（清净之道，2，270。大复注，2，429。）
+
+[**注释** ----- na vata me ito pubbe evarūpo obhāso uppannapubbo = 对我而言，从今以前从未曾生起过具有这种本质的光亮啊 —— 在这样解释的义注(aṭṭhakathā)文句中，要小心不要在见解上产生偏差错误：这里只是说，具有这种本质的光亮，以前未曾生起过而已。
+并不是说在此之前光亮完全未曾生起过。
+并不是说一到达这生灭随观智(udayabbayānupassanāñāṇa)的阶段，光亮才开始生起。
+从止(samatha)的阶段、与近行定(upacārasamādhi)相邻近的遍作定(parikammasamādhi)阶段开始，在整个止修习(samathabhāvanā)、整个观修习的过程中，光亮其实都是存在的。
+在前面的入出息念定(ānāpānassatisamādhi)阶段中也已经清楚地阐述过了。]
+
+那光明=光亮，对某些修行的比库(bhikkhu)而言，只照亮其结跏趺坐而坐的那一处地方而生起。
+对某些修行比库而言，则照亮其打坐所在的寮房内部而生起。
+对某些修行比库而言，连其打坐所在的寮房外部也照亮而生起。
+对某些修行比库而言，则照亮整座寺院。照亮一伽乌他(gāvuta)之地。照亮半由旬(yojana)之地。照亮一由旬之地。
+照亮两由旬之地。
+照亮三由旬之地。如此等等。对某些修行比库而言，则从地面直到色究竟天梵界(akaniṭṭha brahma)之地，作出浓密如一团的光亮而生起。
+至于由正自觉者(sammāsambuddha)佛陀的尊贵观智而生起的尊贵光亮，则照亮一万个世界(lokadhātu)而显赫地生起了。（清净之道，2，270。）
+
+如此，关于那光明=光亮，就其有微小的情形、有广大宽阔的情形、以及各不相同、差异分别的情形，下面将要讲述的这个，便是事例的见证。
+
+在僧伽罗(Sīhaḷa)岛的吉多罗山(Cittala)寺院里，有一座四周环绕着经行(caṅkama)道的僧寮。内部的卧室也被围护着。
+环绕卧室的经行道也被围护着。
+在那座有着两重墙围的僧寮内，有两位大长老(mahāthera)在安居。
+两位尊贵的大长老谈论到光明=光亮的那一天，也正是月黑分的布萨(uposatha)日。
+诸方都被云层所遮蔽。
+在夜间，具足四支的黑暗生起着。
+那时，一位年少的小长老说——
+
+“尊者……弟子如今在佛塔(cetiya)庭院中尊贵的处所上、傍晚时分所陈设供养的、具有五种颜色的花朵，正显现着。”如此禀告。
+（对于具有清净的观智的补特伽罗而言，在被光明、光亮所遍布之处的色所缘的总集，会像对已证得天眼通的补特伽罗那样显现出来。----- 大复注，2，429。）
+
+大长老对那位年少的长老说——
+
+“我的贤友……你所说的还不算稀奇；而对我来说，如今在大海(mahāsamudda)中、于一由旬之处所存在的鱼与龟，正显现着。”如此说道。
+
+这就是光明有着特异、分别的情形的事例。在漫长的时间里持续偏离而言说时，事例便是如此。-----
+
+把这光明误以为是道果涅槃(nibbāna)的情形，一般而言，在透过止行者(samathayānika)之道而获得观智的修行比库的相续中较为常见。
+把这样地放出、产生光亮的智期盼为“是圣道果”，这种期盼称为高估(adhimāna)。
+从止行者之道转入观、获得观智之时，如此生起高估的那位修行比库，由于以禅那等至(jhānasamāpatti)所镇伏而离开的诸烦恼(kilesa)不再生起，便生起“我是阿拉汉(arahanta)”这样的心。
+应当记住：就像在高沙(Uccavālika)之地安居的大龙(Mahānāga)长老那样，就像在汉迦那迦(Hankanaka)之地安居的大赐(Mahādatta)长老那样，就像在吉多罗山寺院名为宁迦本那迦(Ninkapeṇṇaka)的业处寮房安居的小妙意(Cūḷasumana)长老那样。（清净之道，2，270。）
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[254] 大龙长老.md】**
+
+### 大龙(mahānāga)长老(thera)
+
+在名为塔兰嘎拉(talaṅgara)地方安住、已证得四种辨析(paṭisambhidā)智(ñāṇa)、名为法授(dhammadinna)的一位阿拉汉(arahant)大长老,对众多的比库(bhikkhu)僧团施以教诫,如此安住修行。
+那位法授长老住在自己的日间清净修行处,这样思惟:"如何呢……身为我们老师的、安住在高沙(uccavālika)地方的大龙长老,那成就比库身分的比库本分,究竟是已经圆满完成了呢,还是尚未圆满完成呢?"——他这样思惟时=便入于神通(abhiññā)而观察,看见那位大龙长老竟还只是凡夫(puthujjana),便知道:"我若不去,我的老师便将只以凡夫的身分而命终"——他这样了知后,以神通力飞升上空,降落在安住于日间清净处的大龙长老近旁,向老师礼敬,行大小义务后,坐在合宜适当的地方,便住了下来。
+此后,师徒二人一来一往地交谈,情形如下。——
+
+- 老师 ----- 朋友(āvuso)法授……为何在非时前来呢?
+- 弟子 ----- 尊者……弟子想请教一些问题,故而前来,尊者。
+- 老师 ----- 朋友法授……你问吧,凡我所知道的,便回答你。
+
+如此说罢,弟子便提出了总共一千个问题。
+大龙长老对每一个所问的问题,都毫无窒碍地迅速一一作答。
+
+- 弟子 ----- 尊者……尊者们的智实在极为敏锐啊!尊者们是在何时藉由这圣道(ariyamagga)而证得辨析之法(dhamma)的呢?(此问乃是依大龙长老自己的心意而提出的。)
+- 老师 ----- 朋友法授……从今日算起,是在已过去的六十年前那段时期证得的。
+- 弟子 ----- 尊者……尊者们能运用神通之定(samādhi)吗?
+- 老师 ----- 朋友法授……运用这神通之定,对我并非难事。
+- 弟子 ----- 尊者……既然不难,那就请化现一头象吧,尊者。
+
+大龙长老便化现出一头通身洁白、犹如银山般的大象。
+
+弟子 ----- 尊者……现在请以神变力把那头象变成这样:让这头白象有着不动的双耳、竖起的尾巴,把鼻子卷入口中,发出令人怖畏的鹤鸣声,以朝向尊者们冲奔而来的样子。
+
+大龙长老便完全依照那位法授长老所请求的样子化现了出来。
+他看见那头以迅猛气势冲奔而来的大公象那令人怖畏的模样,心生恐惧,便起身想要逃走。
+身为弟子、已证得阿拉汉的法授长老,伸手抓住大龙长老的僧衣边角,问道:"尊者,难道阿拉汉者还会有怖畏惊惧之事吗?"
+
+那时大龙长老知道自己当时仍是凡夫,便说:"朋友法授,愿你做我的依靠吧",随即在(法授的)脚边蹲坐下来。
+
+"尊者……弟子正是心怀'要成为尊者们的依靠'这一念头才前来的,请尊者切莫忧虑。"他这样禀告后,便为(大龙长老)开示了业处(kammaṭṭhāna)之法。
+
+大龙长老取了业处,登上经行道而作意修习,在第三步时便证得了被称为最上之果的阿拉汉果(arahatta phala)。
+大龙长老其实是瞋型(dosacarita)偏重的人。
+具有这种性行的比库们,往往会被称为光明(obhāsa)的观(vipassanā)之光所动摇。(《清净之道》二、270-271。)
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[256]a 二、智=观智.md】**
+
+### 二、智(ñāṇa)＝观智(vipassanāñāṇa)
+
+包含在随烦恼(upakkilesa)中的「智」——所谓「智」，正是观智本身。 
+对于这样一位瑜伽行者(yogāvacara)——他以「以因法观生灭(paccayato udayabbaya dassana)＝藉因缘法观照生起与坏灭」、「以剎那观生灭(khaṇato udayabbaya dassana)＝藉剎那观照生起与坏灭」等等方法，把特相(lakkhaṇa)提上轨道而加以比对衡量、细心审察地修观，并使那生灭智(udayabbayañāṇa)臻于究竟圆满——一种犹如向他掷出的帝释(sakka)之金刚杵(vajira)武器一般、不坏而具冲势、锐利而有威力、已被磨砺得极其锐利、极其清净的观智，便会随之生起。(《清净之道(Visuddhi Magga)》2,271。)
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[256]b 三、喜 = 观喜.md】**
+
+### 三、喜(pīti) = 观喜(vipassanā pīti)
+
+所谓喜，是与观心(vipassanā citta)相应的喜。
+在那位瑜伽行者(yogāvacara)的相续(santāna)中，在那个时候，会生起小喜(khuddikā pīti)、刹那喜(khaṇikā pīti)、继起喜(okkantikā pīti)、踊跃喜(ubbegā pīti)、遍满喜(pharaṇā pīti)这五种喜，遍满全身。(《清净道论》,2,272。)
+
+由于生灭随观智(udayabbayānupassanā ñāṇa)走上正道时，这五种喜会依次第生起，所以注释师长老(aṭṭhakathā)解说了这五种喜的生起。
+而与达到顶峰的生灭智(udayabbaya ñāṇa)一起的，则只有遍满喜这一种会生起。
+在近行定(upacāra samādhi)的时刻、安止定(appanā samādhi)的时刻之外的时候，也只会生起遍满喜。
+因此，注释师长老才解说道：“喜遍满全身而生起。”
+(《大疏》,2,430。)应当记住：这里特别指的是，由于与那观喜相应的殊胜观心，殊胜的(paṇīta)心生色(cittaja rūpa)遍满、遍布全身而生起。
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[256]c 四、轻安 = 观轻安.md】**
+
+### 四、轻安(passaddhi) = 观轻安(vipassanā passaddhi)
+
+所谓轻安，就是与观心(vipassanācitta)相应的轻安。
+在那时，对于在夜间清净之处也好、白昼清净之处也好，正修习观修习(vipassanā bhāvanā)业处(kammaṭṭhāna)而安坐着的那位修行者(yogāvacara)而言，身与心的烦扰已不再生起。
+沉重已不再生起。
+粗硬僵直的状态已不再生起。
+在观修习中的不堪能已不再生起。
+若恰当地说，那位修行者的诸心，只会变得平静、轻快、柔软、在观修习中堪能、极为清净洁净、正直。
+那位修行者，由于具有被这轻安、轻快性(lahutā)、柔软性(mudutā)、适业性(kammaññatā)、熟练性(pāguññatā)、正直性(ujukatā)等心所(cetasika)所提升的身—心，因而在那生灭智(udayabbayañāṇa)生起之时，超越了对那并非享受欲乐(kāmaguṇa)者们所拥有、却适合享受欲乐者们享用的欲之安乐(kāmasukha)的欢喜，从而领受到名为超凡(amānusī)的悦乐。(Visuddhi 2,272)
+
+Tattha kāyaggahaṇena rūpakāyassāpi gahaṇaṃ veditabbaṃ, na vedanādikkhandhattayasseva.
+Kāyapassaddhiādayo hi rūpakāyassāpi darathādinimmaddikāti. (Mahāṭī 2,430)
+
+身轻安(kāyapassaddhi)、心轻安(cittapassaddhi)，身轻快性(kāyalahutā)、心轻快性(cittalahutā)，身柔软性(kāyamudutā)、心柔软性(cittamudutā)，身适业性(kāyakammaññatā)、心适业性(cittakammaññatā)，身熟练性(kāyapāguññatā)、心熟练性(cittapāguññatā)，身正直性(kāyujukatā)、心正直性(cittujukatā)——这成对的(yugaḷa)、即成双的六类心所，彼此互不分离、惯于相应在一起。
+因此，当轻安生起时，轻快性等心所也必定一同生起。
+因此，由于以阐明那些心所各自相关的工作职责为主，并且也想借此显示那一切成对的心所(yugaḷa cetasika)，所以（注释师便说）：「身—心的烦扰不再生起，沉重不再生起。」
+正是以如此等方式，义注(aṭṭhakathā)的阿阇梨作了这样的解说。
+
+应当了知：在那些「身轻安」等词中，凭借「身(kāya)」这个词，色身(rūpakāya)＝色法的聚合也被一并摄取。
+并非只应理解为仅摄取受(vedanā)等三种名蕴(nāmakkhandhā)。
+确实如此——应当了知：身轻安等心所，也能够碾碎、消除色身的烦扰等。
+若问为何身与心只会变得平静、只会变得轻快、只会变得柔软、只会在观修习中堪能、只会变得极为清净洁净、只会变得正直——那是因为身—心的——
+
+- 一、作为不平静之根本原因的、掉举(uddhacca)等烦恼(kilesa)，
+- 二、作为不轻快之根本原因的、昏沉睡眠(thinamiddha)等烦恼，
+- 三、作为不柔软之根本原因的、见慢(diṭṭhimāna)等烦恼，
+- 四、作为在观修习中不堪能之根本原因的、其余的盖(nīvaraṇa)法（即欲贪(kāmacchanda)、瞋恚(vyāpāda)等盖法），
+- 五、作为在观修习中不娴熟、不善巧、不清净、不洁净之根本原因的、不信即不信(assaddhiya)等烦恼，
+- 六、作为不正直、弯曲扭曲之根本原因的、诳谄(māyāsāṭheyya)等烦恼——凭借舍除这些导致心垢染、败坏的杂染法(saṃkilesa dhamma)之力，由于那时观心生起(cittuppāda)的生起，所以义注的阿阇梨便说：「身—心的烦扰不再生起，沉重不再生起」如此等等。(Mahāṭī 2,430)
+
+正是针对这种在名为超凡(amānusī)的观中的欢喜、喜悦、满足，（佛陀）才如此宣说道：——
+
+- Suññāgāraṃ paviṭṭhassa, santacittassa bhikkhuno.
+- Amānusī rati hoti, sammā dhammaṃ vipassato.
+
+- Yato yato sammasati, khandhānaṃ udayabbayaṃ.
+- Labhatī pītipāmojjaṃ, amataṃ taṃ vijānataṃ. (Khu 1,67)
+
+suññāgāraṃ = 往寂静的寺院；或者说，往那远离常相(niccanimitta)、乐相(sukhanimitta)、我相(attanimitta)、净相(subhanimitta)的、作为修行者安乐之所依的观。paviṭṭhassa = 已经进入的。
+santacittassa = 具有安住寂静、不浮动散乱之心的。
+sammā = 善妙正确地、适当地。
+dhammaṃ = 把名为色—名(rūpanāma)的行(saṅkhāra)法聚（作为所观）。
+vipassato = 凭借生灭随观(udayabbayānupassanā)等之力而正在修习、省察观的。
+bhikkhuno = 对那位修行(yogāvacara)的比库(bhikkhu)而言。
+amānusī = 由于不属于那些没有所应修习的观的普通人，所以名为超凡的。
+rati = 在观修习中的欢喜、喜悦、满足，即观喜乐(vipassanārati)。
+hoti = 便生起、出现。
+
+yato yato = 从任何任何的色分、名分（朝向色、朝向名）。
+khandhānaṃ = 五蕴(khandhā)的。
+udayabbayaṃ = 把生起、坏灭即生灭(udayabbaya)之性（作为所观）。
+sammasati = 架起特相(lakkhaṇa)之车乘而反复地修观、省察。
+tato tato = 从那一一所省察的色名的分、聚之中。
+pītipāmojjaṃ = 把欢喜、欢悦即喜悦欢悦(pītipāmojja)之法（作为所得）。
+labhati = 便获得。
+taṃ = 那欢喜、欢悦即喜悦欢悦之法，
+vijānataṃ = vijānantānaṃ = 那些了知、见到生灭现象的智者们的。
+amataṃ = 由于以不死涅槃(nibbāna)为究竟，所以也是不死(amata)之法。(Pyi Visuddhimagga Nissaya 5,182-183)
+
+如是，对于那位修行者而言，由于超越了在这适合天与人享受的欲乐(kāmaguṇa)安乐中的欢喜、喜悦、满足，从而成就了在名为超凡(amānusī)的观中的欢喜、喜悦、满足即观喜乐(vipassanārati)，于是与轻快性等心所相应在一起的轻安之法便生起了。
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[258] 5. 乐 = 观乐.md】**
+
+### 5. 乐（sukha）= 观乐（vipassanā sukha）
+
+所谓乐，是与观心（vipassanā citta）相应的心所之乐（cetasika sukha）。
+对那位禅修者（yogāvacara puggala）而言，在具足生灭随观智（udayabbayānupassanā ñāṇa）的那段时间里，浸润全身、极其殊胜的观乐便会生起。（《清净之道》2，272。）
+
+因与观乐相应的心而生起的、极其殊胜、极殊妙（atipaṇīta）的诸心生色（cittaja rūpa），禅修者的整个身体（kāya）既被触及、被遍满，也从四周被增长扩展。
+注释书的大长老（aṭṭhakathā sayadaw）正是就那些极其殊胜、极殊妙的诸心生色遍布全身的触及与四周增长，才解释说"浸润全身、极其殊胜的观乐便会生起"。（《大义疏》2，431。）
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[259]a 六、胜解 = 信心胜解.md】**
+
+### 六、胜解(adhimokkha)＝信心胜解(saddhādhimokkha)
+
+所谓胜解，就究竟法(paramattha-dhamma)本身的意义而言，即是信(saddhā)心所(cetasika)。（意思是说，这并不是指《法集论(Dhammasaṅgaṇī)》圣典中所列举的或然(yevāpanaka)心所类别里所包含的那个胜解心所。）
+的确如此——在那个时候，唯有与观智(vipassanā ñāṇa)相应而生起的、能令那位瑜伽行者(yogāvacara)的心与心所极其清净的、具有强盛力量的信心所，便会生起。（《清净之道》2，272。）
+
+所谓那种信法，在这观(vipassanā)的范畴中，尤其在此生灭智(udayabbaya ñāṇa)的部分，并不是凭借相信业(kamma)的果报、或相信三宝的力量而生起的；确切地说，它正是这样一种信法——由于远离了能使心混浊的烦恼(kilesa)垢秽，它便成为与观智相应(sampayutta)的诸法极其清净的根本原因。
+正是这种信法，在此处被称为胜解。（大义疏(Mahāṭī)2，431。）
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[259]b 七、支持 = 观精进.md】**
+
+### 七、支持(paggaha) = 观精进(vipassanā vīriya)
+
+支持即是精进。
+确实如此 ----- 在那时,在那位瑜伽行者(yogāvacara)的相续(santāna)中,会生起这样的精进:它唯与观智(vipassanā ñāṇa)相应而生,既不过于松弛、也不过于紧绷,能够好好地提持与观智俱起的诸相应法(sampayutta dhamma),使其不从各自观智的所缘(ārammaṇa)上滑落退失。(《清净之道》2.272)
+
+由于先前修习(bhāvanā)之力所成就的、均等平衡的精进,能够把与观智俱起的、和自己相应的诸相应法,从那能致污浊、属于杂染(saṃkilesa)一类的懈怠中提举、提升起来,因此称为支持。
+因此,义注(aṭṭhakathā)才解释说“所谓支持,即是精进”等这样的话。(大义疏 2.431)
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[259]c 八、建立 = 观念.md】**
+
+### 八、建立(upaṭṭhāna) = 观念
+
+所谓建立即是念(sati)。
+诚然 ----- 在那位瑜伽行者(yogāvacara)的相续(santāna)中，唯与观智(vipassanā ñāṇa)相应而生起的、通过善加忆念诸行法(saṅkhāra)的无常(anicca)、苦(dukkha)、无我(anatta)等体性而牢牢黏着、安住于行所缘上的，由于远离相违的盖(nīvaraṇa)等垢秽、以致那些相违之法无从动摇而牢固安住的，唯因如此牢固安住而如所竖立的石碑柱一般不动摇的，唯因不动摇而与须弥山王(Meru)相似的念，便会生起。
+那位瑜伽行者，对其自身智慧前所一一显现的、名为色名(rūpa-nāma)的事处加以省察，善纳于心、纳入于心、置于心中、一一观照；那种种名为色名的事处，随着那位瑜伽行者之念不断深入、不断深入 ----- 就如另一个世界显现于天眼通(dibbacakkhu abhiññā)之支分——随业趣智(yathākammūpaga ñāṇa)那样 ---- 而显现出来。（《清净之道》2，272。）
+
+Yadaggena hi sati ārammaṇaṃ okkhanditvā upatiṭṭhati, tadaggena ārammaṇampissa okkhanditvā upatiṭṭhatīti vuccati. (Mahāṭī, 2, 431-432.)
+
+凡就某某分位、以聚集而言，念趣入、黏着而安住于行所缘；就那种种分位、聚集而言，行所缘也趣入、黏着而安住于那念、如是显现——故应如是说。（大义疏(Mahāṭī) 2，431-432。）
+
+依照上述这些义注(aṭṭhakathā)、疏钞(ṭīkā)所阐释的内容来说 ----- 瑜伽行者对于过去(atīta)、未来(anāgata)、现在(paccuppanna)三时，内(ajjhatta)、外(bahiddha)两种相续之中所存在的一切行法，都能随心所欲、轻松容易、毫不费力、想观便观地加以观照；想怎样观便能怎样观，而且每观照时，那行所缘也都清晰、明亮、分明地呈现着——可以如此了知。
+这正是能够判知一位瑜伽行者的相续中，是否存在合乎标准的生灭智(udayabbaya ñāṇa)的一块试金石。
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[260] 九、舍 = 观舍 + 转向舍.md】**
+
+### 九、舍(upekkhā) = 观舍(vipassanupekkhā) + 转向舍(āvajjanupekkhā)
+
+由于存在已经以无常(anicca)、苦(dukkha)、无我(anatta)的样态审察辨别完毕的行(saṅkhāra)所缘(ārammaṇa)，所以：在以无常、苦、无我的样态审察辨别诸行法时，以中庸的态度加以舍置而住的中舍性(tatramajjhattatā)心所(cetasika)——即所谓观舍；以及由于以在以无常、苦、无我的样态审察辨别诸行法时平等加以舍置之力而生起，所以与意门(manodvāra)观(vipassanā)速行(javana)心路(vīthi)心相续中所含的意门转向(manodvārāvajjana)心相应的、
+即所谓思(cetanā)的转向舍，也都称为舍。 
+确实如此 ----- 在那生灭智(udayabbaya ñāṇa)正在生起的时候，于那禅修者(yogāvacara)的相续(santāna)中，对存在于三时、二相续之内的一切诸行法都加以舍置而生起的中舍性心所——即所谓观舍，也以敏锐迅捷的力量而生起。 
+在意门中，与意门转向相应的、即所谓思的转向舍，也以敏锐迅捷的力量而生起。 
+确实如此 --- 那审察辨别诸如此类的色法、名法即诸行法之聚的无常之点、苦之点、无我之点的那禅修者的那转向舍，犹如帝释(sakka)天王所掷出的金刚杵(vajira)兵器一般，又犹如射入干枯的叶捆叶堆之中、烈火熊熊燃烧的箭刃一般，勇猛、锐利、深透地生起。(《清净之道》,2,273。)
+
+由于诸行法的生起、坏灭即生灭(udayabbaya)在禅修者的智(ñāṇa)中极为明显地显现，所以在观照诸行法的生起、坏灭=生灭时加以舍置的中舍(tatramajjhattupekkhā)，在此即称为观舍。 
+那些生灭，是因为如此领会——『那些生起、坏灭即是存在于三时、二相续之内的一切、全部诸行法的生灭』，所以并非把对生起、坏灭即生灭加以舍置说为中舍，而是把对一切诸行法加以舍置而生起的，由义注(aṭṭhakathā)解说为中舍。(大义疏,2,432。)
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[261]a 转向的锐利.md】**
+
+### 转向的锐利
+
+应当记住：与意门转向(manodvārāvajjana)相应的、称为转向舍(āvajjanupekkhā)的「思(cetanā)」，其有如帝释(sakka)的金刚杵(vajira)武器之状、有如炽热赤亮的箭锋之状、以及勇猛锐利之状，乃是因为：正如作为至尊一切知智(sabbaññutañāṇa)之先导的意门转向那样，紧随该意门转向、并在该意门转向之后接续生起的观智(vipassanāñāṇa)，是以犹如帝释所掷出的金刚杵武器、犹如炽热赤亮的箭锋那般勇猛锐利的方式而生起的缘故。 
+(由于观智锐利尖锐，所以在观智之前生起的、与意门转向相应的、称为转向舍的「思」也是锐利尖锐的。)(大义疏(Mahāṭī)2、432。)
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[261]b 十、微细的欲求 = 观微细欲求.md】**
+
+### 十、微细的欲求(nikanti) = 观微细欲求(vipassanānikanti)
+
+所谓微细的欲求，是指对观(vipassanā)有所希求、眷顾贪着的微细欲求。
+也就是对观有所希求、眷顾系着的（心态）。
+作为观之妍美庄严之因而生起的光明(obhāsa)＝光亮等等，就如同那观的容色装饰一般地存在。
+如此，在以光明等等加以装饰的观当中，那既微细、又具有寂静状态、并对观作出眷顾的微细欲求，便在那位修行者(yogāvacara)的相续(santāna)中生起。
+通常难以、也无法把那微细欲求把握认定为烦恼(kilesā)。(《清净之道》,2,273。)
+
+那微细欲求之所以如此微细、之所以具有寂静的状态，是由于它伴随着修习(bhāvanā)的过度强盛而生起＝是由于观修习(vipassanābhāvanā)过度强盛、变得有力的缘故。
+正因如此，连微细欲求是烦恼这一点也变得难以了知了。(大义疏,2,432。)
+
+正如在光明＝光亮中那样，在上述这些已经阐说过的智(ñāṇa)等等当中，只要生起其中任何一种，那位修行者便会执着地（心想）：“确实，对我来说，在此之前从未生起过具有如此性质的智啊；具有如此性质的喜(pīti)。……(中略)……轻安(passaddhi)。乐(sukha)。胜解(adhimokkha)。支持(paggaha)。建立(upaṭṭhāna)。舍(upekkhā)。微细欲求从未生起过啊；千真万确、确确实实，我已经到达圣道(ariyamagga)了，已经到达圣果(ariyaphala)了”——如此，把不是圣道的当作圣道、把不是圣果的当作圣果而执取，那位修行者的观便称为从观的正道大路偏离到旁边去、滑落下去了。
+那位修行者放开了自己称为观修习的根本业处(mūlakammaṭṭhāna)而不再观照，只是（贪着）观智。……(中略)……
+喜。轻安。乐。胜解。支持。建立。舍。
+只是贪恋着微细欲求而坐着。(《清净之道》,2,273。)
+
+在上述这段话当中——“在智等等当中，只要生起其中任何一种”——这句话，只是为了显示“只要生起其中任何一种，我便已到达道(magga)了”等等这样的执取而说的。
+并不是因为它们一个一个分别生起才这样说的。
+确实如此——除微细欲求之外的(九)种随烦恼(upakkilesa)，即便在一个心剎那(cittakkhaṇa)中也能够同时生起。
+而“圣道法、圣果法”等等这样的思量，则是各自一个一个分别进行的。
+
+再者，“在此之前，在我的相续中从未生起过具有如此性质的微细欲求”这句话，义注(aṭṭhakathā)只是以彰显法的体性(dhammasabhāva)的方式来解说的。
+在那时候，并不是依照在那位修行者的相续中、以如此所说的样态、以心实际生起之力来说的；确实，那位修行者在那微细欲求生起之时，根本不知道（它）就是微细欲求；假如能知道（它）是微细欲求，如此既已知道是微细欲求，那么以那微细欲求为所缘(ārammaṇa)的“我已到达道了”这样等等的执取，就理应不会生起。
+(＝意思是说：如果知道是微细欲求，就不会把微细欲求执取为道、为果、为涅槃(nibbāna)；正是因为不知道微细欲求是微细欲求，才会把微细欲求执取为道、为果、为涅槃，发生错误的执取。)
+因此，在那位修行者的相续中，便只会生起这样的（念头）。
+
+Na vata me evarūpā bhāvanābhirati uppannapubbā, addhā maggappattomhi.
+
+=“对我来说，在具有如此性质的修习中的喜乐，确实从未曾生起过；千真万确、确确实实，我已经到达圣道了。”
+便只会生起这样的心念。(大义疏,2,432。)
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[262] 随烦恼与随烦恼依处.md】**
+
+### 随烦恼（upakkilesa）与随烦恼依处（upakkilesavatthu）
+
+在这（10）种当中，以光明（obhāsa）为始、以舍（upekkhā）为终的（9）种法，由于确实是作为真正随烦恼的渴爱（taṇhā）-慢（māna）-见（diṭṭhi）所执着依止、生起之处的因法，因此被称为随烦恼；而不是因为本质上是不善（akusala）才被这样称呼的。
+特别地，微细的欲求（nikanti）由于确实是不善法，因此也被称为随烦恼。
+由于（微细的欲求）是名为渴爱-慢-见的随烦恼的所立之处，因此也被称为随烦恼依处。
+
+执着称为执（gāha）。
+若不考量各种执着之执，仅就它作为各种执着之执的所立依处而言，这些随烦恼便有（10）种。
+若按执着之执来划分，则共有（30）种。
+其情形如下。-----
+
+- “我的＝我（attā）的光亮已经生起了。”---
+- 在如此执取的瑜伽行者（yogāvacara）的相续（santāna）中，便生起见执（diṭṭhigāha）＝执着于见。（1）。
+
+“确实能令人喜爱、能增长身心的光亮已经生起了。”
+在如此执取的瑜伽行者的相续中，便生起慢执（mānagāha）＝执着于慢。
+（由于以执取“可喜”为主导，从而把自己当作殊胜等等，即由于以“我很了不起、胜过他人”等方式执取，因此义注（aṭṭhakathā）解释说，这样的执取就是慢执。）（2）。
+
+对于喜爱光明光亮的瑜伽行者，则生起爱执（taṇhāgāha）。（3）。
+
+如是，在光明上便生起见-慢-渴爱这三种能执取的执法。
+在其余以智（ñāṇa）-喜（pīti）等为首的（9）种法上，也同样各生起三种。
+如是，依于能执着的见、慢、渴爱，便生起共三十种随烦恼。
+由于这些以见执＝执着于见等方式所认知的随烦恼，那不善巧、没有明晰之智的瑜伽行者，便因光明等而动摇、散乱。
+在光明等当中的某一种 -----
+
+Etaṃ mama, esohamasmi, eso me attā.
+＝这是我的，这是我，这是我的我。
+如此反复地观察。（《清净之道》（Visuddhi Magga）2，273-274。）
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[263] 辨别是不是圣道.md】**
+
+### 辨别记住是不是圣道(ariyamagga)
+
+若约略而言，由于与对业处(kammaṭṭhāna)的熟练相应、由于具有在修习业处方面善巧而成熟之智、具有成熟的慧、对所背诵的巴利语(pāli)通晓而善巧、对诸随烦恼(upakkilesa)的过失以及清除这些随烦恼的利益具足了知之慧而圆满的瑜伽行者(yogāvacara)，当光明(obhāsa)等生起之时，便这样省察：「传授业处给我的我的老师，在传授业处的时候曾嘱咐说：当生灭智(udayabbayañāṇa)生起的时候，会生起这样的光明等。
+如今对我而言，正是我那位老师所嘱咐的那种、这朦胧闪烁、明亮发光的光辉光明已经生起了；这个老师所嘱咐的那种光明——
+
+- 一、是生起后即坏灭、不恒常的无常(anicca)法。
+- 二、是由众因法所造作的有为(saṅkhata)法。
+- 三、是依众因法而生起的缘生法(paṭiccasamuppanna dhamma)。
+- 四、是具有尽灭之性的尽法(khayadhamma)。
+- 五、是具有坏灭之性的灭(vaya)法。
+- 六、是具有离断＝灭尽之性的离染法(virāgadhamma)。
+- 七、是具有灭坏之性的灭(nirodha)法。
+
+也以这样的方式用慧来辨别那光明，反复地审察思惟。（《清净之道》2,274。）
+
+观法的体系是这样的。
+善人哪，请不要忘记这一点：只应对名为苦圣谛(dukkhasacca)、苦因圣谛(samudayasacca)的究竟(paramattha)行法(saṅkhāra)架设上特相之车(lakkhaṇa)，来修观。
+所谓光明，正如上面已多次解释过的那样，在内(ajjhatta)是心生食素为第八之色(cittaja ojaṭṭhamaka rūpa)、时节生食素为第八之色(utuja ojaṭṭhamaka rūpa)的，在外(bahiddha)则是时节生食素为第八之色的——这些色的聚集而已。
+它只是那些食素为第八之色当中所含的颜色界(vaṇṇadhātu)＝色所缘(rūpārammaṇa)的过度炽盛的明亮而已。
+因此，请在那光明中专注观照，以见到四大界(mahābhūta)。
+对于已经修习观(vipassanā)修业处直到这一阶段的善人们而言，只要以智(ñāṇa)专注观照那存在于该光明中的四大界，以求见到，不久便能发现色聚(kalāpa)的微粒。
+尽管专注观照着四大界、也以智见到着，但若仍不能轻易见到色聚的微粒，那么只要在那四大界的团块中专注观照虚空界(ākāsadhātu)以求见到，便能发现色聚的微粒。
+那些色聚，在内是心生食素为第八之色、时节生食素为第八之色，在外则只是时节生食素为第八之色。
+请用智把那些食素为第八之色分别剖析、观照至究竟法，加以分析诸界。
+只把那些色究竟法观为无常。
+观为有为……（中略）……缘生法、尽法、灭(vaya)法、离染法、灭(nirodha)法，逐一这样观照。
+光明＝光辉，就其呈现为一团一块的样子而言，由于相续概念(santatipaññatti)、聚合概念(samūhapaññatti)、形状概念(saṇṭhānapaññatti)等诸概念(paññatti)尚未脱离，因而仍是只存在于概念领域中的密集(ghana)团块。对于那密集尚未破除的光明团块，不宜修观；唯有对究竟法才宜修观。务请具念。
+
+Tattha paṭhamanaye aniccalakkhaṇavibhāvanameva dassitaṃ, tasmiṃ siddhe itarampi lakkhaṇadvayaṃ siddhameva hoti.（《大复注》2,433。）
+
+在《清净之道》义注(aṭṭhakathā)中，对于观照光明的方法，开示了两种方法。
+上面所撰写呈现的观照方法，是第一种方法。
+在那第一种方法中，从无常起直到灭法(nirodhadhamma)为止的七种观照诸格当中，仅仅明显地揭示了无常相(aniccalakkhaṇa)而已。
+一旦修习观照那无常相完成，则修习观照苦相(dukkhalakkhaṇa)、无我相(anattalakkhaṇa)这两者也就随之完成了。
+应当注意——正如前面已多次解释过的，无常相能摧破对慢(māna)的执取。
+
+一旦无论是以彼分(tadaṅga)、还是以无余的正断(samuccheda)摧破了慢执，那么在诸行法上架设无常相而修习观照，也就妥善地完成了。
+那无常随观智(aniccānupassanāñāṇa)若要妥善地摧破慢执、以彼分与正断加以断除，唯有获得苦随观智(dukkhānupassanāñāṇa)、无我随观智(anattānupassanāñāṇa)以强而有力的所依即强依止力(upanissaya)的助益与扶持，那无常随观智才能摧破慢执。
+承接了苦随观智、无我随观智以强而有力的所依即强依止力所给予的助益、扶持的威势与殊胜大能力的无常随观智，便变得锐利敏锐、变得勇猛、变得清净。
+唯有如此变得锐利敏锐、勇猛而清净的无常随观智，才能摧破慢执、断除慢执。
+未能承接苦随观智、无我随观智以强而有力的所依即强依止力所给予的助益威势的无常随观智，则没有锐利敏锐、没有勇猛、没有清净。
+如此不锐利、不敏锐、不勇猛、不清净的无常随观智，便无法摧破慢执。
+能够强到足以摧破慢执、能力充沛的无常随观智，正是持续承接着苦随观智、无我随观智以强而有力的所依即强依止力所给予的助益威势与殊胜大能力的。
+因此，一旦无常修习(bhāvanā)摧破慢执的工作完成，那么在诸行法上架设三种相的样态而修习观照的修习工作，也就完成了——大复注(Mahāṭīka)的尊者便是这样开示的。（《大复注》2,433+416-参看。）
+
+依照这些开示与指示，善人哪，请把光明观照至究竟法、摄持诸色法，对那光明的、以食素(ojā)为第八的食素为第八之色诸法，不仅架设无常相之车而修观，也请架设苦相之车、无我相之车来修观。
+为了让人如此观照，义注的尊者又再开示了另外一种方法。
+那就是第二种方法。
+
+另一种方法——光明假如是自我(atta)，那么便有可能被执取为自我、被认取为自我；然而它实际上是无我(anatta)，却把这光明执取为自我罢了。
+因此，那光明由于没有顺从己意的体性，所以称为无我。
+先前没有、如今才骤然生起，不能久住、容易坏灭，因为具有不存在(abhāva)即不存在的体性，所以称为无常。
+由于生与灭反复地逼迫，因为具有这样的「逼迫」的含义体性，所以称为苦。
+如此的心便生起了。
+一切都应依照在非色七法(arūpasattaka)中所开示的方法加以推广。
+同样地，对于其余九种随烦恼也应如此推广。（《清净之道》2,274。）
+
+依照上述义注的指示，善人哪，请用智把存在于光明中的心生食素为第八之色、时节生食素为第八之色分别剖析——
+
+- 一、Netaṃ mama ＝ 这色法不是我的。
+- 二、Nesohamasmi ＝ 这色法不是我。
+- 三、Na meso attā ＝ 这色法不是我的自我。
+
+请如此修观。
+换一种说法，请把那色法观为无常、观为苦、观为无我。
+对于从智起直到微细的欲求(nikanti)为止的诸法，也请以同样的方法观照。
+
+那位瑜伽行者如此以观智省察，对于名为光明的色法，以及智、喜(pīti)、轻安(passaddhi)、乐(sukha)、胜解(adhimokkha)、支持(paggaha)、建立(upaṭṭhāna)、舍(upekkhā)、微细的欲求这些名为随烦恼的诸法，都——以「Netaṃ mama、Nesohamasmi、Na meso attā」，或换一种以「无常、苦、无我」——能轮番架设三种特相之车而能大力修观，由于能够大力修观，那位瑜伽行者的心便不再因光明等而动摇。
+心也不再散乱。
+那位瑜伽行者如此不致陷入散乱，便能清除那共三十种之多的、称为随烦恼的缠缚。（《清净之道》2,274。）
+
+对于光明等随烦恼诸法，反复地以「Netaṃ mama」观照的瑜伽行者，便称为使心从渴爱执(taṇhāgāha)＝执取为「我的」的渴爱执着中清净。
+以「Nesohamasmi」观照的瑜伽行者，便称为使心从慢执(mānagāha)＝执取为「我、我」的慢的执着中清净。
+以「Na meso attā」观照的瑜伽行者，便称为使心从见执(diṭṭhigāha)＝执取为「有自我」的见的执着中清净。
+另一种说法——把那些随烦恼法逐一观为无常，便从慢执；观为苦，便从渴爱执；观为无我，便从我见(attadiṭṭhi)执，而使心清净。（《大复注》2,434。）
+
+如此能够清除称为随烦恼的缠缚，于是光明等诸法并不是圣道法；唯有那凭借持续观照已脱离随烦恼缠缚的诸行法之生起—坏灭的生灭随观智(udayabbayānupassanāñāṇa)之力、稳稳地行进在观的正道上的观智，才是正直之道——他便辨别记住：什么是通往涅槃(nibbāna)之道，什么不是道。
+那位瑜伽行者的——
+
+Ayaṃ maggo, ayaṃ na maggo.
+
+这是正道，这不是正道。
+
+如此既知道什么是正道、什么不是正道，＝既知道什么是道(magga)、什么不是道而安立的智——便称为 **maggāmaggañāṇadassanavisuddhi ＝ 能知、能见「是道、不是道」的智之清净（道非道智见清净）**——请如此了知。（《清净之道》2,274。）
+
+**【文件：[167]生灭智章/[221]集灭法随观篇/[266] 利益功德 果益.md】**
+
+### 利益、功德（ānisaṃsa）
+
+已经修行抵达这道非道智见清净（maggāmagga ñāṇadassana visuddhi）阶段的修行者（yogāvacara），对于三谛已经作了辨别忆持＝详尽分辨地了知。这是为什么呢？-----
+
+1。 一经获得**见清净（diṭṭhivisuddhi）智见**，便藉由见清净智，在断除名为有身见（sakkāya diṭṭhi）＝我见（attadiṭṭhi）的邪见时，首先以智辨别忆持名色（nāmarūpa）＝以智详尽分辨地了知，从而对**苦圣谛（dukkha sacca）**以智作了辨别忆持＝以智详尽分辨地了知。
+究其原因，乃是由于以智辨别忆持＝以智详尽分辨地了知了归属于苦圣谛的名色之故。
+
+2。 一经获得**度疑清净（kaṅkhāvitaraṇa visuddhi）智见**，便藉由以智辨别摄取因缘之法，从而对**苦因圣谛（samudaya sacca）**以智作了辨别忆持＝以智详尽分辨地了知。
+
+3。 一经获得这**道非道智见清净智见**，便藉由以智辨别忆持名为观智（vipassanā ñāṇa）、作为圣道（ariya magga）真正成因的世间道（lokiya magga）＝以智详尽分辨地了知，从而对**道谛（magga sacca）**以智作了辨别忆持＝以智详尽分辨地了知。
+如此，便以纯属世间的智，首先对三谛作了辨别忆持＝详尽分辨地了知。（《清净之道》2，274-275。）
+
+**道非道智见清净广释（niddesa）完毕。**
+
+**【文件：[267]行道智见清净释/[267]a 行道智见清净释.md】**
+
+# 行道智见清净释（paṭipadāñāṇadassanavisuddhi niddesa）
+
+**【文件：[267]行道智见清净释/[267]b 从随烦恼中解脱出来的生灭.md】**
+
+## 从随烦恼(upakkilesa)中解脱出来的生灭智(udayabbayañāṇa)
+
+从随烦恼这一污垢中解脱出来的、走在观(vipassanā)正道之上的、被称为观的、到达观的终极顶点与至高峰顶的——生灭智、坏灭智(bhaṅgañāṇa)、畏惧智(bhayañāṇa)、过患智(ādīnavañāṇa)、厌离智(nibbidāñāṇa)、欲解脱智(muñcitukamyatāñāṇa)、审察智(paṭisaṅkhāñāṇa)、行舍智(saṅkhārupekkhāñāṇa)、谛随顺智(saccānulomikañāṇa)＝与了知四谛相应的随顺智(anulomañāṇa)——这九种智称为行道智见清净(paṭipadāñāṇadassanavisuddhi)。(《清净之道》2,276。)
+
+为什么称为行道智见清净呢？——既因为含有了知诸行(saṅkhāra)法的生起、坏灭等等的意义，也因为含有以现量(paccakkha)亲自现见、洞穿而知见的意义，所以以生灭智为首的这九种观智称为智见(ñāṇadassana)。
+正是这获得智见之名的九种观智，由于从常想(niccasaññā)等等的对立法中清净了出来，所以称为智见清净(ñāṇadassanavisuddhi)。
+正是这智见清净——由于借助这智见清净能到达圣道(ariyamagga)，由于为证得圣道而修习，由于圣道得以生起，所以也称为行道(paṭipadā)。因此称为行道智见清净。(《大义疏》2,435。)
+
+由于通过除去、断除那覆蔽四谛使之不被了知的、极其粗重的、名为痴(moha)的黑暗丛林与黑暗，从而与洞穿了知四谛相应，所以把随顺智称为谛随顺智。
+因此，想要圆满成就直到谛随顺智的九种观智、即行道智见清净的瑜伽行者(yogāvacara)，应当从随烦恼这一污垢中解脱出来的生灭智开始，在那九种智上精勤努力。(《清净之道》2,276。)
+
+倘若有人问：在生灭智上再次精勤努力有什么利益呢？——
+可以回答说：有能够很好地辨别并铭记无常相(aniccalakkhaṇa)、苦相(dukkhalakkhaṇa)、无我相(anattalakkhaṇa)的利益。
+原因如下。
+生灭智在尚未到达道非道智见清净(maggāmaggañāṇadassanavisuddhi)之前的较低阶段，由于被十种随烦恼法这一污垢所染污，未能不偏不倚地、以自身的本性、以自身的作用很好地铭记无常、苦、无我这三相。
+(处在道非道智见清净以下阶段的生灭智，由于是光明(obhāsa)等等生起的真正根源，所以它确实是敏锐犀利、清净的；尽管它如此敏锐犀利清净，但由于被渴爱(taṇhā)、慢(māna)、见(diṭṭhi)等等烦恼(kilesa)所染污，所以那生灭智仍然只是迟钝的，只是不清净的。因此才这样说。)
+然而，从随烦恼这一污垢中解脱出来的生灭智，却能够很好地辨别并铭记三种特相。
+因此，为了能够很好地辨别并铭记三种特相这一利益，应当在这生灭智上再次努力精勤。(《清净之道》2,276。)(《大义疏》2,436。)
+
+所谓生灭智，难道不是只观照诸行法的生起与坏灭吗？难道不是不观照以无常为首的三相吗？
+有理由这样发问：借助那生灭智很好地辨别并铭记以无常为首的三相，是以何种方式、何种形态、何种方法才能做到的呢？
+答复如下。——
+
+１。不应这样认为：“生灭智是以三种特相为所缘的”。
+其实，当以智(ñāṇa)洞穿而了知诸行法的生起与坏灭之后，无常相便在瑜伽行者的了知之智中清楚显现而显露出来。
+由于这样显现——“yadaniccaṃ, taṃ dukkhaṃ. yaṃ dukkhaṃ, tadanattā”。(《相应部》2,19……)
+
+＝凡是无常的法，那法便是苦。
+凡是苦的法，那法便是无我。(《相应部》2,19……)
+
+如此一来，除无常相之外的苦相、无我相也清楚显现出来。(《大义疏》2,436。)
+诸行法生起之后便消失坏灭，这种生起与坏灭的本性即是无常相，是了知“无常”的标志。
+一旦智深入这无常的要点，那么诸行法受到生起、坏灭的打击而遭受逼迫的苦的本性，也就会在瑜伽行者的了知之智中显现出来。
+当清清楚楚地知见诸行法受到生起、坏灭的打击而遭受逼迫的本性时，便会以智的洞见深入领会以下两层无我本性：一是“愿这诸行法这样存在、愿它这样不要坏灭”——如此等等，无法随自己渴求的意愿而实现的、不顺从意志的(avasavattanaṭṭha)无我本性；二是诸行法中丝毫不存在那种不坏灭、作为坚硬牢固的凝块、作为坚实牢固的精髓而安住的我(atta)本性的无我本性。这就是其义。
+
+２。另一种方式——通过以智辨别诸行法的生起与坏灭即生灭(udayabbaya)——
+- (甲)生起之后便不存在的情形，
+- (乙)受到生起、坏灭的打击而持续不断地遭受逼迫的情形，
+- (丙)诸行法不随自己渴求的意愿而成就的情形
+
+这三种情形都格外清楚地显现出来。
+因此，作意诸行法的生起坏灭即生灭，确实是令三种特相清楚显现的真正根源。
+由于这样是三种特相显现的真正根源，所以应当了知：在生灭智上精勤努力，具有能够很好地辨别并铭记三种特相的利益。
+并非只是以现量之智(paccakkhañāṇa)亲自现见诸行法的生起、坏灭即生灭便算了知。
+(意思是：应当了知，并非只是观见诸行法的生灭而已，而是为使三种特相清楚显现而观照。)(《大义疏》2,436。)
+
+**【文件：[267]行道智见清净释/[269] 三种特相的不显现与显现.md】**
+
+## 三种特相的不显现与显现
+
+三种特相，是因不作意(manasikāra)哪种法、因被哪种法所覆盖，而不显现于瑜伽行者(yogāvacara)的了知之智(ñāṇa)中呢？若问此 -----
+
+无常相(anicca lakkhaṇa)，是因不作意诸行(saṅkhāra)的生起与坏灭，且因称为色相续之序列、名相续之序列的相续概念(santati paññatti)所覆盖，而不显现于瑜伽行者的智中 =（若不作意行法的生灭(udayabbaya)，则以智观照行法时，行法会显现为连续不断的。
+这称为相续密集(santatighana)的覆盖。
+意思是：由于该相续密集的覆盖，行法的无常相便不显现于瑜伽行者的智中。）
+
+至于苦相(dukkha lakkhaṇa)，则是因不作意行法以生灭不断地、再三地所施加的逼迫，且因时时调整变换的威仪(iriyāpatha)所覆盖，而不显现于瑜伽行者的智中。
+
+至于无我相(anatta lakkhaṇa)，则是因不以智将各别的色界(rūpadhātu)、名界(nāmadhātu)等究竟法(paramattha)的自性破开摧毁——即破开称为色团色块、名团名块的色密集(rūpaghana)、名密集(nāmaghana)使其各自瓦解——从而不作意究竟法的自性，且因称为色团色块、名团名块的色密集、名密集所覆盖，而不显现于瑜伽行者的了知之智中。
+（由于不以智将各别的色界、名界的色密集、名密集各自破开摧毁、直达究竟而作意，便往往显现为色团色块、名团名块，一团一团、一块一块地呈现。
+若如此一团一块地见到，便说是受到密集(ghana)的团块覆盖。
+意思是：由于受到密集的覆盖，无我相便不能如实地显现于瑜伽行者的了知之智中。）(《清净之道》2,276。)
+
+由于称为色之序列的团块、名之序列的团块的相续概念所覆盖，无常相便不显现于那瑜伽行者的了知之智中。
+而该相续概念之所以能覆盖，也是因为不作意行法的生起坏灭、即生灭。
+（意思是：相续覆盖了无常相。）
+由于时时调整变换的威仪所覆盖，苦相便不显现于瑜伽行者的了知之智中。
+由于不作意行法以生灭不断地、再三地被逼迫＝不作意生灭对行法不断地、再三地逼迫，那些威仪也就能覆盖苦相。
+（意思是：威仪覆盖了苦相。）
+由于称为色团色块、名团名块的密集所覆盖，无我相便不显现于瑜伽行者的了知之智中。
+而那些密集 ----- 也是由于不以智将各别的色界、名界一个一个地剖析辨别、直达究竟而作意，才能覆盖无我相。
+（意思是：密集覆盖了无我相。）(《大义疏》2,436-437。)
+
+若顺其义而说 ----- 以智辨别并铭记行法的生起坏灭、即生灭之自性后，若能以观智(vipassanāñāṇa)将称为色之序列的团块、名之序列的团块的相续密集之团块破开摧毁，则**无常相**便以其如实的、自身的自性相状，显现于瑜伽行者的了知之智中。(《清净之道》2,276。)
+
+瑜伽行者能以智辨别各别的色聚(rūpakalāpa)、名聚(nāmakalāpa)之中所存在的各别色界、名界的究竟法自性之力、即称为自身自性相状者，又若能以观智辨别、观见这些究竟法自性之力在生起(uppāda)-住(ṭhiti)-坏灭(bhaṅga)这三剎那(khaṇattaya)之集合俱足时其中的生起、坏灭＝生起边与坏灭边，那么称为色之序列的团块、名之序列的团块的相续密集便已破裂了。
+相续密集一破裂，由于同时见到行法的生起边与坏灭边，无常相也就显现出来了。
+在观见行法之生灭的瑜伽行者的了知之智中，便如此显现：
+“生起的剎那不会到达坏灭的剎那，坏灭的剎那也不会再到达生起的剎那；生起之剎那是另一回事，坏灭之剎那是另一回事。”
+便如此显现。
+如是，即使是单一的行法，也能凭借剎那(khaṇa)之力以分别的方式显现于瑜伽行者的了知之智中；至于过去等的行法，又何须再说呢？
+因此，若能以智辨别、观照行法之生灭并破开摧毁相续密集＝若能观照到见出每一个色聚、名聚之中所存在的行法的生起边与坏灭边，则无常相便以其如实的、自身的自性相状显现于瑜伽行者的了知之智中——义注(aṭṭhakathā)如是解说。
+对前后相续地生起的诸行法，将其一一各别的生起，以“这是五门转向(pañcadvārāvajjana)、这是眼识(cakkhuviññāṇa)、这是领受(sampaṭicchana)”等方式善加辨别铭记，从而剥离相续之序列——这便称为‘能破开摧毁相续密集、能剥离相续概念、能开启相续的覆盖与封闭’。
+确实如此 ----- 对于以智善加辨别铭记行法之生灭的瑜伽行者来说，诸行法不会显现为连成一片的整体；其实，它们只会像一根根铁条那样，以彼此互不相连的方式显现，因此无常相便能很好地清楚显现。(《大义疏》2,437。)
+
+凭借已铭记的生灭之力，作意行法以生灭之打击不断地、无有间隙地、连成一片一气相续地遭受逼迫之自性，从而若能剥离、抽除、开启威仪对本应感受到的苦(dukkha)的覆盖，则苦相便以其如实的、自身的自性相状显现于瑜伽行者的了知之智中。(《清净之道》2,276。)
+
+确实如此 ----- 能消除某一种威仪中所生起之苦的另一种威仪，就如同覆盖了那种苦一般。
+这是因为：一旦调整变换威仪，便会使正在生起的苦得到相当程度的缓解。
+其余的威仪也都是这样。
+因此，若能如实了知诸威仪覆盖那种种苦这一事实，便称为剥离、抽除、开启那些威仪对苦的覆盖。
+其原因在于：行法不断地、无有间隙地被苦所刺戳逼迫这一事实变得清楚显现之故。
+因此，作意行法以生灭之打击不断地遭受折磨逼迫之自性，从而若能剥离威仪，则苦相便以其如实的、自身的自性相状显现于瑜伽行者的了知之智中——义注如是解说。(《大义疏》2,437。)
+
+将每一个色聚之中所存在的诸色界，以“这是地界(pathavī dhātu)、这是水界(āpo dhātu)、这是火界(tejo dhātu)、这是风界(vāyo dhātu)”等方式，又以“地界是各别的一类、水界是各别的一类、火界是各别的一类、风界是各别的一类” -----
+如是等等，又将称为每一个心剎那(cittakkhaṇa)的每一个名聚之中所存在的诸名界，以“这是触(phassa)、这是受(vedanā)、这是想(saññā)、这是思(cetanā)、这是识(viññāṇa)”等方式，又以“触是各别的一类、受是各别的一类、想是各别的一类、思是各别的一类、识是各别的一类” -----
+如是等等，以智辨别、剖析各别的色界、名界后，若能以智将称为色团色块、名团名块的色密集、名密集——即诸色法的组合密集(samūhaghana)、作用密集(kiccaghana)，诸名法的组合密集、作用密集、所缘密集(ārammaṇaghana)——各别地破开摧毁，则无我相便以其如实的、自身的自性相状显现于瑜伽行者的了知之智中。(《清净之道》2,276。《大义疏》2,437。)
+
+凡是尚未以观智、观修业处(vipassanā bhāvanā kammaṭṭhāna)碾磨踏破其行法者＝凡是尚未以观智将行法碾磨直达究竟者，这些人当中存在着如下情形：在以俱生(sahajāta)、相互(aññamañña)等缘(paccaya)之力彼此相互支助、以色聚、名聚的形态成组生起的诸色法、名法之中，凭借“地只是一个、水只是一个、火只是一个、风只是一个”等等，以及“触只是一个、受只是一个、想只是一个、思只是一个、识只是一个”等等，以“只是一个”的方式作意之力，而被执取、被认定的那种组合密集之存在；同样地，那种种地、触等自性法的作用的差别虽各别地确定可辨而清楚存在，却不以一个一个的作用加以区分，反而以“只是一个作用”的方式被执取、被认定的那种作用密集之存在；同样地，那能取所缘的、称为有所缘法(sārammaṇa dhamma)的诸名法在取所缘上的特异差别——即在能取所缘的诸名法之中，触以触及所缘的方式而生起的自性、受以领受所缘之滋味的方式而生起的自性——如此等等取所缘之方式的特异差别虽清楚存在，却不以触、受等的差别分明显现，反而以“只是一种究竟界质”的方式被执取、被认定的那种所缘密集，也都是存在的。
+这三种密集，若在色界、名界中以智辨别剖析、直达究竟、观见生起边与坏灭边而各别地观照，便会如同被手揉捏的水沫团(＝水泡块)一般，趋于碎灭。
+“那些随各自相应的因法而生起的色法、名法，都远离我(atta)；它们只不过是色、名的究竟法自性而已”——如此这般的无我相之智见，便格外清楚地显现出来。
+因此，以智辨别剖析各别的色界、名界后，若能以智将称为色团色块、名团名块的色密集、名密集各别地破开摧毁，则无我相便以其如实的、自身的自性相状显现于瑜伽行者的了知之智中——义注如是解说。(《清净之道》2,276。《大义疏》2,437。)
+
+在此处 -----
+
+- 1、无常(anicca)、无常相，
+- 2、苦、苦相，
+- 3、无我(anatta)、无我相 ---
+
+瑜伽行者应当了知这(6)种区分。其中 -----**无常**是指五取蕴(upādānakkhandhā)。为什么呢？因为在那些取蕴之中 -----
+
+- 1、称为转生(nibbatti)相的生起、即生起之自性＝生(jāti)之自性，
+- 2、称为变易(vipariṇāma)相的变坏毁灭、即坏灭之自性＝死(maraṇa)之自性，
+- 3、异住(aññathatta)＝以有别于生起自性的方式变易而生成的住之自性＝老(jarā)之自性， -----
+
+这三种自性法都清楚存在。
+由于五取蕴清楚存在着生之自性、老之自性、死之自性，所以称为**无常**。
+
+另一种方法 ----- 五取蕴由于先前不存在、如今(＝直到到达生起之时即生起时)才骤然生起，不能久住而毁灭，所以称为无常。
+意思是：由于未生之前先前尚不存在、生起之后到达坏灭剎那时便以坏灭剎那灭去而不复存在，所以称为**无常**。(《清净之道》2,276-277。《大义疏》2,438。)
+
+生起之自性＝生之自性，坏灭之自性＝死之自性，有别于生起、坏灭的
+称为住的老之自性之存在，便称为**无常相**＝即标记为无常的特相。
+另一种方法 ----- 称为生起之后坏灭＝不存在的那种变坏的特异情状，便称为**无常相**。(《清净之道》2,277。)
+
+五蕴坏灭的情状，应以变坏之自性来了知。
+那坏灭的情状，由于是变坏之自性，所以并非生起的情状。
+此处所谓行相变异(ākāravikāra)，即行相之差别(ākāravisesa)＝特异的情状。
+确实如此 ----- 称为生起之后不存在的不存在(abhāva)，由于是称为毁灭的不存在之不存在自性，因而有别于称为未生之前先前不存在的不存在。
+在那生起之后不存在＝那称为坏灭的不存在之中，无常相也显现。
+确实如此 ----- 正如无常的情状有别于苦的情状、无我的情状，无常的情状也有别于生起即生起的情状。
+声音＝声色(saddarūpa)之坏灭即不存在的不存在，应以有为(saṅkhata)之存在而成立。
+而有为之存在，依究竟法本身的根本义而言，也就是存在着生起即生起的存在。
+而生起，也正是凭借未生之前先前的不存在而成立的、清楚存在的那一剎那。依此方法，也应了知苦相与无我相。(《大义疏》2,438。)
+
+yadaniccaṃ taṃ dukkhaṃ ＝ 凡是无常的自性法，便称为苦。(相应部(Saṃyutta)2,19 ...)
+由于世尊如此宣说，那无常的五蕴之集合本身便称为**苦**。
+为什么呢？----- 由于以生灭不断地、再三地被逼迫折磨，所以称为苦。
+以生灭不断地、再三地逼迫折磨的情状，便称为**苦相**＝即标记为苦的特相。(《清净之道》2,277。)
+
+yaṃ dukkhaṃ tadanattā ＝ 称为苦的法，便称为无我。(相应部2,19 ...)
+由于世尊如此宣说，称为苦的五蕴之集合便称为**无我**。
+为什么呢？----- 由于它不随顺任何人、有情＝我的意愿之故。
+不随顺任何人、有情＝我的意愿的那种情状，便称为无我相＝即标记为无我的特相。(《清净之道》2,277。)
+
+另一种方法 ----- 正如由于舍弃常(nicca)之自性而称为无常，由于舍弃常的情状，前面已说过的生起之后不存在＝称为不存在的情状的那种无常的情状，便称为**无常相**。
+同样地，由于舍弃乐(sukha)之自性而称为苦，那么由于舍弃乐的情状，被说为以生灭之打击不断地、再三地折磨逼迫的情状的那种苦的情状，便称为**苦相**。
+同样地，由于舍弃我之自性而称为无我，那么由于舍弃我的情状，被说为不随顺任何人、有情＝我的意愿的情状的那种无我的情状，便称为**无我相**——应当如此铭记。(《大义疏》2,438。)
+
+**【文件：[267]行道智见清净释/[273] 此所生概念.md】**
+
+### 此所生概念(tajjāpaññatti)
+
+Te yime tayopi ākārā asabhāvadhammattā khandhapariyāpannā na honti.
+Khandhehi vinā anupalabbhanīyato khandhavinimuttāpi na honti.
+Khandhe pana upādāya vohāravasena labbhamānā tadādīnavavibhāvanāya visesakāraṇabhūtā tajjāpaññattivisesāti veditabbā. (Mahāṭī, 2, 438.)
+
+Lakkhaṇaṃ nāma paññattigatikaṃ navattabbadhammabhūtaṃ. (Abhi-ṭṭha, 1, 269.)
+
+Aniccatā dukkhatā anattatāti hi visuṃ gayhamānaṃ lakkhaṇaṃ **paññattigatikaṃ** paramatthato avijjamānaṃ, avijjamānattā eva parittādivasena **navattabbadhammabhūtaṃ.** (Mūlaṭī, 1, 115.)
+
+称为无常相(aniccalakkhaṇā)、苦相(dukkhalakkhaṇā)、无我相(anattalakkhaṇā)的这三种相，由于不是自性法(sabhāvadhamma)，所以并非内含于诸蕴(khandhā)之中 = 不被诸蕴所摄。
+由于离开诸蕴也不可得，所以也并非脱离于诸蕴。
+而应当了知：依于诸蕴、藉由世俗名言(vohāra)而可得的、作为彰显诸蕴之变坏败坏的过患(ādīnava)的殊胜原因的**此所生概念之殊胜** = 即由于那些诸蕴而生起的概念之殊胜。(Mahāṭī, 2, 438.)
+
+称为无常相、苦相、无我相的这三种相，与概念(paññatti)相似。
+它们是不应被称为欲界法、色界法、无色界法、出世间法的不可说法(navattabbadhamma)。(Abhi-ṭṭha, 1, 269.)
+
+称为无常的状态、苦的状态、无我的状态的相，若仅仅孤立地、单单截取这相本身来理解，那么这相便与概念相似。
+就胜义(paramattha)而言，它并非明显地存在。
+正因为就胜义而言它并非明显地存在，所以它是不应、不堪以欲界法等之力来称说的不可说法。(Mūlaṭī, 1, 115.)
+
+对于那一切三种相的总集，以及以那三种相所辨别忆持的、属于无常、苦、无我的五蕴之总集，具足此生灭智(udayabbayañāṇa)之见的瑜伽行者(yogāvacara)，藉由行进在脱离了随烦恼(upakkilesa)垢秽、走在正确的观(vipassanā)之道上的生灭随观智(udayabbayānupassanāñāṇa)，依其不变坏的、真实的自身的自性相，善加辨别忆持。
+愿善加辨别忆持。(Visuddhi, 2, 277.)
+
+“藉由生灭随观智，依其不变坏的、真实的自身的自性相，善加辨别忆持”这句话，是依喻果(phalūpacāra)而说的。
+因为把以那为了生灭智之利益而生起的三种相为所缘(ārammaṇa)的相所缘观(lakkhaṇārammaṇikavipassanā)，称为生灭智的缘故。
+确实如此——生灭智并非仅以苦相等为所缘。
+换言之——倘若以那苦相等为所缘的情形明显存在，那么所谓的生灭智便不可能生起。
+其实，想要使生灭智变得敏锐犀利、变得清净的瑜伽行者，应当、应该只去审察那三种相的总集 = 即对诸行(saṅkhāra)法的无常之状态以智(ñāṇa)观见而判定为无常，对苦之状态以智观见而判定为苦，对无我之状态以智观见而判定为无我。
+确实如此——能够审察思惟、判定这三种相之总集的智，与那生灭智的遍作(parikamma)相似(=把为了获得生灭智的预备运作称为遍作)。
+对于其余更上层的诸智，也是依照此法。(Mahāṭī, 2, 438-439.)
+
+**【文件：[267]行道智见清净释/[275] 请架设特相之车.md】**
+
+### 请架设特相之车
+
+生灭智(udayabbaya-ñāṇa)并非以苦相(dukkha-lakkhaṇa)等为所缘(ārammaṇa)，而是只取行法(saṅkhāra-dhamma)的生灭为所缘的智(ñāṇa)。
+然而，你这位善人若想获得生灭智，就应依照上文义注(aṭṭhakathā)与复注(ṭīkā)的指示，将行法逐一架设三种特相之车(lakkhaṇa-yāna)，持续不断地修观(vipassanā)。
+如此持续不断地修观，生灭智的洞见便会变得愈发锐利敏锐、愈发清净。
+如此修观之时-----
+
+- 1。 以色(rūpa)为先、摄取名色(nāmarūpa)而修观，即所谓身随观(kāyānupassanā)法，
+- 2。 以受(vedanā)为先、摄取名色而修观，即所谓受随观(vedanānupassanā)法，
+- 3。 以了知之心、识(viññāṇa)为先、摄取名色而修观，即所谓心随观(cittānupassanā)法，
+- 4。 以触(phassa)为先、摄取名色而修观，即所谓法随观(dhammānupassanā)法、五蕴(khandha)法、十二处(āyatana)法、十八界(dhātu)法、缘起(paṭiccasamuppāda)法、谛之教说(sacca-desanā)法
+
+如此等等的法随观法----- 
+
+借由这种种方法，便可随自己的意愿而修观。
+如此多次反复修观之后，当你这位善人的观智(vipassanā-ñāṇa)变得锐利敏锐时，在现在(paccuppanna)-----
+
+- 1。 有时观色法的生起与坏灭，
+- 2。 有时观名法的生起与坏灭，
+- 3。 有时观色-名两者的生起与坏灭，
+
+请以观智观看而见到，并交替地架设三种特相(lakkhaṇa)之车而修观。
+请将存在于全部六行之中的名色，照名业处(nāmakammaṭṭhāna)部分诸表中所写呈现的那样，毫无遗漏地观尽。
+请于内(ajjhatta)、外(bahiddha)两种相续流(santāna)之中观。
+观外时，请从近处逐步扩展到远处，遍摄三十一界(bhūmi)而观。
+若有能力，请扩展至无量的轮围世界(cakkavāḷa)而观。
+请架设无常相(anicca-lakkhaṇa)而多次观，架设苦相(dukkha-lakkhaṇa)而多次观，架设无我相(anatta-lakkhaṇa)而多次观。
+当清清楚楚地知见名色的生灭抵达刹那现在(khaṇa-paccuppanna)、并获得心满意足时，从自己所摄取的一切历代过去世相续，直到现在，再从现在直到未来(anāgata)的尽头为止-----
+
+- 1。 纯色法，
+- 2。 纯名法，
+- 3。 将色-名两者配对，
+
+请以观智观看而见到那些名色的生灭，并交替地架设三种特相之车，持续不断地修观。
+请于内、外两种相续流之中观。
+能够多次反复地观，这一点极为重要。
+这正是一项摧破对过去蕴(khandha)、现在蕴、未来蕴所深深执取的渴爱之执(taṇhā)、慢执(māna)、见执(diṭṭhi)的大事业。
+
+**【文件：[267]行道智见清净释/[276] 威仪-正知观法.md】**
+
+### 威仪(iriyāpatha)－正知(sampajañña)观法
+
+在这一观(vipassanā)的部分，接着要讲述威仪观法与正知观法。在行走－站立－坐－躺卧－弯曲－伸展等威仪之时，以及正知之时，如何用智(ñāṇa)将五蕴(khandha)加以分别、摄取，已在色业处(rūpakammaṭṭhāna)部分与名业处(nāmakammaṭṭhāna)部分中写明。
+逐步地、成功地努力直到这生灭智(udayabbaya-ñāṇa)的你这位善人，也应当已经能够用智将那五蕴＝色法(rūpa)、名法(nāma)加以分别、摄取了。
+在此，接着讲述观照的方式。
+
+你这位善人，先在经行道的某处直立站好，确立定(samādhi)之后，先摄取诸色法。
+此后，接着摄取诸名法。
+此后，稍微走一走看看。
+
+- 1。 能运载的色法（＝威仪色(iriyāpatha-rūpa)），
+- 2。 被运载的色法（＝四（因）所起色(catusamuṭṭhānika-rūpa)） ----
+
+请摄取这些色法。
+在此，对身表(kāyaviññatti)、轻快性(lahutā)、柔软性(mudutā)、适业性(kammaññatā)、空界(ākāsadhātu)等假色不取为所缘(ārammaṇa)，而取真实色为所缘，并取那些色法生起后坏灭的自性为所缘，观为「无常(anicca)」。
+用智观看而见到那不断遭受生、灭的打击而被压迫、被折磨的自性，观为「苦(dukkha)」。
+用智观看而见到：那种不坏灭、作为坚硬凝结、坚固牢实之精髓而存续的「我(atta)」并不存在的自性，观为「无我(anatta)」。
+
+对纯色法修观而获得成功之后，对那作为令「经行（行走）」这一威仪生起之根本原因的意门速行心路(manodvārika-javana-vīthi)、即心相续中的诸名法聚，也同样地将三种特相(lakkhaṇa)之车逐一架设而修观。
+
+ālokite vilokite ＝ 在直视、斜视之处所摄取的五蕴、色法名法，也加以摄取，架设特相之车，同样地修观。
+
+同样地，在经行（行走）之时，随宜地缘取六所缘而生起的眼门心路(cakkhudvāra-vīthi)、意门心路(manodvāra-vīthi)，耳门心路(sotadvāra-vīthi)、意门心路，鼻门心路(ghānadvāra-vīthi)、意门心路，舌门心路(jivhādvāra-vīthi)、意门心路，身门心路(kāyadvāra-vīthi)、意门心路，意门心路 ----- 这些心路(vīthi)的诸名法聚，以及那些法聚所依的依处色(vatthu-rūpa)与所缘色，都加以摄取，并对那些色法、名法也将三种特相之车逐一架设而修观。
+在弯曲之时、伸展之时、持取钵与衣之时、进食之时、饮水之时等等，那种种与正知有关的时刻里，也将色－名加以摄取，同样地修观。
+
+- 1。 纯色，
+- 2。 纯名，
+- 3。 将色与名配对 ---
+
+将三种特相之车逐一架设而修观。
+在过去(atīta)－未来(anāgata)－现在(paccuppanna)这三时，以及内(ajjhatta)－外(bahiddha)这两种相续流(santāna)之中，架设特相之车而修观。
+也以五蕴法、十二入处(āyatana)法等等，继续修观。
+如此观照之时，当（观智）抵达刹那现在(khaṇa-paccuppanna)、见到五蕴＝色法名法的生灭，并获得心满意足时，由于无明(avijjā)、渴爱(taṇhā)、取(upādāna)、行(saṅkhāra)、业(kamma)等因法显现生起，果之色法名法便随之显现生起——用智观看而见到这种因－果相互关联的自性 -----
+
+- 1。 由于无明的生起而色生起 --- 如此等等，由于因法的显现生起，果
+法显现生起的情形，
+- 2。 由于无明的灭去而色灭去 -- 如此等等，由于因法的灭去，果法
+灭去的情形，
+- 3。 由于无明的生起而色生起，由于无明的灭去而色灭去 -- 如此等等，因
+法生起而果法生起的情形、以及因法灭去而果法灭去的情形，都用智观看而见到。
+- 4。 用智观看而见到因法、果法这两者的生起、坏灭的自性，并将三种特相之车逐一架设而修观。
+
+在三时、两种相续流之中观。
+有时也观不净(asubha)的自性。
+当把三种特相全部毫无遗漏地观尽之后，便可随自己的意愿，优先取某一种特相而修观。
+再者
+
+- （1） 依处(vatthu) - 生-灭-无常。 。 （2） 所缘 - 生-灭-无常。 。 （3） 受(vedanā) - 生-灭-无常。
+（受随观(vedanānupassanā)）
+- （1） 依处 - 生-灭-无常。 。 （2） 所缘 - 生-灭-无常。 。 （3） 识(viññāṇa) - 生-灭-无常。（心随观(cittānupassanā)）
+- （1） 依处 - 生-灭-无常。 。 （2） 所缘 - 生-灭-无常。 。 （3） 触(phassa) - 生-灭-无常。（法随观(dhammānupassanā)） ----- 如此等等，也可将三种特相逐一架设而修观。（解说请见坏灭随观智(bhaṅgānupassanā-ñāṇa)章 -293-294- 处。）
+
+如此，在全部四种威仪之中，用观智(vipassanā-ñāṇa)观看而见到诸行法(saṅkhāra-dhamma)的生起、坏灭，并将三种特相逐一架设、持续不断地修观，那么你这位善人的生灭随观智(udayabbayānupassanā-ñāṇa)之洞见，便会变得愈发锐利敏锐、愈发清净。
+如此变得锐利、清净而勇猛之时，若不再作意诸行法的生起，而只片面地作意纯粹的坏灭，那么你这位善人的观智便会不再见到诸行法的生起，而逐渐转向只片面地见到纯粹坏灭的坏灭智(bhaṅga-ñāṇa)。
+那时，你这位善人的生灭随观智便已抵达终点（圆满）了。
+
+**生灭智章 完。**
+
+**【文件：[278]坏灭随观智章/[278] 坏灭随观智章.md】**
+
+# 坏灭随观智(bhaṅgānupassanāñāṇa)章
+
+**【文件：[278]坏灭随观智章/[278]b 所谓坏灭随观智.md】**
+
+## 所谓坏灭随观智（bhaṅgānupassanāñāṇa）
+Tassevaṃ sallakkhetvā punappunaṃ “aniccaṃ dukkhamanattā”ti rūpārūpadhamme tulayato tīrayato taṃ ñāṇaṃ tikkhaṃ hutvā vahati, saṅkhārā lahuṃ upaṭṭhahanti, ñāṇe tikkhe vahante saṅkhāresu lahuṃ upaṭṭhahantesu uppādaṃ vā ṭhitiṃ vā pavattaṃ vā nimittaṃ vā na sampāpuṇāti.
+Khayavayabhedanirodheyeva sati santiṭṭhati.
+Tassa “evaṃ uppajjitvā evaṃ nāma saṅkhāragataṃ nirujjhatī”ti passato etasmiṃ ṭhāne bhaṅgānupassanaṃ nāma vipassanāñāṇaṃ uppajjati. (Visuddhi-2-277)
+
+如是，善加辨别忆持名色（nāmarūpa）法、行（saṅkhāra）诸法的无常（anicca）性状、苦（dukkha）性状、无我（anatta）性状，再三再四地以「无常、苦、无我」衡量、审察着色法、名法——那位瑜伽行者（yogāvacara）的那智便变得锐利敏锐而生起。
+诸行法借着生灭（udayabbaya）之力而迅速地显现出来。(Visuddhi-2-277)
+
+观智（vipassanāñāṇa）的锐利敏锐之状态，是由于修习（bhāvanā）被娴熟地修练的状态、被熟练地修练的状态、纯熟通达的状态＝由于成为熟练（paguṇa）而有的。
+那已成熟练的修习，也由于心绪没有散逸，犹如深入所观的行所缘（ārammaṇa）般持续不断地进行＝犹如把修习之心专注安住般地进行。
+因此，由于智的锐利敏锐之状态，便显示出诸行法迅速显现的状态。(Mahāṭī-2-439)
+
+当观智变得锐利而生起、当它担负起锐利的状态时，诸行法便在瑜伽行者的了知智中借着生灭之力迅速地显现出来——
+
+- 1. 生起（uppāda）＝生，亦即名为「生」的殊胜情状，
+- 2. 住（ṭhiti）＝住立，亦即名为「住」的老（jarā），
+- 3. 生命期间（pavatta）＝执取生命期间（upādinnakapavatta）之法，
+- 4. 相（nimitta）＝仅仅是诸行法的形体、团块、形状等的显现——
+
+观智不再到达。观智不再追及。
+
+- 1. 尽（khaya）＝灭尽的体性，
+- 2. 灭（vaya）＝坏灭的体性，
+- 3. 崩坏（bheda）＝崩散的体性，
+- 4. 灭（nirodha）＝刹那不停、连续不断地止息的体性——
+
+唯有在这名为尽、灭、崩坏、灭的刹那灭（khaṇikanirodha）＝就剎那（khaṇa）而言的止息坏灭之体性法上，念（sati）才善加安住。
+
+「归入行中的法的聚集，如是生起，又如此可厌地、簌簌地止息啊」——
+
+对于这样观照的那位瑜伽行者，由于舍弃生起、唯独作意坏灭，在此唯独再三再四地观照坏灭、坏（bhaṅga），名为坏灭随观（bhaṅgānupassanā）的观智便生起。(Visuddhi-2-277)
+
+当诸行法借着生灭之力迅速地显现出来时，所谓观见那些行法的生起＝生（udaya），也只是为了能够观见「具有生起体性的法会坏灭」这坏灭＝灭而已。
+若问为何要观坏灭——这是因为观见那坏灭的智，能够引生、生起对诸行法的厌倦，即厌离智（nibbidāñāṇa），故而观照。
+因此，唯独在诸行法的纯粹坏灭上，那位瑜伽行者善能承办作意＝行向（ābhoga）的作意、观修＝作意（manasikāra），便持续生起。
+因此，那位瑜伽行者的观智不到达生起、住、生命期间、相，智也追不上生起、住、生命期间、相。(Mahāṭī-2-439)
+
+**uppāda ----- uppāda**nti nibbattivikāraṃ. (Mahāṭī-2-439)
+
+此中，生起＝所谓「生」，是诸行法的生起，亦即名为「生」的那种殊胜情状。
+由于不作意诸行法的生起，唯独作意纯粹的坏灭，所以当智变得锐利时，便见不到生起。(Mahāṭī-2-439)
+
+**ṭhiti ----- ṭhiti**nti ṭhitippattaṃ, jaranti attho. (Mahāṭī-2-439)
+
+诸行法在生起之后、未到达坏灭之前那一短暂片刻的住立体性，称为「住」。
+意即老。
+由于瑜伽行者不再作意诸行法的那「住」体性，所以当善见诸行法纯粹坏灭的观智变得锐利时，瑜伽行者便也见不到那「住」体性了。
+
+**pavatta ----- pavatta**nti upādinnakappavattaṃ. (Mahāṭī-2-439)
+
+Ārammaṇakaraṇavasena taṇhādiṭṭhīhi upetena kammunā ādinnā phalabhāvena gahitāti **upādinnā,** ārammaṇabhāvaṃ upagantvā upādānasambandhena upādānānaṃ hitāti **upādāniyā,** upādānassa ārammaṇapaccayabhūtānametaṃ adhivacanaṃ.
+Upādinnā ca te upādāniyā cāti **upādinnupādāniyā,** sāsavakammanibbattānaṃ rūpārūpadhammānametaṃ adhivacanaṃ. (Abhi-ṭṭha-1-85)
+
+被渴爱与见（taṇhādiṭṭhi）以作所缘的方式所粘附的业，「这些法是我的果报诸法」如此被执取的诸法，即名为**执取的（upādinna）**。由于渴爱与见只能以世间的（lokiya）诸法为所缘，所以它们所缘取的业，便只是世间的善业（kusala kamma）与世间的不善业（akusala kamma）而已。
+因此，依「执取的」一语，应取世间的善业、不善业之果报的世间的果报（vipāka）心（citta）＋心所（cetasika）＝名法聚，以及业生色（kammajarūpa）。
+那世间果报名法聚与业生色的生起体性，在《无碍解道》注释（Paṭisaṃ-ṭṭha-2-166）中称为**果报生命期间（vipākapavatta）**。
+
+那果报名法聚与业生色在生-住-坏三剎那总体中所含摄的生起、生体性，已包含在前面所述编号（1）的**生起**一项之中。
+这「执取生命期间」所指的，乃是那果报名法聚与业生色之生起、生而已吗——
+并非如此。
+而是指由于被渴爱与见所粘附的业，果报色名生起这种因-果相联系的生起。
+瑜伽行者在先前生灭广观法中——
+
+- 由于无明（avijjā）生起，业生色生起。……（中略）。
+- 由于业生起，业生色生起。
+
+如是等等，借着无明、渴爱、取（upādāna）、行、业等因法，曾以观智观照各自相应的果报轮转（vipākavaṭṭa）果报诸法的生起，这正是从缘见生（paccayato udayadassana）。
+
+而在这坏灭智（bhaṅgañāṇa）阶段，瑜伽行者由于不再作意诸行法的生起，唯独作意、观修纯粹的坏灭，所以当达到观智的锐利敏锐、清净时，便见不到诸行法的生起，唯独见到纯粹的坏灭。
+这样观见时，由于也不再作意「因法生起故果法生起」，所以也见不到「因法生起故果法生起」，而唯独见到因、果二者纯粹的坏灭；因此也见不到「因法显著存在、生起故果法生起」＝执取生命期间，意即观智也不再到达那执取生命期间。
+也请接着阅读下面所示的解说。
+
+**pavatta**nti rūpārūpabhavapavatti. (Visuddhi-2-284)
+
+Pavattaṃ nāma kāmaṃ sabbā bhavapavatti, matthakappattāya pana bhaṅgānupassanāya sabbabhavesu abhiṇhasampaṭipīḷanassa suṭṭhutaraṃ upaṭṭhānato santasukhābhimatāpi bhavā dukkhasabhāvatāya bhayato upaṭṭhahantīti dassanatthaṃ “**pavattanti rūpārūpabhavapavattī**”ti ādi vuttaṃ. (Mahāṭī-2-447)
+
+所谓**生命期间**，即色有（rūpabhava）、无色有（arūpabhava）的生起。
+实际上，名为欲（kāma）、色、无色的一切有的所有生起，都名为生命期间。
+然而，由于到达顶峰的坏灭随观，使得一切有当中、生灭的打击或坏灭的打击不断地、再三再四地逼迫压榨之状，特别清楚地在瑜伽行者的智中显现出来，所以纵使是被假名为寂静安乐的色有、无色有，也因被生灭的打击或坏灭的打击不断地、再三再四地逼迫压榨、具有苦体性的状态，而以可怖之险＝畏惧（bhaya）的体性在瑜伽行者的智中显现出来。
+为了指示这样的义理，注释才说了「所谓生命期间，即色有、无色有的生起」等语。(Visuddhi-2-248; Mahāṭī-2-447)
+
+依照上述注释、疏钞（ṭīkā）的解说，**生命期间**即是一切名为欲、色、无色之有的生起，也称为果报生命期间。
+
+Upapattibhavo pana saṅkhepato kammābhinibbattā khandhā. (Visuddhi-2-206)
+
+依照此注释，所谓有（bhava），就法体而言，即是由含摄于果报轮转中的业所生起的果报名蕴（khandha）、果报色蕴。
+所谓有的生命期间（bhavapavatti），即是那些果报蕴由于业而生起。
+名为有的那些果报蕴在生-住-坏三剎那中所含摄的生起、显著生起，归入生起-住-生命期间-相四类中的「生起」一项，因此此处的有的生命期间＝有的生起，所指的也正是：由被无明、渴爱、取所围绕的行、业等因法，借着强依止（upanissaya）、异刹那业（nānākkhaṇikakamma）等因之力的资助，名为有的果报蕴的显著生起。
+唯独作意诸行法纯粹坏灭的瑜伽行者，当坏灭随观智变得锐利时，便唯独见到因法、果法二者的坏灭。
+由于不作意生起，便也见不到生起。
+由于不作意「因法生起故果法生起的情形」，便也见不到「因法显著生起故果法显著生起的情形」。
+因此，那位瑜伽行者的观智便也不到达生命期间。
+以智也追不上生命期间。
+
+**nimitta ---- nimitta**nti saṅkhāranimittaṃ.
+Yaṃ saṅkhārānaṃ samūhādighanavasena, sakiccaparicchedatāya ca saviggahānaṃ viya upaṭṭhānaṃ, taṃ saṅkhāranimittaṃ. (Mahāṭī-2-439)
+
+所谓相，即行相（saṅkhāranimitta）。
+唯独观照诸行法坏灭的瑜伽行者，当坏灭随观智变得锐利敏锐、变得清净时，色法的组合密集（samūhaghana）、作用密集（kiccaghana），名法的组合密集、作用密集、所缘密集（ārammaṇaghana），即所谓色密集、名密集＝色团块、名团块，便都崩散瓦解了。
+（相续密集（santatighana）早先便已崩散了。）
+在作为前面诸智的行分别智（saṅkhārapariccheda ñāṇa）＝名色分别智（nāmarūpapariccheda ñāṇa）阶段开始、直到生灭智为止的诸观智之内，于能观照到的色聚（rūpakalāpa）、名聚（nāmakalāpa）中，各种密集会崩散；而于未观照到、不能观照到的色聚、名聚中，各种密集则未崩散而存留。
+对于未观照到的色聚、名聚，仍会照原样见到。
+于已观照到、能观照到的色聚、名聚中，各种密集崩散，智见便契入究竟法（paramattha）。
+其原因——在声闻波罗蜜智（sāvakapāramī ñāṇa）的层次上，于内（ajjhatta）、外（bahiddha）二处，不能将色聚、名聚观照穷尽，只能观照一部分、一小分而已之故。
+然而，当这坏灭随观智成熟时，瑜伽行者便见不到色聚、名聚等任何形状、实质了。
+唯独见到纯粹的色体性法、纯粹的名体性法。
+各种密集都在崩散。
+名为色团块、名团块的诸行相，都消失隐没了。
+
+此中，所谓行相，即是诸行法借着组合密集、作用密集、所缘密集之力，以及由于各自的作用具有界限的状态，犹如具有形体实质般地在瑜伽行者的智中显现。(Mahāṭī-2-439)
+
+坏灭随观智也不再到达那行相。
+
+在这坏灭随观智阶段，于瑜伽行者的智中，色法的相续密集、组合密集、作用密集，名法的相续密集、组合密集、作用密集、所缘密集，即各种密集，都已崩散瓦解。
+而在生灭智阶段，瑜伽行者已经见到诸行法的生起端、坏灭端，所以相续密集已经崩散。
+因此，在这坏灭智阶段，只是再次解说组合密集、作用密集、所缘密集的崩散而已。
+在未到达这坏灭智阶段之前，所谓在瑜伽行者的智中犹如具有形体实质般地显现者，就只是色聚、名聚而已。
+此处便把那些色聚、名聚称为行相。
+意即坏灭随观智也不再到达那行相。
+
+此处有少许例外。
+有些瑜伽行者，将色法、名法、因法、果法长年累月、积年累岁地收摄修习之后，由于诸智逐渐成熟，纵使尚未把诸行法置于特相（lakkhaṇa）之轨上而修观，也会有时找不到色聚、名聚，而智唯独契入纯粹的色究竟法、名究竟法体性中安住的情形。
+这只是偶尔发生的少许例外而已。
+
+如是，由于智不分别取那些**生起、住、生命期间、相**，所以当智不再落入、不再触及那些生起、住、生命期间、相时，那么智究竟触及于何处呢——答曰：智落于**尽、灭、崩坏、灭**，而念善加安住。
+
+**灭**一词宣说生起灭（uppādanirodha）、不生灭尽（anuppādanirodha）两种。
+日后还有生起的止息，即是生起灭。
+日后不再生起的止息、没有生起的止息，即是不生灭尽。
+由于在那不生灭尽当中「灭」一词的意义也显现，所以为了让人在此知道是「生起灭」，便用「崩坏」一词加以限定而解说。
+
+由于「**崩坏**」一词也有宣说特征（visesa）的「崩坏」一词，所以为了让人知道此处「崩坏」一词并非宣说特征之义，而是宣说崩散坏灭、灭尽枯竭的「尽」之义，便又用「尽」一词加以限定而解说。
+因此，此处所要表达的意思如下。——
+Khaya-vaya-bhedasaṅkhāte khaṇikanirodheti attho. (Mahāṭī-2-439)
+
+瑜伽行者的坏灭随观智，唯独在名为诸行法之灭尽、坏灭、崩散的刹那灭＝就剎那而言的止息坏灭上善加安住。
+同样地，意指与那坏灭随观智相应的念，也唯独在名为诸行法之灭尽、坏灭、崩散的刹那灭＝就剎那而言的止息坏灭体性法上善加安住。
+
+**sati santiṭṭhatī**ti satisīsena ñāṇamāha. (Mahāṭī-2-439)
+
+在「念于诸行法的尽、灭、崩坏、灭体性中善加安住」这句话中，以念为首，所要表达的其实是观智。
+因此应当记住：以念为首的观智，唯独在名为诸行法的尽＝灭尽、灭＝坏灭、崩坏＝崩散的刹那灭＝就剎那而言的止息坏灭体性法上善加安住。
+
+**【文件：[278]坏灭随观智章/[283] 所谓灭尽.md】**
+
+### 所谓灭尽
+
+结合直到此坏灭智（bhaṅgañāṇa）为止所撰写陈述的一系列话语与法的脉络，在此对灭尽的相关内容略作阐明。
+在观（vipassanā）的范畴中，灭尽有两种。
+
+- 1. 生起灭（uppādanirodha）＝将来仍有机会再生起的灭法，
+- 2. 不生灭尽（anuppādanirodha）＝将来不再有机会生起的灭法 ---
+
+如是，灭的样态有两种。
+在诸观智的末端将会生起的道智（maggañāṇa）、果智（phalañāṇa）之所缘——无为界（asaṅkhatadhātu）、寂静界、涅槃（nibbāna），即是究竟灭尽（accantanirodha）＝其实就是作为苦（dukkha）、集（samudaya）止灭之处、止灭之因的灭谛（nirodhasacca）法。此处并不是要说那究竟灭尽。
+在此只想陈述生起灭与不生灭尽的相关内容。
+
+诸行（saṅkhāra）法不断地灭尽、坏灭、崩落＝名为尽（khaya）、灭（vaya）、崩坏（bheda）的刹那灭（khaṇikanirodha）＝刹那不停、簌簌不断地止息坏灭的体性，正是生起灭。
+只要诸因法尚未穷尽，整段期间便会一直以这种方式灭坏下去。只要因尚未穷尽，便仍有机会生起同类的色、名，这正是那样的灭。
+
+由于阿拉汉道（arahattamagga），无明（avijjā）、渴爱（taṇhā）、取（upādāna）、行、业（kamma）以名为「将来不再生起的灭」的不生灭尽体性而止息灭尽，因此，在般涅槃死（parinibbānacuti）之后原本仍有机会生起的一切色名蕴（khandha），也以「将来不再生起的灭」而止息灭尽，这正是不生灭尽。
+为了能见到因法止息故果法止息的情形而修观，这名为从缘见灭（paccayato vayadassana），属于生灭智（udayabbayañāṇa）的部分。
+而生起灭则与观的一切阶段都相关。
+
+在观的范畴里，就只有那生起灭与不生灭尽这两种。
+这与当今时代所谈论的所谓色灭、名灭的灭法、灭的样态，似乎有诸多出入。
+再者，所谓「受（vedanā）已尽了、受已不复存在了、受已灭尽了」这类话语，也只是依教理（pariyatti）准绳、行道（paṭipatti）准绳都无法成立的话语罢了。
+
+对于那说「受已灭去」的人，若问他：「觉知之心、识（viññāṇa）还在吗？」他往往会回答：「还在。」
+意即：觉知之心还在，而受已经不复存在、已经灭去了。
+可是在正自觉者佛陀（sammāsambuddha）的教理法中，受是与一切心（citta）都相应的遍一切心心所（sabbacittasādhāraṇa cetasika）。
+因此，只要觉知之心、识还在，受就必定还在。
+那受，或是乐受（sukhavedanā），或是苦受（dukkhavedanā），又或是舍受（upekkhāvedanā）。
+至于不与受相应的觉知之心、识，在佛陀的教理法中是不存在的。
+
+再者，对那说「受已止息灭去」的人，若反问他：「你已能以智把安住于六门（dvāra）、四十二身分（koṭṭhāsa）中的诸究竟法（paramattha）分别取＝收摄、能加以修观了吗？」他又往往回答：还不会观。
+有些人则又往往回答说：所谓二十八种色（rūpa），只是一切知正自觉者佛陀（sabbaññū sammāsambuddha）们的境界，并非声闻（sāvaka）弟子们的境界。
+再者，对那正在以观观照受的善男子，若问他：「当你以观观照受时，对于那些随心路（vīthi）次第而生起、与受相应（sampayutta）俱起的诸法，你是否也能在各个心剎那（cittakkhaṇa）中、以及在脱离心路的离路心（vīthimutta）中，都以智分别取、收摄、以观观照呢？」他也往往回答：不会观。
+他又往往回答说：那些名法，唯有一切知正自觉者佛陀们才观得到、才能取得。
+而在佛陀的修行行道（paṭipatti）法中，将要以观观照受的瑜伽行者（yogāvacara），在观照受之前——
+
+- 1. 必须已先以智把色业处（rūpakammaṭṭhāna）＝色法分别取＝收摄完毕。
+- 2. 不是只观照受这一种而已，而是必须把与受相应俱起的诸法全部收摄、加以观照。
+
+如此等等地规定了修行行道。（请回头参看名业处（nāmakammaṭṭhāna）部分。）
+因此，所谓「受已尽了、受已不复存在了、受已灭去了」这类话语，都只是依一切知正自觉者佛陀的教理准绳、行道准绳都无法成立的话语罢了。
+
+**【文件：[278]坏灭随观智章/[284] 坏灭随观智所观的究竟法.md】**
+
+### 坏灭随观智（bhaṅgānupassanāñāṇa）所观的诸究竟法（paramattha）
+
+Kathaṃ ārammaṇapaṭisaṅkhā bhaṅgānupassane paññā vipassane ñāṇaṃ, rūpārammaṇatā cittaṃ uppajjitvā bhijjati, taṃ ārammaṇaṃ paṭisaṅkhā tassa cittassa bhaṅgaṃ anupassati.
+**Anupassatī**ti kathaṃ anupassati, aniccato anupassati no niccato, dukkhato anupassati no sukhato, anattato anupassati no attato, nibbindati no nandati, virajjati no rajjati, nirodheti no samudeti, paṭinissajjati no ādiyati.
+
+Aniccato anupassanto niccasaññaṃ pajahati, dukkhato anupassanto sukhasaññaṃ, anattato anupassanto attasaññaṃ, nibbindanto nandiṃ, virajjanto rāgaṃ, nirodhento samudayaṃ, paṭinissajjanto ādānaṃ pajahati.
+
+Vedanārammaṇatā…pa… saññārammaṇatā. Saṅkhārārammaṇatā. Viññāṇārammaṇatā. Cakkhārammaṇatā…pa… jarāmaraṇārammaṇatā cittaṃ uppajjitvā bhijjati…pa… paṭinissajjanto ādānaṃ pajahati. (Paṭisaṃ 55. Visuddhi 2, 277-278.)
+
+通过对所缘（ārammaṇa）的灭尽、坏灭之力加以思惟，从而能观见坏灭的慧，为何称为观智（vipassanāñāṇa）呢？
+
+当以色法（rūpa）的灭尽、坏灭作为所缘而存在时，修观之心生起后即坏灭；对那名为色法的所缘，依其灭尽、坏灭而加以思惟＝（以智见之），便一再地观照那心的坏灭。
+
+在所谓「一再地观照」处，是如何一再地观照呢？依无常（anicca）而一再地观照，不依常（nicca）而观。
+依苦（dukkha）而一再地观照，不依乐（sukha）而观。依无我（anatta）而一再地观照，不依我（atta）而观。厌离，不喜乐。
+远离贪着，并非贪着。令止灭，不令生起。舍遣，不执取。
+
+依无常而一再地观照时，便舍断名为「常」的想（saññā）；依苦而一再地观照时，便舍断名为「乐」的想；依无我而一再地观照时，便舍断名为「我」的想；厌离时，便舍断喜爱；远离贪着时，便舍断能令人贪着的染污的感官之乐（kāmarāga）与有上的爱染（bhavarāga）；令其止灭时，便舍断名为「生起」的集（samudaya）；再度舍遣时，便舍断执着＝执取（ādāna）。
+
+- 当受（vedanā）的灭尽、坏灭作为所缘而存在时。……（中略）
+- 当想的灭尽、坏灭作为所缘而存在时。
+- 当行（saṅkhāra）的灭尽、坏灭作为所缘而存在时。
+- 当识（viññāṇa）的灭尽、坏灭作为所缘而存在时。
+
+当眼净色（cakkhupasāda）＝眼处（cakkhāyatana）的灭尽、坏灭时。……（中略）
+当老死（jarāmaraṇa）作为所缘而存在时，修观之心生起后即坏灭；对那所缘加以思惟，便一再地观照那心的坏灭。……（中略）（Paṭisaṃ 55）
+
+依照上述《无碍解道》（Paṭisambhidāmagga）巴利圣典，坏灭随观智所观的诸究竟法体，即是五蕴（khandha）、十二入处（āyatana）、十八界（dhātu）、作为观智所观的诸世间根（lokiya indriya）、乃至到达「有」（bhava）为止的诸缘起支（paṭiccasamuppāda）。
+在那些缘起支当中，于此坏灭智（bhaṅgañāṇa）阶段，生（jāti）－老（jarā）－死（maraṇa）也都包含在内。
+生－老－死的法体，正是由名为转起有（upapattibhava）的业（kamma）所生起的五取蕴（upādānakkhandhā）。
+
+那五取蕴的生起情状即「生起」（uppāda）称为生，安住情状即「住」（ṭhiti）称为老，坏灭情状即「坏灭」（bhaṅga）称为死。
+那些取蕴正在生起的当下被称为生，所以对那正在生起的当下，便不需要再去观照其坏灭。
+正在安住的当下被称为老，所以对那正在安住的当下，也不需要再去观照其坏灭。
+正在坏灭的当下被称为死，所以对那死，也不需要再去观照其坏灭。
+唯有对名为生－老－死的五取蕴，才应当观照其坏灭。
+然而，以生－老－死，或以生、以老、以死作为所缘而生起的观速行心（vipassanājavanacitta）＝观速行心路过程的相续，则可以再去观照其坏灭，可以再作观照。
+
+**【文件：[278]坏灭随观智章/[285] 应铭记的纲要.md】**
+
+### 应铭记的纲要
+
+瑜伽行者（yogāvacara）以观智（vipassanāñāṇa）思惟、观照那些蕴（khandhā）、入处（āyatana）、界（dhātu）、缘起（paṭiccasamuppāda）等自性法时，便以观智知见到那些行（saṅkhāra）法的灭尽、坏灭，即尽－灭（khaya-vaya）之自性。
+对于那以如此知见的观智为主导的、观（vipassanā）之速行心路（javanavīthi）的心相续名法聚，也应当观见该名法聚的坏灭，使之显现，再一次进行观照。
+因此，应当简要铭记之处如下。-----
+
+Ñātañca ñāṇañca ubhopi vipassati. (Visuddhi 2, 278.)
+
+**Ñāta**nti ārammaṇamāha anupassanāvasena ñātattā. **Ñāṇa**nti anupassanāñāṇaṃ. **Ubhopi** **vipassatī**ti tadubhayampi khayato vayato vipassatīti. Ayaṃ hettha saṅkhepattho ---- rūpassa yāva jarāmaraṇassa khayato vayato dassanaṃ ārammaṇapaṭisaṅkhātaṃ, dassanakañāṇassa khayato vayato dassanaṃ ārammaṇapaṭisaṅkhāya bhaṅgassa anupassananti ubhayatthapaññā. Purimaṃ vā tadabhāve abhāvato pacchimāyaṃ pakkhipitvā pacchimā eva paññā vipassane ñāṇanti. (Mahāṭī 2, 440.)
+
+**所知（ñāta）** ----- 是指：从色蕴（rūpakkhandhā）起，直到老－死（jarāmaraṇa）为止的五蕴＝十二入处＝十八界，以及名为十二支缘起支（paṭiccasamuppādaṅga）的、作为观智所观对象的诸所缘（ārammaṇa）法。
+若依谛的教说（saccadesanā）之法门来说，它们正是苦圣谛（dukkhasacca）法聚与苦因圣谛（samudayasacca）法聚。
+由于这些是凭随观智（anupassanāñāṇa）＝观智之力所应知的诸法，所以那些法聚便获得了「所知」（ñāta）这一名称。
+
+**智（ñāṇa）** ----- 是指：对那些获得「所知」之名的法聚，一次又一次、反反复复地修观的随观智。
+瑜伽行者对那两种都名为**所知－智（ñāta-ñāṇa）**的法，都应以智观见这两者法聚会灭尽、会坏灭之自性，使之显现，并将之安立于特相（lakkhaṇa）之轨而修观＝应当修观——当如是了知。
+
+确实如此 ----- 接下来要说的，就是此处简要的意趣含义。
+对于从色蕴起、直到老死为止的法聚，以智观见该法聚会灭尽、会坏灭之自性，使之显现，并将「无常」（anicca）、「苦」（dukkha）、「无我」（anatta）之特相之轨一一轮番安立而能观照的观智，便称为**所缘审察智（ārammaṇapaṭisaṅkhāñāṇa）**。
+对那所缘审察智本身，又再一次地，以智观见该智会灭尽、会坏灭之自性，使之显现，并将「无常」、「苦」、「无我」三种特相之轨一一轮番安立，再度修观＝应当修观。
+如此，以前一个名为**所缘审察**的观智的坏灭＝坏灭（bhaṅga）作为所缘，再一次地进行修观的后一个观智，便称为**坏灭随观智慧（bhaṅgānupassanāñāṇapaññā）**。
+
+另一种说法 ----- **所缘审察智**是前一个观智。
+**坏灭随观智**是后一个观智。
+前一个**所缘审察智**若不存在，后一个**坏灭随观智**便无从生起；又由于依「特相引导」（lakkhaṇāhāranetti）之法门，二者都同样具有唯独观照诸行法之坏灭的相同自性相，所以将前一个所缘审察智纳入后一个坏灭随观智之中，于《无碍解道》（paṭisambhidāmagga）巴利圣典中开示道：唯有后一个坏灭随观智才称为观智。(Mahāṭī 2, 440.)
+
+**【文件：[278]坏灭随观智章/[286] 三种特相.md】**
+
+### 三种特相(lakkhaṇa)
+
+aniccaṃ khayaṭṭhena. dukkhaṃ bhayaṭṭhena. anattā asārakaṭṭhena. (Visuddhi 2, 245; Abhidhammatthasaṅgaha 159)
+
+依照上述巴利圣典、义注、复注，你这贤善者应当对名为所知智(ñāta-ñāṇa)的行(saṅkhāra)诸法立起三种特相，而修观(vipassanā)了。
+
+- 1. 以观智(vipassanā ñāṇa)看见那些行法不断耗尽、坏灭、崩塌、消逝的状态，而[观]为无常(anicca)；
+- 2. 以观智看见那些行法因不断耗尽、坏灭、崩塌、消逝而值得畏惧的状态，而[观]为苦(dukkha)；
+- 3. 以观智看见那些行法之中并不存在一个不坏灭、如硬块凝结、坚固、以精髓本质而住立的『我(atta)』那样的状态，而[观]为无我(anatta)——如此各别地修观吧。
+
+**【文件：[278]坏灭随观智章/[287]a 所谓观心.md】**
+
+### 所谓观心
+
+**Citta**nti c'ettha sasampayuttacittaṃ adhippetaṃ. (Paṭisaṃ-ṭṭha-1-239.)
+
+在此观(vipassanā)之事上，所谓能观的观心，仅指与相应(sampayutta)俱行的诸心所(cetasika)一同的观心。
+在那与相应俱行的诸法一同的观心中，智(ñāṇa)居于主导地位；因此，在所知(ñāta)、智这两类中，依「主导法(padhāna naya)」，把那以智为主导的、与相应俱行诸法一同的观心，称为「智」。
+依照这些解释，当说「观心、观智(vipassanā ñāṇa)＝能观之心、能观之智」时，应铭记：所指的乃是与相应俱行诸法一同的全部观之名法聚。
+这些名法聚，对于尚停留在凡夫(puthujjana)阶段的你这位善男子而言，只是大善(mahākusala)意门(manodvārika)观速行(javana)名法聚。
+因此，若想以观观照智法，就请观照那以观智为主导的、大善意门速行心路(vīthi)名法聚。
+在此坏灭智(bhaṅga ñāṇa)阶段，一般而言彼所缘(tadārammaṇa)不会落下。
+大多以意门转向(manodvārāvajjana)1次、速行7次的方式生起。
+速行中可有「含喜(pīti)—不含喜＝相应—不相应」两种。
+喜相应、智相应时，每个各有名法34个。
+喜不相应、仅智相应时，每个各有名法33个。
+
+**【文件：[278]坏灭随观智章/[287]b 观照格式的样式.md】**
+
+### 观照格式的样式
+
+当那位对诸行法(saṅkhāra)安立特相(lakkhaṇa)、一再反复修观审察的善男子，其种种观智(vipassanā)变得锐利、犀利、清净时，与那些承接了前前观修(bhāvanā)之智以强大所依的强依止(upanissaya)之力所赋予的助益、威势与殊胜大力的后后观智相应的念(sati)，便会善妙地安住于诸行法的尽、坏、崩、灭之自性上。
+那时 -----
+
+- 1. 取那些诸行法的尽、坏、崩、灭之自性为所缘(ārammaṇa) = 以智(ñāṇa)观看令见，作「无常(anicca)、无常」而观照。
+- 2. 取那些诸行法不断地尽、坏、崩、消失、灭故而值得怖畏的意趣自性为所缘 = 以智观看令见，作「苦(dukkha)、苦」而观照。
+- 3. 取那些诸行法并非「不坏灭而以凝块、坚固、实质安住的坚固实质之我(attā)」的自性为所缘 = 以智观看令见，作「无我(anatta)、无我」而观照。
+
+如同名业处(nāmakammaṭṭhāna)诸节图表中所书写呈现的那样，于内(ajjhatta)、外(bahiddha)相续两者中——
+
+- 1. 有时取纯粹的色(rūpa)，
+- 2. 有时取纯粹的名(nāma)，
+- 3. 有时取色—名两者 ----
+
+轮流安立三种特相，一再反复地修观。
+这正是应当观照的部分：有时取内、有时取外、有时取色法、有时取名法，有时安立无常相(anicca lakkhaṇa)、有时安立苦相(dukkha lakkhaṇa)、有时安立无我相(anatta lakkhaṇa)而观照。
+如此观照时，于外尽可能地扩大延展而观。
+于过去、未来的诸蕴(khandha)中也同样地修观。
+如此观照时，尽自己所能把握，从过去的接连不断处直到现在、从现在直到未来的终尽处，穿透深入 -----
+
+- 1. 无论是纯粹的色，
+- 2. 还是纯粹的名，
+- 3. 还是色—名两者 ---
+
+轮流安立三种特相，大力而持续地修观。
+有时取内、有时取外、有时取色法、有时取名法而观。
+把那些色—名分成五份，以五蕴法也同样地修观。
+
+**应注意** ---- 如此轮流安立三种特相之车而修观时，诸行法的坏灭自性无论多快都任它快；而安立「无常」、或「苦」、或「无我」之相进行修观，则要稍微缓慢些。
+众多心路(vīthi)的、或众多心剎那(cittakkhaṇa)的坏灭自性，想见就任它见，也要努力使之见到。
+对于数以俱胝(koṭi)计的众多名法聚＝心剎那的坏灭，在极短的时间内，尽你所能努力去见到。
+但是，并非要对所能见到的每一心剎那的每一次坏灭，都安立「无常」之特相之车去逐一追着观照。
+而是取众多心剎那的坏灭为所缘，作「无常、无常」如此等等，只稍缓慢地安立特相之车而修观。
+于色法中也应以同样的方法记取。
+对于苦、无我也以同样的方法观照。
+
+**【文件：[278]坏灭随观智章/[288] 坏灭智的一块试金石.md】**
+
+### 坏灭智(bhaṅgañāṇa)的一块试金石
+
+瑜伽行者(yogāvacara)从见清净(diṭṭhivisuddhi)章的名色分别智(nāmarūpaparicchedañāṇa)章开始，便以智(ñāṇa)将色法、名法那名为色密集(rūpaghana)、名密集(nāmaghana)的色团块、色块加以分解、破坏令其崩散，如此一路修观而来，如今已到达坏灭智的部分了。
+在尚未到达坏灭智之前的各个部分中，则是 -----
+
+- 1. 也还能见到作为因的色名行(saṅkhāra)与作为果的色名行其生起(uppāda)的自性。
+- 2. 也还能见到那些诸行法借由剎那间隔而有的住即老(jarā)自性＝住(ṭhiti)自性。
+- 3. 也还能见到「因法显著生起故果报蕴(vipākakhandhā)显著生起」这名为执取生命期间(upādinnakapavatti)＝有的生命期间(bhavapavatti)＝有(bhava)之生起的种种自性法。
+- 4. 虽然以智将色密集、名密集分解、破坏，修观以使智见抵达究竟法(paramattha)，但有时仍会有一些未观照到、不能观照到的色聚(rūpakalāpa)、名聚(nāmakalāpa)存在着；这正是因为色聚、名聚极其众多、极其迅速地生起之故。在那些未观照到、不能观照到的色聚、名聚中，组合密集(samūhaghana)、作用密集(kiccaghana)等密集(ghana)＝团块尚未崩散，因而仍会被见为可称作最小团块的色聚、名聚的模样。
+
+然而，当到达这坏灭智的部分时，由于观智(vipassanāñāṇa)变得极为锐利、犀利、清净，诸行法便在那位瑜伽行者的智中极其迅速地显现出来。
+
+然而在此处，我不愿你这位善男子产生错误的看法。
+请注意，这并不是说诸行法是到现在才迅速地生起的。
+诸行法乃是即使在一眨眼、一闪电之间，也能生起、坏灭达数以俱胝(koṭi)计次数的法。
+在观智尚未锐利、尚未犀利之前，并不知道、见不到那些诸行法如此生灭的本来真实自性；只有到达如今的坏灭智部分，由于种种观智也变得锐利犀利，才得以知道、见到诸行法如此的本来真实自性——所要表达的仅此而已。
+由于观智变得极为锐利、犀利、清净，当诸行法在那位瑜伽行者的智中极其迅速地显现出来时 -----
+
+- 1. 也无法以智追上而抵达诸行法的生起自性。
+- 2. 也无法以智追上而抵达诸行法的住＝住自性＝老自性。
+- 3. 也无法以智追上而抵达「由于无明(avijjā)、渴爱(taṇhā)、取(upādāna)、行、业(kamma)等因法显著生起＝显著存在故，果报蕴显著生起」这名为有的生命期间＝有之生起的自性。
+
+若问为何？----- na sampāpuṇāti aggahaṇato.（Mahāṭī-2-439）
+这是因为瑜伽行者不以智分别取那些诸行法的生起、住、生命期间(pavatta)、相(nimitta)，不作意(manasikāra)，而唯独作意那些诸行法纯粹的坏灭之故。
+由于如此片面地唯独作意诸行法纯粹的坏灭，当唯独见到诸行法纯粹的坏灭时，观智便再也无法契入作为因的行、作为果的行其生起即生起自性、住即住自性，而唯独契入那些因—果诸行法刹那不停、簌簌不断地灭尽、坏灭、崩坏、消失的、名为刹那灭(khaṇikanirodha)的止息坏灭自性，并善加安住。
+由于观智无法契入「因法显著生起、果法显著生起」这一生起自性，因此观智也再无法契入「因法显著生起故果法显著生起」这名为执取生命期间的自性。
+
+4. 再者，在这坏灭智的部分，由于瑜伽行者的观智变得极为锐利、犀利，他也不再见到那些组合密集、作用密集尚未崩散的色团块、色块了。
+此处所谓组合密集、作用密集尚未崩散的色团块、色块，正是色聚。
+在这个部分，那些仿佛具有名为「有形体(saviggaha)」之物体、形状、实质般的团块，正是色聚。
+由于那些仿佛具有名为「有形体」之物体、形状、实质般、作为最小团块的色聚，以及名聚，乃是令人了知其为诸行法的标记，因此称为行相(saṅkhāranimitta)；而观智也不再见到那些行相了。
+原因在于，他唯独见到那已抵达刹那灭——即不断地灭尽、坏灭、崩坏、消失、止息——的纯粹色究竟法(rūpaparamattha)之故。
+虽然以观智见不到名为色聚、名聚的团块，但与从前的各部分不同，在这坏灭智的部分，却能极其清晰、极其显著地见到色究竟法体性与名究竟法体性。
+
+在这坏灭智的部分，瑜伽行者由于不作意上文所述的生起—住—生命期间—相，故而以观智追随却追不上——依据这一说法，也请注意并记取这一点：若作意那些生起—住—生命期间—相，则以观智追随仍能追得上。
+
+当片面地唯独作意三时、二相续(santāna)中存在的诸行法纯粹的坏灭而修观，唯独清晰地见到纯粹的坏灭、不再见到色聚，而智见唯独抵达纯粹色究竟法、纯粹名究竟法时，也要对那以正在观照的坏灭随观智(bhaṅgānupassanāñāṇa)为主导引领的大善(mahākusala)观意门(manodvārika)速行心路(javanavīthi)心相续，再一次重新安立特相之车而修观。
+
+- 1. 观色 ----- 色 - 坏灭 - 无常(anicca)，能观之智也 坏灭 - 无常。
+- 2. 观名 ---- 名 - 坏灭 - 无常，能观之智也 - 坏灭 - 无常。
+- 3. 观色-名 ----- 色-名 - 坏灭 - 无常，能观之智也 - 坏灭 - 无常。
+- 4. 观因 ----- 因法 - 坏灭 - 无常，能观之智也 - 坏灭 - 无常。
+- 5. 观果 ---- 果法 - 坏灭 - 无常，能观之智也 - 坏灭 - 无常。（苦(dukkha)-无我(anatta)也以同样的方法观照。）
+
+在观照上述的观照格目时，要如名业处(nāmakammaṭṭhāna)诸节图表中所呈现的那样，把全部(6)行无余地观照完。
+于内(ajjhatta)、外(bahiddha)相续两者中观照。
+于过去(atīta)、未来(anāgata)、现在(paccuppanna)三时中，也同样地观照。
+在这个部分，并非只是对取色法为所缘(ārammaṇa)而生起、正在以观观照色法的观智＝以观智为主导的大善观意门速行心路名法聚再一次重新修观；而是对取名法为所缘而生起＝正在以观观照名法的观智＝以观智为主导的大善观意门速行心路名法聚，也要再一次重新修观才行。
+请再次注意上文所书写呈现的《无碍解道(Paṭisambhidāmagga)》圣典中 ----- 指示要对那取五蕴、十二入处(āyatana)、十八界(dhātu)、世间(lokiya)诸根(indriya)法、十二支缘起(paṭiccasamuppāda)为所缘而正在修观的智，再一次重新修观这一点。
+
+在这个部分，也取缘起诸支纯粹的坏灭为所缘，安立三种特相
+之车而修观。如此观照时，于内、外二相续、过去、未来、现在三时的全部之中，
+尽自己所把握的，从接连不断的过去直到未来的终尽处而观照。
+但是 ----- 不要取「由于无明生起故行如此生起」等因—果关联的自性为所缘。
+
+- 1. 无明 - 坏灭 - 无常。能观之智也 坏灭 - 无常。
+- 2. 行 - 坏灭 - 无常。能观之智也 坏灭 - 无常。
+
+如此等等，片面地作意那些各支纯粹的坏灭而修观。
+如此观照时，瑜伽行者从早先的缘起部分起便已知道：在哪一生中曾生起、正生起、将生起何种的无明、渴爱、取、行、业。就照那样观照。
+
+在这坏灭智的部分，诸行法中的生起虽确实显著存在，却不作意其生起，而唯独作意纯粹的坏灭，这是为什么呢？----- 答曰：这是为了能够获得对诸行法生厌、厌恶、嫌恶的厌离随观智(nibbidānupassanāñāṇa)等更上更上的种种观智，为了使种种观智一分胜过一分地逐渐成熟，并且唯有如此成熟的种种观智才能以强大的所依即强依止(upanissaya)之力对道智(maggañāṇa)、果智(phalañāṇa)有所助益，从而为了获得道智、果智，才唯独取诸行法纯粹的坏灭为所缘而修观。
+
+**【文件：[278]坏灭随观智章/[291] 四念处 = 四随观.md】**
+
+### 四念处（satipaṭṭhāna）＝四随观（anupassanā）
+
+在坏灭智（bhaṅgañāṇa）这一部分中，贤善者也可以通过身（kāya）、受（vedanā）、心（citta）、法（dhamma）等各种随观方法，随贤善者自己的喜好来修观（vipassanā）。
+
+- 1．以色法（rūpa）为先而摄取名色（nāmarūpa），取这些名色的坏灭（bhaṅga）为所缘而修观；再把这能观的观智也接着用后随的观智来观，则归入**身随观念处（kāyānupassanā satipaṭṭhāna）**。
+- 2．以受（vedanā）为先而摄取名色，取这些名色的坏灭为所缘而修观；再把这能观的观智也接着用后随的观智来观，则归入**受随观念处（vedanānupassanā satipaṭṭhāna）**。
+- 3．以了知之心、识（viññāṇa）为先而摄取名色，取这些名色的坏灭为所缘而修观；再把这能观的观智也接着用后随的观智来观，则归入**心随观念处（cittānupassanā satipaṭṭhāna）**。
+- 4．以触（phassa）为先而摄取名色，取这些名色的坏灭为所缘而修观；再把这能观的观智也接着用后随的观智来观，则归入**法随观念处（dhammānupassanā satipaṭṭhāna）**。若通过五蕴（khandha）法、十二入处（āyatana）法等来修习、省察观，再把这能观的观智也接着用后随的观智来修习、省察观，则同样归入**法随观念处**。
+
+当以名色二法、五蕴法、缘起（paṭiccasamuppāda）法在现在世修观、获得满足时，对于从历世的过去直到未来终了的三时之内所存在的行法（saṅkhāra），也要同样地以名色二法、五蕴法、缘起法继续修观。
+有时也要把正在观的观智，接着用后随的观智再观。
+
+在《无碍解道（Paṭisambhidā magga）》巴利圣典第（55）页中，提出并宣说坏灭随观智（bhaṅgānupassanā ñāṇa）所观的所缘——究竟法（paramattha）的元素时，开示道——— jarārammaṇatā cittaṃ uppajjitvā bhijjati, taṃ ārammaṇaṃ paṭisaṅkhā tassa cittassa bhaṅgaṃ anupassati. (Paṭisaṃ, 55.) ----- 
+如此等等，把从无明（avijjā）直到老死（jarā-maraṇa）的缘起诸支也纳入而开示了。
+那五蕴、十二（12）入处也纳入而开示了。
+在那五蕴当中，依照上文已阐明的《小萨遮迦经（Cūḷasaccaka sutta）》，为了到达有学（sekkha）地与无学（asekkha）地，不仅现在的五蕴，连过去、未来的蕴也都包含在内——应当如此忆持。因此——— 
+
+- 1．名色二法，
+- 2．五蕴法，
+- 3．十二（12）入处、十八（18）界（dhātu）法，
+- 4．缘起法——— 以这些[方法]，
+
+取那些行的纯粹坏灭为所缘，在现在世修观、获得满足时，对于尽自己能力已观过的、从历世的过去直到未来终了的三时之内所存在的行法，也要同样地以名色二法、五蕴法、
+入处法、缘起法等，取那些行的坏灭为所缘，继续修观。
+有时也要把正在观的观智，接着用后随的观智再观。
+
+在观缘起诸支时，对于因无明而有行等这种名为「执取转起（upādinnakapavatta）」的因生果的过程，不再作意；而只取无明的坏灭、能观的观智的坏灭、行的坏灭、能观的观智的坏灭等纯粹的坏灭为所缘，安立于（三）相而修观。
+
+再者，《燃烧法门经（ādittapariyāya sutta）》（相应部 2, 377-379。） 
+等《六处品相应（Saḷāyatanavagga Saṃyutta）》巴利圣典中，依照佛陀（Buddha）所教示的那样，依处（vatthu）＋所缘（ārammaṇa）＋受、依处＋所缘＋识、依处＋所缘＋触——这些观照格式，若想观，也可以这样观。 
+贤善者，请把名业处（nāmakammaṭṭhāna）部分的诸表格再次取为所缘。 
+那些表格中，既标示了各个心剎那（cittakkhaṇa）所依的依处色（vatthu rūpa），也标示了所缘色（ārammaṇa rūpa），也标示了诸名法聚。 
+若以受为先而摄取那些名法聚来修观，便成为依处＋所缘＋受的观照格式，归入受随观念处。 
+若以了知之心、识为先而摄取那些名法来修观，便成为依处＋所缘＋识的观照格式，归入心随观念处。 
+若以触为先而摄取那些名法来修观，便成为依处＋所缘＋触的观照格式，归入法随观念处。 
+由于先把所依的依处色与所缘色一并摄取之后，再以受、或了知之心—识、或触为先而摄取那些名法聚来修观、省察，所以身随观念处也一并涵摄在内。 
+无论以哪种念处为先而修观，行法都必须全部齐备地存在。 
+换一种说法——由于结集（saṅgāyana）的诸大长老（thera）把这些观照格式纳入《六处品相应》巴利圣典中结集，所以也可以说它归入法随观念处。
+
+**【文件：[278]坏灭随观智章/[293]a 依处 + 所缘 + 受.md】**
+
+### 依处(vatthu) + 所缘(ārammaṇa) + 受(vedanā)
+
+- 1. 依处 - 坏灭 - 无常(anicca)，进行观照的智(ñāṇa)也 - 坏灭 - 无常。
+- 2. 所缘 - 坏灭 - 无常，进行观照的智也 - 坏灭 - 无常。
+- 3. 受 - 坏灭 - 无常，进行观照的智也 - 坏灭 - 无常。
+
+**【文件：[278]坏灭随观智章/[293]b 依处 + 所缘 + 识.md】**
+
+### 依处(vatthu) + 所缘(ārammaṇa) + 识(viññāṇa)
+
+- 1. 依处 - 坏灭 - 无常(anicca)，能观照的智(ñāṇa)也 - 坏灭 - 无常。
+- 2. 所缘 - 坏灭 - 无常，能观照的智也 - 坏灭 - 无常。
+- 3. 识 - 坏灭 - 无常，能观照的智也 - 坏灭 - 无常。
+
+**【文件：[278]坏灭随观智章/[293]c 依处 + 所缘 + 触.md】**
+
+### 依处(vatthu) + 所缘(ārammaṇa) + 触(phassa)
+- 1. 依处 - 坏灭 - 无常(anicca),能观之智(ñāṇa)也 - 坏灭 - 无常。
+- 2. 所缘 - 坏灭 - 无常,能观之智也 - 坏灭 - 无常。
+- 3. 触 - 坏灭 - 无常,能观之智也 - 坏灭 - 无常。
+
+**1. 依处** ----- 如同在名业处(nāmakammaṭṭhāna)部分的诸表中已标示出所依的依处色那样,对于持续以色所缘(rūpārammaṇa)为所缘的眼门路(cakkhudvāravīthi)、随后继续取色所缘为所缘的意门路(manodvāravīthi)等等,那一个个路(vīthi)之中各自存在的每一心剎那(cittakkhaṇa)的所依依处色,以及在这些路与路之间存在的有分(bhavaṅga)心剎那的所依依处色,都以智加以辨别,并以那各自的依处色之纯粹坏灭为所缘而观为无常;对正在如此观为无常的那观智(vipassanāñāṇa),再一次以其坏灭为所缘而观为无常。
+对苦(dukkha)、无我(anatta)也以同样方法观。
+如此观时,如同名业处诸表中所示,一行接着一行地观。
+对于前面的眼门路生起一路时、随后的意门路会多次生起的情形,也要观到理解透彻为止。
+对于耳门路(sotadvāravīthi)、意门路等等,也以同样方法观。
+
+**2. 所缘** ----- 对色所缘等各自相关的所缘,以智把各种密集(ghana)逐一破除地加以分别、剖析,看到坏灭而观为无常。
+对那观智也再一次观为无常。
+
+**3. 受** ----- 如同名业处部分诸表中所示,以受(vedanā)为先,把一切名法(nāma)全部收摄之后,以那些名法的坏灭为所缘而观为无常。对那观智也再一次观为无常。
+对于存在于诸路之间的有分名法,也一并混合着观。
+如同名业处部分诸表中所示,一行接着一行地观到无余为止。
+对于善速行路(kusalajavanavīthi)、不善速行路(akusalajavanavīthi),在全部(6)条线中观到无余为止。
+
+**4. 识** ----- 就是上述那些名法,以了知之心=识(viññāṇa)为先收摄之后,以那些名法聚的坏灭为所缘而观为无常。
+对那观智也再一次观为无常。
+
+**5. 触** ----- 就是那些法,以触为先收摄之后,以那些名法聚的坏灭为所缘而观为无常。
+对那观智也再一次作观。
+
+**【文件：[278]坏灭随观智章/[294] 修观的智.md】**
+
+### 修观的智
+
+所谓「修观的智」,正如上面已经解释过的那样——它正是以观智(vipassanā ñāṇa)为主导的大善(mahākusala)(大唯作 mahākiriya)意门(manodvāra)速行(javana)心路过程(vīthi)的名(nāma)法聚;应当观看以见到与观智一起的那些名法聚的坏灭,然后再一次重复地修观。
+如此观照时,取行法(saṅkhāra dhamma)=所知法(ñāta dhamma)的坏灭为所缘(ārammaṇa)——————
+
+- 1. 把那以「无常(anicca)」而观的观智,
+  - （甲）也观为「无常」、
+  - （乙）也观为「苦(dukkha)」、
+  - （丙）也观为「无我(anatta)」、
+
+- 2. 把那以「苦」而观的观智,
+  - （甲）也观为「无常」
+  - （乙）也观为「苦」、
+  - （丙）也观为「无我」、
+
+- 3. 把那以「无我」而观的观智,
+  - （甲）也观为「无常」、
+  - （乙）也观为「苦」、
+  - （丙）也观为「无我」——
+
+请像这样各别地分开来观照。
+在五蕴(khandhā)法、十二入处(āyatana)法、十八界(dhātu)法、缘起(paṭiccasamuppāda)法等等当中,也请依循各自的方法来观照。
+
+**【文件：[278]坏灭随观智章/[295] 利益功德 功德利益.md】**
+
+### 利益功德、功德利益(ānisaṃsa)
+
+有为法(saṅkhata dhamma)=一切行法(saṅkhāra dhamma)都具有生(jāti)、老(jarā)、死(maraṇa)的自性=生起(uppāda)-住(ṭhiti)-坏灭(bhaṅga)=生成-住立-坏灭的自性。那具有生、老、死自性的有为法，其生是最初边际(ādikoṭi)=作为开端的端分。
+老是中间边际(majjhimakoṭi)=居中的端分。
+死是最后边际(osānakoṭi)=作为终结的端分。
+在具有生、老、死自性的诸有为法中，名为生起-住-坏灭的这三种特相(lakkhaṇa)，由于也正是有为相(saṅkhata lakkhaṇa)，所以确实被称为无常相(anicca lakkhaṇa)。
+然而，虽然名为生、老的生起与住二者是可见的，但正如无常相唯有在正坏灭的灭之刹那(vaya刹那)=坏灭之刹那(bhaṅga刹那)才明明显显地呈现、显现于瑜伽行者(yogāvacara)的智中那样；同样地，在名为生、老的生起之时、住之时，无常相并未明明显显地呈现而显现于瑜伽行者的智中。
+因此，所谓坏灭，正是诸有为法之无常性的、作为终结的端分=最极边际(paramākoṭi)。
+
+试予明示 ----- 唯有具有老之自性=住之自性、死之自性=坏灭之自性的法，才会生起=具有生之自性。
+因此，正如生(jāti)=生起是无常生起之事的最初边际(ādikoṭi)=作为开端的端分那样；同样地，唯有具有生之自性、死之自性才会生起的法，也会老熟衰朽=具有老之自性、住之自性。
+因此，老=住是诸有为法的中间边际(majjhimakoṭi)=居中的端分。
+唯有具有生之自性、老之自性才会生起的法，会坏灭=会到达死之自性。
+因此应当铭记：坏灭=灭是诸有为法的最极边际(paramākoṭi)=作为终结的端分。(Mahāṭī 2,440-441。)
+
+因此，观照诸行法之坏灭=灭的坏灭随观者(bhaṅgānupassaka)瑜伽行者，对于从色蕴(rūpakkhandhā)直到老-死、归属于一切行之范围的法之总聚，唯一地以无常(anicca)=唯只作为无常，一再地观照。
+而不以常(nicca)来观照。
+其后，那位坏灭随观者瑜伽行者，由于无常的行法正是真实的苦(dukkha)，便对那已被以无常所执取、所观照的行法之总聚，以苦(=作为苦)一再地观照，而不以乐(sukha)(=作为乐)来观照。
+由于苦的行法正是真实的无我(anatta)，便对那已被以无常-苦所观照的行法之总聚，以无我(=作为无我)一再地观照，而不以我(atta)(=作为我)来观照。(Visuddhi 2,279。)
+
+并不是像那对色名法按聚集分组加以总括、标立三种特相的标记，而修习观照、思察的聚思惟(kalāpasammasana)观修习(vipassanā bhāvanā)之业仍在重新努力的瑜伽行者那样，凭借着以诸行法之尽灭之义而推论(anumāna)=约略揣测、悬揣的力量来作观(vipassanā)。
+也不是像那观智已着手、名为已着手修观者(āraddha vipassaka)、已到达生灭智(udayabbaya ñāṇa)的瑜伽行者那样，凭借着以智辨别诸行法之生起与坏灭为先导、对在前的坏灭加以观照的力量来作观。
+其实，这位唯只观照诸行法之纯粹坏灭的坏灭随观者瑜伽行者，由于生灭智之威力，正如在现前现量地于智中显现的生起、坏灭(udayavaya)二者中先前所说的那样，舍去生起，唯只观见坏灭=灭，正凭借此观见之力，唯一地一再观照为无常；对于如此观照的那位瑜伽行者，由于对诸行法执取为恒常=常执(niccagāha)的丝毫迹象也已不复存在，所以说他不以常来观照。
+正因如此，在《无碍解道》巴利圣典(Paṭisambhidā magga)中，世尊宣说了「如此把诸行法观照为无常的瑜伽行者，能够舍弃在诸行法中错认为常的常想(niccasaññā)」 --- 如此等等的话语。(Mahāṭī 2,441。)
+
+**【文件：[278]坏灭随观智章/[296] 请安立特相之车.md】**
+
+### 请安立特相之车
+
+Keci panettha "**aniccato anupassati, no niccato**"ti ādinā visuṃ dassanakiccaṃ natthi, bhaṅgadassaneneva sabbaṃ diṭṭhaṃ hotī"ti vadanti, taṃ bhaṅgānupassanāya matthakappattiyaṃ yuttaṃ, tato pana pubbabhāge anekākāravokārā anupassanā icchitabbāva.
+Aññathā "aniccato anupassatī"ti ādikā pāḷi, "anekehi ākārehi punappunaṃ passatī"ti āgatā tassā aṭṭhakathā ca virodhitā siyā. (Mahāṭī-2-441)
+
+某些『一些阿闍黎(keci)』在此坏灭随观(bhaṅgānupassanā)之处——**aniccato anupassati, no niccato**=以无常(anicca)而言=反复观为无常,不以常(nicca)而观为常——凭着如此这般的《无碍解道(Paṭisambhidā magga)》圣典语句,并没有另外的修观(vipassanā)观照工作事务;
+坏灭见(bhaṅgadassana)=正是凭着对诸行(saṅkhāra)法之纯然坏灭的观见,便已见到了一切——他们如此说。
+那些『一些阿闍黎』的话,唯有在到达坏灭随观智(bhaṅgānupassanāñāṇa)的顶峰时,才是恰当之言。
+然而,在到达那顶峰的坏灭智(bhaṅgañāṇa)之前的阶段,则必定需要:以诸行法之坏灭为所缘,以『无常』『苦(dukkha)』『无我(anatta)』等如此种种观照方式所交织而成的、各式各样的观照方法——随观(anupassanā)。
+倘若采取、接受了这样的意涵——『不需要以诸行法之坏灭为所缘而观为无常、苦、无我等等』——那么,**aniccato anupassati=以无常而言=观为无常**这般所宣说的《无碍解道》圣典,
+
+**Anupassatī**ti anu anu passati, anekehi ākārehi punappunaṃ passatīti attho. (Visuddhi-2-279)
+
+**anupassati**意指:一再地、重重叠叠地观,即以不只一种、而是众多的方式来观——以如此而来、阐释那圣典意涵的注释(aṭṭhakathā)语句,(以上两者)便都会与那些『一些阿闍黎』的话相违背。(Mahāṭī-2-441)
+
+应当铭记:依照上述这些圣典、注释、复注(ṭīkā),在此坏灭随观智的部分,瑜伽行者(yogāvacara)也必须把诸行法以『无常』『苦』『无我』等方式安立特相(lakkhaṇa)之车,来修观观照。
+
+**【文件：[278]坏灭随观智章/[297]a 修观时集的灭去方式.md】**
+
+### 修观时集的灭去方式
+
+Yasmā pana yaṃ aniccaṃ dukkhamanattā, na taṃ abhinanditabbaṃ. Yañca anabhinanditabbaṃ, na tattha rajjitabbaṃ.
+Tasmā etasmiṃ bhaṅgānupassanānusārena "aniccaṃ dukkhamanattā"ti diṭṭhe saṅkhāragate nibbindati, no nandati. Virajjati, no rajjati.
+So evaṃ arajjanto lokikeneva tāva ñāṇena rāgaṃ nirodheti, no samudeti.
+Samudayaṃ na karotīti attho. (《清净之道》2,279。)
+
+凡是诸行(saṅkhāra)的聚合都是无常(anicca)、苦(dukkha)、无我(anatta)的；对那个诸行的聚合，不应以「etaṃ mama, eso me attā = 这诸行是我的，这诸行是我的我(attā)」这样的贪爱(taṇhā)与见(diṭṭhi)极度地欢喜。
+对那个诸行的聚合，不应贪著。(意思是说: 不应使染污的感官之乐(kāmarāga)、有上的爱染(bhavarāga)生起。)
+因此，由于持续随顺能观见诸行之坏灭的坏灭随观智(bhaṅgānupassanā ñāṇa)，对那已被观见为无常、苦、无我的诸行的聚合感到厌离，不再欢喜。
+厌恶，不再贪著。
+那位瑜伽行者(yogāvacara)如此不再贪著，于是首先以仅属世间(lokika)的智，藉由镇伏舍断(vikkhambhana pahāna)而使爱染(rāga)达到灭(nirodha)、令其止息。(意思是说: 把它较长久地隔离开。)
+意思是说: 不使作为有(bhava)生起之因的集(samudaya)生起，不再造作作为有生起之因的集。(《清净之道》2,279。)
+
+**【文件：[278]坏灭随观智章/[297]b 以随类智推度而观的方式.md】**
+
+### 以随类智推度而观的方式
+
+Atha vā so evaṃ viratto yathā diṭṭhaṃ saṅkhāragataṃ, tathā adiṭṭhampi anvayañāṇavasena nirodheti, no samudeti.
+Nirodhatova manasikaroti.
+Nirodhamevassa passati, no samudayanti attho.（《清净之道》（Visuddhimagga）2,279。）
+
+**Evaṃ viratto**ti evaṃ bhaṅgānupassanānusārena viratto. Yathā diṭṭhaṃ sampati upaṭṭhitaṃ saṅkhāragataṃ nirodheti nirodhaṃ manasi karoti, adiṭṭhampi atītānāgataṃ anvayañāṇavasena yathā idaṃ etarahi, evaṃ itarepīti anuminanto nirodheti manasikatassāpi nirodhaṃ (manasi) karoti.
+**No samudetī**ti etthāpi eseva nayo. No samudayaṃ manasi karotīti attho. (大义疏（Mahāṭī）2,442。)
+
+另一种方式 ----- 由于不断随顺这坏灭随观智（bhaṅgānupassanāñāṇa），对诸行法（saṅkhāra）（以能够较长时间舍离的方式）远离贪著、离于贪染的那位瑜伽行者（yogāvacara），就如同把在当前亲自所知见的智（ñāṇa）之中现前现起的诸行法之总聚的灭尽纳入心中那样；同样地，对于尚未以观智（vipassanāñāṇa）遇见、尚未观照的过去、未来的诸行法之总聚，也凭着善于随类推度而把握的**随类智（anvayañāṇa）**之力，「就如同此当前面前以现量智（paccakkhañāṇa）所见的这一行法那样，同样地，尚未以观智所见、尚未观照的过去、未来行法，也『就是如此具有灭尽之性』」——如此加以比度，而把灭尽、即灭（nirodha）之性纳入心中。
+对于生起、即集（samudaya），不纳入心中；唯有以灭的方式 = 唯有把灭尽纳入心中；唯有观照那诸行法之总聚的灭尽、即灭，不观照生起、集。
+这就是上面所引述的《无碍解道》（Paṭisambhidāmagga）圣典的意旨、含义之理。（《清净之道》2,279。大义疏2,442。）
+
+上述义注（aṭṭhakathā）、复注（ṭīkā）中所出现的 -----
+
+- 一、**yathādiṭṭhaṃ saṅkhāragataṃ** 这句义注的话语，
+- 二、**yathādiṭṭhaṃ sampati upaṭṭhitaṃ saṅkhāragataṃ** 这句《大疏钞》（mahāṭīkā）的话语，
+- 三、**adiṭṭhampi** 这句义注的话语，
+- 四、**adiṭṭhampi atītānāgataṃ** 这句《大疏钞》的话语 -----
+
+把这四句话语前后联系起来看，便会以为这坏灭随观智只观照纯然的现在（paccuppanna），而对于过去-未来则只是以比量（anumāna）= 随类推度的方式来观照——我不愿（你）对此持有错误的见解。
+
+正如前面生灭智（udayabbayañāṇa）部分所清楚阐述的那样 ----- 唯有能够接受、能够领会**关于现在的见解**，前文与后文才会一致，意义才能连贯起来。
+原因在于 ----- 在这坏灭随观智所观照的究竟法（paramattha）本质的诸行法当中，也包含了以过去、未来、现在这三时所统摄计算的五取蕴（upādānakkhandhā）、苦圣谛（dukkhasacca）诸法。
+以过去、未来、现在这三时所统摄计算的缘起（paṭiccasamuppāda）十二支，也都包含在内。
+无明（avijjā）、行属于过去时段的诸法聚。
+识（viññāṇa）、名色（nāmarūpa）、六处（saḷāyatana）、触（phassa）、受（vedanā）、爱（taṇhā）、取（upādāna）、有（bhava）属于现在时段的诸法聚。
+生（jāti）、老（jarā）、死（maraṇa）属于未来时段的诸法聚。
+那一切缘起支，并非全都是当今时代大多数人所理解的、纯属现在的法、纯然现在的法。
+它们只是分别存在于过去时、过去有，现在时、现在有，未来时、未来有这三时、三有、三时段当中的各各行法而已。
+那一切缘起支 -----
+
+- 一、**yathādiṭṭhaṃ saṅkhāragataṃ** 这句义注的话语，
+- 二、**yathādiṭṭhaṃ sampati upaṭṭhitaṃ saṅkhāragataṃ** 这句复注的话语 ---
+
+在以这些话语所表达的、瑜伽行者当前亲自所知见的现量智之中现前现起的诸行法之总聚里，它们都被涵摄、都包含在其中。
+
+当一位瑜伽行者以坏灭随观智去观照存在于三时、二相续（santāna）当中的任何行法时，在那位瑜伽行者的智之中，凡是以称为生起-住-坏灭（uppāda-ṭhiti-bhaṅga）的『具足三剎那（khaṇattayasamaṅgī）』= 与三剎那（khaṇa）总聚相圆满的状态而现起的一切真实之法——无论它是过去有、过去时所曾生起的法也好，是现在时、现在有当中所生起的法也好，是涵摄于未来有、未来时的法也好——都可以说是在当前亲自所知见的现量智之中现前现起的诸行法之总聚。
+
+如果不能这样理解，如果不能接受这样的意旨之理，那么，佛陀为了教导人们以观去观照按过去、未来、现在等十一种行相而存在的五取蕴、苦圣谛诸法而宣说的《无我相经》（Anattalakkhaṇasutta）等等诸经中所出现的那些三遍转法的开示（teparivaṭṭadhammadesanā），也就会变成毫无意义的开示了。
+再者，佛陀教导人们以坏灭随观智去观照涵摄于整个三时的缘起诸支的那些开示，也同样会变成毫无意义的开示了。
+
+再者，当一位瑜伽行者以观智去观照任何有为法（saṅkhata）时，如果在自己的智之中，把具足生起-住-坏灭这三剎那总聚的整个剎那三法之法当作一个整体而遇见——倘若那法就是『现前所立（sampati upaṭṭhita）』= 在自己的智之中当前亲自、明明被见、现前现起而安立的法——那么便有一个疑问要提出：坏灭随观智是否连那有为法的生起-住-坏灭这全部三剎那都加以观照了呢？
+正如前面已说过的那样，不把生起与住纳入心中，唯独把称为剎那灭（khaṇikanirodha）的坏灭、即坏（bhaṅga）纳入心中，因此才成为坏灭随观（bhaṅgānupassanā）。
+
+如果说，当观照存在于三时当中、具足生起-住-坏灭这三剎那总聚的剎那三法之法的坏灭 = 坏，便是坏灭随观智，那么 ---- 「(adiṭṭhampi) atītānāgataṃ anvayañāṇavasena nirodheti = 对于以智尚未所见的 = 尚未以观智观照的过去、未来有为法，也凭着善于以比量随类推度而把握的随类智之力，把称为剎那灭的、就剎那而言的灭尽纳入心中」——对于如此解释的这句话，应当如何理解其意义呢？这是一个要提出的疑问。
+在这一点上，作为善男子的你，需要张大智慧、张大耳闻、张大眼界，善加思惟、善加领会。
+
+如龟（甲）般、牢牢地、一个有情、对颠倒之邪执、纵有十万尊佛、以翻覆驳斥之力、宣说开导、也无法救脱。（摩伽提婆（Maghadeva），段-319。）
+
+这是一个必须特别警惕之处——以免自己成为像龟（甲）那样牢牢执持自己错误见解学说的瑜伽行者。
+
+虽然说善男子的你能够、可以用观智去观照过去诸生历代相续中的因法与果法，但作为善男子的你所能观照到的过去因法、过去果法，也只可能是存在于少数几生当中的因法、果法而已。
+对于一个有情来说，在无始的轮回（saṃsāra）中曾经流转受生过的诸生实在多得很。把善男子你能以观智观照到的过去有、过去行法，与不能观照到的过去有、过去行法这两类行法加以衡量、比较来看，则不能观照到的过去有、过去行法要远远超过、多出无数倍。
+同样地，对于未来也请以相同的道理来领会。
+纵然就算直到证得阿拉汉道（arahattamagga）为止的未来只有少许，但要想把在尚未证得那阿拉汉道之前的时段内将会生起的诸行法聚毫无遗漏、彻底无余地都以观加以观照，对于声闻波罗蜜智（sāvakapāramīñāṇa）而言，也是一件不容易的事。
+
+原因在于 ----- 声闻（sāvaka）们只能对一部分的行法聚加以观照的缘故。
+因此，在过去、未来的诸行法聚当中，善男子你亲自所能观照到的过去、未来行法聚，若与极其漫长的轮回旅途相比较，也不过是少许、一些、一部分而已。
+那么，当以坏灭随观智遇见自己所能观照到的、现前所见（sampati diṭṭha）= 现前所立 = 当前明明白白以观智所见、所观照到的法聚那剎那不停、连续不断地灭去的剎那灭之性时，对于自己以观智尚未观照到、不能观照到的过去、未来行法聚，也是『同样地具有剎那不停、连续不断地灭坏的剎那灭之性』——如此对整个过去轮回、整个未来轮回当中所存在的一切行法，只是以比量、约略估量的方式来观照而已——请这样领会。
+应当注意：这并不是在完全不观照过去、未来的情况下，就把过去、未来之法也（凭空地）当作『同样如此』而观照。
+
+如果不能这样理解其意义，就会推导出这样的含义：直到生灭智为止的前面诸观智所观照的所缘（ārammaṇa）行法是一类、另一种、各别的，而坏灭随观智所观照的所缘行法又是另一类、另一种、各别的。
+而（这含义）也不应该这样推导出来。
+若问为什么 ----- 这是因为在《无碍解道》圣典中，把直到生灭智为止的诸观智所观照的所缘究竟法本质，与这坏灭随观智所观照的所缘究竟法本质，作为同一个而一并揭示宣说的缘故。
+如果说在前面的诸观智当中，过去、未来诸法能够以现量智亲自当面、洞穿地知见而观照得到，那么是否应该说：唯有到达这坏灭随观智阶段时，才必须改以比量、随类推度的随类智来观照一切过去、未来的行法——这一点，善男子你自己很应当好好思惟。
+
+因此，当一位瑜伽行者，在存在于过去、未来、现在这三时当中的诸行法里，能够以观智观见自己所能观照的一切行法那具足生起-住-坏灭这三剎那总聚的剎那三法的时刻、尤其是坏灭的时刻时，那么在那剎那三法的时刻当中所存在的、或者说在坏灭剎那、坏灭时段当中所存在的一切行法，就都是『现前所见』= 当前亲自所知见的法。
+而存在于以观智所观照到、能观照到的法之前后的、未观照到、不能观照到的过去、未来诸法，则是『未见的过去未来（adiṭṭha-atītānāgata）』之法。
+请这样区分、记住。
+唯有这样理解、这样接受，前前观智所观照的所缘与后后观智所观照的所缘，才会是同一体、相一致的。
+
+**【文件：[278]坏灭随观智章/[300] 能离能舍.md】**
+
+### 能离能舍
+
+凭借这已说过的、种种不同的随观无常(aniccānupassanā)等[随观]之力，而精勤修习、不断培育观(vipassanā)的修习(bhāvanā)业处(kammaṭṭhāna)的那位瑜伽行者(yogāvacara)，便会舍弃，
+不再执取。这是指什么意思呢？即是说 -----
+
+随观无常等的随观智(anupassanāñāṇa)，凭借彼分(tadaṅga)之力舍断诸烦恼(kilesā)。
+一旦舍断了诸烦恼，那些以那烦恼轮转(kilesavaṭṭa)为根本之因、被归摄于业轮转(kammavaṭṭa)之中、能够造作并安排新一[期]有(bhava)的诸造作之法(abhisaṅkhāradhamma)，也就一并舍断了。
+再者，当舍断了业(kamma)与诸烦恼时，从那业＝由于那业而将会生起的诸果报蕴(vipākakkhandhā)，也就称为已被舍断了。
+
+这名为随观无常智等的坏灭随观智(bhaṅgānupassanāñāṇa)，由于连同诸蕴(khandha)、连同诸造作之法一起舍断了诸烦恼，所以也称为遍舍舍遣(pariccāgapaṭinissagga)。
+又因为见到诸有为(saṅkhata)法中无常(anicca)等等的过患，而对与那无常等相反、具有常(nicca)-乐(sukha)等自性的涅槃(nibbāna)，以心怀倾向那涅槃的状态而奔赴趣入，所以也说它称为跃入舍遣(pakkhandanapaṭinissagga)。
+因此，具足那随观无常等坏灭随观智的瑜伽行者比库(bhikkhu)，正如前面所说，既凭彼分舍断诸烦恼，也以倾向、趣注之态奔赴趣入涅槃＝心倾向、趣注[于涅槃]。
+他也不以令诸烦恼生起之力去执取诸烦恼。
+由于清清楚楚、明明白白地了知诸有为法中无常等等的过患，他便不会再凭着不见诸有为法无常等过患之力，把作为有为之物的所缘(ārammaṇa)执取为『我、我所』而以渴爱(taṇhā)-见(diṭṭhi)去执取。
+因此 ----- 所谓『paṭinissajjati no ādiyati = 舍弃、不执取』---- 便是这样说的。(Visuddhi 2,279。)
+
+到此为止的这些文句，都是对上面所书录陈示的《无碍解道》(Paṭisambhidāmagga)圣典逐层逐层加以阐释解说的义注(aṭṭhakathā)、复注(ṭīkā)文句所作的阐明陈示。
+如今再就那《无碍解道》圣典坏灭智(bhaṅgañāṇa)章中所出现的偈颂(gāthā)四颂，接着加以阐明陈示。
+将一颂接一颂地加以阐明陈示。
+
+### 诸偈颂教说
+
+- 1. Vatthusaṅkamanā ceva, paññāya ca vivaṭṭanā.
+- Āvajjanābalañceva, paṭisaṅkhāvipassanā. (Paṭisaṃ 56.)
+
+1. Vatthusaṅkamanā ceva = 从前一依处(vatthu)转移到另一后依处；paññāya = 凭借观见诸行(saṅkhāra)法的生起-灭去即生(udaya)-灭(vaya)之力而生起的观慧(vipassanāpaññā)的。
+vivaṭṭanā ca = 凭借以智(ñāṇa)单单分别取著灭去（=灭）之力，而从生起（=生）退没；
+āvajjanābalañceva = 能够于无间[心]中加以审察的状态；
+esā = 此即是。
+paṭisaṅkhāvipassanā = 了知色(rūpa)等行的所缘后，观照其灭去即坏灭(bhaṅga)的审察观（paṭisaṅkhāvipassanā）＝即称为坏灭随观。
+
+这一颂中有 (一) vatthusaṅkamanā、(二) paññāya vivaṭṭanā、(三) āvajjanabala —— 有这三句话有待阐明陈示。
+现将那些文句一句接一句地接着加以阐明陈示。
+
+(一) **vatthusaṅkamanā = 依处的转换** ----- 此处，从色蕴起、直到老(jarā)-死(maraṇa)为止的一切诸有为法，都是观智(vipassanāñāṇa)所观照的所缘法，由于它们是观智生起之处＝[观智]所立之处即所缘，因此获得了**依处**这个名称。
+所谓依处的转换，是指把那观智所观照的所缘＝依处加以转移而观照。
+
+**格式** ----- 当观照完色蕴＝色法的灭去＝坏灭之后，再 ----- 以某一心(citta)观照色法的灭去＝坏灭，凭借再去观照那观照之观心(vipassanācitta)自身的灭去＝坏灭之力，便从色法的坏灭这个前一所缘，转换到观心的坏灭这另一所缘＝即转换而观照。(Visuddhi 2,280。)
+
+**saṅkamanā = 转移** ----- 观心也只是无常类的法，因此被含摄在一个心剎那(cittakkhaṇa)之内的、单单一个观心，并没有从一处到另一处＝从一个所缘到另一个所缘转移的常态法则(dhammatā)。
+以色法为所缘而正在观照的观心，到了以受(vedanā)法为所缘而修观之时，便已不复存在了。
+它就在自己生起之处、生起之所缘上灭去。
+因此，此处所谓的转移，是由于观照色法灭去＝坏灭的前观心，与观照该观心灭去＝坏灭的后观心，二者同为观心这一点相同，故依一性(ekatta)法当作仿佛是同一个[心]而这样说的。
+倘若以另外一种方式来理解、接受其义涵，那么——『以色法的灭去为所缘的观智是另外一种，以那以色法灭去为所缘的观心之灭去为所缘的观智，又是另外一种。
+每一个观心都各是一种，因此转移又怎么可能存在呢』—— 像这样不应当[采取]的义涵便可能产生出来。
+在下面接着将要陈示的『paññāya vivaṭṭanā』这句话中，也应以同样的义涵方式来理解。(大义疏(Mahāṭī) 2,442-443。)
+
+在这坏灭随观智的部分中，就应当如上所述，把诸依处一再转换、一再转换地观照。
+也应铭记：所谓的心，指的正是大善(mahākusala)观意门速行心路(manodvārikajavanavīthi)那一组名(nāma)法。
+一般而言，是意门转向(manodvārāvajjana)一次、速行(javana)七次。
+
+(二) **paññāya vivaṭṭanā = 从观慧的生起（=生）退没** ---- [它]只是：凭借观见名为所知(ñāta)的诸行法、以及名为能知智的观智二者之生起-灭去＝生灭(udayabbaya)之力而生起的观慧，凭借舍弃那所知-能知诸法的生起＝生、单单取著灭去＝灭之力，而从生起＝生退没的这一自性罢了。
+因此，瑜伽行者应当舍断所知法、能知法两者的生起＝生，努力精勤使自己的观修之心唯独安立于灭去＝灭之上。(Visuddhi 2,280。Mahāṭī 2,443。)
+
+(三) **āvajjanabala = 能够审察的力量** ---- 当观照完色法的灭去坏灭之后，再去观见以那色法的灭去＝坏灭为所缘的（=观照该色法灭去＝坏灭的）观心之灭去＝坏灭——能够这般观照、观见的状态，即称为 āvajjanabala。
+这句话所说的，是坏灭随观智那种娴熟自如、得心应手地观照的能力、力量。
+
+vatthusaṅkamanā、paññāya vivaṭṭanā、āvajjanabala ----- 这三者即称为**所缘审察坏灭随观智(ārammaṇapaṭisaṅkhā bhaṅgānupassanāñāṇa)**。
+意思是说：以智了知色法的灭去＝坏灭后，再回过来对那能知之智的灭去＝坏灭加以修观的随观(anupassanā)。(Visuddhi 2,280。Mahāṭī 2,443。)
+
+对于从受蕴起、直到老-死为止的诸行法的灭去＝坏灭加以观照，再回过来对那观照灭去＝坏灭的观智之灭去＝坏灭也加以修观——在这些情形中，也同样称为所缘审察坏灭随观智，这道理请你领会。
+
+- 2. Ārammaṇaanvayena, ubho ekavavatthanā.
+- Nirodhe adhimuttatā, vayalakkhaṇavipassanā. (Paṭisaṃ 55.)
+
+Ārammaṇaanvayena = 由于随顺当下现前所了知的、属于已见(diṭṭha)的所缘。
+ubho = 把已见-未见(adiṭṭha)两种所缘。
+ekavavatthanā = 以剎那坏灭(khaṇabhaṅga)这单一自性来分别铭记。
+nirodhe = 在诸行法剎那不停、连绵不断地灭尽坏灭的剎那灭(khaṇikanirodha)中。
+adhimuttatā = 倾向、趣注的状态。
+esā = 此即是。
+vayalakkhaṇavipassanā = 观照诸行法的坏灭即灭相(vayalakkhaṇā)的观，[即称此名]。
+
+**Ārammaṇaanvayena ubho ekavavatthanā** ----- 由于随顺那以现量(paccakkha)亲身现前洞穿了知、已观见的、名为所知-能知的行所缘，[于是观见]：正如当下已见、所了知的这现在(paccuppanna)的行法会坏灭那样，同样地，过去(atīta)的行法之总聚也已坏灭、未来(anāgata)也将坏灭——这般以观智观见的已见所缘，以及尚未以观智观见的未见所缘，这两种所缘，瑜伽行者都应当唯以这剎那坏灭即剎那不停、连绵不断地坏灭这一相同的自性，好好地加以铭记。（此处关于已见之法、未见之法的理解方式，请只依上面已解说过的来铭记。）
+
+确实如此 ----- 往昔的诸位义注师长老曾这样说道。
+
+- Saṃvijjamānamhi visuddhadassano, tadanvayaṃ neti atītanāgate.
+- Sabbepi saṅkhāragatā palokino, ussāvabindū sūriyeva uggate. (Visuddhi 2,280.)
+
+Saṃvijjamānamhi = 在以现量所获得、所了知、所观见的现在行法的总聚之中（=即指已见之法）。
+visuddhadassano = 具有那观照诸行法坏灭的、格外清净的智见(ñāṇadassana)的瑜伽行者。
+tadanvayaṃ = 把那随顺观照该现在行法坏灭之智而生起的观智。
+atīte = 于过去的行法中，
+anāgate = 以及于未来的行法中，
+neti = 引导＝令生起。
+sabbepi = 无余、全部、一切的。
+saṅkhāragatā = 过去行、未来行、现在行诸法的总聚，[它们]。
+palokino = 具有坏灭的自性。
+kimiva = 若问像什么呢。
+sūriye = 太阳。
+uggate = 升起之时。
+ussāvabindū = 露珠。
+palokati iva = 就如同消逝坏灭一般。(Visuddhi 2,280。)
+
+= 具有那种以现量观照现在行法总聚之坏灭的、格外清净的观智之见的瑜伽行者，将那随顺观照该现在行法坏灭之智而生起的观智，于过去行法、未来行法中引以类推，令观智生起。
+无余、全部、一切的过去、未来、现在的所有行法，都具有坏灭的自性；若问像什么呢——就如同被日光照触即消逝的露珠一般。(Visuddhi 2,280。)
+这一观照格式，是坏灭智中独特的观照格式。
+
+**Nirodhe adhimuttatā = 于剎那灭中的倾向、趣注** ----- 如此一来，把以已见-行、未见-行而[分为]两种的观智所观照的诸所缘，凭借其剎那不停、连绵不断地坏灭着的剎那坏灭之力，分别铭记为『[它们]都相等』，于是唯独在那名为诸行法之坏灭的灭尽即剎那灭中作意(manasikāra)的状态、于那剎那灭中郑重对待的状态、于那剎那灭中倾向的状态、向那剎那灭倾注的状态、向那剎那灭趣注的状态——即称为 nirodhe adhimuttatā = 于灭(nirodha)中作意。
+如此随顺以现量所观见的行所缘，把已见所缘、未见所缘这两种以剎那坏灭而相同的状态加以分别铭记——这便是观照那名为坏灭的灭相的灭相随观(vayalakkhaṇānupassanā)＝即称为坏灭随观。(Visuddhi 2,280。)
+
+- 3. Ārammaṇañca paṭisaṅkhā, bhaṅgañca anupassati.
+- Suññato ca upaṭṭhānaṃ, adhipaññāvipassanā. (Paṭisaṃ 56.)
+
+Ārammaṇañca = 把从色蕴起、直到老-死为止的行所缘，
+paṭisaṅkhā = 了知后；
+bhaṅgañca = 也把以那色法等为所缘的心之坏灭，
+anupassati = 一再地观照。
+suññato ca = 也以空(suñña)，
+upaṭṭhānaṃ = 显现。
+ijjhati = 圆满成就。
+ayaṃ = 此即。
+adhipaññāvipassanā = [即]称为增上慧观(adhipaññāvipassanā)。
+
+**Ārammaṇañca paṭisaṅkhā bhaṅgañca anupassati** = 了知前面的色法等行所缘后，以智观照那色法等行的灭去即坏灭直至照见，[再]对那观照该色法等行法灭去即坏灭的观心之灭去即坏灭，再次重复加以修观。
+如此对名为所知-能知的两种法之灭去即坏灭加以修观的那位瑜伽行者来说 -----
+
+『唯有诸行法在坏灭，那些诸行法的灭去即坏灭便称为死；除了诸行法之外，并不存在一个可称为我(atta)的任何[实体]。』---
+
+如此一来，以远离我的**空性自性(suññata)**而对诸行法的显现，便圆满成就了。(Visuddhi 2,280。)
+
+**adhipaññāvipassanā** ----- (1) 了知色法等行所缘后，以那色法等行所缘的灭去即坏灭为所缘而加以修观的**所缘审察智(ārammaṇapaṭisaṅkhāñāṇa)**；(2) 对那观照该色法等行法灭去即坏灭的观心之灭去即坏灭再次重复加以修观的**坏灭随观智**；(3) 以诸行法中远离我的空性自性而在智中显现的**空随观智(suññatānupassanāñāṇa)**——这三种智之见即称为**增上慧观**。(Visuddhi 2,280。)
+
+那能观见名为所知-能知的两种行法之灭去即坏灭的坏灭随观智，由于以智洞穿地了知诸行法不随顺任何人、有情(satta)、我之意欲的自性，因而成为洞穿了知无我相(anattalakkhaṇa)的[途径]。
+因此，[世尊]开示道：在正观照诸行法灭去即坏灭的瑜伽行者的智的领域中，以空性自性对诸行法的显现已圆满成就。(Mahāṭī 2,443。)
+
+倘若诸行法能够随顺某个人、有情、我的意欲而生起，那么当[人们]渴望『但愿诸行法不要这样坏灭』时，就应当能如愿以偿；然而在诸行法上，却是无法如愿的。
+因此说，诸行法中那远离我的空性自性，便在瑜伽行者的智的领域中显现着。
+因此，往昔的诸位义注师长老这样说道。-----
+
+- Khandhā nirujjhanti na catthi añño, khandhāna bhedo maraṇanti vuccati.
+- Tesaṃ khayaṃ passati appamatto, maṇiṃva vijjhaṃ vajirena yoniso. (Visuddhi 2,281.)
+
+Khandhā = 唯有作为蕴的诸行法。
+nirujjhanti = 灭尽。
+imasmiṃ loke = 在这世间(loka)中。
+añño = 任何在蕴之外能灭尽之法、能死之人。
+na ca atthi = 唯是不存在。
+khandhānaṃ = 诸蕴的。
+bhedo = 把[其]崩坏(bheda)，
+maraṇanti = 称为死。
+vuccati = 被这样说。
+tesaṃ khandhānaṃ = 那些作为蕴的法的。
+khayaṃ = 把每一剎那、每一剎那显现的坏灭，
+appamatto = 不放逸的瑜伽行者。
+passati = 以观智观见。
+yathākiṃ = 若问像什么呢。
+kusalo puriso = 善巧娴熟的钻宝匠男子。
+yoniso upāyena = 以适当的方法、方便。
+maṇiṃ = 把摩尼宝珠(maṇi)，
+vajirena = 用金刚钻(vajira)。
+vijjhaṃ = vijjhanto = 钻凿之时。
+maṇissa = 摩尼宝珠的。
+chiddameva = 唯把[其]孔洞，
+manasikaroti iva = 就如同作意一般。
+maṇissa = 摩尼宝珠的。
+vaṇṇādiṃ = 把色泽等等，
+na manasikaroti iva = 就如同不作意一般。
+evameva = 正如这譬喻一般。
+saṅkhārānaṃ = 诸行法的。
+nirantaraṃ = 恒常不断、毫无间隙的。
+bhaṅgameva = 唯把[其]灭去即坏灭，
+yoniso = 以适当正确的方法。
+manasikaroti (= 作为无常、作为苦(dukkha)、作为无我) 而作意。
+suññato = 以远离我的空之自性。
+manasikaroti = 作意。
+saṅkhāre = 唯把单单诸行法[本身]，
+na manasikaroti = 则非作意。(Visuddhi 2,281。)
+
+唯有作为蕴的法在灭尽。
+在这世间中，除了蕴之外能灭尽之法、能死之人，唯是不存在的。
+诸蕴的灭去被称为坏灭＝死。
+那些作为蕴的法每一剎那、每一剎那显现的坏灭，不放逸的瑜伽行者以观智观见。
+若问像什么呢 ----- 就如同善巧娴熟的钻宝匠男子，以适当的方法、方便用金刚钻钻凿摩尼宝珠时，唯独作意于摩尼宝珠的孔洞，而不作意于摩尼宝珠的色泽等等那样；正如这譬喻一般，[他]也唯独对诸行法那恒常不断、剎那不停、连绵不断地崩塌坏灭着的剎那坏灭，以适当正确的方法、正道，作为无常、作为苦、作为无我而作意。
+以远离我的空之自性而作意。
+[他]唯作意于诸行法的剎那坏灭，而对单单诸行法[本身]则不作意。
+另一种说法 -- 就如同用金刚钻钻凿摩尼宝珠的钻宝匠，其钻凿过的部位不会再次回复填满那样；正如这譬喻一般，一旦以犹如优质金刚钻的坏灭随观智观见了诸行法的灭去即坏灭，对那些诸行法便再也不可能重新生起『常』的执取了。如此一来，[他]便唯独观照诸行法的灭去即坏灭。(Visuddhi 2,281。)
+
+- 4. Kusalo tīsu anupassanāsu, catasso ca vipassanāsu.
+- Tayo upaṭṭhāne kusalatā, nānādiṭṭhīsu na kampati. (Paṭisaṃ 56.)
+
+tīsu anupassanāsu = 在随观无常等三种随观中。
+kusalo = 善巧娴熟的。
+bhikkhu = 瑜伽行者比库。
+catasso ca vipassanāsu = 以及在厌离随观(nibbidānupassanā)等四种随观中。
+tayo upaṭṭhāne ca = 以及在三种显现中，
+kusalatā = 由于善巧娴熟的缘故。
+nānādiṭṭhīsu = 因种种各异的见。
+na kampati = 不动摇。
+
+在随观无常、随观苦(dukkhānupassanā)、随观无我(anattānupassanā)这三种随观中善巧娴熟的瑜伽行者比库，由于在厌离随观、离染随观(virāgānupassanā)、灭随观(nirodhānupassanā)、舍遣随观(paṭinissaggānupassanā)这四种随观中，以及在『从无常显现、从苦显现、从无我显现』这三种显现中都善巧娴熟，因此不再因种种各异的见而动摇。(Paṭisaṃ 56。)
+
+**tayo upaṭṭhāna = 三种显现** ----- 以诸行法的灭去为所缘而观为无常时，诸行法以不断耗尽、不断坏灭的尽(khaya)-灭自性而显现，这便是 aniccato upaṭṭhāna = 从无常显现。
+同样以诸行法的灭去为所缘而观为苦时，诸行法以可畏可怖的样态而显现，这便是 dukkhato upaṭṭhāna = 从苦显现。
+同样以诸行法的灭去为所缘而观为无我时，诸行法以远离我的空之自性而显现，这便是 anattato upaṭṭhāna = 从无我显现。(Mahāṭī 2,444。)
+
+厌离随观等四种随观的义涵，将在后面阐明。
+
+如此一来，不因种种各异的见而动摇的那位瑜伽行者，由于生起了『唯有尚未灭尽的行法在灭尽，唯有尚未坏灭的行法在坏灭』这样的作意，便如同唯独观见那破裂的、脆弱的、潮湿的青坯陶器即陶罐的破裂一般，又如同唯独观见那纷纷扬扬撒散开来的微细尘埃的消逝坏灭一般，又如同唯独观见那在锅中翻炒的芝麻的坏灭一般——舍弃一切诸行法的生起(uppāda)-住(ṭhiti)-生命期间(pavatta)-相(nimitta)，而唯独对那些诸行法的灭去即坏灭加以修观。
+至于譬喻：就如同一个有眼能见的男子，站立在池塘的岸边、或河流的岸边，当下着带有大颗冰雹、大颗雨点的雨时，他唯独看见水面上一个个变大变大的水泡不断生起、生起，又迅速迅速地坏灭那样——正如这譬喻一般，那位瑜伽行者也以观智观见：一切所有的行法都迅速迅速地坏灭、坏灭着啊。
+确实如此 ----- [世尊]针对这样观照水泡般易坏之相续的瑜伽行者，佛陀(Buddha)开示了下面这首偈颂教说。-----
+
+- Yathā bubbuḷakaṃ passe, yathā passe marīcikaṃ.
+- Evaṃ lokaṃ avekkhantaṃ, maccurājā na passati. (Visuddhi 2,281.)
+
+bubbuḷakaṃ = 把水泡，
+passe - passeyya yathā = 就如同观照那样；
+marīcikaṃ = 把阳焰，
+passe - passeyya yathā = 就如同观照那样；
+evaṃ tathā = 同样地。
+lokaṃ = 把行世间(saṅkhāraloka)。
+avekkhantaṃ = 把以观智趣入、唯独观照一再坏灭、一再坏灭的瑜伽行者。
+maccurājā = 死王。
+na passati = 便见不到了。
+
+就如同观见水泡那样，又如同观见阳焰那样，同样地，对那以观智趣入名色(nāmarūpa)法的行世间、唯独观照一再坏灭、一再坏灭的瑜伽行者，死王便见不到了。
+意思是说：由于[他]精勤努力观照诸行法的灭去，直到证得阿拉汉道(arahattamagga)，借着证得阿拉汉道，便不再于新一[期]有中生起，因此在般涅槃(parinibbāna)死殁(cuti)之后，死王再也见不到[他]，[他]已抵达涅槃了。(Visuddhi 2,281。Mahāṭī 2,444。)
+
+在上面这段义注文句中，关联那三个譬喻所要表达的本意，《大疏钞》(Mahāṭīkā)的长老作了如下的阐明陈示。-----
+
+- 1. **dubbalabhājanūpamā = 脆弱容器之譬喻** = 那破裂的、脆弱的、潮湿的青坯陶器＝陶罐的譬喻，具有显示诸行法依其自身自性即会坏灭这一状态的作用。
+- 2. **vippakiriyamānasukhumarajūpamā = 纷散的微细尘埃之譬喻** = 那纷纷扬扬撒散开来的微细尘埃的譬喻，具有显示诸行法彼此互不连属、纷纷散开这一状态的作用。
+- 3. **bhijjiyamānatilūpamā = 正在爆裂的芝麻之譬喻** = 那在锅中翻炒的芝麻的譬喻，具有显示诸行法在每一剎那、每一剎那都具有坏灭自性这一状态的作用。请如此铭记。(Mahāṭī 2,444。)
+
+**【文件：[278]坏灭随观智章/[308] 由八种利益功德所围绕.md】**
+
+### 由八种利益功德(ānisaṃsa)所围绕的坏灭随观智(bhaṅgānupassanā ñāṇa)
+
+如此，对于持续不断地以观智(vipassanā ñāṇa)照见‘一切行法(saṅkhāra)都在迅速迅速地坏灭、坏灭’的那位瑜伽行者(yogāvacara)而言，由八种利益功德所围绕的坏灭随观智便达到了锐利迅猛的力量。
+在那坏灭随观智中，以下将要述说的这些，便是八种利益功德。
+
+- 1. 能够舍离有见(bhavadiṭṭhi)＝常见(sassatadiṭṭhi)，（对于持续不断地以观智照见行法之坏灭的瑜伽行者而言，在其相续中，执取‘我(atta)是常的’这种常见，已不再有生起的可能。）
+- 2. 能够舍弃生命，
+- 3. 具有能够日夜不断地于修行(bhāvanā)中极为精勤努力的能力，
+- 4. 由于远离了卑劣的贪欲，而具有清净的活命，
+- 5. 由于强烈的悚惧(saṃvega)，能够舍弃对大小事务的操心挂虑，
+- 6. 由于没有了对自身的贪爱，无论因任何缘故也都没有危难，因而无有怖畏，
+- 7. 由于善见行法的无常(anicca)之性，而获得忍耐，以及对善行的喜乐，
+- 8. 能够镇伏摧毁对寂静的林野寺院、山间寺院之不乐，对称为止观(samatha-vipassanā)修行这一极为崇高殊胜的善法之不乐，以及对欲乐功德(kāmaguṇa)的沉湎喜爱 -----
+
+这便是围绕着坏灭随观智的八种利益功德。（《清净之道》2，281。）
+因此，古代的诸义注师长老们如是说道。
+
+Imāni aṭṭhagguṇamuttamāni, disvā tahiṃ sammasate punappunaṃ.
+ādittacelassirasūpamo muni, bhaṅgānupassī amatassa pattiyā.（《清净之道》2，282。）
+
+tahiṃ = 于那坏灭随观中。
+imāni aṭṭhagguṇamuttamāni = 将以舍断有见为首的这八种殊胜的利益功德。
+disvā = 见到之后。
+ādittacelassirasūpamo = 譬如头上戴着熊熊燃烧的头巾者一般。
+bhaṅgānupassī = 习于观照坏灭(bhaṅga)者。
+muni = 瑜伽行的比库(bhikkhu)。
+amatassa = 趣向不死的甘露涅槃(nibbāna)。
+pattiyā = 为了到达。
+punappunaṃ = 一再地。
+sammasate = 以行法之坏灭为所缘、安立特相(lakkhaṇa)而修观、审思。
+
+对于头上所戴的头巾着火燃烧的男子而言，扑灭头巾上燃烧之火的工作，是最重要的工作。
+然而，比那项工作更为重要的工作，正是熄灭有身见(sakkāyadiṭṭhi)这地狱大火的工作。
+那想要熄灭那有身见地狱大火的瑜伽行比库，在那坏灭随观智中，见到以舍断有见＝常见为首的这八种殊胜的利益功德之后，为了到达不死的甘露涅槃这一崇高伟大的妙法 -----
+
+将称为过去、未来、现在的三时，称为内、外的二种相续之内所存在的、名为‘所知(ñāta)’的行法，以及把那些行法安立三种特相、强力地修观的、名为‘智(ñāṇa)’的观智 —— 将那名为‘所知’与‘智’的两类法之纯然坏灭，以观智设法照见，把三种特相轮番安立而强力地修观。
+请以名色二法、五蕴(khandhā)等各种方法，随自己所喜好地修观、审思。
+请铭记：在那些行法之中，也包含了入出息(ānāpāna)初禅、第二禅、第三禅、第四禅的诸名法(nāma)。
+
+**【文件：[278]坏灭随观智章/[309]a 趣入四念处的方式.md】**
+
+### 趣入四念处(satipaṭṭhāna)的方式
+
+yasmā panettha idameva catukkaṃ ādikammikassa kammaṭṭhānavasena vuttaṃ. itarāni pana tīṇi catukkāni ettha pattajjhānassa vedanā-citta-dhammānupassanāvasena vuttāni. (visuddhi, 1, 269.)
+
+在名为**《去向涅槃之道》**的这部论著中，已经详细地写出并呈现了从入出息念(ānāpānassati)定的部分起、直到坏灭随观智(bhaṅgānupassanā ñāṇa)为止的止(samatha)、观(vipassanā)修习的修行次第。佛陀(Buddha)曾把入出息(ānāpāna)的修行次第以四种四法(catukka)加以区分而宣说：
+
+- 一、以身随观(kāyānupassanā)念处之力的第一组四法，
+- 二、以受随观(vedanānupassanā)念处之力的第二组四法，
+- 三、以心随观(cittānupassanā)念处之力的第三组四法，
+- 四、以法随观(dhammānupassanā)念处之力的第四组四法 ---
+  - 分别加以区分而宣说了。
+
+**【文件：[278]坏灭随观智章/[309]b (一) 第一组四法.md】**
+
+### (一) 第一组四法
+
+kāyesu kāyaññatarāhaṃ bhikkhave evaṃ vadāmi yadidaṃ assāsapassāsā. (M-3-126)
+
+以止(samatha)而言，反复地观照称为遍作相(parikamma nimitta)、取相(uggahanimitta)、似相(paṭibhāga nimitta)的入出息身(assāsapassāsa kāya)；以观(vipassanā)而言，一再反复地观照色身(rūpakāya)、名身(nāmakāya)——这样的观照修习(bhāvanā)工作，正是**身随观念处(kāyānupassanā satipaṭṭhāna)修习**的工作。
+
+(甲) 以止而言，无论是以称为入出息(ānāpāna)遍作相、取相、似相的入出息身作为所缘(ārammaṇa)、努力培育定(samādhi)修习的工作，还是以称为入出息似相的入出息身作为所缘而生起第一禅那(paṭhama jhāna)、第二禅那、第三禅那、第四禅那、并一再反复地入于那些禅那——都名为正在修习、令圆满身随观念处。
+
+(乙) 以观而言，对于存在于那四种禅那之内、连同禅支(jhāna aṅga)在内、称为禅那相应法(jhānasampayutta dhamma)的禅那名法(jhāna nāma dhamma)，对于存在于那些禅那名法所依的心脏(hadaya)中、连同心所依处色(hadaya vatthu)在内的(54)种色法(rūpa dhamma)，以及对于存在于其余三时(kāla)、两种相续(santāna)之内、称为杂行(pakiṇṇaka-saṅkhāra)的色名法(rūpa-nāma dhamma)等行法(saṅkhāra dhamma)，以色法为先而把握之后，将那些行法一再反复地安立于特相(lakkhaṇa)之轨而修习观照——这也正名为正在修习、令圆满身随观念处。
+如此修习观照时，以色法为先、以色法为主导(padhāna)、以色法为优先而修观，之后再观名法(nāma dhamma)，如此便趣入身随观念处。
+直至坏灭智(bhaṅga ñāṇa)为止的第一组四法(paṭhama catukka)的观照部分，已经完整地撰写呈述完毕了。
+如今，将继续撰写呈述第二组四法(dutiya catukka)的观照部分等。-----
+
+**【文件：[278]坏灭随观智章/[310] (二) 第二组四法.md】**
+
+### (二) 第二组四法
+
+- (甲) pītipaṭisaṃvedī assasissāmīti sikkhati.
+  - pītipaṭisaṃvedī passasissāmīti sikkhati.
+- (乙) sukhapaṭisaṃvedī assasissāmīti sikkhati.
+  - sukhapaṭisaṃvedī passasissāmīti sikkhati.
+- (丙) cittasaṅkhārapaṭisaṃvedī assasissāmīti sikkhati.
+  - cittasaṅkhārapaṭisaṃvedī passasissāmīti sikkhati.
+- (丁) passambhayaṃ cittasaṅkhāraṃ assasissāmīti sikkhati.
+  - passambhayaṃ cittasaṅkhāraṃ passasissāmīti sikkhati. (M-3-125, Saṃ-3-279, Vi-1-88)
+- (甲) pītipaṭisaṃvedī ＝ 由于明明白白地了知禅那喜(jhāna pīti)，
+
+assasissāmi ＝ 把入息(assāsa)
+令生起。 iti ＝ 如此。
+sikkhati ＝ 他学。
+pītipaṭisaṃvedī ＝ 由于明明白白地了知禅那喜，
+passasissāmi ＝ 把出息(passāsa)令生起。
+iti ＝ 如此。
+sikkhati ＝ 他学。
+
+(乙) sukhapaṭisaṃvedī ＝ 由于明明白白地了知禅那乐(jhāna sukha)，……（中略）
+
+(丙) cittasaṅkhārapaṭisaṃvedī ＝ 由于明明白白地了知作为禅那法(jhāna dhamma)的、称为受蕴(vedanākkhandhā)与想蕴(saññākkhandhā)的心行(cittasaṅkhāra)法，……（中略）
+
+(丁) cittasaṅkhāraṃ ＝ 称为受蕴、想蕴的心行。
+passambhayaṃ ＝ 使之止息。……（中略）
+对于在第一组四法(paṭhama catukka)中已达到禅那、已获得禅那的瑜伽行者(yogāvacara puggala)——佛陀(Buddha)以受随观(vedanānupassanā)之力宣说第二组四法(dutiya catukka)、以心随观(cittānupassanā)之力宣说第三组四法(tatiya catukka)、以法随观(dhammānupassanā)之力宣说第四组四法(catuttha catukka)，将这三种四法都开示宣说了。
+(Visuddhi-1-269)因此，请如下铭记那第二组四法的巴利圣典(pāḷi)的缅文译文。---
+
+(甲) 明明白白地了知与第一禅那(paṭhama jhāna)、第二禅那相应的喜，作意『我将令入息生起』而修学。
+明明白白地了知与第一禅那、第二禅那相应的喜，作意『我将令出息生起』而修学。
+
+(乙) 明明白白地了知与第一禅那、第二禅那、第三禅那(tatiya jhāna)相应的乐受(sukha vedanā)，作意『我将令入息生起』而修学。
+明明白白地了知与第一禅那、第二禅那、第三禅那相应的乐受，作意『我将令出息生起』而修学。
+
+(丙) 明明白白地了知与四种禅那相应的、称为受蕴、想蕴的心行法，作意『我将令入息生起』而修学。
+明明白白地了知与四种禅那相应的、称为受蕴、想蕴的心行法，作意『我将令出息生起』而修学。
+
+(丁) 使与四种禅那相应的、称为受蕴、想蕴的粗重的心行法止息，作意『我将令入息生起』而修学。
+使与四种禅那相应的粗重的心行法止息，作意『我将令出息生起』而修学。
+
+**【文件：[278]坏灭随观智章/[311]a (甲) 觉知喜.md】**
+
+### (甲) 觉知喜(pīti paṭisaṃvedī)
+
+使喜(pīti)明显，令喜明显而修习以使入息与出息(assāsa passāsa)生起者 ----
+
+- 1. ārammaṇato = 依所缘(ārammaṇa)而修习令[喜]明显，
+- 2. asammohato = 依不迷惑地了知而修习令[喜]明显 -----如是有二种。
+
+1. 所谓依所缘的体性使喜明显，是指 ----- 入与喜相应的初禅(paṭhamajjhāna)、第二禅(dutiyajjhāna)。
+在那位瑜伽行者(yogāvacara)的相续(santāna)中，于正入禅那(jhāna)的等至(samāpatti)时刻，由于获得禅那，凭借能使喜极为强盛地生起、为令喜得以极为强盛地生起而以所缘缘(ārammaṇapaccaya)之力作出助益的入出息似相(ānāpāna paṭibhāganimitta)所缘的明显 = 由于清清楚楚地了知入出息似相所缘，便依所缘的体性清清楚楚地了知喜。
+
+2. 复次，入与喜相应的那初禅、第二禅，从该禅那出定，把与禅那相应的喜依其会消尽、会坏灭的尽-灭(khaya-vaya)体性，安立特相(lakkhaṇa)之车，而修习观(vipassanā)、观照审察。
+那位瑜伽行者，在以观观照喜的剎那(khaṇa)、看见的剎那，由于通达地了知、看见喜的自性特相(sabhāvalakkhaṇa)与共相(sāmaññalakkhaṇa)，便依不迷惑的无痴(asammoha)体性，喜成为应当清清楚楚地了知的法(dhamma)。(《清净之道》1,279。)
+
+**【文件：[278]坏灭随观智章/[311]b (乙) 觉知乐.md】**
+
+### (乙) 觉知乐(sukha paṭisaṃvedī)
+
+1. 入定与乐受(sukha vedanā)相应的初禅(paṭhamajjhāna)、第二禅(dutiyajjhāna)、第三禅(tatiyajjhāna)。
+那位瑜伽行者(yogāvacara)，于正入禅那(jhāna)等至(samāpatti)的剎那(khaṇa)，由于获得禅那、由于具足禅那，凭借能使乐受极为强盛地生起、为令乐受得以极为强盛地生起而以所缘缘(ārammaṇapaccaya)之力作出助益的入出息似相(ānāpāna paṭibhāga nimitta)所缘(ārammaṇa)的明显 = 由于清清楚楚地了知入出息似相所缘，以能取那入出息似相所缘为因，便清清楚楚地了知以那入出息似相为所缘的禅那中所摄的乐受。
+
+2. 复次，入定与乐受相应的初禅、第二禅、第三禅，从该禅那出定，把与禅那相应的乐受依其会消尽、会坏灭的尽-灭(khaya-vaya)体性，安立特相(lakkhaṇa)之车，而修习观(vipassanā)、观照审察。
+那位瑜伽行者，在以观观照那乐受、以剎那观智(khaṇa vipassanā ñāṇa)看见的剎那，由于通达地了知、看见乐受的自性特相(sabhāvalakkhaṇa)与共相(sāmaññalakkhaṇa)，便依不迷糊地了知的无痴(asammoha)体性，乐受成为应当清清楚楚地了知的法(dhamma)。
+
+Sukhapaṭisaṃvedīpade c'ettha vipassanābhūmidassanatthaṃ "sukhanti dve sukhāni kāyikañca sukhaṃ cetasikañcā"ti paṭisambhidāyaṃ vuttaṃ. (Visuddhi 1, 280.)
+
+**Vipassanābhūmidassanattha**nti pakiṇṇakasaṅkhārasammasanavasena vipassanāya bhūmidassanatthaṃ "**sukhanti dvesukhānī**"tiādi vuttaṃ samathe kāyikasukhābhāvato. (Mahāṭī 1, 341.)
+
+**Pakiṇṇakasaṅkhāre**ti pādakajjhānato aññasaṅkhāre.
+Tena pādakajjhānasaṅkhāresu sammasitesu vattabbameva natthīti dasseti. (Mūlaṭī 1, 116.)
+
+在 **觉知乐** 这一词中，乐(sukha)是指应当统摄名为身乐受(kāyika sukha vedanā)、心乐受(cetasika sukha vedanā)的这两种乐受——《无碍解道(paṭisambhidā magga)》巴利圣典(186)中如此宣说。
+在止禅(samatha jhāna)法中，只有心乐受相应，身乐受则不相应。
+身乐受只在与乐俱行(sukha-sahagata)的身识(kāyaviññāṇa)心中相应。
+在止禅的名(nāma)法群中，与乐俱行的身识心也不包含其中。
+若问：既然如此不包含其中，为何在《无碍解道》巴利圣典中却要把身乐受也纳入、统摄而宣说呢？——是为了开示指明：除了观的根本——基础禅(pādaka jhāna)以外，对于名为杂行(pakiṇṇaka saṅkhāra)的其余种种行法(saṅkhāra dhamma)也应当安立特相之车而修观，即应当修观的、名为观地(vipassanā bhūmi)的观智(vipassanā ñāṇa)之住处；因此就乐而言，连身乐受也纳入而宣说——可如此解答。(《清净之道》1,280。Mahāṭī 1,341。Mūlaṭī 1,116。)
+
+依照以上这些巴利圣典、注释(aṭṭhakathā)、义疏(ṭīkā)，对入出息念业处(ānāpāna kammaṭṭhāna)以及其余种种止业处(samatha kammaṭṭhāna)，已修习用功直至获得禅那的以止为乘者(samathayānika)瑜伽行者，在观的部分，对于除了被确立为观之根本基础的基础禅以外、名为杂行=繁杂之行的其余色、名法之行法，也应当修观、观照审察——应当如此确定无疑、坚定不移地铭记领受。
+借由那段话便表明：对于与基础禅相应的禅那诸行法安立特相之车而修观、观照审察，已是毫无可议之处了。
+
+而在本书中，是把入出息诸禅那、尤其是入出息第四禅(ānāpāna catutthajjhāna)，作为观的根本因由的基础禅来撰写呈述的。
+除该基础禅之外其余一切的色法、名法、因法、果法，全都是名为杂行的、作为观智所观所缘的行法群。
+观地=即是观智的住处。
+渴慕、欣求真理的你这位善男子，对这些巴利圣典、注释、义疏，理应以无比的恭敬尊重而虔诚信乐、珍视爱重，理应深怀感恩。
+
+**【文件：[278]坏灭随观智章/[313]a (丙) 觉知心行.md】**
+
+### (丙) 觉知心行(cittasaṅkhāra paṭisaṃvedī)
+
+**cittasaṅkhāro**ti vedanādayo dve khandhā. (Visuddhi 1, 280.)
+
+与初禅(paṭhamajjhāna)、第二禅(dutiyajjhāna)、第三禅(tatiyajjhāna)相应的乐受(sukha vedanā)与想(saññā)，以及与第四禅(catutthajjhāna)相应的舍受(upekkhā vedanā)与想——这些受蕴(vedanākkhandhā)、想蕴(saññākkhandhā)便是心行(cittasaṅkhāra)诸法。瑜伽行者(yogāvacara)应当这样修习：令这一群心行法明现、明明白白地了知它，而令入息、出息生起。
+佛陀(Buddha)指示道：应当明明白白地了知这一群心行法而呼吸。
+这些正是富有利益的呼吸方法与系统。
+在此也分作止(samatha)的部分与观(vipassanā)的部分这两个部分，依下文铭记。
+
+1. 入定与乐受相应的入出息(ānāpāna)初禅、第二禅、第三禅，以及与舍受相应的第四禅。
+那位瑜伽行者，于正入禅那(jhāna)等至(samāpatti)的剎那(khaṇa)，由于获得禅那、由于具足禅那，凭借能使称为受、想的心行法群极为强盛地生起、为令其得以极为强盛地生起而以所缘缘(ārammaṇapaccaya)之力作出助益的入出息似相(ānāpāna paṭibhāga nimitta)所缘(ārammaṇa)的明显，由于清清楚楚地了知入出息似相所缘，以能取那入出息似相所缘为因，便清清楚楚地了知以那入出息似相为所缘的禅那中所摄的心行法群。
+这是在止的部分中，由于所缘明显生起，故依所缘的体性而使心行法明显。
+这便是在止的部分中明明白白地了知心行法的方式。
+
+2. 复次，入定与受、想相应的入出息四种禅那，从该禅那出定，把与禅那相应的受、想依其会消尽、会坏灭的尽-灭(khaya-vaya)体性，安立特相(lakkhaṇa)之车，而修习观、观照审察。
+那位瑜伽行者，在以观观照那受、想的剎那、以观智(vipassanā ñāṇa)了知看见的剎那，由于通达地了知、看见受、想的自性特相(sabhāvalakkhaṇa)与共相(sāmaññalakkhaṇa)，便依不迷糊地了知的无痴(asammoha)体性，名为心行的受、想这两种法成为应当明明白白地了知的诸法(dhamma)。
+这便是在观的部分中明明白白地了知心行法的方式。
+
+**【文件：[278]坏灭随观智章/[313]b (ဃ) 平息心行.md】**
+
+### (ဃ) Passambhayaṃ cittasaṅkhāraṃ
+
+在入出息念(ānāpānassati)定部分 ----- 已经写出并陈述了名为身行(kāyasaṅkhāra)的入息与出息(assāsa passāsa)逐步寂止的方式。
+同样地，也应依此方法了知心行(cittasaṅkhāra)法逐步寂止的方式。
+再者，在观(vipassanā)部分，也已写出并陈述了名为身行的入息与出息逐步寂止的方式。
+同样地，也应依此方法了知心行法逐步寂止的方式。
+
+**【文件：[278]坏灭随观智章/[314]a 受随观.md】**
+
+###　受随观(vedanānupassanā)
+
+在「pītipaṭisaṃvedī」一词中，以喜(pīti)为先，宣说了受(vedanā)。 
+在「sukhapaṭisaṃvedī」一词中，以显明其自相的方式，直接宣说了受。 
+在「cittasaṅkhārapaṭisaṃvedī」与「passambhayaṃ cittasaṅkhāraṃ」这心行(cittasaṅkhāra)的两个词中，「想(saññā)与受这两种心所(cetasika)法，都是与心相系的心系属法(cittapaṭibaddha)、心行法」——由于这是在《根本五十经(mūlapaṇṇāsa)》巴利圣典与《无碍解道(paṭisambhidā magga)》巴利圣典（M,1,376。Paṭisaṃ,187。） 
+等中所宣说的，所以宣说的是与想相应(sampayutta)的受。 
+应当如此了知：这第二组四法(dutiya catukka)是以**受随观法**宣说的。（Visuddhi,1,280。）
+
+Vedanāsu vedanāññatarāhaṃ bhikkhave evaṃ vadāmi yadidaṃ assāsapassāsānaṃ sādhukaṃ manasikāraṃ. (M,3,126.)
+
+诸比库……对入息与出息(assāsapassāsa)，为使喜显明、使乐(sukha)显明等，以殊胜的精进努力、善妙恭敬地作意，这便是于种种受中作意一种受——我佛如此宣说。（M,3,126。入出息念经(ānāpānassati sutta)。）
+
+**【文件：[278]坏灭随观智章/[314]b 是否只观照受这一种？.md】**
+
+### 是否只须观照受这一种？
+
+yassa vedanā pākaṭā hoti. so "na kevalaṃ vedanāva uppajjati, tāya saddhiṃ tadevārammaṇaṃ phusamāno phassopi uppajjati, sañjānanamānā saññāpi, cetayamānā cetanāpi, vijānanamānaṃ viññāṇampi uppajjatī"ti phassapañcamakeyeva pariggaṇhāti. (dī-ṭṭha-1-314. ma-ṭṭha-1-280. abhi-ṭṭha-2-252.)
+
+依据上述这些大义注(aṭṭhakathā)，以及作为其解释的诸大复注(ṭīkā)，并非只须观照受这一种。
+应当记住：与那禅那受(jhānavedanā)俱生相应(sampayutta)的一切诸法，也都须以观(vipassanā)来观照。
+其后，当观照了那些禅那名法之后，《清净之道》义注（《清净之道》2-222）还教导：对那些禅那名法所依的大种色(bhūta rūpa)与所造色(upādā rūpa)，也要继续收摄而修观观照。
+完整的解说，已在前面的名业处(nāma kammaṭṭhāna)部分中讲解陈述过了。
+若有意愿，请到那名业处部分中再翻阅一遍。
+
+**【文件：[278]坏灭随观智章/[314]c (三) 第三组四法.md】**
+
+### (三) 第三组四法
+
+- (甲) cittapaṭisaṃvedī assasissāmīti sikkhati.
+  - cittapaṭisaṃvedī passasissāmīti sikkhati.
+- (乙) abhippamodayaṃ cittaṃ assasissāmīti sikkhati.
+  - abhippamodayaṃ cittaṃ passasissāmīti sikkhati.
+- (丙) samādahaṃ cittaṃ assasissāmīti sikkhati.
+  - samādahaṃ cittaṃ passasissāmīti sikkhati.
+- (丁) vimocayaṃ cittaṃ assasissāmīti sikkhati.
+  - vimocayaṃ cittaṃ passasissāmīti sikkhati. (M-3-125)
+
+- (甲) cittapaṭisaṃvedī ＝ 由于明明白白地了知禅那心(jhāna citta)，assasissāmi ＝ 把入息(assāsa)令生起。iti ＝ 如此。sikkhati ＝ 他学。……（中略）
+- (乙) cittaṃ ＝ 心。abhippamodayaṃ ＝ 使之极为欢欣喜悦。……（中略）
+- (丙) cittaṃ ＝ 心。samādahaṃ ＝ 将之善加安置于所缘(ārammaṇa)上。……（中略）
+- (丁) cittaṃ ＝ 心。vimocayaṃ ＝ 使之从盖(nīvaraṇa)等之中解脱出来。……（中略）
+
+- (甲) 明明白白地了知第一禅那(paṭhama jhāna)心、第二禅那心、第三禅那(tatiya jhāna)心、第四禅那心，作意『我将令入息生起』而修学。 
+第一禅那心 第二禅那心 第三禅那心 第四
+禅那心，明明白白地了知后，作意『我将令出息(passāsa)生起』而修学。
+- (乙) 使心极为欢欣喜悦，作意『我将令入息生起』而修学。
+  - 使心极为欢欣喜悦，作意『我将令出息生起』而修学。
+- (丙) 将心善加安置于所缘上，作意『我将令入息生起』而修学。
+  - 将心善加安置于所缘上，作意『我将令出息生起』而修学。
+- (丁) 使心从盖等之中解脱出来，作意『我将令入息生起』而修学。
+  - 使心从盖等之中解脱出来，作意『我将令出息生起』而修学。(M-3-125, Saṃ-3-279, Vi-1-88)
+
+**【文件：[278]坏灭随观智章/[315] (甲) 觉知心.md】**
+
+### (甲) 觉知心(citta paṭisaṃvedī)
+
+通过使禅那心(jhāna citta)被清楚明了地了知，从而令入息与出息(assāsa passāsa)得以生起的修习，有两种：以所缘(ārammaṇa)之性质而清楚明了地了知的修习，以及以不迷惑、明了了知的无痴(asammoha)之性质而清楚明了地了知的修习。
+
+一、为了能特别清楚明了地了知各个禅那心而导向于此，逐一进入初禅(paṭhama jhāna)、第二禅、第三禅、第四禅。
+那位瑜伽行者(yogāvacara puggala)在正进入禅那等至(jhāna samāpatti)的剎那(khaṇa)，由于获得了禅那、由于具足了禅那，那能令禅那心极为强盛地生起、足以使禅那心极为强盛地生起的、以所缘缘力(ārammaṇa paccaya satti)而施予助益的入出息似相(ānāpāna paṭibhāga nimitta)所缘清楚明了地现起着，由于清楚明了地了知着入出息似相所缘，由于能够缘取那入出息似相所缘——以此为因，便清楚明了地了知以那入出息似相为所缘的禅那心。
+这便是以所缘之性质清楚明了地了知禅那心的方式。
+
+二、再者，逐一进入入出息(ānāpāna)的初禅、第二禅、第三禅、第四禅，又从那各个禅那中出定，以会消尽、会坏灭的衰灭、坏灭(khaya-vaya)之性质，将三种特相之车(lakkhaṇa yāna)逐一轮番安立，而修习观(vipassanā)、加以审察。
+那位瑜伽行者在以观观照那禅那心的剎那、在以观智(vipassanā ñāṇa)照见的剎那，由于通达地了知、照见禅那心的自性相(sabhāva lakkhaṇa)与共相(sāmañña lakkhaṇa)，以不迷惑、明了了知的无痴之性质，那禅那心便成为那位瑜伽行者应当清楚明了地了知的法。
+这便是以无痴之性质清楚明了地了知禅那心的方式。
+
+如是，为了一边以所缘之性质、也一边以无痴之性质清楚明了地了知那各个禅那心，一边呼吸，佛陀(Buddha)开示了呼吸的方法体系。
+它们确实是具足圆满能量、能够把人输送直至涅槃(nibbāna)的优良呼吸方法。
+
+**【文件：[278]坏灭随观智章/[316] (乙) 令心欢悦.md】**
+
+### (乙) 令心欢悦(abhippamodayaṃ cittaṃ)
+
+在使心极为欢喜喜悦、从而令入息(assāsa)得以生起、令出息(passāsa)得以生起的修习中，心的极为欢喜喜悦，既藉由定(samādhi)之力，也藉由观(vipassanā)之力而生起。
+
+一、藉由定之力，心的极为欢喜喜悦是如何生起的呢？逐一进入与喜(pīti)相应的初禅(paṭhama jhāna)、第二禅这两种禅那(jhāna)。
+那位瑜伽行者(yogāvacara puggala)在正进入禅那等至(jhāna samāpatti)的剎那(khaṇa)，藉由与禅那心(jhāna citta)相应的禅那之喜，令那相应的禅那心极为喜悦，令它极为欢喜振奋。
+这便是藉由定之力而令心欢喜振奋的方式。(《清净之道》1,280。)
+
+与禅那心相应的喜，是名为喜觉支(pīti sambojjhaṅga)的法(dhamma)。
+它具有令身心振奋喜悦的自性相(sabhāva lakkhaṇa)。
+那禅那之喜，藉由俱生(sahajāta)等的诸缘力(paccaya satti)、也藉由禅那缘力(jhāna paccaya satti)，对与自己相应的禅那心施予助益，令身心从周遭得到满足、充盈、增长，使之达到欢喜振奋的状态，从而令身心满足、喜悦、欢喜。
+因此，佛陀(Buddha)开示了进入那两种禅那而呼吸的方法。(《大义疏》1,341。)
+
+二、藉由观之力，心的极为欢喜喜悦是如何生起的呢？逐一进入与喜相应的初禅、第二禅这两种禅那，又从那各个禅那中出定，以会消尽、会坏灭的衰灭、坏灭(khaya-vaya)之性质，将三种特相之车(lakkhaṇa yāna)逐一轮番安立，而修习、审察观。
+如是，在观的剎那，那位瑜伽行者藉由作为那观智(vipassanā ñāṇa)所观对象的喜，令以与禅那相应的喜为所缘(ārammaṇa)而生起的观心(vipassanā citta)达到欢喜振奋的状态，令它满足、喜悦、振奋。
+如此修习的瑜伽行者，可说是‘令心喜悦而将令入息生起、将令出息生起’地修习着的人。(《清净之道》1,280-281。)
+
+善人您想要永远以欢喜喜悦的心境呼吸吗？若您有此愿望，就请进入与喜相应的禅那。
+请一再地、反复多次地以观观照那些伴随喜的禅那名法(nāma dhamma)。
+如此进入禅那的整段时间里，如此修观的整段时间里，善人您必定能永远愉悦欢喜地呼吸。
+这些正是为了善人您能在此生愉悦欢喜地生活、最为无过失的方法。
+实在应当对正自觉者佛陀(sammāsambuddha)无比特别地感恩。
+
+正如善人您遇见一位面带微笑、可敬可爱的朋友时，您的心相续(citta santati)中也会绽放出朵朵笑靥一般；同样地，在观照与喜相应的禅那名法的心中，也始终伴随着许多喜。
+与那喜相应的禅那心，以及观照那些伴随喜的禅那名法的观心——由于这些心而生起的种种殊胜的心生色(cittaja rūpa)，也遍布全身地生起着。
+因此说，喜具有令身心满足、喜悦、振奋的自性相。
+
+**【文件：[278]坏灭随观智章/[317] (丙) 令心等持.md】**
+
+### (丙) 令心等持(samādahaṃ cittaṃ)
+
+把心好好安立、安稳清明地安立而呼吸之法。
+
+一、依次进入初禅(paṭhama jhāna)、第二禅、第三禅、第四禅；在各个禅那等至(jhāna samāpatti)之内，禅那心(jhāna citta)于入出息似相(ānāpāna paṭibhāga nimitta)所缘(ārammaṇa)上善加安住。
+如是安住时，在止(samatha)的部分，藉由定(samādhi)之力，将心善加安立于入出息似相所缘，心以安稳清明而呼吸——正应如此说。(《清净之道》1,281。)
+
+所谓“把心善加安立于入出息似相所缘而呼吸”——是说：以某种方式将心安立于入出息似相所缘时，心连一丝一毫也不滑向退缩、也不滑向散逸（飘散），既不沉坠也不掉举，心稳固安住。
+以某种方式将心安立于入出息似相所缘时，由于能修习令诸根(indriya)趋于平衡，心便于入出息似相所缘上平等均衡地稳固安住。
+另一种说法——以某种方式将心安立于入出息似相所缘时，由于达到了定极为强盛的状态，从而达到不动摇，心便于入出息似相所缘上唯善加稳固安住。
+以这样的方式，藉由安止禅(appanā jhāna)之力，将禅那心善加安立于入出息似相所缘，令入息(assāsa)得以生起、令出息(passāsa)得以生起＝为能呼吸而精勤勉励地修习——意即如此。(《大义疏》1,341-342。)
+这便是在止的部分将心好好安立而呼吸的方式。
+在观(vipassanā)的部分，将心善加安立于所缘而呼吸的方式如下。
+
+tāni vā pana jhānāni samāpajjitvā vuṭṭhāya jhānasampayuttaṃ cittaṃ khayato vayato sampassato vipassanākkhaṇe lakkhaṇapaṭivedhena uppajjati khaṇikacittekaggatā.
+evaṃ uppannāya khaṇikacittekaggatāya vasenapi ārammaṇe cittaṃ samaṃ ādahanto samaṃ ṭhapento "samādahaṃ cittaṃ assasissāmi passasissāmīti sikkhatī"ti vuccati. (Visuddhi 1, 281.)
+
+**lakkhaṇapaṭivedhenā**ti aniccādikassa lakkhaṇassa paṭi paṭi vijjhanena khaṇe khaṇe avabodhena.
+**khaṇikacittekaggatā**ti khaṇamattaṭṭhitiko samādhi.
+sopi hi ārammaṇe nirantaraṃ ekākārena pavattamāno paṭipakkhena anabhibhūto appito viya cittaṃ niccalaṃ ṭhapeti.
+tena vuttaṃ "**evaṃ uppannāyā**"-tiādi. (Mahāṭī 1, 342.)
+
+二、瑜伽行者(yogāvacara puggala)依次一个接一个地进入入出息初禅、第二禅、第三禅、第四禅。
+每当从禅那出定，便以会灭尽、会坏灭的尽灭坏灭(khaya-vaya)之体性，缘取那禅那心——即与禅那相应的禅那相应心(jhāna sampayutta citta)——之坏灭，将三种特相之车逐一安立，而修观观照审思。
+(＝进入入出息初禅，从那初禅出定后，缘取那初禅心之坏灭，依无常(anicca)、依苦(dukkha)、依无我(anatta)，将特相之车逐一安立而修观。对于第二禅等等也应同样地理解。)
+如是修观观照审思时，缘取那禅那心于每一剎那每一剎那都在坏灭的体性，若观为无常，便通达地了知无常相(anicca lakkhaṇa)；若观为苦，便通达地了知苦相(dukkha lakkhaṇa)；若观为无我，便通达地了知无我相(anatta lakkhaṇa)。
+如是不间断地通达了知时，观心(vipassanā citta)无论于那禅那心的无常相状上也好好安住，于苦相状上也好好安住，于无我相状上也好好安住。
+如是于那禅那心的无常相状、或苦相状、或无我相状这样某一种相状上不间断、毫无间隙地善加安住的观定(vipassanā samādhi)，称为剎那心一境性(khaṇika cittekaggatā)＝剎那定(khaṇika samādhi)。
+那剎那心一境性＝剎那定，当它于那禅那心的坏灭所缘上，以无常相状、苦相状、无我相状这三种相状中的某一种相状不间断、毫无间隙地持续生起时，由于相违之法不能压伏、无法压伏，犹如将观心钉立于禅那心的坏灭所缘上一般＝犹如将一根柱子竖立钉牢于大地上一般，观心便毫不动摇地稳固安住。
+藉由如此生起的剎那心一境性＝剎那定之力，对于将观心平正均衡、善加朝向于禅那心坏灭所缘的比库(bhikkhu)——便说他是如此修习的：“平正均衡、善加朝向心而令入息得以生起、令出息得以生起”。(《清净之道》1,281。《大义疏》1,342。)
+
+这便是佛陀(Buddha)在止与观这两个部分中，开示了一种将心平正均衡、善加朝向于所缘而呼吸的方法体系的、一篇教诫训示之说法。
+你这位善男子，是否已能将心好好安立而呼吸了呢？-
+
+**【文件：[278]坏灭随观智章/[318] (丁) 令心解脱.md】**
+
+### (丁) 令心解脱(vimocayaṃ cittaṃ)
+
+这里也分为两部分：止(samatha)的部分与观(vipassanā)的部分。
+在止的部分，使心成为令解脱之心(vimocaya citta)＝从对立诸法中解脱出来的心，这样的修习方式如下。-----
+
+一、依次逐一地进入入出息(ānāpāna)初禅(paṭhama jhāna)、第二禅、第三禅、第四禅。
+在进入初禅等至(samāpatti)的时候，于禅那等至之中，禅那心(jhāna citta)从盖(nīvaraṇa)的污垢中解脱出来。在进入第二禅等至的时候，禅那心从寻(vitakka)、伺(vicāra)中解脱出来。
+在进入第三禅等至的时候，禅那心从喜(pīti)中解脱出来。
+在进入第四禅等至的时候，禅那心从乐(sukha)、苦(dukkha)中解脱出来，这便是抽离解脱(vikkhambhana vimutti)。
+
+因此，善人您藉由进入初禅，令禅那心从盖的污垢中解脱出来，而修习以令入息与出息生起。
+藉由进入第二禅，令禅那心从寻、伺中解脱出来，而修习以令入息与出息生起。
+藉由进入第三禅，令禅那心从喜中解脱出来，而修习以令入息与出息生起。
+藉由进入第四禅，令禅那心从乐、苦中解脱出来，而修习以令入息与出息生起。
+这便是在止的部分，令心从对立诸法中解脱出来，而以‘我将令入息生起、我将令出息生起’这样修习的方式。(《清净之道》1,281。)
+
+二、在观的部分，令心从对立诸法中解脱出来而修习的方式如下。
+
+进入入出息初禅。
+从那初禅出定，把与禅那相应的禅那心＝以禅那心为先，藉由智(ñāṇa)观见：名身(nāmakāya)、色身(rūpakāya)之聚合，即一切行法(saṅkhāra dhamma)的聚集，具有会消尽、会坏灭的衰灭、坏灭(khaya-vaya)之性质，以智观见这衰灭、坏灭之性质，将三种特相之车(lakkhaṇa yāna)逐一轮番安立，而修习、审察观。
+
+Cittamukhena sabbasaṅkhāragataṃ aniccato passati, no niccato.(《大义疏》1,342。)
+
+- 进入入出息第二禅。……（中略）
+- 进入入出息第三禅。……（中略）
+
+进入入出息第四禅。
+从那禅那出定，把与禅那相应的禅那心＝以禅那心为先，藉由观智(vipassanā ñāṇa)观见：名身、色身之聚合，即一切行法的聚集，具有会消尽、会坏灭的衰灭、坏灭之性质，以观智观见这会消尽、会坏灭的衰灭、坏灭之性质，将三种特相逐一轮番安立，而修习、审察观。
+在如此修习、审察观的观智之际，尤其在坏灭随观智(bhaṅgānupassanā ñāṇa)之际，心便从对立诸法中解脱出来。
+的确如此 ----- 称为坏灭(bhaṅga)的灭去，乃是无常(anicca)之生起即无常相(anicca lakkhaṇa)最为殊胜、最极、最终极的部分。
+因此，藉由那坏灭随观智，以禅那心为先而观照诸行法之灭去——坏灭的瑜伽行者(yogāvacara)，由于以禅那心为主、为先，便把一切行法的聚集观为无常，不观为常(nicca)。
+又因为无常之法实为苦，也因为苦之法实为无我(anatta)，便把那些行法的聚集一再地观为苦，不观为乐。
+一再地观为无我，不观为我(attā)。
+再者，凡是无常、苦、无我之法，那种法不应喜爱、不值得喜爱。
+凡是不应喜爱、不值得喜爱之法，那种法不应以贪(rāga)贪着、不值得执取。
+因此，藉由次第趣入那能观照诸行法之灭去——坏灭的坏灭随观智，当以观智把一切行法的聚集观见为无常、苦、无我时，对那已被观智观见的行法聚集便生起倦厌，不再喜爱。
+贪着便止息，不再贪着。
+如此倦厌、离于贪着的那位瑜伽行者，首先便藉由世间(lokiya)观智令贪止息，使之不生。
+不造作那贪的生起，不造作其生起之因法。
+这便是在‘令心从对立诸法中解脱出来而令入息与出息(assāsa passāsa)生起’这点上所要表达的意涵。(《大义疏》1,342。)
+
+《大义疏》(Mahāṭīkā)的长老又以另一种方法再次作了阐释。
+在那种方法中，分为已见之法(diṭṭha)与未见之法(adiṭṭha)两类而作了阐释。
+
+**【文件：[278]坏灭随观智章/[320] 见与未见之法.md】**
+
+### 见与未见之法（diṭṭha-adiṭṭha）
+
+atha vā so evaṃ viratto yathā diṭṭhaṃ saṅkhāragataṃ, tathā adiṭṭhaṃ attano ñāṇena nirodheti, no samudeti.
+nirodhamevassa manasi karoti, no samudayanti attho. （大义疏1,342）
+
+另一种方法——这样离贪着的那位瑜伽行者（yogāvacara），对于已经以观智（vipassanā ñāṇa）现前观见的诸行（saṅkhāra）法，如何刹那不断、相续地对其坏灭作意；同样地，对于尚未以观智现前观见的诸行法，他以自己的观智对其灭去作意，而不对其生起作意。
+也就是说：他只对那尚未现前观见的诸行法的灭去作意，而不对它们的生起、增长作意。（大义疏1,342）
+
+这样修行的那位瑜伽行者，反过来舍弃（诸行），而不执取。
+若问这指的是什么意思，那就是说：这随观无常（aniccānupassanā）等等的随观智（anupassanā ñāṇa），由于舍弃了诸蕴（khandhā）以及能够营造新生（有）的诸积聚（abhisaṅkhāra）法，所以也称为遍舍的舍遣（pariccāga paṭinissagga）。
+有为（saṅkhata）法 = 由于看见称为「诸行法的变易、坏灭」的过患，因而趋入与那些有为法相反的、无为（asaṅkhata）的涅槃（nibbāna）至尊之法——以倾向、偏向、趣向那涅槃的方式趋入——所以也称为跳入的舍遣（pakkhandana paṭinissagga）。
+因此，具足那定弃观（paṭinissaggānupassanā）的瑜伽行者，以前面所说的方法，既舍弃诸烦恼（kilesa），也趋入涅槃。
+因此，注释书（aṭṭhakathā）的阿阇梨继续解说了以下的语句。（大义疏1,342）
+
+那位瑜伽行者以禅那心（jhāna citta）为首，对诸行法修观（vipassanā），在观的时候，以无常随观智（aniccānupassanā ñāṇa）使心从常想（nicca saññā）中解脱出来，而生起入息，生起出息。
+以苦随观智（dukkhānupassanā ñāṇa）使心从乐想（sukha saññā）中、以无我随观智（anattānupassanā ñāṇa）使心从我想（atta saññā）中、以厌离随观智（nibbidānupassanā ñāṇa）使心从称为「欢喜」的喜（nandī）法中、以观见诸行法那刹那不断、相续地耗尽坏灭的「尽、离染」之性的尽离染随观智（khaya-virāgānupassanā ñāṇa）使心从贪着的贪（rāga）中、以观见诸行法那刹那不断、相续地灭坏的「刹那灭」之性的灭尽随观智（nirodhānupassanā ñāṇa）使心从生起之集（samudaya）中、以定弃随观智（paṭinissaggānupassanā ñāṇa）使心从将诸行法当作常等而强烈执取的执取（ādāna）中解脱出来，而生起入息，生起出息。
+因此——「『我将使心从对治之诸法中解脱而生起入息、我将使心从对治之诸法中解脱而生起出息，如此而学』」，佛陀（Buddha）如是宣说。
+如是，应当了知：是以**心随观（cittānupassanā）**之力宣说了这第三组四法（tatiya catukka）。（《清净之道》1,281）
+
+**【文件：[278]坏灭随观智章/[321] 只须观照单一的心吗？.md】**
+
+### 只须观照单一的心吗？
+
+yassa viññāṇaṃ pākaṭaṃ hoti, so “na kevalaṃ viññāṇameva uppajjati, tena saddhiṃ tadevārammaṇaṃ phusamāno phassopi uppajjati, anubhavamānā vedanāpi, sañjānanamānā saññāpi, cetayamānā cetanāpi uppajjatī”ti phassapañcamakeyeva pariggaṇhāti. (Dī-ṭṭha-1-314. Ma-ṭṭha-1-280-281. Abhi-ṭṭha-2-252.)
+
+tasmā tāya bhaṅgānupassako yogāvacaro cittamukhena sabbasaṅkhāragataṃ aniccato passati, no niccato. (Mahāṭī-1-342.)
+
+正如世尊(Buddha)在《无遍知经(Aparijānana Sutta)》(Saṃ-2-249-250)等诸经中所开示的『若不以三种遍知(pariññā)之慧将一切五执取蕴(pañcupādānakkhandhā)的诸行法(saṅkhāra dhamma)逐一分别地了知，轮回(saṃsāra)轮转之苦(dukkha)便无法穷尽』，上述的注释书(aṭṭhakathā)与大疏钞(ṭīkā)也同样阐明：应以心(citta)为先导，对一切诸行法都修观(vipassanā)。
+因此，你这位善男子也应以禅那心(jhāna citta)为先导，对一切诸行法都修观。
+
+**【文件：[278]坏灭随观智章/[321]b (四) 第四组四法.md】**
+
+### (四) 第四组四法
+
+- (甲) aniccānupassī assasissāmīti sikkhati.
+  - aniccānupassī passasissāmīti sikkhati.
+- (乙) virāgānupassī assasissāmīti sikkhati.
+  - virāgānupassī passasissāmīti sikkhati.
+- (丙) nirodhānupassī assasissāmīti sikkhati.
+  - nirodhānupassī passasissāmīti sikkhati.
+- (丁) paṭinissaggānupassī assasissāmīti sikkhati.
+  - paṭinissaggānupassī passasissāmīti sikkhati.
+- (甲) aniccānupassī ＝ 由于一再、反复地把诸行法(saṅkhāra dhamma)观为无常(anicca)。assasissāmi ＝ 把入息(assāsa)令生起。iti ＝ 如此。sikkhati ＝ 他学。……（中略）
+- (乙) virāgānupassī ＝ 由于一再、反复地观照尽离染(khayavirāga)、究竟离贪(accantavirāga)之自性。
+  - 另一种说法 ----- 由于一再、反复地观照诸行法的坏灭即坏(bhaṅga)，以及贪(rāga)远离之处——涅槃(nibbāna)。……（中略）
+- (丙) nirodhānupassī ＝ 由于一再、反复地观照尽灭(khayanirodha)、究竟灭尽(accantanirodha)之自性。
+  - 另一种说法 ---- 由于一再、反复地观照诸行法的灭尽即刹那坏灭(khaṇabhaṅga)，以及贪止息之处——涅槃。……（中略）
+- (丁) paṭinissaggānupassī ＝ 由于一再、反复地观照遍舍的舍遣(pariccāga paṭinissagga)、跳入的舍遣(pakkhandana paṭinissagga)之自性。
+  - 另一种说法 ---- 由于一再、反复地观照能舍弃烦恼(kilesa)-蕴(khandha)-积聚(abhisaṅkhāra)诸法的、诸行法之坏灭即刹那坏灭，以及涅槃。……（中略）
+- (甲) 一再、反复地把诸行法观为无常，作意『我将令入息生起』而修学。
+  - 一再、反复地把诸行法观为无常，作意『我将令出息(passāsa)生起』而修学。
+- (乙) 一再、反复地观照诸行法的坏灭即刹那坏灭，以及贪远离之处——涅槃，作意『我将令入息生起』而修学。……（中略）作意『我将令出息生起』而修学。
+- (丙) 一再、反复地观照诸行法的灭尽即刹那坏灭，以及贪止息之处——涅槃，作意『我将令入息生起』而修学。……（中略）作意『我将令出息生起』而修学。
+- (丁) 一再、反复地观照那以暂时(tadaṅga)而舍弃烦恼-蕴-积聚诸法之处——诸行法的坏灭即刹那坏灭，以及那以正断(samuccheda)而舍弃〔彼等〕之处——涅槃，作意『我将令入息生起』而修学。……（中略）作意『我将令出息生起』而修学。(M-3-125, Saṃ-3-279, Vi-1-88)
+
+**【文件：[278]坏灭随观智章/[322] (甲) 无常随观者.md】**
+
+### (甲) 无常随观者(aniccānupassī)
+
+在此，应当了知无常(anicca)、无常性(aniccatā)、随观无常(aniccānupassanā)、无常随观者——这四种。
+1。以过去、未来、现在、内、外、粗、细、劣、胜、远、近这十一种行相而存在的五取蕴(upādānakkhandhā)，称为**无常**。
+为什么呢？生起＝生起自性(uppāda)，坏灭＝灭去自性(vaya)，从生起自性倾向于坏灭自性、被称为「变异(aññathā bhāva)」的住自性(ṭhiti)——由于这三种自性法明显存在，所以那五取蕴称为无常。(《清净之道》1，281。)
+
+生起、灭、住(aññathatta)三者的差别究竟是什么呢？
+在这三者当中：由于能直接令有为(saṅkhata)诸法生起的生因(janaka)、以及能资助支持的支持因(upatthambhaka)等因法，而生起出来——此前尚未生起＝此前尚未存在，如今才骤然全新地生起出来，获得究竟法(paramattha)实体自身的真实自性——这便是生起(uppāda)＝所谓「生」。
+那些已经生起的有为诸法，以剎那(khaṇa)而灭尽——是究竟法实体自身物质的毁坏，这便称为灭(vaya)。
+究竟诸法(paramattha dhamma)以一种朝向「有别于其生起的坏灭」的特殊行相而生起，这便称为住(aññathatta)。
+这就是有为究竟诸法的老(jarā)自性。
+以那朝向「有别于老之生起与坏灭(bhaṅga)的坏灭」的行相＝以差别的方式而生起，这便称为住。(《大义疏》1，343。)
+
+让我来阐明 ----- 正如在有为究竟诸法那有别于生起之刹那的坏灭之刹那，作为究竟法界质(paramattha dhātu)的事物(vatthu)不可能有差别一样；同样地，在被称为有为诸法之住(ṭhiti)的坏灭＝朝向坏灭的刹那，作为究竟法界质的法体、实体事物之物质，
+其差别也确实是不存在的。
+在朝向某个坏灭＝坏灭的刹那，便生起了名为「老」的名称用语(vohāra)。
+因此，纵然是单独一个有为究竟法，其衰老、老熟之老也是适用的。
+那单独一个有为究竟法的衰老、老熟之老，被称为剎那老(khaṇika jarā)。
+确实如此——就实际而言，在生起之刹那与坏灭之刹那，唯独「究竟法界质的法体、实体事物之物质并无差别」这一点，才是所要表达的。
+倘若不认为是无差别，而认为是有差别，那么「另一个有为究竟法生起了，另一个有为究竟法坏灭了」这样的过失，便会落到那样认为的人身上。
+正是针对上述这种剎那老，佛陀(Buddha)才宣说了**aññathattaṃ**。(《大义疏》1，343-344。)
+
+2。唯独那五蕴(khandhā)的(甲)生起、(乙)坏灭、(丙)有别于生起的坏灭＝朝向坏灭一方的瞬间——这种特殊行相，便称为**无常性**。另一种说法——此前不存在、如今才生成，并以一下子断离的方式骤然坏灭；诸已生起的蕴，并不依其每一次生起的行相＝并不依诸生起之法的行相而住立，而是以剎那坏灭(khaṇabhaṅga)而灭去——意即这便称为**无常性**。(《清净之道》1，281。)
+
+- tattha uppādapubbakattā abhāvassa hutvā gahaṇaṃ.
+- tena pāgabhāvapubbakattaṃ vināsābhāvassa dasseti. (《大义疏》1，344。)
+
+「hutvā abhāvo＝生起之后的不存在(abhāva)，便称为无常性」——在这句话中，以「hutvā＝生起之后」这一语句，指出了称为「坏灭」的不存在在尚未生起之前、于前分时尚不存在，即「前分存在」的状态。
+所要表达的意思是这样的：
+「不存在」的abhāva有两种：一种是在尚未到达生起之时、尚未生起之前，名色(rūpa-nāma)尚不存在的「未存在(pāgabhāva)」；另一种是到达坏灭之时、因毁坏消失隐没，已生起的名色不存在的「毁坏自性(viddhaṃsabhāva)」。在这两种当中，「hutvā abhāvo＝生起之后的不存在＝abhāva」这一圣典句中，以「abhāvo」这个词，所显示的是：已生起的名色到达其已生起的坏灭之时而不存在＝称为「viddhaṃsabhāva」的毁灭不存在(vināsa abhāva)。
+再者，由于说「hutvā＝生起之后」，可知名色实体在未生起之前尚不存在＝是从「不存在」的部分而生起出来的；因此，以这个词所要表达的是：那「生起之后的坏灭」之毁灭不存在，其「前分存在」的状态，乃是「在尚未生起之前、于前分尚不存在的未存在(pāgabhāva)＝pā-abhāva」。
+「pāgabhāvapubbakattaṃ」这一圣典句的意涵，所显示的是：名色从尚未存在的「不存在」部分生起出来之后，又坏灭而归于「不存在」——由于显示了这层意涵，故能极为鲜明地彰显无常相(anicca lakkhaṇa)。(《清净之道义注》(Visuddhimagga nissaya)2，277-278——参见。)
+
+3。把五取蕴的生与灭、尤其是单纯把其坏灭作为所缘(ārammaṇa)，一再、反复地观为无常而修习审思的观智(vipassanā ñāṇa)，便称为**随观无常**。(《清净之道》1，281。)
+
+4。具足那无常随观智(aniccānupassanā ñāṇa)的瑜伽行者(yogāvacara puggala)，便称为**无常随观者**之人。
+
+因此，应当如此了知：如此具足无常随观智、如此把诸行法(saṅkhāra dhamma)一再反复地观为无常，而令入息生起的人，以及令出息生起的人；〔即〕在这第四组四法(catuttha catukka)中，把诸行一再反复地观为无常，而以「我将令入息生起、我将令出息生起」修习的人。(《清净之道》1，281-282。)
+
+**【文件：[278]坏灭随观智章/[324] (ခ) 离染随观者.md】**
+
+###　(ခ) 离染随观者（virāgānupassī）
+
+在「**离染随观者**」-----这个词中，离染（virāga）有「尽离染（khayavirāga）」、「究竟离贪（accantavirāga）」两种。
+诸行法（saṅkhāra dhamma）那刹那不停、连续不断地坏灭着——即刹那坏灭（khaṇabhaṅga）——称为「**尽离染**」。
+至尊的涅槃（nibbāna）妙法称为「**究竟离贪**」。
+观见诸行法之坏灭＝坏灭（bhaṅga）的观智（vipassanā ñāṇa），以及了知无为界（asaṅkhatadhātu）、寂静界、至大至尊的涅槃妙法的圣道智（ariyamaggañāṇa），两者都称为「**离染随观（virāgānupassanā）**」。
+具足这两种观智、道智（maggañāṇa）的瑜伽行者（yogāvacara），称为「**离染随观者**」补特伽罗（puggala）。
+具足这两种离染随观智（virāgānupassanā ñāṇa），当生起了入息、出息时，应当如此了知：“由于一再、反复地观照离染之性，他便以‘我将生起入息、我将生起出息’的方式修习。”（《清净之道》1，282。）
+
+在观（vipassanā）的阶段，仅仅生起了知诸行法之坏灭＝坏灭的尽离染随观智（khayavirāgānupassanā ñāṇa）而已。
+那尽离染，《大义疏》（Mahātīkā）（大义疏1，344。）中也解说为刹那灭（khaṇikanirodha）。
+若以观智观照那些诸行法那刹那不息、连续不断地止灭、坏灭、耗尽、消亡之性，使之现见，并将三种特相（lakkhaṇa）逐一轮替提起而修观，则当知此人即是离染随观者补特伽罗。
+由于那些观智能以暂时（tadaṅga）的方式舍断贪（rāga），所以获得了「离染随观」之名。
+唯有在那些观智的末端，由于〔涅槃〕实为贪的止息寂灭之处，圣道智便以那获得「究竟离贪」之名的涅槃为所缘（ārammaṇa）而生起。
+具足那圣道智的补特伽罗，也称为离染随观者补特伽罗。这是因为他正观见着贪已远离之处——涅槃的缘故。
+这些正是为了远离贪着爱恋而修的呼吸法、远离了贪着爱恋的呼吸法。
+
+一再、反复地观照诸行法之坏灭＝坏灭的观智，称为尽离染随观（khayavirāgānupassanā）。
+观见那确实是贪的远离之处、止灭之处的涅槃的圣道智，称为究竟离贪随观（accantavirāgānupassanā）。
+换一种说法——观智由于以诸行法的坏灭为所缘，因而就所缘之性而言，它是依尽离染随观之力而生起的。
+又由于它倾向、偏向、趣向那确实是贪的远离之处的涅槃而生起，因而它是依究竟离贪随观之力而生起的。
+至于圣道智，则是凭借那能将「遮蔽以致无从了知、无从观见诸行法之耗尽、坏灭的尽离染之性」的痴（moha）无余断除的无痴（asammoha）之性，依尽离染随观之力而生起的。
+又由于它以那确实是贪的远离之处的无为界、寂静界、至大至尊的涅槃妙法为所缘，现前直接地通达、了知，因而就所缘之性而言，它是依究竟离贪随观之力而生起的。
+如是，也应这样以另一种方式了知。（大义疏1，344。）
+
+**【文件：[278]坏灭随观智章/[325]a (ဂ) 灭尽随观者.md】**
+
+###　(ဂ) 灭尽随观者（nirodhānupassī）
+
+在「**灭尽随观者**」这个词中，灭（nirodha）有「尽灭（khayanirodha）」、「究竟灭尽（accantanirodha）」两种。
+诸行法（saṅkhāra dhamma）那刹那不停、连续不断地坏灭着——即刹那坏灭（khaṇabhaṅga）——称为「**尽灭**」。至尊的涅槃（nibbāna）妙法，由于确实是贪（rāga）的止息寂灭之处，称为「**究竟灭尽**」。
+观见诸行法那刹那不停、连续不断之坏灭——即刹那坏灭——的观智（vipassanā ñāṇa），也称为「**灭尽随观（nirodhānupassanā）**」。
+它们正是以诸行法那刹那不停、连续不断之坏灭——即刹那坏灭——为所缘（ārammaṇa），观照为无常（anicca）、苦（dukkha）、无我（anatta）的诸观智。
+了知、照见那确实是贪的止灭之处的无为界（asaṅkhatadhātu）、寂静界、至大至尊的涅槃妙法的圣道智（ariyamaggañāṇa），也正称为「**灭尽随观**」。
+具足这两种观智、圣道智的瑜伽行者（yogāvacara），称为「**灭尽随观者**」补特伽罗（puggala）。
+具足这两种灭尽随观智（nirodhānupassanā ñāṇa），当生起了入息（assāsa）、出息（passāsa）时，应当如此了知：“由于一再、反复地观照灭之性，他便以‘我将生起入息、我将生起出息’的方式修习。”（《清净之道》1，282。大义疏1，344。）
+
+**【文件：[278]坏灭随观智章/[325]b (ဃ) 定弃观者.md】**
+
+###　(ဃ) 定弃观者（paṭinissaggānupassī）
+
+在「**定弃观者**」这个词中，定弃（paṭinissagga）也有「遍舍定弃（pariccāgapaṭinissagga）」、「跃入定弃（pakkhandanapaṭinissagga）」两种。
+所谓定弃，正是把心（citta）放遣出去。
+这放遣的定弃本身既被称为随观（anupassanā），故称为定弃观（paṭinissaggānupassanā）。
+另一种说法 ----- 能舍弃诸烦恼（kilesa）的随观，称为定弃观。
+「定弃观」这个名称，是观智（vipassanā ñāṇa）与圣道智（ariyamaggañāṇa）的名称。
+
+的确如此 ---- 观智由于能以暂时（tadaṅga）之力，连同五蕴（khandha）、能造作新有（bhava）的积聚（abhisaṅkhāra）诸法一起舍弃诸烦恼，故也称为「**遍舍定弃**」。
+又因为见到处于三界之内的一切行法（saṅkhāra dhamma）那变坏、毁灭的无常（anicca）、变易（vipariṇāma）等有为（saṅkhata）过患，便以倾向、趋附于那与有为诸法相反的至尊涅槃（nibbāna）妙法的方式趣入该涅槃，故也称为「**跃入定弃**」。（《清净之道》1，282。）
+
+无常随观智（aniccānupassanā ñāṇa）首先以暂时舍断（tadaṅgapahāna）之力，舍弃常想（niccasaññā）。
+苦随观智（dukkhānupassanā ñāṇa）舍弃乐想（sukhasaññā），无我随观智（anattānupassanā ñāṇa）则以暂时之力舍弃我想（attasaññā）。
+如此舍弃之际：以「执取为常」、「执取为乐」、「执取为我」各自为缘而生起的烦恼，以那烦恼为根本因、能造作新有、名为积聚的业轮转（kammavaṭṭa）之法，以及以那积聚＝业轮转之法为根本因的果报蕴（vipākakhandha），都会在未来生起；当知它便以令那一切烦恼、积聚、果报蕴不再生起之力而舍弃之。（大义疏1，345。）
+
+圣道智则以彻底无余地拔根断除的正断（samuccheda）之力，连同诸蕴、积聚诸法一起舍弃诸烦恼，因此圣道智也被称为「**遍舍定弃**」。
+圣道智借由以涅槃为所缘，也趣入涅槃，因此圣道智也被称为「**跃入定弃**」。（《清净之道》1，282。）
+
+观智由于随顺次第、一再地于后后观照前前诸观智所观过的行相（saṅkhāra nimitta）所缘——正如前前诸观智倾向、趋附于涅槃而趣入，后后诸观智也于后后一再地倾向、趋附于涅槃而趣入——因此称为「**随观**」。
+圣道智也由于于后后观见作为种姓智（gotrabhuñāṇa）所缘的涅槃，所以那圣道智也被称为随观。
+具足那两种「**随观**」的瑜伽行者（yogāvacara），称为「**定弃观者**」补特伽罗（puggala）。
+具足那定弃观智（paṭinissaggānupassanā ñāṇa），当生起了入息、出息时，应当如此了知：“由于一再、反复地观照定弃之性＝诸行法的灭坏、即坏灭（bhaṅga），以及作为舍弃诸烦恼之处的涅槃，他便以‘我将生起入息、我将生起出息’的方式修习。”（《清净之道》1，282。大义疏1，345。）
+
+**【文件：[278]坏灭随观智章/[326] 纯观与止观.md】**
+
+### 纯观（suddha vipassanā）与止观（samatha vipassanā）
+
+这第四组四法（catuttha catukka），是佛陀（Buddha）以纯观＝纯粹的观（vipassanā）之力宣说的。
+而第一组四法、第二组四法、第三组四法，则是把止（samatha）的部分与观的部分两者交织起来，以止观之力宣说的。（《清净之道》1，282。）
+
+依照上述这些解说，想要修习第四组四法行道的修行者（yogāvacara）——
+
+- 1. 无常随观者（aniccānupassī），
+- 2. 离染随观者（virāgānupassī），
+- 3. 灭尽随观者（nirodhānupassī），
+- 4. 定弃观者（paṭinissaggānupassī）——请这样修习以成为（上述这些人）。
+
+为了成为无常随观者，你这位善男子应当把过去、未来、现在等（11）种情况中存在的五取蕴（upādānakkhandhā）即行法（saṅkhāra dhamma），以这些行法的灭坏、刹那坏灭（khaṇabhaṅga）作为所缘（ārammaṇa），观照为无常（anicca）。
+像这样观照为无常、被称为观智（vipassanā ñāṇa）的大善（mahā kusala）意门速行心路（manodvārika javana vīthi）心相续的名法（nāma dhamma）聚，也要再次观照为无常。
+然而，为了使无常随观智（aniccānupassanā ñāṇa）锐利、敏锐、勇健、纯净，确实仍需要苦随观智（dukkhānupassanā ñāṇa）、无我随观智（anattānupassanā ñāṇa）以其强大的依靠——强依止缘（upanissaya paccaya）之力所给予的资助与支持。
+因此，正如先前所撰述呈示的那样，对那些行法，以及正在观照它们的观智，都要安立三种特相（lakkhaṇa），以观来观照。
+
+再者，由于你这位善男子还只停留在坏灭智（bhaṅga ñāṇa）的阶段，尚未到达圣道智（ariya magga ñāṇa），所以对于名为究竟离贪（accantavirāga）、究竟灭尽（accantanirodha）、遍舍定弃（pariccāga paṭinissagga）、跃入定弃（pakkhandana paṭinissagga）的无为界（asaṅkhata dhātu）、寂静界、涅槃（nibbāna），也还无法观照。
+因此，在这一阶段，你这位善男子为了成为离染随观者、灭尽随观者、定弃观者，要把行法的灭坏＝坏灭（bhaṅga）作为所缘，以观智观看令其得见，分别观照为无常、为苦（dukkha）、为无我（anatta）。
+那观智也要再次以观来观照。
+对于存在于过去、未来、现在这三时，以及内（ajjhatta）、外（bahiddha）这两相续之中的行法，可用分成色（rūpa）、名（nāma）两者来观照的方法、分成五蕴（khandhā）来观照的方法、分成缘起法（paṭiccasamuppāda）十二支来观照的方法等种种方法，随你这位善男子所喜，一遍又一遍反复地以观来观照。
+如此一来，若能这样以观来观照，你这位善男子的诸观智便会-----
+
+- 1. 烦恼（kilesa），尤其是贪（rāga），
+- 2. 以那烦恼轮（kilesa vaṭṭa）为根本原因、能够造作新的有（bhava）的积聚法（abhisaṅkhāra），
+- 3. 由那些积聚法而将生起的果报蕴（vipāka khandhā）----
+
+都必将以暂时（tadaṅga）的方式予以舍断。
+如此，以四种四法（catukka）之力＝（4×4＝16）种立足依处（vatthu），应当了知具有这些依处的入出息念（ānāpānassati）之修习（bhāvanā）。
+如此，以这（16）种立足依处之力，这入出息念便具有广大、增长、殊胜的利益与功德。（《清净之道》1，282。）
+
+入息（assāsa）中有（16）种，出息（passāsa）中有（16）种 - 两者相加便是（32）种。
+若懂得呼吸，这些便是能使人一直通达涅槃的、佛陀的呼吸方式与方法。
+这些正是毫无过失的、优良的呼吸法则。
+你这位善男子，已经懂得依照佛陀的心意来呼吸了吗？
+倘若你还不懂得呼吸，就请实地遵循、试着修习那位对包括你这位善男子在内的一切有情怀有极其崇高的大悲（mahā karuṇā）的佛陀的优良呼吸方法。
+佛陀的诸法，正是如此「请来看吧，请来观照吧」这般值得邀请、正在邀请的、具足来见（ehipassika）德的诸法。
+正是那以正见（sammādiṭṭhi）智慧亲自当下洞彻而知见的、具足自见（sandiṭṭhika）德的诸法。
+只要努力，便能成佛。
+日夜不停，精勤努力吧！
+
+**【文件：[278]坏灭随观智章/[327] 已抵达念处行道的第四阶段.md】**
+
+### 已抵达念处（satipaṭṭhāna）行道的第四阶段
+
+如此，缘取诸行法（saṅkhāra dhamma）的纯然坏灭，也缘取正在观照的观智（vipassanā ñāṇa）的纯然坏灭，将三种特相（lakkhaṇā）之车逐一安立、持续不断地修观（vipassanā）的瑜伽行者（yogāvacara），若不再看见色聚、名聚，而只看见纯然色究竟法、纯然名究竟法的纯然坏灭，便已抵达念处行道的第四阶段。
+
+- “Atthi kāyo”ti vā pan'assa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya.（中部1，71。）
+- “Atthi vedanā”ti vā pan'assa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya.（中部1，75。）
+- “Atthi cittan”ti vā pan'assa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya.（中部1，76。）
+- “Atthi dhammā”ti vā pan'assa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya.（中部1，78。）
+
+“没有男人、女人、补特伽罗（puggala）、有情（satta）、人与天神、梵天（brahma）；没有具寿命的生灵、具灵魂的生灵、具识（viññāṇa）的生灵、具我（atta）的生灵；没有能创造的最上我（paramatta）；没有被创造的命我（jīvatta）。 
+只有名为身（kāya）—受（vedanā）—心（citta）—法（dhamma）的纯然色法堆聚、纯然名法堆聚；只有纯然因法堆聚、纯然果法堆聚；只有纯然无常（anicca）法堆聚、纯然苦（dukkha）法堆聚、纯然无我（anatta）法堆聚。”——如此，在那位瑜伽行者的相续（santati）中，（与观智相应的）念（sati）便朝向前方而确立。 
+那念，仅仅是为了使观智次第增长，仅仅是为了使与观智相应的那念次第增长而生起的。（中部1，71……。中部义疏1，255……。）
+
+从这坏灭智（bhaṅgañāṇa）起，更上更上的诸观智，全都是只缘取诸行法纯然坏灭的观智。 
+因此，为了使诸观智次第增长，为了使与观智相应的诸念次第增长，你这位善男子应当正是以诸行法的纯然坏灭为所缘（ārammaṇa），安立特相之车，持续不断地修观。
+
+**【文件：[278]坏灭随观智章/[328] 威仪 - 正知观法.md】**
+
+### 威仪(iriyāpatha) - 正知(sampajañña)观法
+
+在这一部分，为了能获得极为锐利、敏锐的观(vipassanā)智，瑜伽行者(yogāvacara)也应当继续观照威仪、正知的诸观法。
+
+在经行(caṅkama)时，如前面已清楚说明的那样，逐步建立定(samādhi)，收摄能运载的色法(rūpa)、被运载的色法，以及能使那些色法生起的因——名法(nāma)，还有其余的杂行法(pakiṇṇaka saṅkhāra)，以名色二法、五蕴等方式，以那些行法的坏灭(bhaṅga)为所缘(ārammaṇa)，不断地安立三种特相(lakkhaṇa)而修观。
+在更高阶的诸观智中，也应以同样的方式观照。
+
+从此坏灭智(bhaṅga ñāṇa)起，在更高阶的诸观智中，瑜伽行者将完全不再见到称为「有形相」(saviggaha)的形状质体，而只以智慧见到纯粹的胜义(paramattha)实质。
+各自相应的随观智(anupassanā ñāṇa)，将以强大的力量，把各自相应的烦恼(kilesa)连同相反的诸法一同断除。
+
+**【文件：[278]坏灭随观智章/[329] 死者 - 活者 = 死人与活人.md】**
+
+### 死者 - 活者 = 死人与活人
+
+完成了佛陀所立的十种善(kusala)法的人,人间与天界(的善趣)不难获得,必定取得,绝无差池。
+在布施(dāna)、持戒(sīla)等善法上放松、懈怠精进,迟缓轻忽、放逸忘失的人,称为**死人**。
+在布施与斋戒上不离修习(bhāvanā)、不间断每日(的善行)、不放逸忘失——那样的尊者,纵使人天之身蕴(khandha)迁变之时,其安乐(sukha)幸福也不坏不衰,只是有(bhava)的自然样态的迁移而已;纵其死殁(cuti),也**不称为死者**——是这样说的。(摩伽提婆(Maghadeva),第291偈。)
+
+若颠倒(vipallāsa)乖谬,又被痴(moha)所笼罩,执持邪见,如猎物被大蟒迷住般沉溺,通往阿鼻(avīci)地狱的邪行无法禁阻,也不接受教诫——这样的人是有的。
+慧(paññā)力薄弱,而信(saddhā)心强盛者,便成外道之徒,在邪(micchā)执中,以虔敬的信心去亲近承事。
+于胜义(paramattha)之事不善巧、信心羸弱、慧却偏盛者,也歪入歧途、误奔邪路,见解乖偏倾斜,如提灯引路之人反坠坑中——对于十种善行、可施之物,即便不舍出布施,只凭一念心生起、缘他人的布施(随喜),便自以为成就了布施;如此歪曲见解,执取邪见。
+如乌龟咬住般牢固坚执,一个有情(satta)所执持的颠倒邪见,纵使十万尊佛以(教法之)翻转之力宣说开解,也无从解开。
+因无法度脱,以决定(niyata)不移之(邪)论主张,纵使大地吞没也不舍其执,行于邪行,终将受地狱(niraya)之苦之故——(摩伽提婆,第319偈。)
+
+**坏灭随观智(bhaṅgānupassanā ñāṇa)章 完结**。
+
+**【文件：[330]怖畏现起智章/[330]a 怖畏现起智章.md】**
+
+# 怖畏现起智（bhayatupaṭṭhāna ñāṇa）章
+
+**【文件：[330]怖畏现起智章/[330]b 所谓怖畏智.md】**
+
+### 所谓怖畏智（bhaya ñāṇa）
+以前面已说过的方法，对于存在于过去、未来、现在三时，以及内（ajjhatta）、外（bahiddha）二种相续之中的一切行法（saṅkhāra dhamma）的尽（khaya，尽之性）、灭（vaya，灭之性）、崩坏（bheda，崩坏之性）——即所谓刹那不停、相续不断地灭去的刹那灭（khaṇika nirodha）——以此为所缘的坏灭随观智（bhaṅgānupassanā ñāṇa），恭恭敬敬、郑重地予以依止、令其生起、令其增长、再三反复地熟习；在那位如此修习的瑜伽行者（yogāvacara）的相续中，凡是存在于三十一地（bhūmi）之中的一切行法，全都显现为极其巨大而可怖畏的。
+
+tassa "atītā saṅkhārā niruddhā, paccuppannā nirujjhanti, anāgate nibbattanakasaṅkhārāpi evameva nirujjhissantī"ti passato etasmiṃ ṭhāne **bhayatupaṭṭhānañāṇaṃ** nāma uppajjati. （《清净之道》2，282）
+
+「已经过去的过去诸行法，都已经灭尽了；现在的诸行法，正在灭去；未来的诸行法，将会灭去。」
+
+在如此观察的瑜伽行者的相续中，由于以诸行法的坏灭为优先，从而显现为诸行法的可怖畏之相；在此情形下，当诸行法以可怖畏的方式显现于智中之时，那能够取得应当怖畏之行相、名为**怖畏现起（bhayatupaṭṭhāna）**的智，便生起了。（《清净之道》2，282）
+
+**【文件：[330]怖畏现起智章/[330]c 怖畏智会害怕吗？.md】**
+
+### 怖畏智(bhaya ñāṇa)会害怕吗？
+
+bhayatupaṭṭhānañāṇaṃ pana bhāyati na bhāyatīti. na bhāyati. taṃ hi atītā saṅkhārā niruddhā, paccuppannā nirujjhanti, anāgatā nirujjhissantīti tīraṇamattameva hoti. (Visuddhi-2-283)
+
+**na bhāyati** ñāṇassa bhayanākārena appavattanato. 
+paṭighacittuppādavasena hi bhāyanaṃ, ñāṇaṃ pana bhāyitabbavatthuṃ bhāyitabbanti yāthāvato jānāti. (Mahāṭī-2-446)
+
+若问怖畏现起智(bhayatupaṭṭhāna ñāṇa)会害怕、还是不会害怕,则应回答说不会害怕;**究其原因,智**不以害怕的方式生起之故。 
+确实如此——害怕只是凭借与厌恶(paṭigha)相应的、心性刚硬粗暴的瞋根心生起(dosamūla cittuppāda)之力才生起的。(所谓害怕,就法体而言,只是以瞋为主导的心生起。) 
+而智则如实地了知:对于可怖可畏的事物,应当害怕、值得害怕。 
+确实如此,那怖畏现起智——
+
+“过去的诸行法(saṅkhāra dhamma)已经灭尽,现在的诸行法正在灭尽,未来的诸行法将会灭尽。”
+仅仅是如此地审察思惟而已。
+
+**【文件：[330]怖畏现起智章/[331]a 所谓现在.md】**
+
+### 所谓现在(paccuppanna)
+
+**paccuppannā**ti addhāpaccuppannā oḷārikā dīghatarapabandhā, khaṇapaccuppannā sukhumatarā ittarakālā, santatipaccuppannā majjhimā idha ādito pariggahetabbā. (Mahāṭī, 2, 445.)
+
+在结生(paṭisandhi)与死殁(cuti)之间、由一期生命所划分界定的、属于一世现在(addhāpaccuppanna)的诸行法(saṅkhāra dhamma),由于具有特别长久的延续时间,所以是粗重、粗糙的。
+属于刹那现在(khaṇapaccuppanna)的诸行法,由于存续时间短促,所以特别微细。
+属于中等的相续现在(santatipaccuppanna)的诸行法,则是在这怖畏现起智(bhayatupaṭṭhāna ñāṇa)阶段中,最先应当开始摄取、应当修观的诸法。(大义疏,2,445。)
+
+在此,我不希望诸善人持有这样的错误见解——认为一世现在之法、刹那现在之法不应当修观。
+其本意只是说:应当从相续现在之法开始修观,修观之后,要从相续现在一直修到刹那现在为止。
+唯有能够这样修观,所谓色密集(rūpaghana)、名密集(nāmaghana)——即色之团块、名之团块——才会瓦解。
+密集瓦解之后,才能到达究竟法(paramattha)。
+唯有对究竟法修观(vipassanā),坏灭智(bhaṅga ñāṇa)等更上层的观智,才会随之生起。
+唯有这样理解,才能与前面诸智阶段中所阐述、所写下的论述前后一致、相互吻合。
+坏灭智虽然能够缘取诸行法的刹那坏灭(khaṇabhaṅga)为所缘(ārammaṇa),但若说:到达了比坏灭智更为超胜、阶位更高的这怖畏现起智时,这怖畏现起智却只能缘取相续现在为所缘——那么,这怖畏智(bhaya ñāṇa)反而会变成阶位低下了。
+
+**【文件：[330]怖畏现起智章/[331]b 世间的譬喻.md】**
+
+### 世间的譬喻
+
+具有眼见的男子，在城门附近看到盛满炽热火炭的三个火炭坑，看了、见了之后，他自己并不害怕；确实如此——只是在那男子的心相续中，生起这样的省察思惟：「凡是堕入这些火炭坑里的一切众生，都将感受众多的苦(dukkha)」——仅仅如此而已；同样地，
+
+再者，具有眼见的男子，看到按次序安置的三根尖桩——即儿茶木尖桩、铁尖桩、金尖桩，看了、见了之后，他自己并不害怕。
+确实如此——只是在那男子的心相续中，生起这样的省察思惟：「凡是堕在这些尖桩上的一切人，都将持续感受众多的苦」——仅仅如此而已；同样地——
+
+正如这个譬喻，怖畏现起智(bhayatupaṭṭhāna ñāṇa)并不害怕。
+确实如此——只是对那怖畏现起智而言，在如同三个火炭坑、又如同三根尖桩的欲(kāma)、色(rūpa)、非色(arūpa)三地中，仅仅生起这样的省察、审察而已：「过去的行法(saṅkhāra dhamma)已经灭去，现在的行法也正在灭去，未来的行法也将会灭去」。
+对那怖畏现起智而言，由于安住于三十一地一切之内的行法，陷入种种、形形色色而巨大的危难苦中、充满危险，并以可怖、令人恐惧的怖畏(bhaya)之相显现，所以那智被称为**怖畏现起智**。(《清净之道》2,283。)
+
+**【文件：[330]怖畏现起智章/[332] 以可怕的畏惧自性而显现的样子.md】**
+
+### 以可怕的畏惧(bhaya)自性而显现的样子
+
+aniccato manasikaroto nimittaṃ bhayato upaṭṭhāti. dukkhato manasikaroto pavattaṃ bhayato upaṭṭhāti. anattato manasikaroto nimittañca pavattañca bhayato upaṭṭhāti.(Paṭisaṃ-258, Visuddhi-2-283)
+
+所谓**相(nimitta)**，即是行相(saṅkhāranimitta)。
+以色团色块、名团名块等聚集密集(samūhaghana)的力量，以及由于各自具有作用界限的样子，在过去、未来、现在生起的行法(saṅkhāra dhamma)之中，显现为仿佛有实体、形状、整团整块地存在着——这样的显现便称为行相。(Visuddhi-2-284, Mahāṭī-2-447)
+应当记住：在此怖畏智(bhaya ñāṇa)的阶段，瑜伽行者(yogāvacara)由于已从相续现在(santati paccuppanna)观照诸行法直至抵达剎那现在(khaṇa paccuppanna)，相续密集(santatighana)的团块已不再显现，因此(在此处)便不把相续密集纳入而加以解说。
+
+欲有(kāma bhava)、色有(rūpa bhava)、非色有(arūpa bhava)，即不断生起的色名相续这一轮回法(vaṭṭa dhamma)，称为**生命期间(pavatta)**。其实，一切有(bhava)的生起、凡称为有之生命期间(bhavapavatti)者，都只称为生命期间而已。
+然而，由于以已达顶峰的坏灭随观智(bhaṅgānupassanā ñāṇa)，在一切诸有之中，那不断遭受生起、坏灭的打击，尤其是坏灭的打击而恒常被逼迫折磨之自性极其鲜明地显现，所以，即使是被认定为寂静安乐(sukha)的色有、非色有，也因确实清楚地存在着遭受生起、坏灭打击的逼迫折磨的苦(dukkha)自性法，而以可怕的畏惧自性显现出来。
+为了清楚显示这样的义理，《清净之道》(Visuddhi Magga)义注便有意如此说明：就生命期间而言，解释为色有、非色有的生起，即有之生命期间(bhavapavatti)。(Mahāṭī-2-447)
+
+对于存在于三时、两种相续(santāna)——即(31)地之内的一切行法——
+
+- 1、对于作意为无常(anicca)的瑜伽行者而言，**相** = 行相 = 行法的聚合，会以可怕的险难显现。
+- 2、对于作意为苦的瑜伽行者而言，在一切地、有之中的生起——**有之生命期间(bhava pavatta)**——会以可怕的险难显现。
+- 3、对于作意为无我(anatta)的瑜伽行者而言，**相** = 行相 = 行法的聚合，以及在一切地、有之中的生起 = 即名为有的色蕴(rūpa khandhā)、名蕴(nāma khandhā)的生起 = **有之生命期间**，都会以可怕的险难显现。
+
+把诸行法作意为无常的瑜伽行者，只看见诸行法的坏灭 = 即名为‘灭(bhaṅga)’的死(maraṇa) = 死亡。
+因此，对那位瑜伽行者而言，行相便以可怕的险难显现。把诸行法作意为苦的瑜伽行者，对于在被认定为乐的色有、非色有中的生起 = 即名为色有、非色有的色蕴-名蕴-色名蕴(rūpanāma khandhā)的生起、即有之生命期间，也只看见它不断地、一再地遭受生起、坏灭打击逼迫的事实。
+因如此看见，对那位瑜伽行者而言，即便是名为色有、非色有之生起的生命期间，也以可怕的险难显现。
+至于名为欲有之生起的生命期间，那就更不必说了。
+再者，把诸行法作意为无我的瑜伽行者，把相与生命期间这两者都看作如同杳无人迹的村庄，如同阳焰，如同甘塔巴(gandhabba)天神为了在空中嬉游而变现的天城；而看见、观照着：‘远离我(attā)’、‘没有名为我的实质、空洞无物’、‘空无我’、‘没有名为我的主人(sāmī)’、‘没有名为我的主宰’。
+因此，对那位瑜伽行者而言，相与生命期间这两者都以可怕的险难显现。
+
+**【文件：[330]怖畏现起智章/[333]b 怖畏智的所观所缘法.md】**
+
+### 怖畏智(bhaya ñāṇa)的所观所缘(ārammaṇa)法
+
+**nimitta**nti saṅkhāranimittaṃ. atītānāgatapaccuppannānaṃ saṅkhārānam-evetaṃ adhivacanaṃ. pa. **pavatta**nti rūpārūpabhavapavatti. (Visuddhi 2, 284.)
+
+依照上述义疏(aṭṭhakathā)的解释，这怖畏观智的所观所缘诸法，也应记住：正是存在于过去、未来、现在这三时，以及内(ajjhatta)、外(bahiddha)这两种相续(santāna)之内的一切行法(saṅkhāra dhamma)。
+它与前面各观智(vipassanā ñāṇa)的所观所缘相同。
+
+因此，你这位善男子在这怖畏智部分也应当：取存在于三时、两相续之内的诸行法的坏灭为所缘，时而于内、时而于外、时而取色(rūpa)法、时而取名(nāma)法、时而作无常(anicca)、时而作苦(dukkha)、时而作无我(anatta)，精勤不懈地修观(vipassanā)。
+时而也取缘起(paṭiccasamuppāda)诸支的纯粹坏灭为所缘，时而作无常、时而作苦、时而作无我，也精勤不懈地修观。
+在全部三时中观照。
+时而也要把那能观的观智再一次返回来加以观照。
+
+- 观色 ----- 色 - 坏灭 - 无常，
+  - 能观的智 - 坏灭 - 无常，
+- 观名 ----- 名 - 坏灭 - 无常，
+  - 能观的智 - 坏灭 - 无常 ----- 如此等等，
+- 观无明(avijjā) ----- 无明 - 坏灭 - 无常，
+  - 能观的智 - 坏灭 - 无常 ----- 如此等等地观照吧。
+
+**怖畏现起智(bhayatupaṭṭhāna ñāṇa)章 完毕。**
+
+**【文件：[334]过患随观智章/[334] 过患随观智章.md】**
+
+# 过患随观智（ādīnavānupassanā ñāṇa）章
+
+对于恭敬、郑重、慎重地依止、修习、培育、再三反复练习那怖畏现起智（bhayatupaṭṭhāna ñāṇa）的那位修行者（yogāvacara）来说，在一切三十一地之中，那种能够防护、使之免于以行（saṅkhāra）为因的生（jāti）-老（jarā）-死（maraṇa）=生起-存续-坏灭等无益之害的法，已不再于智（ñāṇa）中显现。
+这是因为：一切生成之有（bhava）、凡所有者，都同样具有无常（anicca）、变易（vipariṇāma）等变坏毁灭之过患的缘故。
+为了躲避以行法（saṅkhāra dhamma）为因的生-老-死等无益之害而加以防护，可藏匿之处已不再显现。
+为了躲避以行法为因的生-老-死等无益之害而逃离，可逃往之处已不再显现。
+从以行法为因的生-老-死等无益之害中，可投靠依靠之处已不再显现。
+在一切地、有之中生起的诸行法当中，哪怕对其中一个行法，无论是渴求，还是错误地思量「eso me attā = 我的我（attā）」，都不再生起。
+
+- 1.欲（kāma）、色（rūpa）、非色（arūpa）这三种地，显现得犹如装满了无火焰、无火光之炭火的炭火坑一般。
+- 2.大种（mahābhūta）四大界（dhātu），显现得犹如凶猛的毒蛇、毒发迅猛的毒蛇一般。
+- 3.五蕴（khandha），显现得犹如举起利刃、紧随其后寸步不离的五个杀人凶徒一般。
+- 4.内部之内在（ajjhattika）六入处（āyatana），显现得犹如人迹断绝的废村、荒村一般。
+- 5.外部之外在（bāhira）六入处，显现得犹如劫掠破坏村庄的盗贼一般。
+- 6.一切地、有，既犹如被贪（rāga）火、瞋（dosa）火、痴（moha）火、生火、老火、死火、愁（soka）火、悲（parideva）火、苦（dukkha）火、忧（domanassa）火、恼（upāyāsa）火这十一种火所烧燃一般，又犹如四周烈焰煌煌燃烧一般，又犹如与同时俱起的火焰火光之聚一同生起一般，如此显现。
+- 7.一切行法，既犹如脓疮一般，又犹如众多疮病一般，又犹如箭镞一般，又犹如招致无益之物一般，又犹如除了那名为恒常缠身的姑息痼疾（yāpya）之根本宿疾以外的另一种剧烈难当的疾病一般；并且因具有苦之自性而离于可乐的自性，因以毁坏为终而离于圆满，成为巨大的过患大聚，如此显现。
+
+这位修行者，借由观照诸行法之坏灭=bhaṅga的坏灭随观（bhaṅgānupassanā）之力，当一切行法显现为可怖畏的危难时，便只见到那种四周离于圆满、离于可乐之自性、与恒常不断的坏灭之危难一同生起的过患（ādīnava）。
+对于以这样的方法观照的那位修行者来说，便生起了名为能观照、能照见诸行法之过患——过患的**过患智（ādīnava ñāṇa）=过患随观智**。（《清净之道》2，284-285。）
+
+**【文件：[334]过患随观智章/[335] 在《无碍解道》巴利圣典中所开示的方式.md】**
+
+### 《无碍解道(Paṭisambhidā Magga)》巴利圣典中所开示的方式
+
+- Uppādañca pavattañca, nimittaṃ dukkhanti passati.
+- Āyūhanaṃ paṭisandhiṃ, ñāṇaṃ ādīnave idaṃ.
+
+- Anuppādaṃ appavattaṃ, animittaṃ sukhanti ca.
+- Anāyūhanā appaṭisandhi, ñāṇaṃ santipade idaṃ.
+
+- Idaṃ ādīnave ñāṇaṃ, pañcaṭṭhānesu jāyati.
+- Pañcaṭṭhāne santipade, dasa ñāṇe pajānāti.
+
+Dvinnaṃ ñāṇānaṃ kusalatā, nānādiṭṭhīsu na kampati. (Paṭisaṃ 56-58. Visuddhi 2, 286.)
+
+在这过患随观智(ādīnavānupassanā ñāṇa)生起方式的部分，把《无碍解道》巴利圣典中所记载的内容简要地加以呈现。
+在这一智的部分——生起(uppāda)、生命期间(pavatta)、相(nimitta)、加行(āyūhana)、结生(paṭisandhi)——这(5)种；无生(anuppāda)、无生命期间(appavatta)、无相(animitta)、无加行(anāyūhanā)、无结生(appaṭisandhi)——这(5)种；两组合起来共(10)种法，要特别留意地记住。
+现在就按次序逐一陈述它们。-----
+
+- 1。**生起** ----- 由于过去的业，在此生中，称为果报轮回蕴(vipāka vaṭṭa khandhā)的诸行法(saṅkhāra dhamma)的生起，是可怖畏的危难。
+如是，在将诸行法显现为可怖畏的危难之中所生起的慧(paññā)，即名为能观见诸行法过患的过患随观智。
+- 2。**生命期间** --- 在生命期间(pavatti)中，诸行法连续不断的生起，是可怖畏的危难。pe。
+- 3。**相** ----- 行相(saṅkhāra nimitta)是可怖畏的危难。pe。
+- 4。**加行** --- 作为将来结生之因的业，是可怖畏的危难。pe。
+- 5。**结生** ----- 将来的结生，是可怖畏的危难。pe。
+
+结生所生起之处的五种趣(gati)，是可怖畏的危难。pe。一切诸蕴的生起＝转生(nibbatti)。pe。
+果报法的生起＝再生(upapatti)。pe。生(jāti)。老(jarā)。病(byādhi)。死(maraṇa)。愁(soka)。悲(parideva)。恼(upāyāsa)是可怖畏的危难。如是，在将诸行法显现为可怖畏的危难之中所生起的慧，即名为观见诸行法过患的**过患随观智**。这就是第一节。（《无碍解道》56。）
+
+在这《无碍解道》巴利圣典中所记载的诸法当中，唯有**生起、生命期间、相、加行、结生**这五种，是以被称为过患随观智之所缘(ārammaṇa)的、该观智(vipassanā ñāṇa)生起之处的力量，在上面所列出的《无碍解道》偈颂中宣说的。
+其余的趣等等，则是以那五种的方便(pariyāya)同义异名的方式而宣说的。
+的确，**转生**与**生**这两个词合起来，既是**生起**一词的，也是**结生**一词的方便同义异名而已。
+**趣、再生**——这两个词合起来，是**生命期间**一词的方便同义异名。
+**老、病、死、愁、悲、恼**这些词，是**相**一词的方便同义异名。
+应当如此各别地记住。（《清净之道》2，286。）
+
+- 1。**无生** ----- 没有生起的涅槃(nibbāna)，另一种说法 ----- 是诸行法将来不再生起之因的涅槃，没有危难；如此了知的智(ñāṇa)，即名为在作为一切诸行法寂止之处的不死涅槃(amata nibbāna)中所生起的智。
+- 2。**无生命期间** ----- 没有生命期间的涅槃，另一种说法，是生命期间止息之因的涅槃。pe。
+- 3。**无相** ----- 没有相的涅槃，另一种说法，是诸行止息之因的涅槃。pe。
+- 4。**无加行** ----- 没有加行的涅槃，另一种说法，是加行止息之因的涅槃。pe。
+- 5。无结生 ----- 没有结生的涅槃，另一种说法，是结生止息之因的涅槃。pe。
+
+**无恼** ----- 没有恼的涅槃，另一种说法，是恼止息之因的涅槃，没有危难；---- 如此了知的智，即名为在作为一切诸行法寂止之处的不死涅槃中所生起的智。（《无碍解道》57。）这就是第二节。
+
+这第二节，是为了显示与那以随顺(anvaya)＝顺合的方式所宣示的过患智(ādīnava ñāṇa)相反之
+智——即以“凡某法中没有生起，则于该法中一切可怖畏的危难也都没有”这样的遮遣(byatireka)＝逆反方式来开示而宣说的。
+另一种说法，对于因将诸行法显现为可怖畏的危难、见到诸行法的过患而惊惧、心怀悚惧(saṃvega)的诸瑜伽行善者(yogī)而言，为了使他们生起“也还有没有危难、危难灭尽、无过患之法存在”这样的宽慰，这第二节也是为此而宣说的。
+另一种说法 ---- 对于那位瑜伽行者(yogāvacara)，生起等等显现为可怖畏的危难；对于那位瑜伽行者，趋向于与那可怖畏的危难(bhaya)相反的无畏(abhaya)之处的心便生起了。
+若问为何 ----- 正如被炎热所煎熬的人，其心倾向于清凉界的状态会明显地生起一样，从已被善加见到的、有过患的诸行法聚中真正想要解脱出来这一状态——即欲解脱智(muñcitukamyatā ñāṇa)——便生起了，因此之故。
+因此，为了显示那以将诸行法显现为可怖畏的危难之力而成就的、见诸行法过患的过患随观智的利益功德(ānisaṃsa)，也宣说了这第二节，应当如此了知。（《清净之道》2，287。）
+
+**生起－无生** ----- 诸行法的生起是可怖畏的危难；没有诸行法生起的涅槃，另一种说法 ----- 是诸行法将来不再生起之因的涅槃，没有危难；- 如此了知的智，即名为在作为一切诸行法寂止之处的不死涅槃中所生起的智。pe。
+
+**恼**是可怖畏的危难；没有恼的涅槃，另一种说法 --- 是恼止息之因的涅槃，没有危难；- 如此了知的智，即名为在作为一切诸行法寂止之处的不死涅槃中所生起的智。
+这就是第三节。
+
+第一节就是生命期间(pavatti)。
+在生命期间中显示过患智的生起方式。
+第二节就是还灭(nivatti)；在还灭中显示利益功德。
+在生命期间中见到过患，紧接在那见到之后，由于在还灭中见到利益功德，便迅速精勤努力地修习观(vipassanā)；以这类人的力量 ----- uppādo bhayaṃ, anuppādo khemaṃ＝诸行法的生起是可怖畏的危难，没有诸行法生起的涅槃，另一种说法 ---- 诸行法将来不再生起之因的涅槃，没有危难；- 如此等等，便是修习这第三节。
+第六节等等也以同样的方式记住。（《大义疏》2，449。）
+
+**趣** ----- 所谓趣，应当了知为：就胜义法(paramattha dhamma)自身而言，由各种业而得以被称为“有(bhava)”这一名称的、配称如此的果报名蕴(vipāka nāmakkhandhā)与业生色(kaṭattā rūpa)。
+在这些词当中，**生起、生命期间、加行**这些词，所取的是属于现在(paccuppanna)时段所摄的（＝从结生直到死(cuti)为止的一期生命之内所存在的）诸行法。
+**结生**一词，所取的是属于未来时段所摄的、由业而生起的诸执取蕴(upādinnaka khandhā)。
+**生起**一词，则揭示属于过去(atīta)时段所摄的诸业行(kamma-saṅkhāra)。
+而**相**一词，所取的则是存在于过去、未来、现在这三个时段中的色法(rūpa dhamma)与名法(nāma dhamma)，有内(ajjhatta)、外(bahiddha)等分别的、一切完整的诸行法。（《大义疏》2，449-450。）
+
+**【文件：[334]过患随观智章/[337] 苦 - 有诱饵 - 行.md】**
+
+### 苦（dukkha） - 有诱饵（sāmisa） - 行（saṅkhāra）
+
+在此巴利圣典中，生起（uppāda）等是可怖畏的危难。
+那些成为可怖畏危难的生起等，永远只是苦。
+（由于那些生起等以其为苦的状态而成为可怖的大险恶，故此语显示：可怖的大险恶不会超越‘苦’的状态而存在。）
+那些恒常为苦、具有可怖之性的生起等 -----由于不能脱离（1）轮回诱饵（vaṭṭāmisa）、（2）世间诱饵（lokāmisa）、（3）烦恼诱饵（kilesāmisa），故必定只是与诱饵（āmisa）俱起的。（《清净之道》2，287。）
+
+- 1。**轮回诱饵** ----- 诸大德说：由业而生起的五种执取蕴（upādinnaka khandhā），名为轮回诱饵。
+称为烦恼轮回（kilesa vaṭṭa）、业轮回（kamma vaṭṭa）、果报轮回（vipāka vaṭṭa）的三种轮回，以及依止于那些轮回的诸法，都名为轮回诱饵。（《大义疏》2，450。）
+- 2。**世间诱饵** ----- 色所缘（rūpārammaṇa）、声所缘（saddārammaṇa）、香所缘（gandhārammaṇa）、味所缘（rasārammaṇa）、触所缘（phoṭṭhabbārammaṇa）这五种所缘（ārammaṇa）——即五种爱欲的目标（kāmaguṇa）法，由于被贪（rāga）、瞋（dosa）、痴（moha）等诸烦恼（kilesa）以‘我、我所有’等方式来计执，故名为世间诱饵。
+它们正是被诸烦恼咀嚼、啃食、践踏、碾碎的诸法之聚。（《大义疏》2，450。）
+- 3。**烦恼诱饵** ----- 贪、瞋、痴等诸烦恼，名为烦恼诱饵。（《大义疏》2，450。）
+
+凡是生起等自性法，都是有诱饵＝与诱饵俱起的。
+那些与诱饵俱起的生起等诸法，就是**唯是行（saṅkhāramattameva）**＝仅仅只是世间行（lokī saṅkhāra）而已。（《清净之道》2，287。）
+
+在此 saṅkhāramattameva 中，借由‘eva＝唯’这个词（＝在‘仅仅只是世间行而已’中，借由‘而已’这个词），把称为离行（visaṅkhāra）的涅槃（nibbāna）排除掉。
+若问其因 ----- 是因为在那作为离行的涅槃中，连一丝‘有诱饵’的状态也没有。借由‘matta＝仅仅’这个词，清楚地显示出不圆满的行法。
+若问其因：一切具有生起、坏灭之性的行法，并非全都是与诱饵俱起的。
+其中也包含了不与诱饵俱起的道（magga）—果（phala）法。
+道—果法也包含在具有生起、坏灭的诸行法聚之中。
+这是因为在那些当中，此处只取世间行法之故。（《大义疏》2，450。）
+
+如此称为怖畏的生起等，正因为就是苦等，故“Uppādo dukkhanti bhayatupaṭṭhāne paññā ādīnave ñāṇaṃ ＝ 生起即是苦。
+如此，在诸行法显现为可怖畏的状态之中所生起的慧（paññā），即名为过患智（ādīnava ñāṇa）。”
+如此等等，是在《无碍解道（Paṭisambhidā Magga）》巴利圣典中所开示的。
+在此，虽然称为‘苦之性’的这层意义，用任何一个词都能够圆满地表达 -----
+
+- 1。怖畏行相（bhayākāra）＝以‘应当怖畏的状态’这一行相，
+- 2。苦行相（dukkhākāra）＝以‘苦’这一行相，
+- 3。有诱饵行相（sāmisākāra）＝以‘与诱饵俱起’这一行相 ----
+
+如此，依靠行相的差别、依靠智（ñāṇa）生起方式之差别的力量，应当了知在这些词当中智的差别。（《清净之道》2，287。）
+
+正如在那些行法当中，依靠以无常（anicca）、以苦、以无我（anatta）而生起方式之差别的力量、由于行相差别的缘故，随观智（anupassanā ñāṇa）便有了无常随观智（aniccānupassanā ñāṇa）、苦随观智（dukkhānupassanā ñāṇa）、无我随观智（anattānupassanā ñāṇa）这样的差别；同样地，由于称为怖畏行相、苦行相、有诱饵行相的行相（ākāra）差别的缘故，依靠智生起方式的力量，应当了知智的差别。
+在那些行相当中，以怖畏行相而生起的**智即是怖畏现起智（bhayatupaṭṭhāna ñāṇa）**。
+以苦行相、有诱饵行相而生起的智，即名为过患智。（《大义疏》2，450-451。）
+
+**【文件：[334]过患随观智章/[339] (10)种智.md】**
+
+### (10)种智(ñāṇa)
+
+了知过患智(ādīnava ñāṇa)的瑜伽行者(yogāvacara)，以生起(uppāda)、生命期间(pavatta)、相(nimitta)、加行(āyūhana)、结生(paṭisandhi)这(5)种为所缘(ārammaṇa)而生起的、以那(5)种为住处与生起处的(5)种**过患智**，以及以名为无生(anuppāda)、无生命期间(appavatta)、无相(animitta)、无加行(anāyūhana)、无结生(appaṭisandhi)这(5)种、作为智之生起处住处的依处(vatthu)为所缘而生起的(5)种**寂静处智(santipada ñāṇa)**——这两类合起来，共这(10)种智，以洞察之力了知、现证。（《清净之道》2，287。）
+
+一种智能够了知另一种智。
+然而，智无法了知自己本身。
+‘为什么会如此说：**dasa ñāṇe pajānāti＝了知(10)种智**’ ----- 有人会这样问。
+回答如下。-----
+
+此处所谓的‘了知’也是这样：安住于、落于名为生起、生命期间、相、加行、结生之所缘，以及名为无生、无生命期间、无相、无加行、无结生之所缘之上的智，在那所缘上已极度地远离了愚迷；它已断除、扫除名为愚迷的痴(moha)、愚暗之聚。
+如此由于远离了愚迷，于是在那(10)种所缘上没有愚迷、远离了愚迷，因此对名为‘智’的自身，也唯是远离愚迷而已。
+因此，智就仿佛能了知自己本身一般。
+由于这样的缘故，便说‘了知(10)种智’。（《大义疏》2，451。）
+
+瑜伽行者有时还须把那正在以观(vipassanā)观照生起、生命期间、相等等的观智(vipassanā ñāṇa)，再一次重新地加以观照。
+如此，当能够以后起的观智再次重新观照先前的观智时 ----- ‘dasa ñāṇe pajānāti＝了知(10)种智’ - 便正可以这样说。
+
+瑜伽行者由于在这里所述的过患智、寂静处智这两种智上得以娴熟，便不再因种种邪见(diṭṭhi)而动摇。（《无碍解道》56-58。）
+
+由于已经以观智如实无误地见到了名为相续不断的名(nāma)色(rūpa)之流的生命期间(pavatti)，于是与那生命期间相反的、诸行法(saṅkhāra dhamma)寂灭之处的涅槃(nibbāna)这一崇高圣法，便在善加抉择之后才显现出来。
+因此，那位瑜伽行者的心(citta)，便不再因‘在现前的此身之中有着极为殊胜的「最上现法涅槃(paramadiṭṭhadhammanibbāna)」’这类邪见(micchādiṭṭhi)之力而动摇。
+若问这是为什么 ----- 这是因为在名色之流的生命期间中，确实存在着应当善加而周遍地见到的过失、过患之故。
+因此才说‘不再因种种邪见而动摇’。（《大义疏》2，451。）
+
+**过患随观智(ādīnavānupassanā ñāṇa)章完毕。**
+
+**【文件：[340]厌离随观智章/[340] 厌离随观智章.md】**
+
+# 厌离随观智(nibbidānupassanāñāṇa)章
+
+**【文件：[340]厌离随观智章/[340]b 厌离随观智 = 倦厌智.md】**
+
+### 厌离随观智(nibbidānupassanā ñāṇa) = 倦厌智(nibbindañāṇa)
+
+那位瑜伽行者(yogāvacara),如此地把存在于欲(kāma)、色(rūpa)、非色(arūpa)这三界(bhūmi)之内的一切行法(saṅkhāra dhamma),以过失、过患(ādīnava)而观,于是对那存在于三界之内、与坏灭之性一同生起的行法之聚,生起厌离、违逆、不再喜乐。
+可作比较的世间譬喻是这样:就如在阴凉(anotatta)湖西面、于质多枳吒(citta kuta)山脚而喜乐的金天鹅王(haṃsa),不喜乐于不洁净的旃陀罗(caṇḍāla)贱民村门附近的小池塘,而只喜乐于七大池塘那样——与这譬喻完全相同,这位瑜伽行者天鹅王,对那善加从四周所见的、有过失的、与坏灭之性一同生起的、存在于三界之内的三地(tebhūmaka)行法之聚,也不再喜乐。
+实际上,由于有名为修习(bhāvanā)的喜乐之处,由于具足在修习中喜乐、欢悦、满意的喜(pīti),便只在随观无常(aniccānupassanā)、苦随观(dukkhānupassanā)、无我随观(anattānupassanā)、厌离随观(nibbidānupassanā)、离染随观(virāgānupassanā)、灭尽随观(nirodhānupassanā)、定弃观(paṭinissaggānupassanā)这七种随观(anupassanā)中喜乐、欢悦、满意。(《清净之道》2,287。)
+
+再者,就如关在金笼中的、身为百兽之王的狮子,不喜乐于笼子,而实际上只喜乐于宽广三千由旬(yojana)的喜马拉雅(Himavanta)那样——与这譬喻完全相同,这位瑜伽行者狮子王,也不喜乐于欲善趣(kāmasugati)、色善趣(rūpasugati)、非色善趣(arūpasugati)这三种善趣界;实际上,只在随观无常、苦随观、无我随观这三种随观中喜乐、欢悦、满意而安住。(《清净之道》2,288。)
+
+再者,就如身体如银山般纯白的、具有手两只、足两只、尾、鼻、雄根这立于地的七种肢、神通广大、能在空中飞行的六牙(Chaddanta)象王,不喜乐于城中,而只喜乐于喜马拉雅有六牙湖之处的林中那样——与这譬喻完全相同,这位瑜伽行者尊象,也不喜乐于一切的三地(tebhūmaka)行法之聚。
+“anuppādo khemaṃ = 行法不生起的涅槃(nibbāna)= 即作为行法将来不生起之因的涅槃,是无怖畏的”——以如此等方法作意、以居先的随顺自性智(anuloma sabhāva ñāṇa)所见的、名为寂静处(santipada)的、作为一切行法寂灭处的、不死(amata)涅槃这一伟大圣法上,才喜乐。
+只生起着趣向那寂静处、倾向那寂静处、斜向那寂静处的心(citta)。(《清净之道》2,288。)
+
+**厌离随观智章 完毕。**
+
+**【文件：[340]厌离随观智章/[341] 法体义理相同的三种智.md】**
+
+### 法体义理相同的三种智
+
+怖畏现起智(bhayatupaṭṭhāna ñāṇa)、过患随观智(ādīnavānupassanā ñāṇa)、厌离随观智(nibbidānupassanā ñāṇa)——这三种智，依法体、义理本质而言是相同的。
+因此，往昔的诸义注(aṭṭhakathā)师长老们如此教示道：——
+
+“仅怖畏现起智这一种，便获得三种名称。
+
+- 1. 由于把一切行法(saṅkhāra dhamma)见为可怖畏的危难，所以名为**怖畏现起智**。
+- 2. 由于正是在那些行法之中，能明显地造作过患(ādīnava)、能明显地显示，所以名为**过患随观智**。
+- 3. 由于正是对那些行法生起了厌离(nibbidā)，所以名为厌离随观智。”（《清净之道》2、288。）
+
+在《无碍解道》(Paṭisambhidā magga)圣典中也——怖畏现起智、过患随观智、**厌离随观智**这三种智，依义理本质而言是相同的，仅在语词(sadda)上有所差别——如此宣说。（《无碍解道》259。《清净之道》2、288。）
+
+**【文件：[342]欲解脱智章 .md/[342] 欲解脱智章 = 行法.md】**
+
+# 欲解脱智(muñcitukamyatā ñāṇa)章 = 想从诸行法(saṅkhāra dhamma)中解脱出来的智
+
+以此厌离随观智(nibbidānupassanā ñāṇa),对诸行法厌倦、对诸行法违逆、对一切称为行法者皆不喜乐的、名为 ācārakulaputta(有德行的善男子)的这位善男子善女人,对于在一切界地、诸有(bhava)中生起的、具有剎那不断、连绵坏灭之性的诸行法,即使对其中任何一个行法,也不再黏着、不再被系缚了。
+只渴望从一切诸行法的总集中脱离,只渴望出离。
+
+**世间譬喻** ----- 落入网中的鱼、落入蛇口中的蛙、被关进笼中的野鸡、跟随牢牢系紧的套索之境域的鹿、落入弄蛇师(ālampāya)手中的蛇、陷入大泥沼中的象、落入金翅鸟王(garuḷa)口中的龙王(nāga)、落入罗睺阿修罗王(rāhu asurinda)口中的月亮、被敌人包围的男子 ----- 就像这样等等的有情(satta)们,都只想从那种种网等的系缚中脱离、只想出离一样;同样地,如同此譬喻一般,那位瑜伽行者(yogāvacara puggala)的心,也只想从一切三地(tebhūmaka)诸行法的总集中解脱出来。
+只想出离。
+那时,如上面所说,那位对一切三地诸行法无所执着(ālaya)、只想从一切诸行法的总集中脱离的瑜伽行者,在其相续(santāna)中,**欲解脱智**便生起了。(《清净之道》(Visuddhi Magga)2,288-289。)
+
+从坏灭智(bhaṅga ñāṇa)起,直到此欲解脱智为止的诸智,都是仅取诸行法的坏灭为所缘(ārammaṇa),轮番安立三种特相(lakkhaṇa),持续不断地修观(vipassanā)的诸智。
+对于存在于三时、两种相续之内的诸行法,取那些诸行法的坏灭为所缘,轮番安立三种特相,持续不断地修观时,对那些诸行法 -----
+
+- 1、若现起为可怖的危难,即怖畏智(bhaya ñāṇa),
+- 2、若观见那些诸行法的过患,即过患智(ādīnava ñāṇa),
+- 3、若对那些诸行法厌倦,即倦离智(nibbidā ñāṇa),
+- 4、若想从那些诸行法中解脱,即欲解脱智 ----
+
+应当记住:如此便有了各自不同的称呼用法。
+
+**欲解脱智章 结束。**
+
+**【文件：[343]省察随观智章/[343]a 省察随观智章.md】**
+
+# 省察随观智（paṭisaṅkhānupassanāñāṇa）章
+
+**【文件：[343]省察随观智章/[343]b 省察随观智.md】**
+
+### 省察随观智(paṭisaṅkhānupassanā ñāṇa)
+
+so evaṃ sabbabhava-yoni-gati-ṭhiti-nivāsagatehi sabhedakehi saṅkhārehi muccitukāmo sabbasmā saṅkhāragatā muccituṃ puna te evaṃ saṅkhāre paṭisaṅkhānupassanāñāṇena tilakkhaṇaṃ āropetvā pariggaṇhāti.(Visuddhi,2,289.)
+
+tilakkhaṇaṃ āropetvā saṅkhārapariggaṇhanaṃ pubbepi katanti punaggahaṇaṃ. pa. 
+saṅkhārānaṃ pariggaṇhanaṃ nāma paripuṇṇalakkhaṇavaseneva hotīti “**tilakkhaṇaṃ āropetvā**”ti vuttaṃ. (Mahāṭī,2,453.)
+
+那位修行者(yogāvacara)就这样，由于想要从在一切地(bhūmi)、有(bhava)、生(yoni)、趣(gati)、住(ṭhiti)、有情居(sattāvāsa)中生起的、具有坏灭之性的诸行法(saṅkhāra dhamma)中解脱，为了从一切行法之聚中解脱，便再次将那属于三界的诸行法，依下文将说的方式，以**省察随观智**安立三种相而摄取＝修习观(vipassanā)而省察。(《清净之道》,2,289。)
+
+对诸行法安立三种相而修观，这在前面的诸观智(vipassanā ñāṇa)中也已经做过。
+因此，注释师在此处说‘puna＝再次’。
+所谓以智(ñāṇa)分别、摄取诸行法，唯有依靠圆满之相的力量才有可能。
+因此-----‘tilakkhaṇaṃ āropetvā＝安立三种相而修观’，乃是义注所开示的。(《大义疏》,2,453。)
+
+依照这些指示，你这位善人应当对诸行法再次以略说的方式安立三种相而修观。
+这是要取诸行法纯然的坏灭为所缘(ārammaṇa)而观。
+详细而言，也要在这一部分，以名为修习(bhāvanā)(四十)的四十种观察格再次重复修观。但在这一部分，《清净之道》义注中-----
+
+- 1。无常(anicca)的行相(ākāra)(14)种，
+- 2。苦(dukkha)的行相(28)种，
+- 3。不净(asubha)的行相(9)种，
+- 4。无我(anatta)的行相(9)种，
+
+总合起来，开示了名为修习(六十)的诸观察格。
+不止于修习(六十)，为了能够以更多方式来观，还以‘ādi＝等(等等)’之语作了开示。
+换一种说法，由于将无常的行相开示为(14)种、苦的行相(28)种、不净的行相(9)种、无我的行相(9)种，所以修行者应当以观智把那一一行相看至明见，分别地观为无常、观为苦、观为不净、观为无我。
+这是要将每一种行相逐一区分开来观察。
+
+**【文件：[343]省察随观智章/[344]a 观为无常的方法.md】**
+
+### 观为无常(anicca)的方法
+
+那位瑜伽行者(yogāvacara)对于一切行法(saṅkhāra dhamma)——
+
+- 1. **anaccantikato** = 因为不是那种能超越最后边际之坏灭(bhaṅga)、能超越而常住的常恒者(sassata)，亦即因为具有不能超越最后边际之坏灭、不能超越而常住的体性，故观为无常。
+- 2. **tāvakālikato** = 因为只存在片刻而已，……
+- 3. **uppādavayaparicchinnato** = 因为被生起(uppāda)与坏灭所界定，……
+- 4. **palokato** = 因为会因病(byādhi)、老(jarā)、死(maraṇa)而崩裂毁坏，……
+- 5. **calato** = 因为会因病、老、死，以及得(lābha)、失(alābha)等世间法(lokadhamma)而动摇，……
+- 6. **pabhaṅguto** = 因为趋向坏灭，……
+- 7. **addhuvato** = 因为没有坚固恒常的体性，……
+- 8. **vipariṇāmadhammato** = 因为具有透过老、死此二方面而变异的体性，……
+- 9. **asārakato** = 因为如同无心实的糟粕外皮，并非坚实的心材，……
+- 10. **vibhavato** = 因为没有增长繁荣，……
+- 11. **saṅkhatato** = 因为是由诸因法聚合而造作的有为(saṅkhata)，……
+- 12. **maraṇadhammato** = 因为具有死亡、坏灭的体性，……
+- 13. **ādiantavantato** = 因为具有称为生起、坏灭的开端与终结，……
+- 14. **niccapaṭikkhepato** = 因为否定了常(nicca)的体性，……
+
+由于以上这些等等原因，故观为无常。(《清净之道》2,289。)
+
+诸位尊贵的瑜伽行者啊，对于存在于三时(kāla)、二相续(santāna)之中的诸行法，应以智(ñāṇa)逐一观照、直到亲见那一一的行相，并持续不断地观为‘无常、无常’。
+
+**【文件：[343]省察随观智章/[344]b 观为苦的方式.md】**
+
+### 观为“苦（dukkha）”的方式
+
+- 1. **abhiṇhapaṭipīḷanato** = 因为生起与坏灭对诸行法（saṅkhāra dhamma）不断地、一再地施加逼迫，故观为苦。
+- 2. **dukkhamato** = 因为难以忍受，……
+- 3. **dukkhavatthuto** = 因为是苦的所依处（vatthu），……
+- 4. **rogato** = 因为如同名为痼疾（yāpana）的根本病，……
+- 5. **gaṇḍato** = 因为如同脓疮，……
+- 6. **sallato** = 因为如同利箭，……
+- 7. **aghato** = 因为招致无利益（损害），……
+- 8. **ābādhato** = 因为是除痼疾这一根本病之外的、剧烈猛厉的病患，……
+- 9. **ītito** = （因为带来众多坏灭灾祸〔byasana〕，如同新来的外客〔āgantuka〕一般、是招致坏灭的不善〔akusala〕伴党之法）因为是坏灭之因，……
+- 10. **upaddavato** = （因为惯于带来种种各样、众多的无利益）因为是王难、王罚等灾厄〔upaddava〕的所依处，……
+- 11. **bhayato** = 因为是一切怖畏（bhaya）的所依，……
+- 12. **upasaggato** = 因为种种无利益接连不断地随逐，故有黏着纠缠，……；另一种 ----- 因为不离与贪（rāga）等过失的黏附纠缠，……
+- 13. **atāṇato** = 因为不能守护免于危难，……
+- 14. **aleṇato** = 因为不是可依靠藏身的隐蔽处，……
+- 15. **asaraṇato** = 因为不是可皈依的归处，……
+- 16. **ādīnavato** = 因为是过患（ādīnava）之过失，……；另一种 ----- 因为如同孤苦伶仃的穷困者，……
+- 17. **aghamūlato** = 因为是恶行的根本因，……
+- 18. **vadhakato** = 因为如同面带友人般和善笑脸、却会杀害亲近者的杀人凶敌，……
+- 19. **sāsavato** = 因为是诸漏（āsava）法的所缘（ārammaṇa），……；另一种 ----- 因为是诸漏法最切近的因——足处（padaṭṭhāna），……
+- 20. **mārāmisato** = 因为是名为死亡之法的死魔（maccumāra）、以及名为十种烦恼（kilesa）的烦恼魔（kilesamāra）的食饵（āmisa），……
+- 21. **jātidhammato** = 因为具有生起即生（jāti）的体性，……
+- 22. **jarādhammato** = 因为具有成熟、衰老（jarā）的体性，……
+- 23. **vyādhidhammato** = 因为具有患病（vyādhi）的体性，……
+- 24. **sokadhammato** = 因为具有忧愁（soka）的体性，……
+- 25. **paridevadhammato** = 因为具有悲泣（parideva）的体性，……
+- 26. **upāyāsadhammato** = 因为具有极度疲累苦恼（upāyāsa）的体性，……
+- 27. **saṃkilesikadhammato** = 因为具有作为爱欲杂染（taṇhā-saṃkilesa）、邪见杂染（diṭṭhi-saṃkilesa）、恶行杂染（duccarita-saṃkilesa）之所缘的体性，……
+- 28. **sukhapaṭikkhepato** = 因为排除了安乐之乐（sukha），…… 由于这些等等原因，故观为苦。（《清净之道》2，289。）
+
+**【文件：[343]省察随观智章/[346]a 视为不净的观法.md】**
+
+### 视为不净(asubha)的观法
+
+- 1. **ajaññato** = 因为具有令人不喜的性质 ...；另一种说法 ----- 因为具有不端庄、不美观的性质，故观为**不净**。
+- 2. **duggandhato** = 因为具有难闻的气味 ...
+- 3. **jegucchato** = 因为令人发出“呸、呸”之声、具有令人作呕的性质 ...；另一种说法 ----- 因为具有应当厌恶的性质 ...
+- 4. **paṭikkulato** = 因为与所喜爱、所满意者相反、相对立，具有令人厌恶嫌弃的性质 ...
+- 5. **amaṇḍanārahato** = 因为即使不佩戴衣饰庄严，也能够除去那些行法(saṅkhāra dhamma)的净(subha)之性质 ...；另一种说法 ----- 因为不佩戴庄严时，净之性质便消失、不净之性质便显现 ...；另一种说法 ----- 因为不净具有即使佩戴庄严也无法除去、无法消失、无法毁灭的体性 ...
+- 6. **virūpato** = **asundarato** = 因为具有不好（丑陋）的性质 ...
+- 7. **bībhacchato** = 因为是厌恶(paṭigha)（即瞋(dosa)）结缚(samyojana)的所依处(vatthu)，能把观照它们的人系缚于自身（即系缚于称为“自己”的五蕴(khandha)）...；另一种说法 ----- 因为具有令人不喜、令人厌恶嫌弃的性质，犹如粪秽般应被舍弃 ...
+- 8. **asucito** = 因为具有不洁净的性质 ...
+- 9. **amanāpato** = 因为具有不能令心意悦乐增长的性质 ...
+由于这些以及类似的种种原因，便以作为苦(dukkha)特相(lakkhaṇa)之随从眷属(parivāra)的不净，来观为不净。（《清净之道》2，289。）
+
+**【文件：[343]省察随观智章/[346]b 观为无我的方式.md】**
+
+### 观为‘无我’的方式
+
+- 1。 **parato** = 由于如同外来的陌生人，故观为**无我(anatta)**。
+- 2。 **rittato** = 由于空无常住(dhuva)、净(subha)、乐(sukha)、我(atta)等的本质，……
+- 3。 **tucchato** = 由于无常住、净、乐、我之实质而虚妄空洞，……
+- 4。 **suññato** = 由于空无外道(titthiya)所臆想的、作为主人(sāmī)、居住者(nivāsī)、施动者(kāraka)、受者(vedaka)、主宰者(adhiṭṭhāyaka)的‘我’，……
+- 5。 **asāmikato** = 由于没有作为所有者的‘我’，……
+- 6。 **anissarato** = 由于无法自主、不得支配，……
+- 7。 **avasavattito** = 由于不随顺(自己的)意愿，……
+- 8。 **aparināyakato** = 由于没有作为引领者的‘我’，……
+- 9。 **attapaṭikkhepato** = 由于否定‘我’，……
+
+由于诸如此类的种种原因，依无我而 = 观为**无我**。(《清净之道》2,289。)
+其利益即如此——如此观照的这位瑜伽行者(yogāvacara)，安立三相而摄持了诸行法(saṅkhāra dhamma)，称为对诸行法的摄持。
+若问为何要如此摄持这些行法——则是说：为了将来不再随逐诸行法，为了圆满那被称为‘善于从诸行法中解脱’的解脱(muccana) = 大解脱、彻底脱离之因由方便(upāya)，为了成就此因由方便，故须如此摄持。(《清净之道》2,290。)
+
+**【文件：[343]省察随观智章/[347]a 一则世间譬喻.md】**
+
+### 一则世间譬喻
+
+在十寻深处，潜入水底，一头扎下、整个没入水中四处摸索的那个渔夫，把一条颈上绕着三道环纹、黑斑满胸的眼镜水蛇毫无惊惧地误以为是鱼，满心欢喜地一把掐住它的脖子；待看着它浮上水面时，他却呆呆地愣住，惊恐得心都容纳不下，胸口仿佛擂鼓——凭着这遍彻一切的智慧，那时的我也与此譬喻一般：往昔安处于丰厚的荣华之中，不曾被〔苦的〕炎热之影所触，安享着安乐，正念也已开阔，犹如出身高贵的善人，毫无半点虚饰；朋友啊，当我如实省思之时，在我心中就像嫩肉在火上炙烤、被封住而无法舒展、蜷缩抽搐、惊怖战栗那般——那笼罩着人间界、明晃晃的昏黄月光，如今在我眼前刺目地显现，令我哀叹不已。（尊者摩诃西拉旺萨(Mahāsīlavaṃsa)——《清净之道》缅文释(Visuddhimagga-nissaya)，5，242。）
+
+以这样种种的情形，凭借善加忆念行法(saṅkhāra dhamma)的无常(anicca)等之状态的力量、由此生起的省思，在那位修行者(yogāvacara)的相续(santati)中，便生起了**省察智(paṭisaṅkhā ñāṇa)**。
+
+**【文件：[343]省察随观智章/[347]b 《无碍解道》圣典的开示.md】**
+
+### 《无碍解道》圣典的开示
+
+aniccato manasikaroto nimittaṃ paṭisaṅkhā ñāṇaṃ uppajjati. dukkhato manasikaroto pavattaṃ paṭisaṅkhā ñāṇaṃ uppajjati. anattato manasikaroto nimittañca pavattañca paṭisaṅkhā ñāṇaṃ uppajjati. (Paṭisaṃ,259.)
+
+1。对于把诸行法(saṅkhāra dhamma)作意为无常(anicca)的修行者(yogāvacara)而言，对于行相(saṅkhāra nimitta)——「adduva＝不恒常、不坚固。
+tāvakālika＝一时、仅一期寿命之久」——如此以无常相(anicca lakkhaṇa)的力量了知之后，智(ñāṇa)便生起。
+
+2。对于把诸行法作意为苦(dukkha)的修行者而言，对那名为生命期间(pavatta)的诸法，以苦相(dukkha lakkhaṇa)的力量了知之后，智便生起。
+
+3。对于把诸行法作意为无我(anatta)的修行者而言，对相(nimitta)也好、对生命期间也好，都以无我相(anatta lakkhaṇa)的力量了知之后，智便生起。(《无碍解道》,259。)
+
+在上述圣典的语句中-----「省察(paṭisaṅkhā)」一词的、名为相-生命期间的诸行法，以无常相、苦相、无我相的力量分别了知之后-----在说出这一义涵之后-----接着又说『ñāṇaṃ uppajjati＝智便生起』，如此便把了知的动作与智生起的动作，依前一时刻、后一时刻而说得仿佛时间上有先后差别。
+然而，在此处，实际上并不存在所谓前一时刻、后一时刻这样的时间差别。
+尽管并无如此差别，但这只是依文法用语(saddā vohāra)的力量，才说得仿佛时间上有先后差别而已。
+实际上，了知与智的生起两者乃是同时(samāna kāla)＝处于相同的时间。
+『manañca paṭicca dhamme ca uppajjati manoviññāṇaṃ＝既缘取有分(bhavaṅga)意门(manodvāra)，也缘取法所缘(dhammārammaṇa)诸法，意识(manoviññāṇa)便生起』----在这些表述中，缘取的动作与意识生起的动作并无时间上的差别，时间上彼此相同；-----同样地，在此处，了知的动作与智生起的动作也并无时间上的差别，时间上彼此相同——应当如此记住。(《清净之道》,2,291。《大义疏》,2,454。)
+
+换一种说法-----在那些逐级地、多次地、反复不断、连绵不绝地生起的诸智当中，依前面生起之智的力量、以三种相的标记的力量分别了知相与生命期间，这种了知的省察动作，便是此处所指。
+此外，依后面生起之智的力量，所指的则是智生起的动作。
+然而，那两种智不应当被当作各自独立的一个一个的智、依差别的方式来观。
+其缘由在于：由于它们落入同一个名相续(nāma santati)的次第之中，又由于依同一性(ekatta)的方法而被取为一个之故。(《清净之道》,2,291。《大义疏》,2,455。)
+
+在这一智的部分也是如此：以智把从色蕴(rūpakkhandha)起、直至老(jarā)-死(maraṇa)为止的蕴(khandha)-入处(āyatana)-界(dhātu)-缘起法(paṭiccasamuppāda)诸支分一一区分而取，并正是取那些行法的坏灭为所缘(ārammaṇa)，将三种相之乘逐一轮番安立而修观(vipassanā)；对于那观智(vipassanā ñāṇa)，也要再一次返回来修观。
+
+**【文件：[349]行舍智章/[349]a 行舍智章.md】**
+
+# 行舍智章
+
+**【文件：[349]行舍智章/[349]b 二分空随观.md】**
+
+### 二分空随观(dvikotikā suññatānupassanā)
+
+那位瑜伽行者(yogāvacara puggala)以这已经说过的方法、借由审查随观智(paṭisaṅkhānupassanā ñāṇa) -----
+
+**sabbe saṅkhārā suññā** = 一切行法(saṅkhāra dhamma)都空离于我(atta)。如此摄持之后，再次 -----
+
+**suññamidam attena vā attaniyena vā** = 这一切行法的聚合，既空离于我，也空离于「attaniya（我所）= 与我相关的所有物」。
+
+如此，「二分空性(dvikotika suññata)＝具有两分的空性体性」便以慧(pañña)摄持。(《清净之道》2-291。)
+
+sabbe saṅkhārā suññā = 虽然审查随观智是凭借以智分别、把取——即摄持——行法的无常(anicca)相状、苦(dukkha)相状、无我(anatta)相状等等之力而生起的，但尤其而言，审查随观智在摄持行法的无我相状时具有前导与主导的作用。
+因此，义注大长老(aṭṭhakathā) ----- **sabbe saṅkhārā suññāti pariggahetvā** = 「一切行法都空离于我」，以如此摄持作为开端——这正是对上述那段话所作的阐释。
+
+确实如此 ----- 唯有当以智分别、把取并摄持行法的那种无我相状真实存在时，对四谛(sacca)的洞穿了知与照见、即谛通达(sacca paṭivedha)，才能圆满成就。
+若不存在，便无法完成、无法圆满。
+确实如此 ----- 由于无法摄持行法的那种无我相状，沙拉般嘎(Sarabhaṅga)仙人等人的教诫与教法(sāsanā)，虽然能够施设无常相(anicca lakkhaṇa)、苦相(dukkha lakkhaṇa)二者而宣说、能令声闻弟子(sāvaka)了知，却无法施设无我相(anatta lakkhaṇa)而宣说、无法令声闻弟子了知，因此无法把声闻弟子从轮回(saṃsāra)流转之苦中救拔出来，正是这样一种非出离教法(aniyyānika sāsanā)。(《大义疏》2-455。)
+
+另一种方法 ----- 义注大长老着眼于「那些行法也空离于常(nicca)之实质、乐(sukha)之实质、我之实质」这一事实，而 -- 说出了「以慧摄持『一切行法都空离于我』」这句话。
+确实如此 ----- 凡是某一行法空离于某种常之实质等等，那一行法便正是空离于那种常之实质等等，应当如此了知。
+
+由于难以了知行法空离于我这一事实，尽管已多次了知过，但为了使观照行法空离于我的空随观(suññatānupassanā)达到坚固稳固、持久安立，义注大长老便接续着 ----- 「**suññamidam attena vā attaniyena vā** ＝这一切行法的聚合，既空离于我，也空离于与我相关的所有物」等等，继续致力于二分空随观。
+在那段话中，就某一方面而言，行法没有我、不是我；就那一方面而言，也不是我的所有物。确实如此 ----- 唯有当我存在时，我的所有物才应当存在。（由于没有我，我的所有物也就不存在。）
+因此 ----- suññamidam attena vā attaniyena vā = 「这一切行法的聚合，既空离于我，也空离于与我相关的所有物」——义注便如此阐释。
+
+若问：为何行法要如此空离于我、我所这两类呢 -- 这正是因为：瑜伽行者虽然以亲见智(paccakkha ñāṇa)、比量智(anumāna ñāṇa)这两种智去探究、寻找、审察行法，却仍无法在那些行法中找到我、我所这两类。
+这是说：尽管以亲见智、比量智这两种智去探究、寻找，却看不见、找不到这样的情形——无论是另一个有情(satta)，还是另一个行法，作为我的资具用品，安住于「能成就我的乐与苦」这样一种状态。(《大义疏》2-455。)
+
+**二分空随观** ----- 上文所说的「这一切行法的聚合，既空离于我，也空离于与我相关的所有物」这一观法，正是具有我、我所这两个部分的二分空随观修法。
+
+**【文件：[349]行舍智章/[350] 四分空随观.md】**
+
+### 四分空随观(catukoṭikā suññatānupassanā)
+
+so evaṃ neva attānaṃ, na paraṃ kiñci attano parikkhārabhāve ṭhitaṃ disvā puna "nāhaṃ kvacani, kassaci kiñcanatasmiṃ, na ca mama kvacani, kismiñci kiñcanatatthī"ti yā ettha catukoṭikā suññatā kathitā, taṃ pariggaṇhāti. (Visuddhi-2-291.)
+
+这个四分空随观的观法，出现在《上分五十》(Uparipaṇṇāsa)圣典第(50)页、阿内若萨巴亚经(Āneñjasappāya Sutta)中。
+这个观法的真意，《清净之道》义注(aṭṭhakathā)如此解说：
+evamayaṃ yasmā neva katthaci attānaṃ passati, na taṃ parassa kiñcanabhāve upanetabbaṃ passati, na parassa attānaṃ passati, na parassa attānaṃ attano kiñcanabhāve upanetabbaṃ passati.
+tasmānena catukoṭikā suññatā pariggahitā hotīti. (Visuddhi-2-292.)
+
+evaṃ ajjhattaṃ, bahiddhā ca khandhānaṃ attattaniyasuññatā suddhasaṅkhārapuñjatā catukoṭikasuññatā pariggaṇhanena diṭṭhā hoti.
+tena vuttaṃ "**evamaya**"ntiādi. (Mahāṭī-2-456.)
+
+依照上述这些义注、复注(ṭīkā)的解说阐释，你这位善男子 --
+
+- 1。内(ajjhatta)五蕴(khandha)中没有我(atta)的体性，
+- 2。内五蕴中没有我所(attaniya)、即与我相关的所有物的体性，
+- 3。外(bahiddha)五蕴中没有我的体性，
+- 4。外五蕴中没有我所、即与我相关的所有物的体性 ---
+
+这(4)类体性法，必须以观智(vipassanā ñāṇa)修观、使之得见。
+如此，若能在这(4)处中以观智修观、得见并摄持我、我所的不存在 -----便可说是能够修习**四分空随观**了。
+
+**【文件：[349]行舍智章/[351]a 一、我不在任何处.md】**
+
+### 1. nāham kvacani
+
+我 ----- 无论在任何处所，无论在任何时间，无论在任何一法(dhamma)，无论在内(ajjhatta)五蕴(khandhā)，无论在外(bahiddha)五蕴，都见不到「我」(atta)。
+在前述内、外两处所中存在的、称为五蕴的种种法当中，在称为生(uppāda)、住(ṭhiti)、坏灭(bhaṅga)的那段时间里，应当以观智(vipassanāñāṇa)努力看见任何「我」的不存在，并如此以「无我(anatta)、无我」来作无我随观(anattānupassanā)——意思是这样。
+由于那项无我随观的修习(bhāvanā)工作本身，正是在观照远离「我」（即对「我」的空无），所以也称为空随观(suññatānupassanā)。
+这就是诸「分(koṭi)」中的一组，即第一分。
+
+**【文件：[349]行舍智章/[351]b 二、不属于任何人的任何所属.md】**
+
+### 2. kassaci kiñcanatasmin
+
+自己的『我(atta)』，被当作某个他人值得忧虑的财物而持有——这是见不到的 = 自己的『我』，被当作某个他人值得忧虑的、供使用的资具与随侍眷属(parikkhāra)而持有——这是见不到的 = 自己的『我』，被某个他人——在兄长的情况下当作兄长，在亲友、伙伴(sahāya)的情况下当作亲友、伙伴，在使用资具的情况下当作使用资具——如此忆念、认定而持有——这是见不到的。
+应当这样修习观(vipassanā)，以致（如上所述地）见不到。
+这正是为了看见与自己的我相关的种种事物并不存在、看见远离我所(attaniya)之性质（即对我所的空无）而修观的『我所空随观(attaniyasuññatānupassanā)』。
+这就是诸「分(koṭi)」中的一组，即第二分。
+
+第一分，是教导：在三时(kāla)、两种相续(santāna)之内存在的诸行法(saṅkhāradhamma)中，以观智(vipassanāñāṇa)努力看见自己的『我』并不存在，从而以『无我(anatta)』来修观的开示(desanā)。
+而这第二分，正是教导：在那些行法中，以观智努力看见与自己的我相关的任何一法都不存在，从而以『无我』来修观的开示。
+
+如果自己的『我』也不存在、与自己的我相关的财物也不存在，那么究竟还有什么存在呢？答案是：**纯行聚(suddhasaṅkhārapuñjatā)** = 只有称为苦圣谛(dukkhasacca)、集谛(samudayasacca)的诸行法之堆聚而已。
+在那些行法中，应当以观智努力看见远离自己的『我』、也远离我所，唯有诸行法之堆聚存在，从而以『无我、无我』来修观。
+当无我智(anattañāṇa)之见日渐敏锐，智见已落定于『诸行远离我』之上时，既然连『我』都不存在，那么也就会体会到与我相关的财物同样并不存在。
+如果对诸行法的生起端(uppāda)与坏灭端(bhaṅga)——换一种说法是对其坏灭端——智见变得锐利，便会确信以坚固实质而存续的『我』并不存在。
+如果连『我』都遍寻不见，那么与我相关的财物又怎么可能还存在呢？
+它必然不可能存在。
+再者，还应记取：与我相关的、作为创造主的『最高我(paramaatta)』也同样并不存在。
+
+**【文件：[349]行舍智章/[352]a 我、我所、空性.md】**
+
+### atta attaniya suññatā
+
+「这位尊者是梵天神(brahma),是大梵天(mahābrahmā),是征服者,是不被任何人征服者,确实是见一切者,是支配者,是于禅那(jhāna)中已修习成就者,是已生与正生的有情之父,我们都是被这位梵天神所创造的。」(长部 1,17;梵网经(Brahmajālasutta)) ---
+
+应当在那些行法(saṅkhāradhamma)中,以智(ñāṇa)努力观照,以致看见：与那些持有佛陀教法(sāsanā)之外见解的沙门(samaṇa)、婆罗门(brāhmaṇa)所臆想构想出来的、值得忧虑的、作为创造主的『我(atta)』相关联的、自己的『我』,并不存在。因此,你这位善人,应当以观智(vipassanāñāṇa)努力观照,以致看见：在那些行法中,自己的『我』固然不存在;而那创造了与自己的我相关之自己的我的、异于自己的、称为个体(puggala)、有情的、作为创造主的『我』,也同样不存在。然后,对于在三时(kāla)、两种相续(santāna)之内所存在的那些行法的堆聚,当以『无我(anatta)、无我』来修观。
+
+**【文件：[349]行舍智章/[352]b 三、不属于我的任何处.md】**
+
+### 3. na ca (mama) kvacani
+
+他人的『我(atta)』 ----- 无论在任何处所，无论在任何时间，无论在任何一法(dhamma)，无论在内(ajjhatta)五蕴(khandhā)，无论在外(bahiddha)五蕴，都不存在——应当以智(ñāṇa)努力看见这一点，并对在三时(kāla)、两种相续(santāna)之内存在的那些行法(saṅkhāradhamma)，以『无我(anatta)、无我』来修观。
+这就是诸「分(koṭi)」中的一组，即第三分。
+
+**【文件：[349]行舍智章/[352]c 四、不属于我的任何所属.md】**
+
+### 4. mama kismiñci kiñcanatatthi
+
+那位瑜伽行者(yogāvacara)见不到：他人的『我(atta)』，在我自己的某个内(ajjhatta)、外(bahiddha)之法中，作为值得忧虑的资具(parikkhāra)、供使用之物而存在。
+意思是说：他人的（即异于自己之人的）『我』——在兄长的情况下当作兄长，在亲友、伙伴(sahāya)的情况下当作亲友、伙伴，在供使用资具的情况下当作供使用资具——如此在任何一个处所，被当作自己值得忧虑的财物而持有，这是见不到的。
+应当以观智(vipassanāñāṇa)努力观照，以致看见那种性质，并把那些行法(saṅkhāradhamma)以『无我(anatta)』来修观。
+这便是第四分(koṭi)。
+
+「为了我的利益而能行事、而安住的『paro puriso』= 一个异于我的男性个体(puggala)，是存在的；凭借那个异于我的个体的能力，我的一切都得以圆满成就。」
+如此，某些持有邪见(micchādiṭṭhi)的人，凭借其臆想构思，在内、外的行法之聚中，以智去寻找：异于自己的『我』，以及那异于自己的『我』作为自己值得忧虑之物而存在——然而都遍寻不见、见不到。第(3)、(4)两分要表达的，正是这个意思。
+因此，对这四种观照法的本意，请如下记取。-----
+
+- 1. **nāham kvacani** ----- 这第一种观照法，是教导：在诸行法中努力看见自己的『我』并不存在的观照法。
+- 2. **kassaci kiñcanatasmin** ----- 这第二种观照法，是教导努力看见：自己的『我』本身，并不是某个他人的我所(attaniya) = 看见它与『我』并无关联的观照法。
+- 3. **na ca (mama) kvacani** ----- 这第三种观照法，是教导：在诸行法中努力看见他人的『我』并不存在的观照法。
+- 4. **(mama) kismiñci kiñcanatatthi** ----- 这第四种观照法，教导努力看见：他人之『我』的非我所(anattaniya)性质 = 与自己的『我』并无关联的性质。(《清净之道》2,291-292;大义疏2,455-456。)
+
+你这位善人，对于在三时(kāla)、两种相续(santāna)之内存在的行法之堆聚中，以观智努力观照、以致看见这四种『我』、『我所』之性质都不存在，并把那行法之堆聚以『无我、无我』来修观。如此，便是把在内、在外都远离『我』与『我所』、被称为唯有纯粹行法之聚而存在的状态，以「摄持四分空性(catukoṭikasuññatā)」的方式来修观了。
+
+**【文件：[349]行舍智章/[353] 六分 - 六行相空性随观.md】**
+
+### 六分（cha koṭika）- 六行相空性随观（cha hākāra suññatānupassanā）
+
+cakkhu suññaṃ attena vā attaniyena vā niccena vā dhuvena vā sassatena vā avipariṇāmadhammena vā. pa. mano suñño. rūpā suññā. pa. dhammā suññā. cakkhuviññāṇaṃ. pa. manoviññāṇaṃ. cakkhusamphassoti evaṃ yāva jarāmaraṇā nayo netabbo. (Visuddhi, 2, 292. Cūḷaniddesa, 183.)
+
+依照上述巴利（pāli）圣典与义疏（aṭṭhakathā），行舍（saṅkhārupekkhā）观智（vipassanā ñāṇa）所观照的所缘——究竟（paramattha）
+诸法，与先前诸观智一样，也都是蕴（khandha）、处（āyatana）、界（dhātu）、根（indriya）、缘起（paṭiccasamuppāda）等体性
+诸法，应当如此记住。
+把那些有为（saṅkhata）的究竟法，依色名（nāma-rūpa）二法、五蕴、十二处、十八界、缘起十二支（aṅga）等方式加以归集，再将那一组组的究竟界质各各——
+
+- 1. 从我（atta）也好，
+- 2. attaniya＝从与我相关的所有物也好，
+- 3. 从被设想为常（nicca）的我也好，从其他任何一物、任何一人也好，
+- 4. 从坚固牢靠的恒久（dhuva）体性也好，
+- 5. 从一切时都显然存在之状态、即常恒（sassata）体性也好，
+- 6. 从远离变异之状态、即不变易法（avipariṇāmadhamma）体性也好——
+
+要以观智在那些行（saṅkhāra）法中看见那空寂、远离的空（suññata）体性，如此观照为 **suññaṃ suññaṃ**。
+另一种方法——观照为 anatta anatta、anicca anicca。
+（1）（2）即是无我随观（anattānupassanā）。
+（3-4-5-6）则是随观无常（aniccānupassanā）。
+在上述各个行法中，那远离这六种体性法的空寂之空
+
+体性，由于是一再、反复观照之随观（anupassanā），故此随观被称为六分空性随观＝六行相空性随观。
+
+**【文件：[349]行舍智章/[354]a 修习心平静地依附安住于行所缘时.md】**
+
+### 修习心（bhāvanā）平静地依附安住于行（saṅkhāra）所缘时
+
+如此修观时，无论于内（ajjhatta）还是于外（bahiddha）地持续观照，由于信（saddhā）与慧（paññā）、精进（vīriya）与定（samādhi）渐趋均等，修习心便不再对诸行法（saṅkhāra dhamma）的坏灭所缘费心操劳，而像安闲地坐着观看一样，平静地依附安住下来。
+修习心常会处于毫无动荡的状态。
+切莫勉强地一会儿内、一会儿外、一会儿色（rūpa）、一会儿名（nāma）、一会儿因、一会儿果地轮换，又在三相（lakkhaṇa）上也一项一项地轮换，去继续修观。
+倘若那样勉强，观（vipassanā）的定便会损坏。
+在观照内的诸行法时，若修习心于那个行所缘上变得平静，就继续在内的行法上修观。
+在观照外的诸行法时，若修习心于那个行所缘上平静地依附安住下来，就继续在那外的行法上修观。
+在观照色法时，若修习心于那个色法所缘上平静地依附安住，就继续在那色法上修观。
+在观照名法时，若修习心于那个名法所缘上平静地依附安住，就继续在那名法上修观。
+有时也要把正在观照的观智（ñāṇa）再次拿来修观。
+由于可观照的对象齐备，这是从中选取合意者来观照。
+
+**【文件：[349]行舍智章/[354]b 十行相 = 十分空性随观.md】**
+
+### 十行相（dasahākāra）= 十分（dasakoṭika）空性随观（suññatānupassanā）
+
+色（rūpa）法——
+
+- 1. **rittato** = niccasāra = 由于「常（nicca）的精髓实质」等不存在，是远离精髓的法 = 如此观照为 ritta。
+- 2. **tucchato** = 由于远离「常的精髓」等，是空洞无实的法 = 如此观照为 tuccha。
+- 3. **suññato** = 是远离「我（atta）的精髓」的法 = 如此观照为 suñña。
+- 4. **anattato** = 由于自身本身并非我，故观照为无我（anatta）。
+- 5. **anissariyato** = 一方面由于「作主宰者的状态、即主宰这回事」并不存在，另一方面由于任何人都无法令它去作主宰，因此是不能主宰的 = 如此观照为 anissariya。
+- 6. **akāmakāriyato** = 正如对于想用水泡去制作锅碗等器具的个体（puggala）来说，他自己想制作的那锅碗等工作任务无法完成那样；同样地，对于想把色法做成「常住、恒常」之状态等的个体来说，他自己想做的那项工作任务也无法完成。
+换一种说法——凭借自己的意欲愿望之力，并不存在任何「造作」这样的作业（kiriyā），因此观照为 akāmakāriya。
+- 7. **alabbhanīyato** = 「愿色这样生起、愿色不要这样生起」——如此希求也无法得到、不可能得到 = 如此观照为 alabbhanīya。
+- 8. **avasavattakato** =（a）由于自己不会顺随他人的意欲，故「不随意欲而成」；（b）由于也无法使他人随顺自己的意欲，故「无法使其随意欲而成」= 如此观照为 avasavattaka。
+- 9. **parato** = 在某一色名（nāma-rūpa）相续（santati）之流中，自己的色法本身正在生起；而那色名相续之流，就如同他人的一样无法支配、不能支配，因此是外来的陌生者 = 如此观照为 para。
+- 10. **vivittato** = 正如色法远离「能制作者＝能创造者『我（atta）』」等那样，同样地，色法也远离因之法与果之法，因此 = 观照为 vivitta。 
+的确如此——因之法与果之法之间，以及果之法与因之法之间，并不是怀着身孕、连同身孕那样地存在着。 
+因之法之中，果之法并不安立；果之法之中，因之法也不安立。 
+并不是像身孕安住那样，果安住于因中、因安住于果中。 
+当因之法显然存在时，只是有果之法的显然生起而已。
+因是各别的，果也是各别的，各自分别而存在。 
+如此一来，因之法与果之法彼此互相远离空寂。
+
+对从受蕴（vedanākkhandha）直到老死（jarāmaraṇa）为止的诸法，也请以同样的方法观照。（Visuddhi, 2, 293.）
+
+**【文件：[349]行舍智章/[355] 十二行相空性随观.md】**
+
+### 十二行相空性随观（dvādasahākāra suññatānupassanā）
+
+色法(rūpa)是 -----
+
+- 1. **na satto** = 不是有情(satta) = 不是外道(titthiya)所臆想、被称作「我(atta)」的有情。
+- 2. **na jīvo** = 不是命(jīva) = 不是外道所臆想的命体 = 不是活命之体。
+- 3. **na naro** = 不是 naro = 不是能造作的人 = 不是能造作的「我」。
+- 4. **na māṇavo** = 不是 māṇava = 不是慢(māna)生起之处 = 不是慢生起之处的「我」。
+- 5. **na itthī** = 不是 itthī = 不是外道所臆想的、作为受胎之处的女性 = 不是「我」。
+- 6. **na puriso** = 不是 purisa = 不是外道所臆想的 purisa（男性）= 不是作为主导者而先在存续的「我」。
+- 7. **na attā** = 不是「我」= 不是外道所臆想的、作为「我」之慢的安立处的「我」。
+色法由于成为「执取为我」的邪见(diṭṭhi)的依处(vatthu)，所以持有我见论(attadiṭṭhivāda)主张的诸人(puggala)，便把那色法称作「我(ahaṃ)」，也称作「我」。
+- 8. **na attaniyam** = 不是「我」的所属物。
+
+**注** ----- 其实，色法并没有那样的「我」、「命」等等体性；因此，为了显示摄持空(suññata)体性的作法，才说「rūpaṃ na satto＝色法不是有情」等等。 
+因此，借由上述从第（1）到第（8）的这些语句，是在指示去观照色法的我空(attasuññata)＝远离「我」的空寂体性。
+借由随后将继续说明的（4）个语句，则是在指示去观照：值得忧虑的牵挂(palibodha)状态之不存在，以及色法中与「我」相关的任何一物之不存在。(大义疏2,458。)
+
+- 9. **nāham** = 不是我。
+- 10. **na mama** = 不是我的「我」的所属物。
+- 11. **na aññassa** = 不是他人的「我」的所属物。
+- 12. **na kassaci** = 也不是任何一人的「我」的所属物。
+
+**注** ----- 这是由于：色法中并不存在自己的「我」、他人的「我」这样任何一个「我」的缘故。 
+请记住：「**na attaniyam**」这一语句所已经显示的含义，又借由作为另一种方便(pariyāya)说法的「na mama、na aññassa、na kassaci」这三个语句，再次予以说明。(大义疏2,458。)
+
+对从受蕴(vedanākkhandha)直到老死(jarāmaraṇa)为止的诸法，也是这种方法。(《清净之道》2,293。大义疏2,457-458。)
+
+**【文件：[349]行舍智章/[356] 四十二行相 - 空性随观.md】**
+
+### 四十二行相（dvācattālīsā ākāra）- 空性随观（suññatānupassanā）
+
+在前面的聚思惟智（kalāpasammasana ñāṇa）部分，为了使聚思惟智坚固稳定，而修习的、称为四十修习（bhāvanā）的四十「to」（观法），在本部分中也是为了空性随观的稳固而存在；为了显示这一点，便以这四十二种行相来阐明空性随观。
+称为四十修习的四十「to」（观法）的含义，已在前面写过了。
+在此，把前面尚未写到的那些语词，再补充阐明如下。
+**asaraṇībhūtato** = 由于色（rūpa）法不能消除危难，不宜被取作依怙，因而不成其为依怙——基于这种「不是依怙」的状态，故为 asaraṇībhūta（非依怙）。
+请以智（ñāṇa）观见那种体性，如此观照为 asaraṇībhūta。
+**anassādato** = 由于色法并不值得喜乐，故应把那色法观照为「不可喜乐」= anassāda。（此语词在《广释（niddesa）》巴利圣典中并没有；若有的话，便会成为四十三种行相。----- 大义疏2,458。）
+**ādīnavato** = 若色法的生起存在，便会招致一切过患之聚、过患之大堆 = 过患（ādīnava）；因此应把色法观照为「具有过患之聚、过患之堆的法」= ādīnava。（此语词也包含在四十「to」之中。）
+**samudayato** = 依「生起」的体性，观照为集（samudaya）。
+**atthaṅgamato** = 依「灭尽」的体性，观照为灭没（atthaṅgama）。
+
+**注** ----- 能使名色行法（saṅkhāra dhamma）生起的诸因之法，也都只是无常（anicca）之法。
+由于无常的诸因之法，而得以生起的果——诸名色，也同样都只是无常之法。名色行法的无常状态，是随顺着「因之法」这一另一者的意欲而成的。
+修习随观无常（aniccānupassanā）的修行者（yogāvacara），也应当观见：行法的无常状态，是与「因之法」这一另一者的无常状态相互关联连结的——必须如此观照。
+再者，也应观见行法之中远离「常（nicca）」这一精髓实质，必须如此观照。
+若能如此观见，那么正如随观无常之智——借由显示「行法既是随顺『因之法』这一另一者的意欲而成的、又远离『常』的精髓」——而使行法中的空（suññata）体性显现那样；同样地，把行法观照为「这是集、这是灭没」，也正是为了显示行法之中、从那凝结坚固恒常安立的坚实精髓「我（atta）」中空寂出来的空体性。世尊正是怀着这样的用心，才宣说这两种观法的。（大义疏2,458。）
+这种观法，正是「由于因之法生起而果之法随之生起」的「由缘见生」（paccayato udayadassana），以及「由于因之法灭去而果之法随之灭去」的「由缘见灭」（paccayato vayadassana）这样的观法。
+刹那的生灭（udayabbaya）洞见（khaṇato udayabbayadassana）也同样涵摄在其中。
+
+**assādato** = 应观照为：能产生「乐（sukha）、悦（somanassa）」这样可喜可乐之事物的体性之法 = assāda（乐味）。
+
+以色法为首的行法，也都是应当依「乐味」（assāda）而观照的法。
+yaṃ kho rūpaṃ paṭicca uppajjati sukhaṃ somanassaṃ, ayaṃ rūpassa assādo. (相应部2,23。)
+
+= 缘取色法而生起的乐受、悦受，就是色法的可乐味体性之法。（相应部2,23。）
+
+如此，依「乐味 = 可喜可乐的体性之法」来观照色法，由于清楚地显示了因之缘（paccaya）法与果之缘生（paccayuppanna）法的生起样态，从而使空体性显现。
+
+**ādīnavato** = 依过患，观照为「过患、过患」。
+
+yaṃ rūpaṃ aniccaṃ dukkhaṃ vipariṇāmadhammaṃ, ayaṃ rūpassa ādīnavo. (相应部2,21。)
+
+= 凡是色法，都是无常、苦（dukkha）、变易之法（vipariṇāmadhamma）；这无常、苦、变易之法的体性之法，就是色法的过患。（相应部2,21。）
+
+如此，观照色法的「无常、苦、变易之法」这种过患，由于显示、彰显了色法中远离「常的体性、乐的体性、不变易之法（avipariṇāmadhamma）的体性」而空寂的空体性，从而使色法中的空体性得以显现。
+前面已经一再讲过这个过患观法，而在此再次重说，应知是为了「破除乐味体性」这一观法目的而再说的。（大义疏2,458。）
+
+nissaraṇato = 依「出离之因」的体性，观照为「出离、出离」（nissaraṇa）。
+
+yo rūpe chandarāgavinayo chandarāgappahānaṃ, idaṃ rūpassa nissaraṇaṃ. (相应部2,23。)
+
+断除对色法贪恋染着的欲贪（chandarāga），就是色法的出离处 = 从色法中出离之处、出离之因的法。（相应部2,23。）
+
+如同这样的开示，观照色法的「出离处、出离之因」的出离体性，也同样使色法的空体性显现。
+
+因此请记住：以「集的体性、灭没的体性」等为首的种种观法、观照角度，都只是使空性随观增长的修习作业。
+
+**【文件：[349]行舍智章/[358] (42) 种行相.md】**
+
+### (42) 种行相
+
+(1) aniccato (2) dukkhato (3) rogato (4) gaṇḍato (5) sallato (6) aghato (7) ābādhato (8) parato (9) palokato (10) ītito (11) upaddavato (12) bhayato (13) upasaggato (14) calato (15) pabhaṅguto (16) addhuvato (17) atāṇato (18) aleṇato (19) asaraṇato (20) asaraṇībhūtato (21) rittato (22) tucchato (23) suññato (24) anattato (25) anassādato (26) ādīnavato (27) vipariṇāmadhammato (28) asāra-kato (29) aghamūlato (30) vadhakato (31) vibhavato (32) sāsavato (33) saṅkhatato (34) mārāmisato (35) jātidhammato (36) jarādhammato (37) byādhidhammato (38) maraṇadhammato (39) soka-parideva-dukkha-domanassa-upāyāsadhammato (40) samudayato (41) atthaṅgamato (42) assādato \* ādīnavato (43) nissaraṇato. (Visuddhi,2,293.)
+
+**注** ----- 若去掉 (25) anassādato，便成为 (42)。
+(26) 中已经含有 ādīnavato 了。
+另外，(43) 处也再次重复出现了 ādīnavato。
+若把这两处算作一处来计数，便正好是 (42) 种行相。
+在前面的聚思惟（kalāpasammasana）部分，曾把性质相同者归类汇总，写出并呈示了无常相（aniccalakkhaṇa）(10) 项、苦相（dukkhalakkhaṇa）(25) 项、无我相（anattalakkhaṇa）(5) 项。
+在此，则按巴利（pāli）大圣典与诸义疏（aṭṭhakathā）中所阐释的那样写出呈示。
+若有能力，也请再依上面这个次序观照一遍。
+从受蕴（vedanākkhandha）直到老死（jarāmaraṇa）的诸法，也同样地这般观照。
+对于那些不够明显的语义，请回到前面的「to」(40) 部分再查看。
+在前面的部分，把行法（saṅkhāra dhamma）的生起与坏灭、即生灭（udayabbaya）这两者全都取作所缘，修习观（vipassanā）。
+而在本部分，则只取坏灭、即灭（vaya）这一纯粹体性作为所缘来修观。
+差别仅此而已。
+
+**【文件：[349]行舍智章/[359]a 死王无法看见之人.md】**
+
+### 死王无法看见之人
+
+suññato lokaṃ avekkhassu, mogharāja sadā sato.<br>attānudiṭṭhiṃ ūhacca, evaṃ maccutaro siyā.
+
+evaṃ lokaṃ avekkhantaṃ, maccurājā na passati. (Khu,1,448。Cūḷani,180。)
+
+mogharāja = 施主摩咖拉嘉(mogharāja)仙人。
+sadā = 无论白天黑夜、一切时。
+sato = 因不间断地修习四念处(satipaṭṭhāna)而具足显现的念(sati)。
+attānudiṭṭhiṃ = 把以「我(atta)」之名持续生起的、具有二十种依处的有身见(sakkāyadiṭṭhi)。
+ūhacca = 以名色分别智(nāmarūpaparicchedañāṇa)、把握缘之智(paccayapariggahañāṇa)拔除舍离。
+suññato = 以空无「常(nicca)、乐(sukha)、我、净(subha)」等实质的方式。
+lokaṃ = 把名为苦圣谛(dukkha sacca)、集谛(samudayasacca)的色(rūpa)、名(nāma)诸法的行(saṅkhāra)世间。
+avekkhassu = 以观(vipassanā)智(ñāṇa)慧(paññā)之眼仔细审察、观照思惟，一再反复地修观省察吧。
+evaṃ = 如果能够这样修观省察的话。
+maccutaro = 超越、越过统治(31)界的死王而前行。
+siyā = 便会如此成办。
+evaṃ = 以如此所开示的、空无「常、乐、我、恒久(dhuva)、常见(sassata)、不变易法(avipariṇāmadhamma)」等实质的状态。
+lokaṃ = 把名为苦圣谛、集谛的色、名诸法的行世间。
+avekkhantaṃ = 把以观智慧之眼仔细瞻观、思惟省察的人。
+maccurājā = 统治(31)界的死王。
+na passati = 永远再也见不到了。(Khu,1,448。Cūḷani,180。Visuddhi,2,293。)
+
+**【文件：[349]行舍智章/[359]b 畏惧与喜.md】**
+
+### 畏惧(bhaya)与喜(nandī)
+
+evaṃ suññato disvā tilakkhaṇaṃ āropetvā saṅkhāre pariggaṇhanto bhayañca nandiñca vippahāya saṅkhāresu udāsīno ahosi majjhatto, ahanti vā mamanti vā na gaṇhāti vissaṭṭhabhariyo viya puriso...pe... iccassa **saṅkhārupekkhāñāṇaṃ** nāma uppannaṃ hoti. (Visuddhi,2,294。)
+
+如此这般，虽然以审察、思量、决断行(saṅkhāra)诸法的无常(anicca)自性、苦(dukkha)自性、无我(anatta)自性的遍知——度遍知(tīraṇapariññā)之力，把一蕴一蕴各别区分，并在(5)蕴之中以(42)种行相，能以智把空(suññata)自性区分把取、收摄、照见，但唯有以随观无常(aniccānupassanā)、苦随观(dukkhānupassanā)、无我随观(anattānupassanā)这三种随观(anupassanā)之力，在精勤努力修习观(vipassanā)修习(bhāvanā)的瑜伽行者(yogāvacara)的相续(santāna)之中，行舍智(saṅkhārupekkhāñāṇa)方能生起。
+因此，在行诸法之中照见空自性之后，将三重相(lakkhaṇa)安立其上，从而审察、思量行诸法的瑜伽行者 -----
+
+- 一、由于对行诸法不作舍观，依于行诸法的坏灭而将生起的恐惧 = 畏惧，
+- 二、依于那些行诸法的圆满具足而将生起的欢悦喜爱 = 喜 = 喜(pīti)，以及与喜(pīti)俱行的渴爱(taṇhā)，都能够舍弃。另一种方法 -----
+- 一、由于仅以观智照见行诸法的纯粹坏灭，凭借视之为可怖畏的危难之力而生起的、名为智的恐惧——智畏惧(ñāṇabhaya)，
+- 二、把三相的标记安立于行诸法之上、修观思量——凭借思惟(sammasana)之力而生起的、名为喜(pīti)的欢悦喜爱——喜，都能够舍弃。
+
+由于能够舍弃，便对行诸法持平如秤、保持无动于衷(udāsīna) = 安住于中庸而作舍观。
+不再把行诸法执取为「我」，也不再执取为「我的所有」。
+的确 ----- 总而言之，对行诸法的恐惧——畏惧，对行诸法的欢悦喜乐 = 喜——这些法已不再有进入、生起的机会了。
+实际上，唯有对行诸法平等地作舍观 = 舍(upekkhā)善加安住。
+就如同一个已经休弃了妻子的男子一般。
+
+有一个男子，娶了一位他极为喜爱珍视的女子。
+由于看到那女子与其他男人通奸的行为，那男子便把那女子从妻子的身分上休弃了。
+在这样休弃之后，那男子即使看到那女子与别的男人通奸，在那男子的相续之中，对那女子既不再生起愤怒，心中也不再生起不悦，实际上对那女子保持无动于衷、作舍、平等地舍观——正如这个譬喻一样 -----
+
+这位瑜伽行者由于想要从一切行诸法中解脱，便以**审查随观智(paṭisaṅkhānupassanā ñāṇa)**把三相的标记安立于行诸法之上、加以审察、思量，于是在行诸法之中不再见到可执取为「我-我的所有」的事物，舍弃了畏惧-喜这两个极端，对一切行诸法保持无动于衷 = 作舍 = 安住于中庸 = 作舍观。
+
+如此了知、如此观照、如此照见的那位瑜伽行者，他的心在(31)界之中退缩、皱缩、沉没、不舒展，不以喜乐而奔入；作舍观的舍，以及厌离嫌恶的状态，都善加安住。
+
+正如莲(paduma)叶上的水珠退缩、皱缩、沉聚、不舒展一般；又如投入火中的鸡毛与一段筋肉退缩、皱缩、沉缩、不舒展一般；正如这个譬喻一样，对那位瑜伽行者而言，心在(31)界之中退缩、皱缩、沉没、不舒展；舍，以及厌离嫌恶的状态，都善加安住。
+在如此安住的那位瑜伽行者的相续之中，名为**行舍(saṅkhārupekkhā)**的智便会生起。(Visuddhi,2,294。)
+
+**【文件：[349]行舍智章/[361] 趋于平静安住的样子.md】**
+
+### 趋于平静安住的样子
+
+瑜伽行者(yogāvacara)善人从坏灭智(bhaṅga ñāṇa)阶段开始，专注于诸行法(saṅkhāra dhamma)那纯粹的坏灭，修习观(vipassanā)、观照审察而来；当到达此行舍智(saṅkhārupekkhā ñāṇa)阶段时，也同样取那些行法纯粹的坏灭为所缘，将相之车(lakkhaṇā)的三个要点逐一轮番安立，照旧持续不断地修观下去。
+当取诸行法那纯粹的坏灭为所缘，将相之车的三个要点逐一轮番安立而修观时，诸行法的畏惧(bhaya)、过患(ādīnava)、厌离(nibbinda)等性质便逐层在智(ñāṇa)中显现出来。
+由此再进一步，把心导向脱离诸行法的方向，仍取诸行法那纯粹的坏灭为所缘，将相之车的三个要点逐一轮番安立，持续地修观下去，于是欲解脱(muñcitukamyatā)的性质与省察(paṭisaṅkhā)的性质也随之生起。
+
+对某些瑜伽行者而言，从坏灭智到省察智(paṭisaṅkhā ñāṇa)为止的诸智之间，智的次第每一阶段都不会停留太久。
+而对某些人来说，则会稍微停留得久一些。
+像这样将诸行法安立于相之车上、修习观照审察，在临近到达行舍智以及到达行舍智的时候，观心会变得更加平静。
+对于存在于过去、未来、现在三时之中的色法(rūpa)与名法(nāma)，内(ajjhatta)一轮、外(bahiddha)一轮、色一轮、名一轮，相之车的三个要点也逐一轮番安立，不间断地修观时，心便会渐渐地越来越平静。
+
+当修习(bhāvanā)之心以诸行法的坏灭为所缘，如此平静地贴住、安住于无常(anicca)的相状，或苦(dukkha)的相状，或无我(anatta)的相状时——若它平静地贴住安住于内的行所缘，便只在内继续观下去。
+若它平静地贴住安住于外的行所缘，便只在外继续观下去。
+在这样的时候，不要勉力去内一轮、外一轮地轮换着观。
+这是因为在内、外两处，所观的范围都已齐备的缘故。
+
+如果在内以色一轮、名一轮地轮换、安立相之车而观的时候，修习之心平静地贴住安住于修习的所缘，便只在内继续观下去。
+若在观色法时心变得平静，便只继续观色法。
+若在观名法时心也变得平静，便只继续观名法。对于外，也应同样地了知。
+像这样，当修习之心平静地贴住于修习的所缘，变得格外地、特别地稳定平静，不再需要费心，能够均匀、轻松自在地观下去时，有时连色法也会变得观不到。
+眼门心路(cakkhudvāra vīthi)等五门心路(pañcadvāra vīthi)也会变得观不到。
+往往就只能观到意门心路(manodvāra vīthi)的诸名法聚了。
+这只会越来越好。
+
+再者，在那些意门心路的诸名法聚当中，此时也应优先只观善的那一类名法聚。
+只对善速行(kusala javana)生起的意门速行心路(manodvārika javana vīthi)那一心相续的诸名法聚，安立相之车，优先地修观。
+如果此时仍能观到色，则——
+
+- 一、色——观 ----- 色 - 坏灭 - 无常（苦 - 无我），能观之智也 - 坏灭 - 无常（苦 - 无我），
+- 二、名——观 ----- 名 - 坏灭 - 无常（苦 - 无我），能观之智也坏灭 - 无常（苦 - 无我） ---
+
+就这样以此类推，将相之车的三个要点逐一轮番安立，反复多次地观下去。
+如果你这位善人是止行者(samatha yānika)、是已得禅那(jhāna)者，那么此时——由于已经多次修观过各种行法(pakiṇṇaka saṅkhāra)，所以这正是努力修习双缚法(yuganaddha naya)的一段最好的大好时机。
+一个绝佳的良机已经到来了。
+应将自己所证得的各个禅那逐一进入，再把那禅那的诸名法聚安立于相之车上而修观。
+例如 ----- 进入初禅。
+从该禅那出定，再把该禅那的诸名法聚以相之车的三个要点逐一轮番安立而修观。
+同样地，进入第二禅。
+也把该第二禅的诸名法以相之车的三个要点逐一轮番安立而修观。
+对于第三禅等等，也应同样地观。
+如果你这位善人不仅在安般(ānāpāna)第四禅，而且在十遍处(kasiṇa)的各个遍处也都证得了八定(aṭṭha samāpatti)，那么应再次进入那些已证得的诸禅那，每次从那禅那出定，便只把那禅那的诸名法聚以无常一轮、苦一轮、无我一轮地轮换而修观。
+如果你也已修习过四护卫业处(caturārakkha kammaṭṭhāna)，那么对那些名法聚也应以同样的方式来观。
+有时若还能观，便也对那些禅那名法聚所依止的所依色(vatthu rūpa)修观。
+有时也对正在观的观智(vipassanā ñāṇa)再一次地修观。
+有时若还能观，便内一轮、外一轮地轮换着修观。
+
+在这样修观时，某些瑜伽行者往往会在此行舍智阶段停留相当久。
+而某些善人则不会在此智阶段停留太久，往往会奔向、趣入那名为「寂静句(santipada)」的寂静界。
+一般而言，若在内、外两处都只见坏灭的观智变得极为强盛有力，便不会再在此行舍智阶段停留太久，而会跨入那不生不灭的境域。
+若只观见诸行法坏灭的观智稍微薄弱，由于势头不够强劲，便还不能轻易地跨入那不生不灭的境域，而往往会在这平静的阶段停留相当久。
+
+**【文件：[349]行舍智章/[362] 一段最重要的时间.md】**
+
+### 一段最重要的时间
+
+从生灭智(udayabbaya ñāṇa)那一部分开始、直到本行舍智这一部分为止所阐述的诸智次第、层层阶段，对于波罗蜜(pāramī)已然成熟的善人们来说，乃是即使在一次静坐之内也能够获得、能够证得的诸智。
+无论是在一次静坐之内便获得了这些智，还是未能获得，从生灭智开始直到本行舍智为止的诸观智(vipassanā ñāṇa)层层生起之时，对于你这位善人来说，都是极为重要的时段。
+
+在全部四威仪(iriyāpatha)当中，能让诸观心连续相接、不间断地观照，是极为重要的。
+在行走时、走来时、弯曲时、伸展时等等那些威仪正知(sampajañña)的时刻——以名色二法、五蕴、十二处、十八界、十二缘起支等等那些种种观法当中，无论是用自己所喜爱的一种方法，还是两种三种，还是全部诸方法，将那些行法(saṅkhāra dhamma)收摄起来，把三种相轮番安立，于三时、两相续中轮番修观吧。
+对于无法超越行舍智的善人们来说，这便是为了使诸观智成熟、使诸根(indriya)成熟而再三反复修练。
+这正如尊者拉胡勒(rāhula)大长老(thera)所曾修练过的古老惯例一样。
+
+**【文件：[349]行舍智章/[363]a 威仪 - 正知 观照格 略示.md】**
+
+### 威仪(iriyāpatha) - 正知(sampajañña) 观照格 略示
+
+这一部分纯粹是观(vipassanā)的部分，因此把用来观照假色的观照格略去。
+在经行道的某处暂时停下，闭上眼睛，建立定(samādhi)。
+把握诸色法(rūpa)与名法(nāma)。
+在把握诸色法时，只把握存在于六门(dvāra)、四十二身分(koṭṭhāsa)中的真实色。
+在把握诸名法时，要把随各处门(āyatana-dvāra)而生起的诸名法，以及存在于能引生威仪的意门速行心路(manodvārika-javana-vīthi)中的诸名法，连同有分(bhavaṅga)诸名法，全部混合起来一起把握。
+把那些色法与名法提升到相(lakkhaṇa)的载具上来作观。
+当观智(ñāṇa)的势力增强、相当熟练之后，就缓缓地在经行道上行走观察。
+一边缓缓地在经行道上行走，一边继续把握色法与名法，继续作观。
+凡按照观智的次第逐步开示过的种种观照格——即所谓四十个「to」、四十种修习(bhāvanā)观照格等——也都能够在行走等时候观照。
+向前进时、向后退时、直视前方时、斜顾侧视时、弯屈时、伸展时、携持双层衣(dukūla)-钵-僧衣时、进食时、饮用时、咀嚼时、舐尝时、大便-小便时、行走时、站立时、坐时、躺卧时、醒觉时、说话时、默然静处时等等，在这种种属于威仪方面、正知方面的观照格中，也都要把握色法与名法来作观。
+当观的势力增强时，就以那些行法(saṅkhāra)的纯粹坏灭为所缘来作观。
+有时，也要对正在观照的观智=观的意门速行心路心相续中的诸名法作观。
+对外(bahiddha)也以同样方法观照。
+
+有时，也要从过去世辗转相续直到未来世的尽头，以缘起(paṭiccasamuppāda)各支的纯粹坏灭为所缘来作观。
+有时，也要再次回过头来对正在观照的智作观。
+对内(ajjhatta)、外两者都要观照。
+
+**【文件：[349]行舍智章/[363]b 睁开眼睛观察.md】**
+
+### 睁开眼睛观察
+
+如此，在四种威仪(iriyāpatha)中都摄取色法(rūpa)与名法(nāma)，并取这些名色行法(saṅkhāra dhamma)的纯粹坏灭作为所缘，把三相(lakkhaṇa)轮流逐一安立而持续不断地修观(vipassanā)时，便能以智(ñāṇa)极其迅速地在内(ajjhatta)、外(bahiddha)两种相续(santāna)中见到行法的坏灭。
+那时，在某一处或站立或坐着，仍取行法的坏灭作为所缘，继续修观。
+当行法的坏灭极其迅速地显现于智中时，也睁开眼睛来观察。
+如此观照时，由于最初阶段还未充分熟练，无论看向有生命或无生命的整个世间中的任何事物，都还只会见到色聚(kalāpa)的微粒。
+如此见到时，要以智把这些色聚的密集(ghana)逐一击破、分解、破除，进而继续对究竟色法(paramattha)修观。
+唯有当智的洞见到达究竟色时，才把这些色法轮流逐一安立三相而修观。
+当观智再次成熟起来时，便不再见到色聚的微粒，而只会见到纯粹的究竟色。
+那时，便取这些究竟色法的坏灭作为所缘，继续修观。
+同样地，对存在于外在有生命众生相续中的名法，也以外与外相同的方式整体地修观。
+在内、外两者中轮流观照。
+如此，若能做到连各种威仪之间也衔接不断地修观，那么了知行法坏灭的观智便会变得极为强盛，并在不久的时间内便会到达能够平等舍离地观照行法的行舍智(saṅkhārupekkhā ñāṇa)阶段。
+
+**【文件：[349]行舍智章/[364]b 个体意乐.md】**
+
+### 个体(puggala)意乐(ajjhāsaya)
+
+此时，你这位善人，如果是止行者(samatha yānika)个体，就选择自己喜欢的禅那(jhāna)，以该禅那以及与禅那相应的法即禅那名法为优先，并在三种相(lakkhaṇa)中以无我(anatta)相为优先来修观(vipassanā)。
+把心倾向于不断崩坏、坏灭的行法(saṅkhāra dhamma)的终结处——不生不灭的无为(asaṅkhata)界、寂止界、涅槃(nibbāna)，以从行法的坏灭中解脱为目标，把无我相之乘安立于禅那名法以及正在观照的观智(vipassanā ñāṇa)之上，持续不断、大力地修观。
+有时，对这些禅那名法所依的、位于心脏(hadaya)中的大种色(bhūta-rūpa)、所造色(upādā-rūpa)共五十四种，以及正在观照的观智，也安立无我相之乘来修观、省察。
+
+即使这样观照，如果还不能轻易地转入不生不灭的境地，就把存在于过去、未来、现在这三时之中的色法与名法收摄起来，无论以色名二法之方式，还是以五蕴(khandha)之方式，安立相之乘，再一次修观。
+从过去的一重重相续起，直到未来的终尽，内在(ajjhatta)一轮、外在(bahiddha)一轮地观照。
+色名二法之方式与五蕴之方式，两种方式都要多次反复地观照。
+再者，依照缘起(paṭiccasamuppāda)第一法，把缘起的十二支也一一分别开来——“因为无明(avijjā)生起，所以行(saṅkhāra)生起”——如此等等，不再连结因果，而是把无明、行等等那些支，连同相应(sampayutta)法一起，按照已生、正生、将生的心路过程(vīthi-citta)次第，安立相之乘，再一次修观。
+在三时之中，从过去的一重重相续起，直到未来的一重重相续终尽，贯穿地观照。
+内在一轮、外在一轮地观照。
+观照外法时，由于外法彼此相同，只作一般性的总集、笼统地观照即可。
+如此多次反复观照时，最后要以无我相为优先来观照。
+
+这样以观智把行法一再、一遍遍地碾磨、踩压之后，那些只观照行法纯粹坏灭的观智就会变得极为有力。
+行法的坏灭，将在你这位善人的观智中极为迅速地显现。
+观修习(bhāvanā)之心也将渐渐地寂然贴住、安立于行法之坏灭的所缘上。
+
+当观修习之心如此寂然贴住、安立于行法之坏灭的所缘上时，由于在修行者(yogāvacara)个体的相续中，对行法已不再有忧虑与渴求，修行者个体的修习之心也将从畏惧(bhaya)与喜(nandī)这两端中解脱出来。
+这是在行法之上消除了忧虑、消除了渴求、变得安稳自在的智。
+在那个时候，把自己的心送向不断坏灭的行法所解脱之处——不生不灭的涅槃 = 以到达涅槃为目标而倾向、趣向，从自己已获得的禅那名法中选择喜爱的禅那名法，以之为优先，安立无我相之乘来修观。
+在这一部分，有些修行者个体更喜欢把第四禅(catuttha-jhāna)安立无我相之乘来修观。
+有些则更喜欢第三禅(tatiya-jhāna)。
+各人的喜好、意乐各不相同。
+这样观照时，有时也要把正在观照的观智再一次拿来修观。
+
+如果你这位善人不是止行者个体，是未得禅那者，是从界业处(dhātu-kammaṭṭhāna)之道转入观禅的人，那么，对存在于三时、两相续之中的三地(tebhūmaka)行法，用三种相之乘各轮流安立，按观智次第完整无遗漏地一次次观照完毕之后，到达这行舍智(saṅkhārupekkhā ñāṇa)阶段时，就只以缘取色法而生起的善组名法为优先来修观。
+这样观照之后，与正在缘取行法之坏灭的观智相应的定(samādhi)往往会变得非常有力。
+往往会寂然贴住、安立于行法之坏灭的所缘上。
+在某些禅修者(yogī)身上，到达这一智阶段时，一边观照行法，观智也渐渐地越来越成熟，于是有时会出现：不再见到色法的坏灭，而只见到名法的坏灭。
+那时，不要专门去努力以求知道色法的坏灭。
+如果为了见到那见不到的色法本性而去探究，定往往会败坏，因而定根(samādhindriya)也往往会减退。
+因此，只需继续观照名法纯粹的坏灭即可。
+也要把正在观照的智再一次拿来修观。
+在三种相中，也以自己喜爱的相为优先来观照。
+对于在这一部分停留过久的修行者个体来说，可以看到：在法所缘(dhammārammaṇa)这一线上，对那些以善速行(kusala javana)而速行的意门速行心路(manodvārika javana vīthi)的名法组，缘取这些名法的坏灭，以无我相为优先来观照，对大多数禅修者来说更好。
+这是针对纯观乘者(suddha vipassanāyānika)个体的说法。
+
+无论是止行者个体，还是纯观乘者个体，如果在这一部分停留达数日、数月，经历许多天、许多月之久，就要用色七法(rūpa sattaka)观法与非色七法(arūpa sattaka)观法，再一次努力使观修习的势头变得有力。
+也要按照观智次第，循序继续努力。
+这样一次次反复努力之后，必定会以良好的势头再一次到达这行舍智。
+信(saddhā)、精进(vīriya)、念(sati)、定、慧(paññā)这些根(indriya)也成熟、变得均等之后，便能转入名为寂静处(santipada)的、不生不灭的寂止界境地。
+
+在此，趁此机缘，把双缚法(yuganaddha naya)的相关内容写出来呈示。-----
+
+**【文件：[349]行舍智章/[366] 轭结缚经 (增支部1,475).md】**
+
+###　轭结缚经（yuganaddha suttanta）（增支部1,475）
+
+evaṃ me sutaṃ. ekaṃ samayaṃ āyasmā ānando kosambiyaṃ viharati ghositārāme. tatra kho āyasmā ānando bhikkhū āmantesi "āvuso bhikkhave"ti. "āvuso"ti kho te bhikkhū āyasmato ānandassa paccassosuṃ. āyasmā ānando etadavoca -----
+
+yo hi koci āvuso bhikkhu vā bhikkhunī vā mama santike arahattappattiṃ byākaroti, sabbo so catūhi maggehi etesaṃ vā aññatarena. katamehi catūhi.
+
+- 1. idha āvuso bhikkhu samathapubbaṅgamaṃ vipassanaṃ bhāveti, tassa samathapubbaṅgamaṃ vipassanaṃ bhāvayato maggo sañjāyati, so taṃ maggaṃ āsevati bhāveti bahulīkaroti. tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, anusayā byantī honti.
+- 2. puna caparaṃ āvuso bhikkhu vipassanāpubbaṅgamaṃ samathaṃ bhāveti, tassa vipassanāpubbaṅgamaṃ samathaṃ bhāvayato maggo sañjāyati, so taṃ maggaṃ āsevati bhāveti bahulīkaroti, tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, anusayā byantī
+honti.
+- 3. puna caparaṃ āvuso bhikkhu samathavipassanaṃ yuganaddhaṃ bhāveti, tassa samathavipassanaṃ yuganaddhaṃ bhāvayato maggo sañjāyati, so taṃ maggaṃ āsevati bhāveti bahulīkaroti. tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, anusayā byantī
+honti.
+- 4. puna caparaṃ āvuso bhikkhuno dhammuddhaccaviggahitaṃ mānasaṃ hoti, so āvuso samayo yaṃ taṃ cittaṃ ajjhattameva santiṭṭhati sannisīdati ekodi hoti samādhiyati, tassa maggo sañjāyati, so taṃ maggaṃ āsevati bhāveti bahulīkaroti. 
+tassa taṃ maggaṃ āsevato bhāvayato bahulīkaroto saṃyojanāni pahīyanti, anusayā byantī honti.
+
+yo hi koci āvuso bhikkhu vā bhikkhunī vā mama santike arahattappattiṃ byākaroti, sabbo<br>so imehi catūhi maggehi etesaṃ vā aññatarenāti. (Aṅg, 1, 475-476.)
+
+**【文件：[349]行舍智章/[367] 译文与含义解释.md】**
+
+### 译文与含义解释
+
+弟子我曾这样听闻。
+一时，阿难达(Ānanda)尊者住在高赏比(kosambī)国的高西达园(ghositārāma)精舍。
+那时，阿难达尊者对共住的诸比库(bhikkhu)称呼道：「朋友们(āvuso)，诸比库」。
+
+共住的诸比库回答阿难达尊者道：「尊者(bhante)」。
+阿难达大长老宣说了这段法语。-----
+
+朋友们……无论是比库还是比库尼(bhikkhunī)，任何人在弟子我面前讲说证得阿拉汉果(arahattaphala)之事，那些比库与比库尼全都是借由四道、或借由这四道中的某一道，而讲说证得阿拉汉果。
+是哪四种呢？-----
+
+一、朋友们……在此教法(sāsanā)中，比库修习以止(samatha)为前导的观(vipassanā)；对于修习以止为前导之观的那位比库，入流道(sotāpattimagga)明显地生起；另一种说法——名为前分(pubbabhāga)念处(satipaṭṭhāna)道的世间观道明显地生起。
+那位比库亲近、修习、再三熟习那道；对于亲近、修习、再三熟习那道的那位比库，结缚(saṃyojana)消失了=已被断除。
+潜伏(anusaya)消失、收摄、灭尽止息。(增支部1,475。)
+
+**samathapubbaṅgama**nti samathaṃ pubbaṅgamaṃ purecārikaṃ katvā.
+**maggo sañjāyatī**ti paṭhamo lokuttaramaggo nibbattati.
+**so taṃ magga**nti ekacittakkhaṇikamaggassa āsevanādīni nāma natthi, dutiyamaggādayo pana uppādento tameva āsevati bhāveti bahulīkarotīti vuccati. (增支部注2,346。)
+
+**samathapubbaṅgamaṃ vipassanaṃ bhāvetī**ti idaṃ samathayānikassa vasena vuttaṃ.
+so hi paṭhamaṃ upacārasamādhiṃ vā appanāsamādhiṃ vā uppādeti, ayaṃ samatho.
+so tañca taṃsampayutte ca dhamme aniccādīhi vipassati, ayaṃ vipassanā, iti paṭhamaṃ samatho, pacchā vipassanā.
+tena vuccati "samathapubbaṅgamaṃ vipassanaṃ bhāvetī"ti. pa.
+**paṭhamo lokuttaramaggo nibbattatī**ti sotāpattimaggaṃ sandhāya vadati, lokiyamaggavaseneva vā imissā pāḷiyā attho veditabbo.
+kathaṃ? **maggo sañjāyati**, pubbabhāgiyo lokiyamaggo uppajjati.
+**āsevati** nibbidānupassanāvasena.
+**bhāveti** muccitukamyatāvasena.
+**bahulīkaroti** paṭisaṅkhānupassanāvasena.
+**āsevati** vā bhayatupaṭṭhānādiñāṇavasena.
+**bhāveti** muccitukamyatādiñāṇavasena.
+**bahulīkaroti** vuṭṭhānagāminivipassanāvasena. (增支部复注2,344。中部注1,112。)
+
+**修习以止为前导的观**——这句话，是依止行者(samathayānika)个体(puggala)的立场而宣说的。
+确实如此——那位止行者首先生起近行(upacāra)定(samādhi)，以及安止(appanā)禅那(jhāna)定。
+这定即是止。
+那位止行者，将那近行定或安止禅那定、以及与该定相应的诸相应法(sampayutta dhamma)聚，以无常(anicca)等提起特相而修观。
+如此观照即是观。
+因此才宣说「使以止为前导的观生起」。(增支部注2,346。增支部复注2,344。)
+此法门一般而言，是怀着如下旨意而作的解说：止行者们以名法为先，且在那些名法之中又以禅那名法=禅那行(saṅkhāra)法为先，而进行观的作意。(中部复注1,204。)
+
+**maggo sañjāyati** = 道明显地生起；在此，是指初出世间道(lokuttaramagga)=入流道的明显生起。
+那入流道，由于具有仅一个心刹那(cittakkhaṇa)便生起的自然法性，并无再三反复生起之事，因而无法被多番修习；以习行缘(āsevanapaccaya)等作出助益之事也不存在。
+但是，若能使第二道=一来道(sakadāgāmimagga)等圣道(ariyamagga)生起=若能继续修习观直至其生起，便可说他正是亲近、修习、再三熟习那入流道。(增支部注2,346。)
+
+另一种说法——应仅依在圣道前分所应修满的、名为前分念处道的世间道=观道之立场，来了知这段巴利(pāḷi)圣典的含义。
+应如何了知呢？——**maggo sañjāyati** = 道明显地生起，意思是：在圣道前分生起的世间观道生起了。即此意。(增支部复注2,344。)
+
+**āsevati** = 亲近，是说以厌离随观(nibbidānupassanā)之力而亲近。
+**bhāveti** = 修习，是说以欲解脱智(muccitukamyatāñāṇa)之力而修习。
+**bahulīkaroti** = 再三熟习，是说以审查随观智(paṭisaṅkhānupassanāñāṇa)之力而再三熟习。
+（= 当到达厌离随观智时，便名为亲近世间观道。
+当到达欲解脱智时，便名为修习世间观道。
+当到达审查随观智时，便名为再三熟习世间观道。）(增支部复注2,344。)
+
+另一种说法——当到达怖畏现起智(bhayatupaṭṭhānañāṇa)、过患智(ādīnavañāṇa)、厌离随观智时，便名为亲近世间观道。
+当到达欲解脱智、审查随观智、行舍智(saṅkhārupekkhāñāṇa)时，便名为修习那世间道。
+当到达趣向出起之观(vuṭṭhānagāminivipassanā)时，便名为再三熟习那世间道。(增支部复注2,344。)
+ （趣向出起之观的相关内容将于后文显明。）
+
+这就是第(1)种个体；请继续阅读第(2)种个体的相关内容。
+
+二、朋友们……另一种是：比库修习以观为前导的止；对于修习以观为前导之止的那位比库，入流道或世间道明显地生起。
+那位比库亲近、修习、再三熟习那道。
+对于亲近、修习、再三熟习那道的那位比库，结缚消失了=已被断除。
+潜伏消失、收摄、灭尽止息。(增支部1,475。)
+
+**vipassanāpubbaṅgama**nti vipassanaṃ pubbaṅgamaṃ purecārikaṃ katvā samathaṃ bhāveti, pakatiyā vipassanālābhī vipassanāya ṭhatvā samādhiṃ uppādetīti attho. (增支部注2,346。)
+
+**vipassanāpubbaṅgamaṃ samathaṃ bhāvetī**ti idaṃ pana vipassanāyānikassa vasena vuttaṃ.
+so taṃ vuttappakāraṃ samathaṃ asampādetvā pañcupādānakkhandhe aniccādīhi vipassati. (增支部复注2,344。)
+
+第(1)种个体是止行者个体。
+这第(2)种个体是纯观乘者(suddhavipassanāyānika)个体。
+那位纯观乘者个体，不生起、不圆满前面所说的近行定、安止定这两种止，而将五取蕴(pañcupādānakkhandhā)以无常等提起特相而修观。
+如此以观为前导，而后修习止。
+意指：本来惯于获得观智的个体，立足于观而生起定。
+在这样的比库的相续(santāna)中，圣道法也确实能够明显地生起。(增支部注2,346。增支部复注2,344。)
+
+看了上面这些注释(aṭṭhakathā)、复注(ṭīkā)的解说，希望大家不要误以为纯观乘者个体完全不建立定。
+只是不为证得在禅那附近生起的真正近行定与安止禅那定而建立(定)罢了。
+至于纯观乘者个体所应遵行的界(dhātu)业处(kammaṭṭhāna)之道上，依等同近行(sadisūpacāra)而名为近行定、确切而言名为刹那定(khaṇikasamādhi)的那种定，纯观乘者个体则是必须建立的。
+请看下面这些注释、复注的解说。
+
+idha panekacco vuttappakāraṃ samathaṃ anuppādetvāva pañcupādānakkhandhe aniccādīhi vipassati, ayaṃ vipassanā.
+tassa vipassanāpāripūriyā tattha jātānaṃ dhammānaṃ vossaggārammaṇato uppajjati cittassa ekaggatā, ayaṃ samatho.
+iti paṭhamaṃ vipassanā, pacchā samatho.
+tena vuccati "vipassanāpubbaṅgamaṃ samathaṃ bhāvetī"ti. (中部注1,113。)
+
+**samathaṃ anuppādetvāvā**ti avadhāraṇena upacārasamādhiṃ nivatteti, na khaṇikasamādhiṃ.
+na hi khaṇikasamādhiṃ vinā vipassanā sambhavati.
+**vipassanāpāripūriyā**ti vipassanāya paripuṇṇatāya vuṭṭhānagāminibhāvappattiyā. (中部复注1,204。)
+
+在此教法中，某些纯观乘者个体，唯独不生起前面所说的近行定、安止定这两种止，而将五取蕴以无常等提起特相，修观、审察。
+这即是观。
+由于那位瑜伽行者(yogāvacara)个体的相续中诸观智的圆满，便生起了从行所缘(ārammaṇa)出起、一举奔向脱离诸行之涅槃(nibbāna)的趣向出起之观。
+那趣向出起之观中也包含圣道法。
+在那圣道刹那生起的正见(sammādiṭṭhi)等诸圣道法，正以涅槃为所缘。
+那些圣道法中也包含名为正定(sammāsamādhi)的心一境性(cittekaggatā)。
+那心一境性定也是以涅槃为所缘而生起。
+此处所谓心一境性，是指心落于涅槃这唯一所缘之上的性质。
+这道定(maggasamādhi)即是止。
+因此才说「修习以观为前导的止」。(中部注1,113。)
+
+在上面这段注释的文句中，「纯观乘者个体唯独不生起止」一语，注释里使用了具有遮止之义的「唯独」一词。
+以那「唯独」一词，只遮除了在禅那附近生起的真正近行定。
+并不遮除刹那定。对于依等同近行而名为近行定、确切而言名为刹那定的那种刹那定，则并不遮除。
+原因正在于：离了刹那定，观智便无法生起。(中部复注1,204。)
+
+刹那定指的是哪一类定，与之相关的诸多内容，已在第一册**应如何建立定**的部分阐明过了。
+
+《清净之道》(visuddhimagga)注释（《清净之道》2,222。）
+中所指示的一般规则规定——纯观乘者个体须从色(rūpa)业处开始作意，因此应以四大种为所缘，从此着手而建立定。
+若能以智将名为色块、色团的各个色密集(rūpaghana)破解、摧毁，从而能观见、能把握存在于一个个色聚(kalāpa)之内的四大种，便已到达那依等同近行而名为近行定、确切而言名为刹那定的刹那定。
+意思是：那刹那定并不被禁止；而为达到这样的刹那定，定是必须建立的。
+关于刹那定的完整内容，请回第一册查看。
+
+下面的第(3)种个体，正是修习轭结缚法(yuganaddha naya)的比库。
+就如把两头牛并轭在一根轭木上一般，正是把止与观并联起来而修习的瑜伽行者比库。
+
+三、朋友们……另一种是：比库将止与观结对而修习；对于将止观结对而修习的那位比库，道（=入流道或世间道）明显地生起。
+那位比库亲近、修习、再三熟习那道。
+对于亲近、修习、再三熟习那道的那位比库，结缚消失了=已被断除；潜伏消失、收摄、灭尽止息。(增支部1,475。)
+
+**yuganaddhaṃ bhāvetī**ti yuganaddhaṃ katvā bhāveti.
+tattha teneva cittena samāpattiṃ samāpajjitvā teneva saṅkhāre sammasituṃ na sakkā.
+ayaṃ pana yāvatā samāpattiyo samāpajjati, tāvatā saṅkhāre sammasati.
+yāvatā saṅkhāre sammasati, tāvatā samāpattiyo samāpajjati.
+kathaṃ? paṭhamajjhānaṃ samāpajjati, tato vuṭṭhāya saṅkhāre sammasati, saṅkhāre sammasitvā dutiyajjhānaṃ samāpajjati.
+tato vuṭṭhāya puna saṅkhāre sammasati.
+saṅkhāre sammasitvā tatiyajjhānaṃ. pa.
+nevasaññānāsaññāyatanasamāpattiṃ samāpajjati, tato vuṭṭhāya saṅkhāre sammasati.
+evamayaṃ samathavipassanaṃ yuganaddhaṃ bhāveti nāma. (增支部注2,346。)
+
+**修习轭结缚法**，是说将止与观结对=并联结对而修习。
+如此修习时，无法既以同一心入禅那等至(samāpatti)，又以同一心将诸行法(saṅkhāradhamma)提起特相而修观、审察。
+这位瑜伽行者比库，入了多少禅那等至，便将那么多禅那行法提起特相而修观、审察。
+将多少禅那行法提起特相而修观、审察，便入那么多禅那等至。
+如何修习呢？——入初禅(paṭhamajhāna)，从初禅出起后，将诸行法（=初禅名法=初禅行法）提起特相而修观、审察。
+将那些行法提起特相而修观、审察之后，入第二禅(dutiyajhāna)；从第二禅出起后，再次将第二禅行法（=第二禅名法）提起特相而修观、审察。
+将那第二禅行法提起特相而修观、审察之后，入第三禅(tatiyajhāna)等至。……
+再入非想非非想处(nevasaññānāsaññāyatana)禅那等至。
+从那非想非非想处禅那出起后，将非想非非想处行法=非想非非想处禅那名法聚提起特相而修观、审察。
+如此修习之时，这位瑜伽行者比库便名为将止观结对而修习=名为修习轭结缚法。(增支部注2,346。)
+
+这轭结缚法与大众所理解的轭结缚法并不相同，善人您应当留意。
+这只是那些能入禅那等至、又能修观的善人们的境地。
+已到达此行舍智阶段的善人您，此时优先采用这轭结缚法来修观，是格外合适的。
+接着请继续阅读第(4)种个体。
+
+四、朋友们……另一种是：那位比库生起了被诸法中的飘散——「法掉举(dhammuddhacca)」——特别执取住的心。
+朋友们……当那观心唯独在（行所缘内处 gocarajjhatta）涅槃之中善安住、善沉潜、善凝定，
+能善置其心。
+那时，对于那位比库，道（=入流道或世间道）明显地生起；那位比库亲近、修习、再三熟习那道。
+对于亲近、修习、再三熟习那道的那位比库，结缚消失了=已被断除；潜伏断离、收摄、灭尽止息。
+
+朋友们……无论是比库还是比库尼，任何人在弟子我面前讲说证得阿拉汉果，那些比库与比库尼全都是借由这四道、或借由其中某一道而证得阿拉汉果——（尊者）如此宣说。(增支部1,475-476。)
+
+**dhammuddhaccaviggahita**nti samathavipassanādhammesu dasavipassanupakkilesasaṅkhātena uddhaccena viggahitaṃ, suggahitanti attho. (增支部注2,346。)
+
+**dhammuddhaccaviggahitamānasa**nti obhāsādīsu ariyadhammoti pavattaṃ uddhaccaṃ vikkhepo dhammuddhaccaṃ, tena dhammuddhaccena vipassanāvīthito uggamanena virūpaṃ gahitaṃ pavattiyamānaṃ dhammuddhaccaviggahitamānasaṃ. (增支部复注2,344。)
+
+在修习止、观之修行(bhāvanā)时，当光明(obhāsa)等随染(upakkilesa)法明显生起，把那光明等执取为圣法(ariyadhamma)而生起的心，正是从根本业处所缘飘散而去的法掉举。
+被那法掉举紧紧执取的心，正是名为「法掉举所持心(dhammuddhaccaviggahitamānasa)」的那个心。
+将诸行法作意为无常（为苦(dukkha)、为无我(anatta)）。
+如此作意之际，当光明等生起，由于把那光明等也作意为圣法，于是成为偏离观之轨道的心。
+当那心生起时，便不再如实地了知诸行法为无常（为苦、为无我）。
+然而，当获得七种适宜(sappāya)等时，便能跨越、超越那些随染法，再次回到观的轨道上。
+继续努力之际，（观心）笼罩着观的轨道，唯独于名为行所缘内处的那涅槃所缘中善安住。(增支部注2,346-347。)
+
+**【文件：[349]行舍智章/[372] 知方乌鸦.md】**
+
+### 知方乌鸦(disākāka)——乌鸦
+
+taṃ panetaṃ sace santipadaṃ nibbānaṃ santato passati, sabbaṃ saṅkhārappavattaṃ vissajjetvā nibbānamevapakkhandati.
+no ce nibbānaṃ santato passati, punappunaṃ saṅkhārārammaṇameva hutvā pavattati sāmuddikānaṃ disākāko viya. (Visuddhi, 2, 294-295.)
+
+那行舍智(saṅkhārupekkhāñāṇa)，若以寂静的方式见到那从一切热恼中归于清凉之处、不死之界(amatadhātu)、不灭的涅槃(nibbāna)这一至上妙法，便会舍弃名为一切行(saṅkhāra)法之生起的行的生起(saṅkhārappavatta)，唯独奔入涅槃。（《清净之道》2,294-295。）
+
+那以诸行法之坏灭为所缘、安立诸相(lakkhaṇa)之轨而观照的行舍智，由于已达到敏锐尖利、清净、勇猛这些支分(aṅga)的齐备，因此当对诸行法的舍置(平等观照)圆满成就时，那行舍智便多次生起而趋于成熟；如此趋于成熟之后，便达到作为与圣道智(ariyamaggañāṇa)相随顺的随顺智(anulomañāṇa)之因法的状态，于是名为以寂静的方式见到涅槃。
+如此生起的那智，也是舍弃名为一切行法之生起的行的生起，而奔向、契入涅槃，便名为这样。
+请记住：在这一部分，把上述的行舍智，连同随顺智、种姓智(gotrabhūñāṇa)一起统摄为同一，凭借同一性法(ekatta naya)之力，便仍称之为行舍智。（《大义疏》2,459-460。）
+
+若尚未以寂静的方式见到涅槃 = 在那段期间内、只要尚未以寂静的方式见到涅槃，行舍智也就尚未成熟。
+若这样尚未成熟，行舍智便还无法以寂静的方式见到涅槃。
+若这样还无法见到 ----- 那行舍智便一再地、仅以行法为所缘而生起、持续现起。
+它既观照诸行法的坏灭，也观照那进行观照的观智(vipassanāñāṇa)的坏灭，如此修习观(vipassanā)。
+请记住：这就如同那些往来横渡海洋的船员们用来辨知方向的知方乌鸦一样。（《清净之道》2,294-295。）
+
+在远古的旧时代，横渡海洋的船员们登上船只时，往往会带着那种观看方向、辨知方向、名为知方乌鸦的乌鸦一同出航。
+那些船员，当船只因狂风暴雨之害而偏离惯常的航线、误入歧途时，港口码头便会变得模糊难辨；那时他们便把知方乌鸦放飞出去。
+那乌鸦便从桅杆顶端飞向天空，朝着东、西、南、北等正方，以及隅角方位等一切方向，盘旋飞翔、四处张望。
+它依次一处接一处地飞翔张望，若见到岸，便径直朝那见到岸的方向飞去；若见不到岸，便一再返回船上，仅停歇在桅杆顶端。
+
+正如这一譬喻，行舍智若以寂静的方式见到那从一切热恼中归于清凉之处、不死之界、不灭的涅槃这一伟大至上妙法，便会舍弃名为一切行法之生起的行的生起，唯独奔入涅槃。
+若尚未以寂静的方式见到涅槃，便一再地以行法为所缘而生起、持续现起。（《清净之道》2,295。）
+
+那行舍智，就如同在圆竹簸箕上滚转、层层铺叠的面团一样，又如同用小弹棉弓弹打的、已去籽的棉绒一样，以种种不同、各式各样的方式把诸行法收摄起来，再以智加以分辨，舍弃名为畏惧(bhaya)与喜(nandī)的两端边见；由于已达到以无常(anicca)、苦(dukkha)、无我(anatta)等行相审察诸行法的顶峰，正如它对诸行法持中地舍置(平等观照)那样，它对以无常、苦、无我等行相审察诸行法这件事本身也予以舍置，于是便凭借随观无常(aniccānupassanā)、苦随观(dukkhānupassanā)、无我随观(anattānupassanā)这三种随观(anupassanā)之力而安住。
+如此安住的行舍智 -----
+
+- 1. 达到三种解脱门(vimokkhamukha)的状态，并且，
+- 2. 成为分别辨析(7)种圣者(ariyapuggala)的因法。
+
+**【文件：[349]行舍智章/[374]a 三种解脱门.md】**
+
+### 三种解脱门(vimokkha mukha)
+
+aniccato manasikaronto adhimokkhabahulo animittaṃ vimokkhaṃ paṭilabhati. 
+dukkhato manasikaronto passaddhibahulo appaṇihitaṃ vimokkhaṃ paṭilabhati. 
+anattato manasikaronto vedabahulo suññatavimokkhaṃ paṭilabhati. (Paṭisaṃ, 254. Visuddhi, 2, 296.)
+
+**【文件：[349]行舍智章/[374]b 随观无常 = 无相解脱.md】**
+
+### 随观无常（aniccānupassanā）= 无相解脱（animittavimokkha）
+
+借助（行法）生起与坏灭的力量，以智(ñāṇa)把那些行法(saṅkhāra dhamma)的生起端、坏灭端加以区分，而观为无常(anicca)。
+这就是随观无常(aniccānupassanā)智。
+这随观无常智——「udayato pubbe saṅkhārā natthi＝在生起（＝udaya 生）之前，诸行法尚不存在」，如此（认定），又善加追循那些行法的去向(gati)、或其继续生起之状而寻求时——便依行法所趣的去途善加省察：「vayato param na gacchanti, ettheva antaradhāyanti＝在坏灭（＝bhaṅga 灭）之后的时段，诸行法不再继续前行，就在这坏灭的灭之时段便隐没消失」。
+对于如此省察、把行法作意为无常的瑜伽行者(yogāvacara)而言，行法借着会灭尽、会消失的灭尽(khaya)体性而显现出来；胜解增盛(adhimokkha bahula)＝即信念、信根(saddhindriya)的成分变得增多。
+便能证得远离行相(saṅkhāra nimitta)、名为无相(animitta)的解脱(vimokkha)。（《清净之道》2，295-296——见。）
+
+在把行法时时观为无常之际，由于领受到苦随观智(dukkhānupassanā ñāṇa)、无我随观智(anattānupassanā ñāṇa)以其强大的所依——亲依止缘(upanissayapaccaya)之力所给予的、那殊胜强大的助益威势，这随观无常智在诸根(indriya)齐备、成熟之时，便因远离行相而以无相之相缘取那名为无相的涅槃界(nibbānadhātu)＝在观(vipassanā)智的终点，正以无相之相缘取那名为无相的涅槃(nibbāna)，于是圣道(ariya magga)法生起；那圣道智因为是以缘取名为无相的涅槃界而生起的，所以也得名**无相**；又因为是从诸烦恼(kilesa)中解脱出来，所以也得名**解脱**。
+又因为它是名为有情世间(sattaloka)的一切有情(satta)从三界世间(loka)出离的原因，所以也得名**门(mukha)**。
+
+因此，尊贵的瑜伽行者以把行法观为无常的随观无常智，借相(nimitta)之力收摄行法而修习观时，便作意「凡于其中、此行相全然不存在的那个涅槃，那涅槃名为无相」，如此以无相之相而作意，于是把趣向出起的观(vuṭṭhānagāminī vipassanā)与圣道相联结；那位瑜伽行者的那条圣道，便得名为**无相解脱(animittavimokkha)**或**无相解脱门(animittavimokkhamukha)**。
+据说，那圣道是以无相之相而现证涅槃。（Paṭisaṃ，244-254。《清净之道》2，295-296——参见。）
+
+涅槃妙法的那种无相行相(animittākāra)＝即远离行相的状态，既非圣道所能造作，也非观智(vipassanā ñāṇa)所能造作。
+其实，它仅仅是依自性(sabhāva)而成就的。
+这是因为：伟大的涅槃妙法乃是不被任何因法所造作的无为界(asaṅkhatadhātu)的缘故。
+正因为是以那无相涅槃作为所缘，所以才说圣道是无相。（《清净之道》2，296——参见。）
+
+**【文件：[349]行舍智章/[375] 信根增盛的情形.md】**
+
+### 信根（saddhindriya）增盛的情形
+
+瑜伽行者（yogāvacara）轮番以三相（lakkhaṇa）省察、修习观（vipassanā）行法（saṅkhāra dhamma），尤其是**随观无常智（aniccānupassanā ñāṇa）**变得锐利犀利、勇猛起来。
+那时，在那位瑜伽行者的相续（santāna）中，信根变得增盛。
+的确如此——在刚开始努力修行时，仅凭“行法是无常的”这种相信的信（saddhā）而修行，当观智（vipassanā ñāṇa）达到增盛的顶峰时，就如同以智见到嫩叶等无生命的外部（bahiddha）世界中食素第八色法（ojaṭṭhamaka rūpa）之无常（anicca）生起、如同显现于智中一般，同样地，对于红宝石、黄金等之中名为食素第八色法的行法之无常生起，也带着极强的力度，以亲见智（paccakkha ñāṇa）亲自现前、洞穿地了知见到。
+
+[**注释** ----- 在色七法（rūpasattaka）的观法中，观自然色（dhammatā rūpa）的那一部分，请贤善的你重新作意忆念。
+无论是嫩树叶等，还是红宝石、黄金等，以观智之光照射，当以观智观照、令见到存在于它们之中的四大界（dhātu）时，瑜伽行者将只会见到名为行法堆聚的色法堆聚——即时节生食素第八色法（utuja ojaṭṭhamaka rūpa）＝色聚（kalāpa），由于每一个色聚之内所存在的火界（tejo dhātu）即时节（utu），而前后相续不断、层层叠叠地生起的、以食素（ojā）为第八的色法之堆聚。
+意思是说：当瑜伽行者以观智碾碎那些行法时，将只以观智极其显著地见到那些行法的无常本质。]
+
+在如此以亲见智洞穿地了知见到行法之无常状态的瑜伽行者的相续中——
+
+“sammāsambuddho vata so bhagavā ＝ 那位世尊确实是不颠倒地、以自己的智、亲自如实了知名为行、变化（vikāra）、相、涅槃（nibbāna）、概念（paññatti）这应知、应了知的五种所知法（ñeyya dhamma）的正自觉者（sammāsambuddha）、真正的佛陀啊”——如此，对身为导师的佛陀生起了极其强大的相信之信；因此，那位瑜伽行者既成为信胜解（saddhādhimokkha）增多者，也成为具足增盛之信者。
+如此，具足信、信根增盛的瑜伽行者的、名为增上心（adhicitta）的观修心（vipassanā bhāvanā citta），依次升进至随顺智（anuloma ñāṇa）等智的逐级次第之后，也是为了趣入名为无相（animitta）的无为界（asaṅkhata dhātu）。
+因此，在那随观无常智末端生起的圣道智（ariya magga ñāṇa）被称为**无相解脱门（animitta vimokkha mukha）**。（大义疏（Mahāṭī）、2、461-462。）
+
+**【文件：[349]行舍智章/[376] 苦随观 = 无愿解脱.md】**
+
+### 苦随观（dukkhānupassanā）= 无愿解脱（appaṇihitavimokkha）
+
+将三种相（lakkhaṇa）逐一轮番加于诸行法（saṅkhāra dhamma）之上而修习随观时，由于苦相显现得格外明显，便特别以苦相为先，持续不断地随观。
+那位瑜伽行者（yogāvacara）的苦随观智，清楚地显示出诸行法苦的真实自性。
+如此，由于苦随观智清楚地显示出诸行法苦的真实自性，那位瑜伽行者的修习心便生起惊恐，以怖畏的行相生起（即所谓「智畏（ñāṇabhaya）」）。
+如此，藉由清楚地显示出诸行法的真实自性——被生-灭的打击不断逼迫的苦的真实自性、因不停崩坏败灭而堪可怖畏的苦的真实自性——而被惊吓的苦随观修习心，便在善妙正确的正行道（sammāpaṭipatti）之中，将心好好地磨利。
+因此，苦随观修习心既是为了使心惊恐，也是为了在正行道之中使心锐利。
+
+再者，那位反复努力修习这苦随观智的瑜伽行者，藉由如此作意的力量——「诸行法只是苦而已；与诸行法相反的一面，即诸行寂灭之处的至尊涅槃（nibbāna）法，才是真正的乐（sukha）」——他持续地作意至尊大涅槃法的寂静、胜妙、安乐＝寂静-胜妙-乐（santa-paṇīta-sukha），因此那位瑜伽行者的心，由于不断地与欢喜愉悦的喜悦（pīti-pāmojja）法相应，便成为**多轻安（passaddhibahula）**＝轻安（passaddhi）增多的状态。
+
+如此，由于轻安增多，[他]获得了超胜的**定根（samādhindriya）**，因此贪愿（rāgapaṇidhi）、瞋愿（dosapaṇidhi）、痴愿（mohapaṇidhi）＝对诸行法的贪、瞋、痴这种渴求，便远离了。由于远离贪愿等，那苦随观智便成为获得名为**无愿解脱**的圣道智（ariyamagga ñāṇa）的原因。
+
+瑜伽行者收摄诸行法而修习观（vipassanā）时，由于苦随观智使[他]远离贪愿等，他的心便倾向、趣向那远离贪这种渴求的涅槃，从而使趣向出起的观智（vuṭṭhānagāminīvipassanāñāṇa）与圣道智相衔接。
+那位瑜伽行者的那圣道智，由于以无愿行相（appaṇihitākāra）＝远离贪等渴求的行相，缘取涅槃而生起，故得名**无愿**。
+由于从相应的烦恼（kilesā）中善加解脱，故也得名**解脱**。
+由于它是名为有情世间（sattaloka）的一切有情，从三界出离的原因，故也得名**门（mukha）**。
+因此，那位瑜伽行者的那圣道，既名为**无愿解脱**，也名为**无愿解脱门**。（《清净之道》2,295-296。大义疏 2,462 — 参见。）
+
+**【文件：[349]行舍智章/[377] 无我随观 = 空解脱.md】**
+
+### 无我随观（anattānupassanā）= 空解脱（suññatavimokkha）
+
+瑜伽行者（yogāvacara）收摄诸行法（saṅkhāra dhamma），将三种相（lakkhaṇa）逐一轮番加于其上而修习观（vipassanā）时，由于无我随观智（anattānupassanāñāṇa）的洞见强盛，便持续不断地作意无我随观。
+由于那无我随观的力量，观修习心便远离了执取「我（atta）存在」的错误见解；无我随观智使观修习心远离了执取「我存在」的我执。
+诸行法中空无我、即我空（atta-suññata）的真实自性，为智的洞见所触及；诸行法以空（suññata）的真实自性，显现在那位瑜伽行者的智的视野之中。
+由于那我空的真实自性之法成为微细之智的所缘，在反复努力修习无我随观智的那位瑜伽行者的相续（santāna）中，慧根（paññindriya）便日益增盛。
+（此处，慧根是指对诸行法的无常（anicca）真实自性、苦（dukkha）真实自性，尤其是无我（anatta）真实自性的透彻、极其清晰的了知。）
+如此，由于慧根增盛，[他]获得了超胜的慧根，因此痴（moha）＝无明（avijjā）也远离了。
+（对诸行法的无常之点、苦之点、无我之点的真实自性的无知，正是痴＝无明。）
+如此，由于痴＝无明的远离，反复努力修习无我随观智的那位瑜伽行者，便能在无我随观智的末端，获得名为**空解脱**的圣道智（ariyamagga ñāṇa）。
+
+瑜伽行者由于无我随观智的力量，远离了在诸行法中执取「我」的我执；无我随观智使观修习心远离我执，由于观修习心空无我，[他]便作意那可名为空的、名为无为界（asaṅkhatadhātu）的寂灭界、涅槃（nibbāna）这一至尊之法，向之倾注、俯就、趣入，从而使名为趣向出起（vuṭṭhānagāmini）的观智与圣道智相衔接。
+正因为将一切诸行法视为陌生的、外在的他者（para）而随观，[故]说心奔向、趣入空界（suññatadhātu）。
+
+由于以空无我的空行相（suññatākāra）＝空的行相，缘取涅槃而生起圣道智，故应知那圣道智名为**空**。
+那圣道智由于从相应的烦恼（kilesā）中解脱，故也得名**解脱**；由于它是名为有情世间（sattaloka）的一切有情从三界出离的原因，故也得名门（mukha）。
+因此，那位瑜伽行者的那圣道，名为**空解脱**，或名为**空解脱门**。（《清净之道》2,295-296。大义疏 2,462。）
+
+**【文件：[349]行舍智章/[378] 直接与方便.md】**
+
+### 直接(mucca)与方便(pariyāya)
+
+在阿毗达摩(Abhidhamma)《法集论》(Dhammasaṅgaṇī)巴利圣典(阿毗、1、84-85。)中，世尊只开示了**无愿解脱(appaṇihitavimokkha)、空解脱(suññatavimokkha)**这两种解脱(vimokkha)。
+那所开示的阿毗达摩教说(desanā)由于是究竟法(paramattha)教说，所以正是以直接的方式所开示的教说。
+
+而在《辨析道》(Paṭisambhidāmagga)巴利圣典(辨析、262-263。)等经(sutta)教说中，则以经藏(suttantika)方便的方式，开示了**空解脱、无相解脱(animittavimokkha)、无愿解脱**这三种解脱。
+
+圣道智(ariyamaggañāṇa)之所以获得那些解脱的名称，只是依据观智(vipassanāñāṇa)如何抵达圣道智那一过程的样态而获得的。
+
+无常随观智(aniccānupassanāñāṇa)在行法(saṅkhāra dhamma)中破除并舍弃执取为常(nicca)的常相(niccanimitta)，苦随观智(dukkhānupassanāñāṇa)在行法中破除并舍弃执取为乐(sukha)的乐相(sukhanimitta)，无我随观智(anattānupassanāñāṇa)在行法中破除并舍弃执取为我(atta)的我相(attanimitta)——在观的阶段以彼分(tadaṅga)、在圣道智的阶段以正断(samuccheda)的方式破除舍弃。
+因此，这三种随观(anupassanā)由于舍弃了常相、乐相、我相，由于从那些相(nimitta)中解脱出来，而获得**无相解脱**的名称，这是正确的。
+
+然而，作为圣道智所缘的伟大尊贵的涅槃(nibbāna)法，由于完全远离行相(saṅkhāranimitta)，而成为真正的无相之法。
+上述以无常随观为首的三种随观，由于是仅以行法为所缘而修习观察的诸法，实际上尚未从行相中解脱出来。
+
+animittañca bhāvehi, mānānusaya mujjaha.(khu、1、329。)
+
+「应修习无相随观(animittānupassanā)，应断除慢潜伏(mānānusaya)」，世尊在《维加亚经》(Vijaya Sutta)等种种经教说中如此开示了无相随观。
+那种观虽然剥离了常相、坚固相(dhuvanimitta)、乐相、我相，但其自身的观智本身
+由于仍只在行相的所缘中盘旋活动，因此仍然只是有相之法(sanimitta)＝即仍然只是具有行相的法。
+由于尚不能舍弃行相，所以不以直接的方式称为无相。
+只是依据远离常相、坚固相、乐相、我相这一原因方便，才获得无相的名称。
+而以直接的方式，则称为空，也称为无愿。
+那种观智也只是凭借通往圣道的修行进程的力量，才在圣道的刹那把解脱标举出来而开示。
+由于如此被标举出来而开示，应当了知：在阿毗达摩教说中只开示了无愿解脱与空解脱这两种。(清净、2、296-297。大义疏、2、462-463——请见。)
+
+另一种方法 ----- 阿毗达摩教说是究竟法教说＝是开示不歪曲、真实正确之义的教说；而被称为无相的圣道，就究竟法而言，其根据也是欠缺的。
+
+以无常随观的力量，在《辨析道》巴利圣典等中开示了无相解脱。
+在凭借那种无常随观的修习(bhāvanā)工作而生起、被称为无相解脱的圣道法中，信根(saddhindriya)占优势；然而那信根并非圣道八支(ariyamaggaṅga)中所含摄的任何一支(aṅga)。
+由于信根自身不是道支(maggaṅga)之法，所以无法把名称赋予作为自己成果的圣道。
+
+在不同于此无相解脱的其余各种解脱中：以苦随观(dukkhānupassanā)的力量开示无愿解脱，以无我随观(anattānupassanā)的力量开示空解脱。
+在那两种解脱中，无愿解脱以定根(samādhindriya)、空解脱以慧根(paññindriya)占优势。
+那定根、慧根是圣道的支分，含摄于八道支之中。
+由于如此是圣道法的支分，所以能够把名称赋予作为自己成果的圣道法。
+
+如此，依据所有这些情形，由于无相观(animittavipassanā)自身无法立足于自己的来路上把名称赋予自己的圣道，应记住：在阿毗达摩《法集论》巴利圣典中并不开示、不采取无相道(animittamagga)。(清净、2、295-296-297。阿毗、疏、1、267-268-269。大义疏、2、462-463——请见。)
+
+**【文件：[349]行舍智章/[379] 空得名的方式.md】**
+
+### 空(suññata)得名的方式
+
+在此处，**空**是出世间(lokuttara)道法的名称。那出世间道 -----
+
+- 1. 来由(āgamana) = 圣道(ariya magga)生起之因的观(vipassanā)，
+- 2. 自功德(saguṇa) = 自身圣道的功德，
+- 3. 所缘(ārammaṇa) = 所缘 = 涅槃(nibbāna) -----
+
+由于这三种因由之法，得到「空」这个名称；得名的方式是这样的。-----
+
+在此教法(sāsanā)中，瑜伽行者(yogāvacara)比库(bhikkhu)把诸行法(saṅkhāra dhamma)以无我(anatta)＝当作「无我」而坚定不移地作意，把诸行法以无我＝当作「无我」而观照。
+然而，仅仅把诸行法观照为无我、仅仅以观智(vipassanā ñāṇa)见其为无我，则由于[圣道]能从诸行法以及从轮回之苦(vaṭṭa dukkha)中出起、出起之后一举奔向涅槃，故名为「出起(vuṭṭhāna)」的圣道法并不能生起。
+以无常(anicca)＝「无常」、以苦(dukkha)＝「苦」而用观智观照使之得见，这才是恰当的。
+因此，令心趣入并安住于无常、苦、无我这三种随观(anupassanā)，把诸行法逐一地当作「无常」、「苦」、「无我」而审察，轮番地反复观修。
+（意思是：观心(vipassanā citta)时而趣及诸行法的无常之点、时而趣及苦之点、时而趣及无我之点，如此审察诸行法而轮番反复观修。）
+然而，那位瑜伽行者个体(puggala)的趣向出起之观(vuṭṭhānagāminī vipassanā)，把出现于三界中的诸行法，观照为「唯离于我(atta)、唯是空(suñña)＝唯是空(suññata)」。
+这种观即名为「空观(suññata vipassanā)＝空随观(suññatānupassanā)」。
+（意思是：由于原本以无我随观(anattānupassanā)为基础，故在临近进入圣道的趣向出起之观的阶段，必定是能把诸行法观照为空的无我随观。）
+那趣向出起之观，立足于圣道智(ariya magga ñāṇa)生起之因的修行上，赋予自己的圣道以**空**这个名称。
+这样一来，圣道便因道生起之因的观，而获得「空」这个名称。
+
+另一种方式则是：那圣道远离贪(rāga)、瞋(dosa)、痴(moha)；如此远离贪等的状态，正是圣道的功德(guṇa)。
+由于自身远离贪等的这一功德，圣道也获得**空**这个名称。
+
+再者，伟大尊贵的涅槃法，也因远离贪等的状态，而正被称为「空」。
+由于以那名为「空」的伟大尊贵涅槃法作所缘而生起，圣道也因涅槃这个所缘，而获得**空**这个名称。
+
+在能得「空」这一名称的三种因由之法当中，就经的教说(suttanta desanā)方式而言，圣道是因自身功德、以及因所缘，而获得「空」这个名称。
+确实如此 ----- 这经的教说是方便(pariyāya)的教说。
+而阿毗达摩说(abhidhammakathā)＝阿毗达摩(abhidhamma)的教说，则不是方便，而是决定的教说。
+因此，在此阿毗达摩的范畴中，不能因自功德、也不能因所缘而得到「空」这个名称；唯有因圣道生起之因的维巴沙那来由(vipassanāgamana)，才能获得「空」这个名称。
+确实如此 ----- 唯有来由才是责任(dhura)＝主导(padhāna)、为主导的；那来由 -----
+
+- 1. 维巴沙那来由，
+- 2. 道来由(maggāgamana) ——
+
+有两种。
+在这两种之中，于圣道生起之处，作为圣道生起之因的、名为观的维巴沙那来由是责任＝主导、为主导的。
+于圣果(ariya phala)生起之处，作为圣果生起之因的、名为圣道的道来由是责任＝主导、为主导的。
+而在此出世间的范畴中，由于这是与圣道生起之因相关的部分，所以唯有作为圣道生起之因的维巴沙那来由才是责任＝主导，正为主导。
+因此，唯有借由维巴沙那来由而获得的、圣道的**空**这个名称，才是不带方便、纯属决定的名称。
+（意思是：因自功德、因所缘而获得的那些名称，由于不是责任，所以只是借由方便而获得的名称。）（阿毗、注、1、266。）
+
+[**备注** ----- 由于把作为因的观的「空」之名，比拟安置于作为果的圣道之上，而把作为果的圣道称为「空」，所以圣道是依因近喻(kāraṇūpacāra)而名为空。
+把所缘涅槃的「空」之名，比拟安置于能取该所缘的、作为能缘者(ārammaṇika)的圣道之上，而把圣道称为「空」时，也同样是因近喻。
+由于自己的圣道远离贪、瞋、痴，故依自功德＝自身功德而得「空」之名时，则因「空」这一名称也与虚空、无有概念(abhāva paññatti)等相关，所以是一分近喻(ekadesūpacāra)。]
+
+**【文件：[349]行舍智章/[381] 获得「无愿」名称的方式.md】**
+
+### 获得「无愿(appaṇihita)」名称的方式
+
+圣道也正是因为三种原因，才获得「无愿」这个名称。 
+获得的方式如下。-----
+
+在这教法(sāsanā)中，瑜伽行者(yogāvacara)比库从最初起，便坚定不移地把行法(saṅkhāra dhamma)作意为苦(dukkha)；把行法作意为苦 = 以观智(vipassanā ñāṇa)审视，观见行法之生起、坏灭这打击、以坏灭之打击而恒常不断地遭受逼迫的性质，将那些行法观照为苦。 
+仅仅把行法观照为苦、仅仅以智慧观见，单凭这样，那能够从行法、也能够从轮回(saṃsāra)之轮转苦中腾脱而起 = 腾脱而起、一举奔向涅槃(nibbāna)、名为出起(vuṭṭhāna)的圣道法，是不可能生起的；反之，唯有以观智审视行法，观见为无常(anicca) = 为无常，以及观见为无我(anatta) = 为无我，才是恰当的。
+因此，使心趣入无常、苦、无我这三种随观(anupassanā) = 把心提起，将行法轮流地一时观照为无常、一时观照为苦、一时观照为无我，如此周转不停地、修行不辍。 
+然而，那位瑜伽行者个体(puggala)的趣向出起之观(vuṭṭhānagāminīvipassanā)，令那对存在于三界之内的三地(tebhūmaka)行法所生的、贪求执著的渴爱(taṇhā)枯竭，周遍地予以辨别、摄取 = 令之耗尽，从而舍弃行法。 
+这种观便名为无愿观(appaṇihitavipassanā)。 
+（这是因为再次以苦随观(dukkhānupassanā)为优先而观照的缘故。）
+那种无愿观，立足于来由处(āgamanīyaṭṭhāna) = 立足于作为圣道生起之因的修行，把「无愿」这个名称赋予自己的圣道。 
+如此，出世间(lokuttara)圣道，便因作为其生起之因的观 = 因维巴沙那来由(vipassanāgamana)，而获得**无愿**这个名称。
+
+另一种则是 ----- 在那圣道中，名为贪愿求(rāgapaṇidhi)、嗔愿求(dosapaṇidhi)、痴愿求(mohapaṇidhi)的、那贪(rāga)、嗔(dosa)、痴(moha)之愿求(paṇidhi)诸法并不存在；因此，那圣道正是因为自身中明显存在的德性(guṇa)，而获得**无愿**这个名称。
+
+那圣道的所缘(ārammaṇa)——无为界(asaṅkhatadhātu)、至尊伟大的涅槃法——也因为那贪、嗔、痴之愿求诸法的明显不存在，而正被称为无愿。
+圣道由于以那获得「无愿」名称的无为界、至尊伟大的涅槃法作为所缘而生起，所以那圣道便因所缘而获得**无愿**这个名称。
+
+在获得「无愿」这个名称的三种因法当中，依经(suttanta)教说的方式，圣道是因自身德性、也因所缘，而获得「无愿」这个名称。 
+诚然 ----- 这经教说乃是方便(pariyāya)教说。
+阿毗达摩论说(abhidhammakathā) = 阿毗达摩(Abhidhamma)法则是不涉方便、决定纯粹的教说。
+因此，在这阿毗达摩的场合中，无法因自身德性、也无法因所缘而获得「无愿」这个名称。 
+唯有因作为圣道生起之因的维巴沙那来由，才能获得「无愿」这个名称。 
+诚然 ----- 唯有来由(āgamana)才是责任(dhura) = 主导(padhāna)，是主要的。 
+那来由分为维巴沙那来由、道来由(maggāgamana)两种。 
+在这两种当中，于圣道生起之处，作为圣道生起之因的、名为观的来由 = 维巴沙那来由，是责任 = 主导，是主要的。 
+于圣果(ariya phala)生起之处，作为圣果生起之因的、名为圣道的道来由，是责任 = 主导，是主要的。 
+而在这出世间的场合，由于这是与圣道生起之因相关的部分，所以唯有作为圣道生起之因的、名为观的来由 = 维巴沙那来由，才是责任 = 主导，处于主要地位；因此，唯有借由维巴沙那来由所获得的圣道之「无愿」名称，才是不涉方便、决定纯粹的名称。 
+（意思是说，因自身德性、因所缘而获得的名称，由于并非责任，所以仅是依方便而获得的名称。）（阿毗达摩注疏，1，266-267。）
+
+[**注** ----- 在与上述「获得空(suññata)名称的方式」、「获得无愿名称的方式」相关联而阐述的语句当中 ----- 「坚定不移地开始把无我特相(anattalakkhaṇa)作意，并持续作意，令三种特相全都周全无遗，随后又重新回过来作意无我特相之际，若证入圣道，则那圣道获得空这个名称。 
+坚定不移地开始把苦特相(dukkhalakkhaṇa)作意，并持续作意，令三种特相全都周全无遗，随后又重新回过来作意苦特相之际，若证入圣道，则那圣道获得无愿这个名称。」 
+请记住，这些语句乃是与「获得空名称的方式」、「获得无愿名称的方式」相关联，就其要旨以主导方式加以阐述的话语。 
+正如坚定不移地开始把无我特相作意、并作意三种特相令其周全无遗之后，又再度回过来作意无我特相之际能够证入圣道那样；同样地，在作意无常特相(aniccalakkhaṇa)之际，以及在作意苦特相之际，也都是能够证入圣道的。 
+再者，正如坚定不移地开始把苦特相作意、并作意三种特相令其周全无遗之后，又再度回过来作意苦特相之际能够证入圣道那样；同样地，在作意无常特相之际，以及在作意无我特相之际，也都是能够证入圣道的。（《清净之道》，2，301 - 以及请参阅下列《殊胜义注》(Aṭṭhasālinī aṭṭhakathā)。）]
+
+**【文件：[349]行舍智章/[382] 三种特相.md】**
+
+### 三种特相(lakkhaṇa)
+
+aniccādīsu hi yattha katthaci abhinivisitvā itarampi lakkhaṇadvayaṃ daṭṭhuṃ vaṭṭati eva.
+ekalakkhaṇadassanamatteneva hi maggavuṭṭhānaṃ nāma na hoti.
+tasmā aniccato abhiniviṭṭho bhikkhu na kevalaṃ aniccatova vuṭṭhāti, dukkhatopi anattatopi vuṭṭhātiyeva.
+dukkhato anattato abhiniviṭṭhepi esevanayo.
+iti ādito yattha katthaci abhiniveso hotu, vuṭṭhānagāminī pana vipassanā yaṃ yaṃ sammasitvā vuṭṭhāti, tassa tasseva vasena āgamanīyaṭṭhāne ṭhatvā attano maggassa nāmaṃ deti.
+tattha aniccato vuṭṭhahantassa maggo animitto nāma hoti, dukkhato vuṭṭhahantassa appaṇihito, anattato vuṭṭhahantassa suññatoti evaṃ suttantapariyāyena āharitvā dīpito. （阿毗、注、1、269。）
+
+在初修观修业处(vipassanā bhāvanā kammaṭṭhāna)、正着手精勤之际，于三种特相当中，无论对哪一种未加特别标定的特相坚定不移地作意，都无妨；然而趣向出起之观(vuṭṭhānagāminī vipassanā)，则是在审视了某一某一特相之后，便从诸行(saṅkhāra)中出起，唯凭那各别特相之力，方成为圣道(ariya magga)得以生起之因——它立足于维巴沙那来由(vipassanāgamana)之上，能将名称赋予作为自身之果的圣道。
+能够赋予的方式，便是这样。-----
+
+在以无常(anicca)为首的三种特相当中，坚定不移地作意某一种未加特别标定的特相之后，此后，对于除了自己所坚定作意的那一特相以外的其余两种特相，也去观照＝以智(ñāṇa)照见，唯有这样才是恰当的。
+仅仅观照、仅仅照见单单一种特相，凭这一点，名为出起的圣道无论以何种方式都不可能生起。因此，把行法(saṅkhāra dhamma)以无常＝当作「无常」而坚定不移地作意的瑜伽行者(yogāvacara)比库(bhikkhu)，若不兼及苦(dukkha)、无我，仅凭单单作意无常＝仅凭一味观照「无常」，名为出起的圣道智(ariya magga ñāṇa)尚不能生起；唯有也借由以苦＝当作「苦」，以及以无我(anatta)＝当作「无我」而作意，名为出起的圣道智才终究得以生起。
+另一种说法 ----- 并非仅从单单是无常的行(saṅkhāra)中出起，而是从是苦的行、以及从是无我的行中出起，这才是实情。
+在以苦、以及以无我而坚定不移地作意之处，也正是这个道理。
+
+如此，在初修观修业处、正着手精勤之际，于三种特相当中，无论对哪一种未加特别标定的特相坚定不移地作意，都无妨；然而趣向出起之观，则是在审视了某一某一特相之后，便从诸行法中出起，唯凭那各别特相之力，方成为圣道得以生起之因，它立足于维巴沙那来由之上，能将名称赋予作为自身之果的圣道。
+
+其中，在把行法作意为「无常」之际，从行法中出起的瑜伽行者个体(puggala)的圣道；另一种说法 -- 从是无常的行法中出起的瑜伽行者个体的圣道，名为无相道(animitta magga)。
+在把行法作意为「苦」之际，从行法中出起的瑜伽行者个体的圣道；另一种说法 -- 从是苦的行法中出起的瑜伽行者个体的圣道，名为无愿(appaṇihita)。
+在把行法作意为「无我」之际，从行法中出起的瑜伽行者个体的圣道；另一种说法 -- 从是无我的行法中出起的瑜伽行者个体的圣道，名为空(suññata)。
+如此，请记住：昔日的诸位注疏(aṭṭhakathā)师长老，乃是借由经(suttanta)的方式引取而来，显示了无相道之存在的。（阿毗、注、1、269。）
+
+**【文件：[349]行舍智章/[384] 圣者（七）种 —— 判别方式.md】**
+
+### 圣者（ariya puggala）（七）种 —— 判别方式
+
+（一）随信行（saddhānusārī）、（二）信解脱（saddhāvimutta）、（三）身证者（kāyasakkhī）、（四）双重解脱（ubhatobhāgavimutta）、（五）随法行（dhammānusārī）、（六）得见者（diṭṭhippatta）、（七）慧解脱（paññāvimutta），如是共有（七）种圣者。为了判别、区分这些个体，这行舍智（saṅkhārupekkhāñāṇa）便是其原因之法。
+
+**解释** ----- 一位瑜伽行者（yogāvacara）把行法（saṅkhāra dhamma），依**无常（anicca）**的方式＝作为**无常**
+而作意，因而信根（saddhindriya）多为增盛。
+他获得那作为成为随信行之因的、极为强盛的信根。
+[在正观照的观智（vipassanā ñāṇa）中，一般约有（三十四）个名法（nāma），意思是：其中所含的信（saddhā）心所（cetasika），极为敏锐锋利、十分强而有力。]
+该个体在入流道（sotāpattimagga）刹那，称为**随信行**个体。
+在其余的入流果（sotāpattiphala）、一来道（sakadāgāmimagga）、一来果（sakadāgāmiphala）、不来道（anāgāmimagga）、不来果（anāgāmiphala）、阿拉汉道（arahattamagga）、阿拉汉果（arahattaphala）这（七）处，称为**信解脱**个体。（《清净之道》，2，297。）
+
+对于在行法中善加观照无常之相状的瑜伽行者，那无常随观智（aniccānupassanāñāṇa）以亲依止（upanissaya）之力，帮助令信不断增长。
+无常随观智乃是信增长的强大依处、亲依止，因此，在与那信相应的圣道（ariyamagga）中——换一种说法——在与信极为强盛的观智相应的圣道中，信也同样极为强盛。
+如此，由于维巴沙那来由（vipassanāgamana），那具足信极为强盛的入流道智（sotāpattimaggañāṇa）、名为第八者（aṭṭhamaka）的入流道位（sotāpattimaggaṭṭhāna）个体，便称为**随信行**＝意即：随顺于安立在圣道生起之因即观（vipassanā）之事中的信的个体。（参见《大义疏》，2，464-465。）
+
+[**注** ----- 在阿拉汉果中并无信解脱个体；若依经（suttanta）教说的方便（pariyāya）而言，倘若说阿拉汉道刹那生起了信解脱，那么由于在因——阿拉汉道中信极为强盛，或由于生起了信解脱，故作为其果法的阿拉汉果，也说为信解脱。
+应当如此了知。（参见《大义疏》，2，464-465。）]
+
+再者，一位瑜伽行者把行法，依**苦（dukkha）**的方式＝作为**苦**，坚固不移地作意。
+由于如此作意，轻安（passaddhi）渐渐增多；由于轻安增多，便能获得极为强盛的心之安定——定根（samādhindriya）。
+凭借那苦随观（dukkhānupassanā），从诸行中出起的个体，从入流道起、直到阿拉汉果，在全部（八）处，都称为**身证者**个体。（《清净之道》，2，297。）
+
+**【文件：[349]行舍智章/[384]b 值得提问之处.md】**
+
+### 值得提问之处
+
+在义疏(aṭṭhakathā)(Abhi-A-1-266)中(有此一问): 由于依固定法则确立了「维巴沙那来由责任(vipassanāgamanadhura)」、「道来由责任(maggāgamanadhura)」这两种责任(dhura), 那么在入流道(sotāpattimagga)刹那, 岂不应当或是随信行(saddhānusārī)、或是随法行(dhammānusārī)吗?——或有人如此问。
+答案如下。-----
+
+在此, 于入流道刹那, 应当只是随信行。(意即不应当是身证者(kāyasakkhī)。)
+在阿拉汉果(arahattaphala)刹那, 也没有身证者。在《阿毗达摩》(Abhidhamma)巴利圣典(Abhi-3-184)中, 如此开示道: -----
+
+“什么样的个体(puggala)称为身证者呢? 在此教法(sāsanā)中, 某些瑜伽行者(yogāvacara)个体以名身(nāmakāya)触及八种解脱(vimokkha)法而安住, 又以慧(pañña)了知见到, 对那个体而言某些漏(āsava)法已然灭尽, 此个体便称为身证者。” (Abhi-3-184)
+
+如此, 由于只开示了某些漏法的灭尽, 便有此一问: 岂不应当理解为, 所谓身证者个体只是有学(sekkha)个体吗? -----
+
+此问, 就非方便(pariyāya)、纯粹决定的层面而言, 的确是对的; 然而在此《清净之道》(Visuddhimagga)义疏中, 乃是依方便而作解说。
+若问那方便是什么 ----- 便正是与身证者个体相同这一点。
+
+使之明了 ----- 由于是在证得超越欲界(kāmāvacara)近行定(upacārasamādhi)、色界(rūpāvacara)禅那定(jhānasamādhi)的非色(arūpa)禅那定之体验后, 才成就「身证者个体」这一称呼的, 故而, 从依某些漏法之灭尽而立、被称为「身证者」的入流果(sotāpattiphala)个体, 直至阿拉汉道(arahattamagga)个体为止的圣(ariya)个体, 连同 -----
+
+- 1. 与超越近行定、色界禅那定的超胜卓越相俱的非色界(arūpāvacara)禅那定之体验, 以及,
+- 2. 以那定(samādhi)为立足处的诸漏法之灭尽 ---
+
+顾及这两种相同这一点, 便如身证者个体一般, 于《辨析道》(Paṭisambhidāmagga)巴利圣典中, 也把阿拉汉(arahant)个体开示为**身证者**。
+因此, 在此《清净之道》义疏中, 也正是取用《辨析道》巴利圣典的方式, 来解说阿拉汉个体也是身证者个体这一点。
+确实如此 ----- 应当了知: 此《清净之道》义疏的解说, 实为经(suttanta)之开示的解说。(Mahāṭī-2-465-466)
+
+**【文件：[349]行舍智章/[385] 以确定的方式把握.md】**
+
+### 以确定的方式把握
+
+非取「方便说(pariyāya)」、纯以确定的方式而言，从「入流果(sotāpattiphala)」起、直到「阿拉汉道(arahattamagga)」为止的六种果位处，称为「**身证者(kāyasakkhī)**」。
+这些被称为「身证者」的「圣者(ariyapuggala)」，也就是已获得全部八种「等至(samāpatti)」的圣者。
+身为「纯观乘者(suddhavipassanāyānika)」、禅那之湿润已然干涸的「干观者(sukkhavipassaka)」，以及只获得「近行禅(upacārajhāna)」的个体（是指在那些能生起禅那(jhāna)的「业处(kammaṭṭhāna)」中，不努力去获得禅那，而是从「近行定(upacārasamādhi)」向观(vipassanā)
+转过去的那些个体。）
+以及只获得「色界禅那(rūpāvacarajhāna)」的个体，都不可能成为「身证者」。
+
+**轻安众多(passaddhibahula)** = 所谓「轻安众多」，是由于以「轻安(passaddhi)」为首要、为主导，因此唯独意指那获得了超越欲界「定(samādhi)」、且伴随极为强盛之定的「以止为乘者(samathayānika)」。
+唯有「以止为乘者」才能成为「身证者」圣者，其道理已在前面阐明。（大义疏(Mahāṭī),2,465-466。）
+
+在四种「无色界禅那(arūpāvacarajhāna)」中，无论证得其中任何一种、还是四种全部证得，进而到达「阿拉汉果(arahattaphala)」的个体，称为「**双重解脱(ubhatobhāgavimutta)**」。（《清净之道》,2,297。）
+
+证得「空无边处等至(ākāsānañcāyatanasamāpatti)」后、进而到达「阿拉汉果」的个体——如此等等，凭借四种「无色禅等至(arūpajhānasamāpatti)」，以及凭借「灭尽定(nirodhasamāpatti)」，共有五种「双重解脱」个体。
+
+凭借无色禅，从「色身(rūpakāya)」、以及从「名身(nāmakāya)」的一部分，以「镇伏(vikkhambhana)」＝分离的力量而解脱。凭借「圣道(ariyamagga)」，从名身以「正断(samuccheda)」＝无余断除的力量而解脱。
+如此这般，由于借由两种方面、两度获得解脱，所以称为「**双重解脱**」。（大义疏,2,466-468。）
+
+有一位「瑜伽行者(yogāvacara)」，把诸「行(saṅkhāra)」法作意为「**无我(anatta)**」＝作意为「**无我**」，由于「慧(paññā)」变得众多，因而获得了超胜的「慧根(paññindriya)」。
+（对于「慧智(paññāñāṇa)」广大的个体而言，那些格外精微、又极其深奥的「究竟法(paramattha)」的义理自性会清晰分明地显现，在智中鲜明地呈现出来；因此，对于把诸行法作意为「无我」＝作意为「无我」的瑜伽行者，其智慧变得众多，以及获得慧根——这是「义注(aṭṭhakathā)」师所作的阐释。）
+那位瑜伽行者，由于慧根超胜，在「入流道智(sotāpattimaggañāṇa)」的刹那，称为「**随法行者(dhammānusārī)**」。
+从「入流果」起、直到「阿拉汉道」为止的六处，称为「**得见者(diṭṭhippatta)**」。
+在「阿拉汉果」的刹那，称为「**慧解脱(paññāvimutta)**」个体。（《清净之道》,2,298。）
+
+**【文件：[349]行舍智章/[386] 究竟法 = 以确定的方式把握 - 个体.md】**
+
+### 究竟法（nippariyāya） = 以确定的方式把握 —— 个体（puggala）（七）种
+
+关于这（七）种个体，不采用方便说（pariyāya）、纯粹以确定的方式来把握的简略说明如下 -----
+
+- ၁။ 对于某位瑜伽行者（yogāvacara），以**无常（anicca）**的行相、从诸行（saṅkhāra）中出起、名为「出起（vuṭṭhāna）」的圣道（ariyamagga）智（ñāṇa）生起了；由于那位个体信心胜解（saddhādhimokkha）偏多，因信根（saddhindriya）敏锐之故，在入流道（sotāpattimagga）刹那名为**随信行（saddhānusārī）**；从入流果（sotāpattiphala）直到阿拉汉道（arahattamagga）之间的中间（六）个位次上名为**信解脱（saddhāvimutta）**；在阿拉汉果（arahattaphala）刹那名为**慧解脱（paññāvimutta）**。
+- ၂။ 同样地，对于某位瑜伽行者，以**苦（dukkha）**的行相、从诸行中出起、名为出起的圣道智生起了；对那位个体而言，由于轻安（passaddhi）偏多，定根（samādhindriya）变得极为强盛；由于以苦为所依因的信（saddhā）之法也格外敏锐之故，又由于名为维巴沙那来由（vipassanāgamana）、道来由（maggāgamana）的两种责任（dhura）确定坚固之故，那位个体在初道智刹那也同样名为**随信行**。 
+在中间（六）个位次上名为**信解脱**；在最后的阿拉汉果上也同样名为**慧解脱**。
+- ၃။ 另一种则是 ----- 对于某位瑜伽行者，以无我（anatta）的行相、从诸行法中出起、名为出起的圣道智生起了。 
+那位个体由于慧智（paññā）偏多，因慧根（paññindriya）敏锐锐利之故，在入流道刹那只会名为**随法行（dhammānusārī）**。 
+在中间（六）个位次上名为**得见者（diṭṭhippatta）**，在最后的阿拉汉果上只会名为**慧解脱**。
+- ၄။ 以上所说的这些个体，并不是获得（八）种名为解脱禅那（vimokkha jhāna）的个体。 
+而获得（八）种解脱禅那的个体，在入流道刹那，或者是随信行，或者是随法行。 
+在中间（六）个位次上是身证者（kāyasakkhī）。在最后的阿拉汉果上是双重解脱（ubhatobhāgavimutta）。（大义疏（Mahāṭī），2，468。）
+
+**【文件：[349]行舍智章/[387] 有三种名称的智.md】**
+
+### 有三种名称的智
+
+yā ca muccitukamyatā, yā ca paṭisaṅkhānupassanā, yā ca saṅkhārupekkhā, ime dhammā ekatthā, byañjanameva nānaṃ. (Paṭisaṃ 259, Visuddhi 2 299.)
+
+欲解脱(muñcitukamyatā)智、审查随观(paṭisaṅkhānupassanā)智、行舍(saṅkhārupekkhā)智——这三种智(ñāṇa)具有相同的意涵，唯有词句相异。(Paṭisaṃ 259。)
+
+在圣道(ariyamagga)的前分，以厌离智(nibbidā)对诸行法(saṅkhāra)心生厌倦的个体(puggala)，为了舍弃那些被指称为生起(uppāda)、生命期间(pavatta)、住(ṭhiti)、相(nimitta)的诸行法，由于断除了对那些行法贪着执取的欲贪(chandarāga)，从而想要舍离——这种状态即名为**muñcitukamyatā ＝ muccitukamyatā**（欲解脱）。
+
+为了造作舍弃那些行法的因缘方便，在中间阶段反复地审察思惟诸行法的三种共相(lakkhaṇa)，这即名为**审查(paṭisaṅkhā)**。
+
+由于达至对诸行法无有执取贪着(ālaya)之境地，遂以舍弃对诸行法之顾念的力量而放舍；在如此作出舍弃之后的最末阶段，对诸行法的舍置便可称为平等安住。
+此即名为**行舍**。
+（在趣入、奔向涅槃(nibbāna)尚未圆满的那段期间内，由于在那段期间审察抉择诸行法的三种共相时也保持舍置的状态，就智的相续生起而言——ajjhupekkhanaṃ santiṭṭhanā ＝ 对诸行法的舍置即平等安住，此即其义。）
+
+正是着眼于那舍置诸行法、平等安住而寂静的行舍智，（而说）-----
+
+uppādo saṅkhārā, te saṅkhāre ajjhupekkhatīti saṅkhārupekkhā. (Paṭisaṃ 59.)
+
+uppāda ＝ 所谓生成的自性法，即是诸行法。
+舍置那些行法，因此名为行舍。(Paṭisaṃ 59。)
+
+如是等等的圣言，即作如此宣说。(Visuddhi 2 299。)
+
+**【文件：[349]行舍智章/[388] 导向出起的观.md】**
+
+### 导向出起的观(vuṭṭhānagāminī vipassanā)
+
+如此获得的、具有行舍智(saṅkhārupekkhāñāṇa)的这位善男子、善女人的观智(vipassanāñāṇa)，由于达到了最高顶点，到达了名为「出起(vuṭṭhāna)」的圣道(ariyamagga)，因此称为**导向出起(vuṭṭhānagāminī)**。
+至顶观(sikhāppattavipassanā) = 既可称为「到达顶峰的观」，也可称为「导向出起」，此名称唯是被认作行舍智、随顺智(anulomañāṇa)、种姓智(gotrabhuñāṇa)这三种智之总合的名称。
+确实如此 ----- 那称为三种智的观，由于到达了诸观智的最高顶点之状态，因此也称为**到达顶点的观(sikhāppattā vipassanā)**。
+由于能够到达名为「出起」的圣道，因此也称为**导向出起**。
+
+**出起** ----- 作为观智所观照对象的五取蕴(upādānakkhandhā)之总合，无论摄入自身相续(santāna)、或不摄入，都应作为陌生的外者来观照，因此正被称为外在(bahiddha)。
+从那作为外在的观智之所缘相、又是应以观智作意的、即以所谓「以观智作意」的审察而思惟审察的、称为五取蕴的观智之所依处(vatthu)（＝也就是说从行相(saṅkhāranimitta)），
+以及从自身名色(rūpanāma)相续中不间断生起的烦恼(kilesa)之流、执取蕴(upādinnakkhandhā)之流＝所谓异熟蕴(vipākakkhandhā)之流的生命期间(pavatta)——由于从这些之中出起，因此把圣道称为「出起」。
+由于能够到达那名为「出起」的圣道，因此称为**导向出起**。
+意思是它与圣道智(ariyamaggañāṇa)一同连接在一起。(《清净之道》2,299。)
+
+圣道究竟如何从作为观智所观照对象的、五取蕴之总合即行相中出起？又如何从自身名色相续中不间断生起的烦恼之流与执取蕴之流＝异熟蕴之流即所谓内在(ajjhatta)生命期间中出起呢？----
+
+vuṭṭhahanañca nesaṃ ārammaṇākaraṇaṃ, āyatiṃ anuppattidhammatāpādanañca. (大义疏2,469。)
+
+名为导向出起之观的行舍智、随顺智、种姓智，在道心路(maggavīthi)之内一个接一个地相续生起。
+在那导向出起之观智的无间(anantara)之后（即在种姓智的无间之后），圣道智生起。
+因此，观智与圣道智相连接。
+观智以那些行法(saṅkhāradhamma)的坏灭为所缘，把特相(lakkhaṇa)立为车乘，从而对称为五取蕴的诸行法修观、审察。
+如此持续修观，当到达导向出起之观时，直到随顺智为止的诸观智虽以行相为所缘，但圣道法不再以行相为所缘，而唯以名为无相(animitta)、离行相的无为界(asaṅkhatadhātu)——涅槃(nibbāna)这殊胜之法为所缘。
+如此，由于圣道智唯以离行相的无为界——涅槃这殊胜之法为所缘，所以不以称为五取蕴之总合的行相为所缘。
+如此不以行相为所缘，即称为从那行相中出起。
+
+各各圣道法以正断舍断(samucchedapahāna)把各自相应的诸烦恼无余地、连根断除，因此这些烦恼便到达了在未来时不再有生起之性的寂灭。
+若没有道的修习(maggabhāvanā)，则以那烦恼为根本原因而将会生起的执取蕴＝异熟蕴也会存在。
+由于道的修习，诸烦恼逐级无余地消尽，因此，唯有在烦恼明显存在、唯有在爱(taṇhā)的湿润之素、黏著之素明显存在时才有机会生起的异熟蕴之相续，也不再能生起＝即到达了不生起之性。
+如此，圣道使烦恼与蕴到达在未来时不再生起之性的状态，这就称为从内在生命期间中出起，意即如此。
+为了清楚地理解这些法义，以下在此接着列示诸道心路。-----
+
+**【文件：[349]行舍智章/[389] 钝慧个体的入流道心路.md】**
+
+### 钝慧(mandapañña)个体(puggala)的入流道心路(sotāpattimaggavīthi)
+
+有分(bhavaṅga) “ 有分波动(bhavaṅgacalana) - 有分断(bhavaṅgupaccheda) - 意门转向(manodvārāvajjana) - 遍作(parikamma) - 近行(upacāra) - 随顺(anuloma) - 种姓(gotrabhu) - 道(magga) - 果(phala) - 果 ” 有分 - 有分 ...
+
+**【文件：[349]行舍智章/[389]b 锐慧个体的入流道心路.md】**
+
+### 锐慧(tikkhapañña)个体(puggala)的入流(sotāpatti)道心路(maggavīthi)
+
+有 “ 波 - 断 - 意 - 近 - 顺 - 种 - 道 - 果 - 果 - 果 ” 有 - 有 ...
+
+有 = 有分(bhavaṅga)。波 = 有分波动(bhavaṅgacalana)。断 = 有分断(bhavaṅgupaccheda)。意 = 意门转向(manodvārāvajjana)。遍 = 遍作(parikamma)。近 = 近行(upacāra)。顺 = 随顺(anuloma)。种 = 种姓(gotrabhu)。道 = 圣道(ariyamagga)。果 = 圣果(ariyaphala)。
+
+有分，有分波动，有分断，意门转向，遍作，近行，随顺，种姓，道，果（2）次，其后随所应而生起有分。
+此即慧钝的钝慧(mandapañña)个体的道心路。
+于锐慧个体，无遍作，果速行(javana)运转三次。
+在一来者(sakadāgāmi)道心路等上分道心路中，只是在种姓之处名称改为净化(vodāna)，这一点有所不同。
+
+在那些心识的路线(vīthicitta)中，遍作、近行、随顺、种姓是欲界(kāmāvacara)大善(mahākusala)智相应(ñāṇasampayutta)速行。
+悦(somanassa)与舍(upekkhā)可随所应而生起。
+在那些速行中，遍作、近行、随顺以行相(saṅkhāranimitta)为所缘，种姓（净化）、道、果则以无为界(asaṅkhatadhātu)、至尊的涅槃(nibbāna)圣法为所缘。
+
+与此圣道智相连的遍作、近行、随顺、种姓（净化），以及在道心路之前以有分相隔、与道心路相连、极为接近、已臻顶峰、含有行舍智(saṅkhārupekkhāñāṇa)的观(vipassanā)速行心路，都称为**至出起观(vuṭṭhānagāminī vipassanā)**。
+若把行舍智分为三部分，它便是与圣道智相连、极为接近的最后一部分。
+
+**【文件：[349]行舍智章/[390] 导向出起的观的所缘.md】**
+
+### 导向出起的观(vuṭṭhānagāminī vipassanā)的所缘
+
+Vuṭṭhānagāminī pana vipassanā kimārammaṇāti, lakkhaṇārammaṇāti. Lakkhaṇaṃ nāma paññattigatikaṃ navattabbadhammabhūtaṃ. Yo pana "aniccaṃ dukkhamanattā"ti tīṇi lakkhaṇāni sallakkheti, tassa pañcakkhandhā kaṇṭhe baddhakuṇapaṃ viya honti, saṅkhārārammaṇameva ñāṇaṃ saṅkhārato vuṭṭhāti. Yathā hi eko bhikkhu pattaṃ kiṇitukāmo pattavāṇijena pattaṃ ābhataṃ disvā haṭṭhapahaṭṭho "gaṇhissāmī"ti cintetvā vīmaṃsamāno tīṇi chiddāni passeyya. So na chiddesu nirālayo hoti, patte pana nirālayo hoti, evameva tīṇi lakkhaṇāni sallakkhetvā saṅkhāresu nirālayo hoti, saṅkhārārammaṇeneva ñāṇena saṅkhārato vuṭṭhātīti veditabbaṃ. Dussopamāyapi eseva nayo. (Abhi-ṭṭha-1-269.)
+
+aniccatā dukkhatā anattatāti hi visuṃ gayhamānaṃ lakkhaṇaṃ **paññattigatikaṃ** paramatthato avijjamānaṃ, avijjamānattā eva parittādivasena **navattabbadhammabhūtaṃ.** 
+tasmā visuṃ gahetabbassa lakkhaṇassa paramatthato abhāvā "aniccaṃ dukkhamanattā"ti saṅkhāre sabhāvato sallakkhantova lakkhaṇāni sallakkheti nāmāti āha "**yo pana aniccaṃ dukkhamanattāti tīṇi lakkhaṇāni sallakkhetī**"ti. (Mūlaṭī-1-115.)
+
+**导向出起的观**以什么为所缘呢？回答说：它以名为无常性(aniccatā)、苦性(dukkhatā)、无我性(anattatā)的特相(lakkhaṇa)为所缘。名为『无常的情形、苦的情形、无我的情形』的特相，具有犹如概念(paññatti)之生起那样的生起，与概念相似。(Abhi-ṭṭha-1-269.)
+
+因此，导向出起的观若以无常性等特相为所缘，那特相便属于概念的性质；因此，当圣道(ariyamagga)生起、那道获得『出起(vuṭṭhāna)』之名时，那出起便成了不能从诸行(saṅkhāra)所缘中出起的了；再者，那导向出起的观若转而以行法为所缘，则又成了不能洞彻了知诸行法之无常性等特相的了。
+由于这样落入了两个极端，义注(aṭṭhakathā)的大德便提出这个问题来作解答。(Mūlaṭī-1-115.)
+
+**以特相为所缘(lakkhaṇārammaṇā)** ----- 在说『无常(anicca)』时，所得到的是无常的、不恒常的五蕴(khandhā)。
+而在说『无常性』时，所得到的则是那无常的五蕴之『不恒常』这一标记特相。
+对于苦(dukkha)与苦性、无我(anatta)与无我性，也应以同样的方式理解。
+
+在把世间(lokī)的五取蕴(upādānakkhandhā)观照为无常、苦、无我时，尽管当下所缘取的是作为行的究竟法(paramattha)之蕴，但当它显现于智(ñāṇa)中时，却唯有这五蕴的无常性等情形显现出来；执取这种显现的方式，义注便说：以特相为所缘 = 以名为无常性、苦性、无我性的特相为所缘。(Mūlaṭī-1-115.)
+
+所谓特相，具有犹如概念之生起那样的生起。
+它与概念相似；它是不堪被称作『小(paritta) = 欲(kāma)法』、『广大(mahaggata)法』等的法，因而如此存在。
+尽管如此，凡有修行的瑜伽行者(yogāvacara)比库(bhikkhu)将『无常、苦、无我』这三重特相铭记于心，在那位比库的相续(santāna)中，五蕴便如同系缚于颈上的腐尸一般现起、显现出来；唯以名为行的所缘而存在的智，便从行出起。(Abhi-ṭṭha-1-269.)
+
+特相 = 三重特相虽然确实与概念相似，然而导向出起的观智却唯以行法为所缘而安住。
+由于以行法为所缘，当名为出起的圣道智生起时，它舍弃了行而以涅槃(nibbāna)为所缘，因此圣道便达致从行出起。
+因此 ----- saṅkhārārammaṇameva ñāṇaṃ saṅkhārato vuṭṭhāti = 唯以名为行法之所缘而存在的智，便从行出起 —— 义注如此开示。
+此中，具有名为行之所缘的智，即是观智；从行出起的智，即是圣道智。
+由于两智彼此相似，义注便依同一性理(ekattanaya)的方式，以『ñāṇaṃ』一词将之说为单独一个智。
+
+**世间譬喻(lokūpamā)** ----- 有一位比库想要买钵(patta)，他见到卖钵人把钵带来，便满心欢喜、兴高采烈，心想『这下可要买到了』，于是仔细审视那只钵，结果在钵上发现了三个孔洞。那位比库并非对那些孔洞没有执著(ālaya)；实情是，他反倒对那只钵变得没有执著了。
+正如这个譬喻一样，瑜伽行者比库在诸行法中铭记了三重特相之后，便对诸行法变得没有执著了；应当了知：凭借唯以名为行的所缘而存在的智，便从行出起。
+在买围裙(paso)、于围裙上发现三个孔洞的这个譬喻中，也应以同样的方式理解。(Abhi-ṭṭha-1-269.)
+
+**【文件：[349]行舍智章/[391] 黏着与出起的类别.md】**
+
+### 黏着(abhinivesa)与出起(vuṭṭhāna)的类别
+
+(Visuddhi, 2, 300-301. Abhi-ṭṭha, 1, 270-271.)
+
+1. 在此教法中,某些修行者(yogāvacara)在刚开始精勤、最初的阶段,就对自己相续流(santāna)中存在的内在(ajjhatta)五蕴(khandha)诸行(saṅkhāra)法牢牢地作意;牢牢地作意之后,把那些内在五蕴诸行法轮流提起三种特相(lakkhaṇa),观(vipassanā)其为无常(anicca)(或苦(dukkha)、或无我(anatta))。
+但是,仅仅只观内在诸行法本身,那名为出起的圣道(ariyamagga)是不可能生起的。
+外在(bahiddha)诸行法也必须观照才行。
+(mamaṃkāravatthunopi pariññeyyattā = 因为那被作意为「我的所有物」的渴爱(taṇhā)之所依、所黏依而生起的、有情或无情的外在色事物、名事物,正是应当分别了知的应遍知的(pariññeyya)法之故。)
+因此,对于他人相续流中存在的五蕴,以及名为无执取行(anupādinnasaṅkhāra)、存在于无生命世界中的时节生色(utujarūpa)诸法,也轮流提起三种特相,观其为无常、苦、无我。
+(由于同为外在,故是笼统地合为一般的一组、总括起来观。)
+那位修行者有时把属于内在、归摄于自己相续流中的诸行法提起特相,反复修观、审察;有时把属于外在的诸行法提起特相,反复修观、审察。
+以这样的方法反复修观、审察的那位修行者,在审察内在诸行法之时,其观智(vipassanāñāṇa)便与圣道智一同相衔接。
+(由于就在观智的无间之后,圣道智便生起,故如此说。)
+这位修行者名为**在内在牢牢地作意而从内在出起**。
+
+2. 另一种是——在审察外在诸行法之时,倘若那位修行者的观智与圣道智一同相衔接,则这位修行者名为**在内在牢牢地作意而从外在出起**。
+
+[ **注 ----- 「从内在出起」、「从外在出起」** — 这些说法,是就导向出起的观(vuṭṭhānagāminī)以内在诸行法为所缘(ārammaṇa)、以及以外在诸行法为所缘之故,依方便(pariyāya)而作的说法。
+若不涉方便、纯就究竟直接而言,则实是从内在诸行与外在诸行的全部之中出起而已。 ]
+
+3. 从一开始便对外在诸行法牢牢地作意,而从外在诸行法出起,
+
+4. 以及从内在诸行法出起——于此也应知晓这个方法。
+
+5. 另一位修行者在刚开始精勤、最初的阶段,就对色(rūpa)法牢牢地作意;牢牢地作意之后,把大种色(bhūtarūpa)与所造色(upādārūpa)合为一组(依聚思惟(kalāpasammasana)法起始)而反复修观、审察;但是,仅仅只观色法本身,那名为出起的圣道智是不可能生起的,名(nāma)法也必须观照才行。
+因此,把以那色法为所缘而生起的受(vedanā)、想(saññā)、诸行、识(viññāṇa),以「此受、想、行、识即是名法」这样用智(ñāṇa)分别取来,再把那些名法以无常等,轮流提起三种特相而反复修观、审察。
+那位修行者有时把色法轮流提起三种特相而反复修观、审察;有时把名法轮流提起三种特相而反复修观、审察。
+如此审察的那位修行者,在审察色法之时,其观智便与圣道智一同相衔接,则这位个体(puggala)名为**在色法牢牢地作意而从色法出起**。
+
+6. 另一种是——在审察名法之时,倘若那位修行者的观智与圣道智一同相衔接,则这位个体名为**在色法牢牢地作意而从名法出起**。
+
+7. 从一开始便对名法牢牢地作意,而从名法出起,
+
+8. 以及从色法出起——于此也应知晓这个方法。
+
+[**注** ----- 如同从色法起始来作意观禅,一般是发生在观乘者(vipassanāyānika)身上;同样地,从名法起始来作意观禅,一般也是发生在以止为乘者(samathayānika)身上。
+**黏着** = 所谓「牢牢地作意」,也应了知为:把在观之前分应当、值得、应做的色法、名法,以特相、作用(rasa)、现起(paccupaṭṭhāna)、足处(padaṭṭhāna)等,用智加以分别取来。
+因此,首先把色法以特相、作用、现起、足处的方法,以及以「由于无明(avijjā)等因法明显生起,故果报色法明显生成」这一缘起(paṭiccasamuppāda)的方法,加以收摄、用智分别取来,这就名为在色法牢牢地作意。
+把名法以特相、作用、现起、足处的方法,以及以「由于无明等因法明显生起,故果报名法明显生成」这一缘起的方法,加以收摄、用智分别取来,这就名为在名法牢牢地作意。
+应知:在上述义注(aṭṭhakathā)的文句中,由于「摄受(pariggaha)」这一点相同,故把缘摄受(paccayapariggaha)依相之运载导则(lakkhaṇāhāranetti),合并入色摄受(rūpapariggaha)、名摄受(nāmapariggaha)中一并阐明。]
+
+"yaṃ kiñci samudayadhammaṃ, sabbaṃ taṃ nirodhadhamma"nti evaṃ abhinivisitvā evameva vuṭṭhānakāle pana **ekappahārena pañcahi khandhehi vuṭṭhāti** nāma. (Visuddhi, 2, 300.)
+
+**yaṃ kiñci samudayadhammaṃ, sabbaṃ taṃ nirodhadhamma**nti kāmaṃ udayabbayapariggaṇhanaṃ abhinivesoti dassitaṃ, yathāupaṭṭhite pana rūpārūpadhamme, tesañca paccaye pariggahetvā saṅkhepeneva vipassanāñāṇaṃ cārento ñāṇuttaro yathānisinnova ñāṇapaṭipāṭiyā khippameva saccāni paṭivijjhanto ekappahārena pañcahi khandhehi vuṭṭhāti nāma.
+aññathā ekeneva lokiyacittena pañcannaṃ khandhānaṃ pariggahaparijānanādīnaṃ asambhavato.
+nahi sanidassanasappaṭighādiṃ ekajjhaṃ ārammaṇaṃ kātuṃ sakkā.
+yassa pana ekavāraṃ ñāṇena phassitaṃ, puna taṃ phassitabbameva.
+tādisassa vasena vuttanti vadanti. (Mahāṭī, 2, 470.)
+
+yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhammaṃ. (Dī, 1, 102 ...)
+
+「凡是存在于三界之内、无所指定的一切三地(tebhūmaka)行法之聚,都具有生起的性质;那具有生起性质的、存在于三界之内的一切三地行法,尽皆纯是具有灭尽、坏灭的性质」——如此作意,唯有依这样的方法,在那名为出起的圣道智生起之时,才会一时、一举、总括合一地从五蕴中出起。
+
+**yaṃ kiñci samudayadhammaṃ, sabbaṃ taṃ nirodhadhammaṃ** = 凡是具有生起性质的真实之法皆具有灭尽的性质——义注师以这一文句,其实是开示了「udayabbayapariggaṇhana = 能摄持诸行法之生-灭的智」这个名为「vipassanābhinivesa = 观的作意」者。
+即便如此地开示了「生灭智(udayabbayañāṇa)」这唯一一种观的作意——黏着,然而,凭借往昔诸生中曾修学过的巴拉密(pāramī)智之势、显现自在(vasī)之德,如掌中庵摩勒果般清清楚楚、历历分明地现前的、由大种色与所造色两类构成的色,尽管在地(pathavī)、水(āpo)、火(tejo)、风(vāyo)等每一种色当中,还有为数众多的地聚、众多的水聚、众多的火聚、众多的风聚等,依这样深入的细分而有着不止一种、为数众多的差别,却只以「**ruppanaṭṭhena rūpaṃ = 因具变坏之性,故为色**」这样简略地收摄其特相;对于受、想、行、识这些名法,尽管有不止一种、为数众多的差别,却只以「**namanaṭṭhena nāmaṃ = 因具倾向所缘之义,故为名**」这样简略地收摄;对于那些色、名之因法,也只以「**avijjā saṅkhārā taṇhā upādānaṃ bhavo hetu = 无明、渴爱、取(upādāna)、行、业有(kammabhava)= 业,即是因(hetu)法**」这样简略地收摄;如同在平坦的地面上驱策信度马(sindhava)一般,让观智在「色+名+因+果=行」这一所缘之上迅速奔驰。由于具有超胜他人的智,以威仪(iriyāpatha)不改换、不移动、一步不迈,在佛陀座前等处随着开示(desanā)一路听闻,仅仅以放出观智、依旧安坐的威仪,便凭生灭智、坏灭智(bhaṅgañāṇa)等九种智的次第,迅速地洞彻而了知四谛的那种个体,会一时、一举地,不作内在、外在等的分辨,唯以单一之心——那位修行者的圣道便名为从五蕴中出起——此即其义。
+
+除了如此所说之外,不应以别种方式来理解其含义。
+若那样理解,便可能推出「唯一一个大善(mahākusala)观速行(javana)心,能以特相、作用、现起、足处,又能以因法,收摄五蕴、分别取来、了知」——如此等等不应有的含义;而那样也是不应当的。
+这是因为,色、声、香、味等诸法,无法合在一起作为单一所缘之故。
+若要说那应当、值得且恰当的含义——某位修行者以智对某色法、名法接触过一次、曾经触及;由于那观智强健、锐利,其接触如雷电击落般,故对那色、名之法,便无须再作第二次接触,只名为已经触及而已。
+在一眨眼、一闪电之间,生起不止十万倶胝(koṭi)之多的、智相应(ñāṇasampayutta)的观大善速行心之序列、速行心之聚,担负起收摄色名、收摄因法、修观这项任务,不落空,故其作务容易成办。
+并不像那智钝、智劣、迟缓的个体那样——因多落入有分(bhavaṅga),又因中间不时奔入种种其他所缘,以致作务无法完成而拖沓迟缓;而是以如前所说那般、如金刚杵武器、如雷电机般锐利、迅速、强劲、强健之智的个体,即利慧者(tikkhapaññava)的观慧之力——义注对「yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhammaṃ」这一从五蕴中出起,作了如是阐释——此即其义。(参见 Mahāṭī, 2, 470。)
+
+**ekappahārenā**ti ekajjhaṃ, taṃ pana ajjhattādivibhāgaṃ akatvā "yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhamma"nti avibhāgena vuṭṭhānagāminiyā pavattivasena veditabbaṃ, tayidaṃ satthusammukhā desanānusārena ñāṇaṃ pesentassa ñāṇuttarassa sambhavatīti vadanti. (Mahāṭī, 2, 470.)
+
+所谓从一切三地行法一时出起——即是不再作聚思惟智一段中所说过的内在、外在等的剖分辨别——而以「**yaṃ kiñci samudayadhammaṃ, sabbaṃ taṃ nirodhadhammaṃ** = 一切具有生起性质的法皆具有灭尽=坏灭的性质」这样,以不作内在、外在等剖分辨别的方式,应就导向出起的观之可能而知晓。
+那样的出起,只应发生在这样的个体身上:他在世尊座前一路聆听开示,能依所听闻的、开示中所宣说的观照法门放出其智、能修观,其智慧超胜锐利——通晓典籍的大师、名师、殊胜之士、卓越之士们如是说。(Mahāṭī, 2, 470。)
+
+应知:依据上述这些界定——「yaṃ kiñci samudayadhammaṃ, sabbaṃ taṃ nirodhadhammaṃ」这一观法门,只与那些在佛陀住世时一边闻法一边即入解脱之列、名为敏锐知者(ugghaṭitaññū)、广演知者(vipañcitaññū),即被称作现前弟子(sammukhasāvaka)的、佛陀座前的诸大弟子有关。
+
+你这位善良的瑜伽行者,也请自己审察、检视一下:自己究竟是不是那种仅凭闻法便能证法的敏锐知者、广演知者一类的个体。
+倘若你能自行判定、能了知:在那种仅凭闻法、或一边闻法一边依所宣说之法放出其智而修习、于法讲毕之时便能证得名为殊胜之法、崇高之法的出世间(lokuttara)法的个体类别当中,自己并不在内——那么,
+
+yaṃ kiñci samudayadhammaṃ, sabbaṃ taṃ nirodhadhammaṃ.
+= 凡是生起之法尽皆坏灭——如此;换一种说法——即「生-灭」——如此
+
+在连究竟(paramattha)色名尚且不知、连因—果相互关联的缘起之理都还不了知的情况下,一进入业处(kammaṭṭhāna)寺舍——便如此一味地只坐着观「生-灭」,请思量一下:这样究竟能否获得进步。
+
+再者,这一观法门是观禅之法中最简略的观法门。
+而那最简略的观法门,也是一种唯为如下之人所设定的观法门:他们能一边聆听法教、一边把智放随于开示之后,依开示进行中所讲述的那样去修习、去了知、去修观,从而在开示结束之时便能抵达道果涅槃(nibbāna)——这即是敏锐知者、广演知者一类个体;因此,倘若自己尚处在可引导者(neyya)个体的阶位上,那就必须思量:依那观法门去观,究竟能否证得。
+(应知:这段话是依《大复注》(mahāṭīkā)第2册第470页所载的「vadantivāda(『诸师如是说』之说)」而说的。)
+
+原因在于——无论是以最简略的方法,还是以详广的方法,无论以何种方法,在修观时应以观智洞彻了知的、作为观智所观对象的那些究竟法界质,就是名为三地行的苦谛(dukkhasacca)诸法之聚,以及作为其因的集谛(samudayasacca)诸法之聚。
+无论是简略还是详广,应当洞彻了知的究竟法界质本身都是相同的。
+只是笼统总括地观与详细剖分细析地观——这种观法的方式有所不同而已。
+至于应以观智了知的法,以及了知的方式,都是相同的。
+这是因为,在弟子巴拉密智这方面,名为「思惟行时期(sammasanacāra)」的观地(vipassanābhūmi)=观智生起之地,只有一类一种之故。
+
+**【文件：[349]行舍智章/[395] 三地业处者大德.md】**
+
+### 三地业处者（tebhūmaka kammaṭṭhānika puggala）大德
+
+catuttho tebhūmakakammaṭṭhāniko.
+tassa kira samappavattā dhātuyo ahesuṃ, kallasarīraṃ balapattaṃ, kammaṭṭhānānipissa sabbāneva sappāyāni, atītā vā saṅkhārā hontu anāgatā vā paccuppannā vā kāmāvacarā vā rūpāvacarā vā arūpāvacarā vā, sabbepi sappāyāva.
+asappāyakammaṭṭhānaṃ nāma natthi.
+kālesupi purebhattaṃ vā hotu pacchābhattaṃ vā paṭhamayāmādayo vā, asappāyakālo nāma natthi. （相应部义疏(Sam-A)3,98。）
+
+对这个观照法修习了观(vipassanā)的一位阿拉汉(arahant)大长老(mahāthera)的事迹，记载于《金苏迦喻经(Kiṃsukopamasutta)》（相应部2,396-397。）中。
+义疏(aṭṭhakathā)（相应部义疏3,98。）将他命名为「三地业处者」。
+那位大长老正是一位与一切业处(kammaṭṭhāna)都相宜(sappāya)的大长老。
+无论是过去的行(saṅkhāra)法、未来的行法、现在的行法，还是欲界(kāmāvacara)法、色界(rūpāvacara)法、无色界(arūpāvacara)法，任何法他都能轻松容易、毫不费力地观照，与一切业处都相宜。
+对那位大长老而言，不相宜的业处、不相宜的时刻都是不存在的。（相应部义疏3,98。）
+
+10. 一位瑜伽行者(yogāvacara)个体在修习观照之初、最开始时，以**无常(anicca)**＝**无常**的方式观照思惟诸行法。
+仅仅以**无常**＝**无常**的方式观照思惟诸行法，名为「出起(vuṭṭhāna)」的圣道智(ariyamaggañāṇa)是不能生起的；还必须以苦(dukkha)＝苦、以无我(anatta)＝无我的方式来观照思惟才行。
+因此，也以苦、也以无我的方式来观照思惟诸行法。
+对依此方式修行的那位瑜伽行者而言，在以无常＝无常的方式思惟之时，若名为「出起」的圣道智生起，那么这位瑜伽行者便是把诸行法**以无常＝无常的方式牢牢坚固地开始作意后、以无常从诸行中出起**者。
+
+11. 另一种是——对那位瑜伽行者而言，在以苦＝苦的方式观照思惟诸行法之时，若名为「出起」的圣道智生起——便是**把诸行法以无常＝无常的方式牢牢坚固地开始作意后、以苦从诸行中出起**者。
+
+12. 若在以无我＝无我的方式观照思惟之时，名为「出起」的圣道智生起，便是以无常＝**无常的方式把诸行法牢牢坚固地开始作意后、以无我从诸行中出起**者。
+
+13 - 18. 正如把诸行法以无常牢牢坚固地开始作意之后、从诸行中出起时有三种个体一样，同样地，把诸行法以苦牢牢坚固地开始作意之后、从诸行中出起时也有三种个体；把诸行法以无我牢牢坚固地开始作意之后、从诸行中出起时，同样也有三种个体。（《清净之道》2,300-301。）
+
+**【文件：[349]行舍智章/[396] 个体的种类.md】**
+
+### 个体(puggala)的种类
+
+把诸行法(saṅkhāra)于起初牢牢地作意为无常(anicca)的个体、把〔诸行法〕于起初牢牢地作意为苦(dukkha)的个体、把〔诸行法〕于起初牢牢地作意为无我(anatta)的个体,共有这样三种个体。
+而在名为出起(vuṭṭhāna)的圣道智(ariyamaggañāṇa)生起之时——若在作意为无常之际,名为出起的圣道智生起,那全部三种个体都多为信心胜解(saddhādhimokkha),能获得信根(saddhindriya),藉由无相解脱(animittavimokkha)而得解脱。
+在入流道(sotāpattimagga)剎那,他们成为随信行(saddhānusārī)个体。
+在从入流果(sotāpattiphala)直到阿拉汉果(arahattaphala)为止其余的七个阶位中,他们成为信解脱(saddhāvimutta)个体。
+
+如果在把诸行法作意为苦之际,名为出起的圣道智生起,那全部三种个体也都多为轻安(passaddhi),能获得定根(samādhindriya),藉由无愿解脱(appaṇihitavimokkha)而得解脱;在从入流道直到阿拉汉果为止的全部八个阶位中,他们都成为身证者(kāyasakkhī)个体。
+特别地——在这些个体当中,对某一个体而言,无色禅(arūpajhāna)是观(vipassanā)的基础(pādaka);那把此无色禅作为观之基础的
+个体,在阿拉汉果时便被称为双重解脱(ubhatobhāgavimutta)个体。
+
+此外——对那三种个体而言,如果在把诸行法作意为无我之际,名为出起的圣道智生起,那全部三种个体也都多为慧(paññā),能获得慧根(paññindriya),藉由空解脱(suññatavimokkha)而得解脱;在入流道剎那被称为随法行(dhammānusārī),在从入流果直到阿拉汉道(arahattamagga)为止中间的六个阶位中,他们成为得见者(diṭṭhippatta)个体。
+在阿拉汉果时,他们成为慧解脱(paññāvimutta)个体。(《清净之道》,2,301。)
+
+**【文件：[349]行舍智章/[397]a 十二种譬喻 (清净之道,2,301-305).md】**
+
+### 十二种譬喻（upamā）（Visuddhi,2,301-305.）
+
+如今，为了显明这个从怖畏现起智(bhayatupaṭṭhānañāṇa)起、直到种姓智(gotrabhuñāṇa)为止、连同前面的观智(vipassanāñāṇa)与后面的观智在内的、导向出起的观(vuṭṭhānagāminī vipassanā)，应当了知(12)种譬喻。
+以下将要说的，便是那些譬喻的简略说示(uddesa)。 -----
+
+- vaggulī kaṇhasappo ca, gharaṃ go yakkhī dārako.
+- khuddaṃ pipāsaṃ sītuṇhaṃ, andhakāraṃ visena ca.
+
+这些譬喻适合从怖畏现起智起就加以援引开示，正因为在那一一智的场合中所立的譬喻事例(upamāvatthu)是可以取得的缘故。
+至于利益 ----- 若在这导向出起的观的场合中把这些譬喻援引开示，那么从怖畏现起智起、直到果智(phalañāṇa)为止的一切智的作用便都能显明，正因为它立于中间而加以显示的缘故。
+因此，只有在这导向出起的观的场合中，才应当援引开示这些譬喻——清净之论(visuddhikathā)中如此说。(Visuddhi,2,301.)
+
+**【文件：[349]行舍智章/[397]b 一、蝙蝠.md】**
+
+### 一、vagguli = 蝙蝠
+
+一只蝙蝠——心想「在这棵树上或许可以得到花，或许可以得到果」，就停歇在一棵有五根分枝、结坚果的硬木树上；停歇之后，它仔细查看其中一根树枝，查看时并没有见到那根枝上有任何可供采食的花或果；就像查看一根树枝那样，它同样地又查看第二根、第三根、第四根、第五根树枝，查看时仍旧没有见到任何值得采食的花果。
+那只蝙蝠——心想「这棵树竟然没有果实啊，这棵树上竟然没有任何可供采食的果与花啊」，于是那只蝙蝠舍弃了对这棵树的贪恋与执著（ālaya），爬上一根笔直向上生长的树枝，从树杈之间探出头来向上仰望，飞上天空，停歇到另一棵有果实的树上。
+
+在上述譬喻中，蝙蝠应理解为修行者（yogāvacara）。
+有五根分枝、结坚果的硬木树，应理解为五取蕴（upādānakkhandha）。
+蝙蝠停歇在那棵树上，应理解为修行者开始把五取蕴纳入心中作意思惟。
+那只蝙蝠查看一根一根的树枝、见不到任何值得采食的花果、便查看其余的树枝——就如同这样，应当记住：修行者把色蕴（rūpakkhandha）安立于三相，以观（vipassanā）修习审察之后，由于在那色蕴上见不到任何足以让人执取的、被称为「常」的实质、被称为「乐」的实质、被称为「我」的实质、被称为「净（subha）」的实质等实质，便把其余的名蕴（nāmakkhandha）也安立于三相，以观修习审察。
+那只蝙蝠心想「这棵树竟没有果实啊」，从而舍弃对树的贪恋爱著；就如同这样，应当记住：修行者在五蕴上也凭借见到无常相（aniccalakkhaṇa）等，如同对挂在脖子上腐烂的狗尸那样心生厌恶厌离，从而舍弃诸行（saṅkhāra）的欲解脱智（muñcitukamyatāñāṇa）、审查随观智（paṭisaṅkhānupassanāñāṇa）、行舍智（saṅkhārupekkhāñāṇa）这三种观智之聚，在修行者的相续中生起。
+那只蝙蝠沿着笔直向上生长的树枝往上飞升，就如同这样，应当记住：修行者朝着被称为涅槃（nibbāna）的上方笔直上升的随顺智（anulomañāṇa）。
+如同探出头来朝上方空中仰望那样，能够遥望被称为涅槃的、伟大殊胜的涅槃法的种姓智（gotrabhuñāṇa）；如同飞升空中那样，奔向涅槃、契入涅槃的圣道智（ariyamaggañāṇa），应当记住。（《清净之道》，2，302。）
+
+由于能够去除那些造成心之扭曲、诸如诳（māyā）、谄（sāṭheyya）等的迂回曲折、转弯抹角，随顺智与笔直向上生长的树枝相似；由于观见涅槃，种姓智与向上仰望相似；由于安住于没有立足处的涅槃，道智（maggañāṇa）与飞升空中相似——这些应当记住。（大义疏，2，471。）
+
+**【文件：[349]行舍智章/[398] 2. 眼镜蛇 = 眼镜蛇.md】**
+
+### 2. 眼镜蛇(kaṇhasappa) = 眼镜蛇
+
+一个渔夫，抱着「要捕鱼」的意图，拿起捕鱼的罩篓，把罩篓安放在水里。
+此后，在适当的时候，那渔夫的儿子从罩篓口伸手探入、在罩篓内摸索时，结果在罩篓里的水中，恰好在脖颈处抓住了水中的眼镜蛇；然而，渔夫的儿子却「我捕到鱼了」地这样满心欢喜。
+那渔夫的儿子——「我可捞到一条大鱼了」地这样举起来看时，因为看见脖颈上的三道纹路，便知道那是水中的眼镜蛇，于是心生恐惧；他看到即将临头的祸患危险，对于继续握持已经抓在手里的眼镜蛇感到厌腻，想要脱身，便设法寻求脱身的方便：从蛇尾端开始，把缠绕在手上的蛇身解开，然后举起手臂，在头顶上方旋转两三圈，使眼镜蛇变得虚弱，「喂，恶蛇……走开吧」地这样把它抛弃之后，迅速爬上池岸——「诸位……我真的从大蛇的口中脱身了」地这样看着自己走来的路途而站着。（《清净之道》2，290。）
+
+由于种姓智(gotrabhuñāṇa)舍弃一切行法(saṅkhāra-dhamma)、以涅槃(nibbāna)为所缘，所以这种姓智就如同放开眼镜蛇一样。
+应当把圣道智(ariyamaggañāṇa)理解为：如同放开眼镜蛇之后、看着走来的路途而站立着那样。
+圣道智以「直接现见所缘」＝所缘通达(ārammaṇapaṭivedha)的性质，取涅槃为所缘。
+又以「不迷惑而了知」即无痴通达(asammohapaṭivedha)的力量，也照见名为自身的圣道。
+（由于圣道断除了那覆盖着、使圣道不被了知不被照见的愚痴无明(moha-avijjā)，无知消失，而生起了知的明智(vijjāñāṇa)；以作用成就(kiccasiddhi)而言，了知的作用便完成了；这就称为无痴通达。）
+因此说：圣道遥望、观看涅槃，就如同渔夫放开眼镜蛇之后，站着回望自己走来的路一样。
+应当把果智(phalañāṇa)理解为：如同渔夫站着回望走来的路之后、往前走、在安全的地方站立着那样。
+（这句话的意思是说：已经到达安全的地方，而不是说为了到达那安全地方而修行。）（《清净之道》2，302。《大义疏》2，471。）
+
+**【文件：[349]行舍智章/[399] 3. 家 = 家.md】**
+
+### 3. 家(gharaṃ) = 家
+
+房主在夜间吃喝完毕、登上床铺之后便睡着了；睡着时房子起火了。那房主醒来、看见火而心生恐惧，心想「假如我能在身体被火烧到之前逃出去，那真是再好不过了」，于是察看逃离的方向，看见了道路，便迅速逃出去，到达安全的地方安住下来。
+在这个譬喻中，房主吃完饭、登上床铺而入睡，就如同尚无究竟法(paramattha)智慧之眼的凡夫(puthujjana)愚人把五蕴(khandha)执取为「我、我所」一样。
+请记取：醒来之后看见火而恐惧的时段，就如同修习名为「正当行道(sammāpaṭipadā)」的良善、正确的行持行道，看见三相(lakkhaṇa)之后，怖畏现起智(bhayatupaṭṭhānañāṇa)的生起。
+请记取：察看逃生出口的道路，就如同想从诸行(saṅkhāra)中解脱、欲求出离的欲解脱智(muñcitukamyatāñāṇa)、审查智(paṭisaṅkhāñāṇa)，以及名为「santiṭṭhanā」的、良善安稳而住的行舍智(saṅkhārupekkhāñāṇa)的生起。
+请记取：看见道路，就如同随顺智(anulomañāṇa)。
+请记取：从起火的房子中走出，就如同种姓智(gotrabhuñāṇa)。
+（因为种姓智是从行相(saṅkhāranimitta)中出离的缘故。）
+请记取：以迅猛的势头奔逃，就如同道智(maggañāṇa)。
+（因为它与在应舍弃之处、应取之处成办的特殊作用相应的缘故。）
+请记取：在安全的地方站立安住，就如同果智(phalañāṇa)。（《清净之道》2,302-303。大义疏(Mahāṭī)2,471。）
+
+**【文件：[349]行舍智章/[400]a 4. 牛 = 牛.md】**
+
+### 4. 牛(go) = 牛
+
+一位农夫在夜里熟睡时，牛群冲破牛栏逃走了。
+那位农夫在天亮起身时到那牛栏去查看，得知那些牛已经逃走，便循着牛的足迹一路追去，结果看见了国王的牛群。
+他把国王的那些牛误认作自己的牛而牵走；到了天光大亮的时候，才想起这些牛不是自己的牛，而是国王的御牛，于是心生恐惧，想着「在国王的侍从们说『这家伙对我而言就是个盗贼』而把我抓住、使我遭受毁败之前，我得赶紧逃走」，便舍下牛群、飞快地奔逃，停在一处安全的地方站立安住。
+
+在这个譬喻中——请记取：以「我的牛」之想把国王的御牛牵走，就如同没有究竟法(paramattha)智慧之眼的凡夫(puthujjana)愚人，把五取蕴(upādānakkhandhā)执著、执取为「我、我所」。
+（这是说：把那些由所应修习的观智(vipassanāñāṇa)——以「视为外来陌生之物」以及「无可爱乐」的方式——所应观照的诸取蕴，执著为「就是我、就是我所有」，正如同把国王的御牛当作自己的牛牵走一样。）
+请记取：天亮时认清那确实是国王的御牛，就如同瑜伽行者(yogāvacara)凭借三相(lakkhaṇa)的力量，把诸取蕴了知为无常(anicca)、苦(dukkha)、无我(anatta)。
+请记取：因害怕被国王的侍从们抓捕杀害而充满恐惧的时段，就如同怖畏现起智(bhayatupaṭṭhānañāṇa)。
+请记取：想要放开牛群逃走的状态，就如同欲解脱智(muñcitukamyatāñāṇa)。
+请记取：放开牛群，就如同种姓智(gotrabhuñāṇa)。
+请记取：奔逃，就如同圣道(ariyamagga)。
+请记取：逃走之后在安全的地方站立安住，就如同圣果(ariyaphala)。（《清净之道》2,303。大义疏(Mahāṭī)2,472。）
+
+**【文件：[349]行舍智章/[400]b 5. 母亚卡 = 女妖.md】**
+
+### ၅။ 母亚卡(yakkhī) = 女妖
+
+一个男人（因为不知道对方是女妖）娶了一个女妖为妻；那女妖在夜里以为「这个男人已经睡着了」，就前往抛弃死尸的墓地，吃食人肉。
+那男人心想「这个女人到底去了哪里」，便一路跟随寻找，看见她正在吃食人肉，知道那女妖并非真正的人类，心生恐惧，心想「趁她还没吃我，我要逃走」，于是迅速逃走，站到安全的地方。
+
+在这个譬喻中 ----- 应当了知：把五取蕴(upādānakkhandhā)执取为「我、我的所有」，就如同与女妖结为夫妻一样。
+应当了知：在墓地看见她正在吃食人肉，从而知道「这个女人其实是女妖」，就如同见到诸蕴的三相，从而了知「无常(anicca)」等本质一样。
+应当了知：怖畏现起智(bhayatupaṭṭhānañāṇa)就如同那充满恐惧的时段。
+应当了知：欲解脱智(muñcitukamyatāñāṇa)就如同想要逃走；种姓智(gotrabhuñāṇa)就如同舍弃墓地；道智(maggañāṇa)就如同迅速逃走；果智(phalañāṇa)就如同站到安全的地方。（《清净之道》2,303。）
+
+应当了知：由于这是把有危险之处观为无危险之处的原因，所以把诸蕴执取为「我、我的」，与和女妖结为夫妻是相似的。
+应当了知：种姓智就如同舍弃墓地——它是在舍弃名为「行(saṅkhāra)」的墓地之后、凭借以涅槃(nibbāna)为所缘之力而生起的。（大义疏2,472。）
+
+**【文件：[349]行舍智章/[401]a 6. 小孩 = 小孩.md】**
+
+### ၆။ 小孩(dāraka) = 小孩
+
+有一位女子对儿子怀有极为强烈的疼爱；这位过度疼爱儿子的妇人，正坐在楼阁上，便听到房舍之间的巷道里传来小孩的哭声——心想「是不是有人在殴打、欺凌我的儿子？」便急忙赶过去，出于「是自己儿子」的错认，抱起了别人的孩子。
+那位女子想起「这个小孩是别人的儿子」，于是心生恐惧、厌恶，看看这边、又看看那边，心里想着「但愿没有人对我说——『这个人是偷小孩的贼』」，便就在那条巷道里把小孩放下，再次登上楼阁坐了下来。
+
+在这个譬喻中 ----- 应当了知：把五取蕴(upādānakkhandhā)执取为「就是我、就是我的」，就如同以「是自己儿子」的错认而抱起别人的孩子一样。
+应当了知：借助三相之力而了知「不是我、不是我的」，就如同知道「这个小孩是别人的儿子」一样。
+应当了知：怖畏现起智(bhayatupaṭṭhānañāṇa)就如同害怕被人说成「偷小孩的女贼」。
+应当了知：欲解脱智(muñcitukamyatāñāṇa)就如同看看这边、看看那边地张望各处。
+应当了知：随顺智(anulomañāṇa)就如同——就在当初抱取孩子的那条巷道里，把小
+孩放下。
+（应当了知：由于剥除粗重又粗重的贪(lobha)之团块等，从而剥离诸行(saṅkhāra)法，因此随顺智就如同就在那条巷道里把小孩放下一样。）
+应当了知：种姓智(gotrabhuñāṇa)就如同把小孩放下之后、停留在房舍之间的巷道里的那段时间。
+应当了知：圣道(ariyamagga)就如同登上楼阁；应当了知：圣果(ariyaphala)就如同登上楼阁后安坐其上。（《清净之道》2,303-304。大义疏2,472。）
+
+**【文件：[349]行舍智章/[401]b 余下的(六)种譬喻.md】**
+
+### 余下的(六)种譬喻
+
+- 7. **khudda = 饥饿，**
+- 8. **pipāsa = 口渴，**
+- 9. **sīta = 寒冷，**
+- 10. **uṇha = 炎热，**
+- 11. **andhakāra = 黑暗，**
+- 12. **visa = 毒 -----**
+
+为了显示到达圣道（ariyamagga）、安住于导向出起的观（vuṭṭhānagāminī vipassanā）中的瑜伽行者（yogāvacarapuggala）朝向出世间（lokuttara）法（dhamma）而前倾、偏斜、弯曲的状态，才宣说了这（六）种譬喻。
+（意思是：这并不像先前的譬喻那样，是为了显示安住于畏惧现起（bhayatupaṭṭhāna）等诸智（ñāṇa）中的瑜伽行者的畏惧情状等情状、相状（ākāra）而宣说的。）现在就来使之明了——
+
+- 7. **khudda = 饥饿** ----- 正如被饥饿剧烈逼迫、极度饥饿的男子渴望具有美好滋味的食物那样，同样地，在这个譬喻中，被轮回（saṃsāravaṭṭa）中生起的饥饿所逼迫的这位瑜伽行者比库（bhikkhu），也渴望那具有不死（amata）甘露滋味、名为身至念（kāyagatāsati）的食物。（《清净之道》2、304。）
+
+由于是逐级生起的，也由于在漫长时间里接连相续的缘故，也由于难以忍受的缘故，将轮回之苦（dukkha）视为与饥饿之苦相似而铭记于心，**saṃsāravaṭṭajighacchāya = 轮回中生起的饥饿** --义注（aṭṭhakathā）便如此宣说。
+
+**【文件：[349]行舍智章/[402] 具不死之味的身至念之食.md】**
+
+### amatarasaṃ kāyagatāsatibhojanaṃ
+
+kāyagatāsati eva bhojanaṃ **kāyagatāsatibhojanaṃ.** sā panettha maggasampayuttā sammāsati kāyānupassanādikiccasādhanavasena amatarasaparibhogatāya ca "**amatarasaṃ kāyagatāsatibhojana**"nti vuttā. tenāha bhagavā "amataṃ te bhikkhave paribhuñjanti, ye kāyagatāsatiṃ paribhuñjantī"tiādi. (mahāṭī, 2, 472.)
+
+那身至念(kāyagatāsati)，在此即是与圣道(ariyamagga)相应的正念(sammāsati)。
+那念，既因借着成办身随观(kāyānupassanā)、受随观(vedanānupassanā)、心随观(cittānupassanā)、法随观(dhammānupassanā)这一职责之力而生起，也因借着受用不死、无死的涅槃(nibbāna)这至上大法的「amatarasa = 不死之味」而生起——所以「amatarasaṃ kāyagatāsatibhojanaṃ = 具有不死、无死之味的身至念之食」——如是被称说。
+因此，佛陀(Buddha)在《增支部(Anguttara)》巴利圣典的一集(ekanipāta)、不死品(amatavagga)中——
+
+"amataṃ te bhikkhave paribhuñjanti, ye kāyagatāsatiṃ paribhuñjanti." (aṃ, 1, 47.)
+
+= 「诸比库(bhikkhave)……凡是那些受用身至念的人，那些人便被称为受用不死、无死的涅槃的人」——如是宣说。（大义疏2,472。）
+
+**问** ----- 涅槃是出世间(lokuttara)法(dhamma)，而身至念是世间的(lokiya)法。（意指世间的身至念。）
+为何那些受用那身至念的人，就成为受用不死、无死的涅槃的人呢？
+
+**答** ----- 修习(bhāvanā)身至念的个体(puggala)，能够获得不死、无死的涅槃这至上大法；不修习的个体则不能获得。
+因此，佛陀才如此宣说。（增支部义注1,416。）
+
+即便只修习身随观念处(satipaṭṭhāna)，四种念处也会一同圆满具足——这一点在前面的部分已多次阐明。
+无论修习哪一种念处，只要方法正确、道路正确地修习，修习四种念处的这项职责也就随之圆满成办。
+当到达圣道时，那圣道便彻底断除了那覆盖在念的所依——身(kāya)、受(vedanā)、心(citta)、法这四种所缘之上、使人不能了知的痴(moha)。
+不了知的无明(avijjā)消失，了知的明(vijjā)之智生起；正是这一点，被称为在四种念处中=在身随观等四种随观(anupassanā)中成办了职责。
+与圣道相应的正念，担负起了这项职责。
+与世间观(vipassanā)智相应的正念，由于只能暂时(tadaṅga)断除烦恼(kilesa)，又因尚未见到不死、无死的涅槃这至上大法，因而不能圆满地担负起这项职责。
+因此，上述这些解释是义注(aṭṭhakathā)与复注(ṭīkā)所阐明的。
+
+8. **pipāsa = 口渴** ----- 正如口渴的男子，因喉咙与口腔干渴，而渴望果汁、余甘子、姜等等由众多材料配制而成的清凉饮品那样，在这个譬喻中同样地，被名为轮回(saṃsāravaṭṭa)的口渴所逼迫的这位瑜伽行者个体(yogāvacarapuggala)，也渴望具有八支的圣道清凉甘露饮。（《清净之道》2,304。）
+
+9. **sīta = 冷** ----- 正如受寒冷之苦逼迫的男子渴望温暖那样，在这个譬喻中同样地，被名为对轮回极度贪恋喜爱的寒冷所逼迫的这位瑜伽行者个体，渴望那能使烦恼焦灼、烧尽的、名为圣道之火。（《清净之道》2,304。）
+
+10. **uṇha = 热** ----- 正如受炎热之苦逼迫的男子渴望清凉那样，在这个譬喻中同样地，在轮回中被十一种火热剧烈焚烧、遭受烈焰吞噬的这位瑜伽行者个体，渴望那作为贪(rāga)火、瞋(dosa)火等十一种火之熄灭处的、涅槃这至上大法。（《清净之道》2,304。）
+
+11. **andhakāra = 黑暗** ----- 正如被具有四种情形的黑暗、幽暗所逼迫——即：当子夜时分、当无月之夜、当处于密林深处、当四面八方全被密布的、毫无一丝闪电之光的层层浓云所遮盖而降雨之时——也就是被逼得无法成办自己的利益与他人的利益的男子渴望光明那样，在这个譬喻中同样地，被名为能遮蔽四谛(sacca)使人不知的无明这黑暗所遮盖、一再缠裹的这位瑜伽行者个体，希求、渴望那由智所成就、具有光明的道的修习(maggabhāvanā)。（《清净之道》2,304。）
+
+- ñāṇamayo āloko etissāti **ñāṇāloko,** maggabhāvanā. (mahāṭī, 2, 472.)
+- ñāṇālokaṃ maggabhāvanaṃ pattheti. (visuddhi, 2, 304.)
+
+在名为道的修习的圣道智中，「由智所成就的=因智而生起的、具有光明的」，即此义。（《清净之道》2,304。大义疏2,472。）
+（这其实是：以智为主导的道修习心所生的心生色(cittajarūpa)中所含的颜色界(vaṇṇadhātu)色所缘(rūpārammaṇa)，以及那些心生色聚(kalāpa)中所存的火界(tejodhātu)、由时节(utu)辗转再生的时节生色(utujarūpa)中所含的颜色界色所缘——这些色所缘的光耀。
+这是把作为结果的色法们的「光(āloka)」之名，比喻地安置于作为原因的智之上，从而说「作为原因的智中有光明」的喻果(phalūpacāra)之说。）
+
+12. **visa = 毒** ----- 正如被蛇毒等毒所侵害的男子渴望能解除毒的药那样，在这个譬喻中同样地，被名为烦恼之毒所侵害的这位瑜伽行者比库(bhikkhu)，渴望那能镇伏名为烦恼之毒、能成就不死状态、被称为良药的、无死的涅槃这至上大法。（《清净之道》2,304。）
+
+**【文件：[349]行舍智章/[404] 具有退缩心态者.md】**
+
+### 具有退缩心态者
+
+唯有凭借具有如此长度的观(vipassanā)次第,这位瑜伽行者(yogāvacara)个体(puggala)才被称为通过对「有(bhava)」等生起退缩之心的状态而修行的个体。
+针对这一类个体,(佛陀)开示了以下的偈颂(gāthā)。-----
+
+- Patilīnacarassa bhikkhuno, bhajamānassa vivittamāsanaṃ.
+- Sāmaggiyamāhu tassa taṃ, yo attānaṃ bhavane na dassaye. (Khu 1, 406. Mahāni 100.)
+
+bhikkhave = 诸比库(bhikkhu)……。 yo bhikkhu = 凡是那样的比库。 bhavane = 在三地中。 
+attānaṃ = 把自身(attabhāva)。 na dassaye = 不显示,或,不见。 vivittamāsanaṃ = 前往与身远离(kāyaviveka)、心远离(cittaviveka)相应的处所。 bhajamānassa = 亲近的。 paṭilīnacarassa = patilīnacarassa = 能以对三种有生起退缩心态的状态而修行的。 tassa bhikkhuno = 那位瑜伽行者比库的。 taṃ = adassanaṃ = 把在那三地中不见自身(这件事)。 sāmaggiyaṃ = paṭirūpaṃ = 谓「甚为适宜」。 buddhādayo = 以佛陀(Buddha)为首的诸圣者(ariya)尊者们。 āhu = kathenti = 宣说了赞叹之语。
+
+**【文件：[349]行舍智章/[404]b 觉支 - 道支 - 禅支 - 行道 - 解脱 差别（清净之道,2,305。）1.md】**
+
+### 觉支(bojjhaṅga) - 道支(magganga) - 禅支(jhānaṅga) - 行道(paṭipadā) - 解脱(vimokkha)的差别（《清净之道》,2,305。）
+
+具备这种能在诸行法(saṅkhāradhamma)之中远离畏惧与喜爱（bhaya-nandī）两端、以舍心看待的行舍智(saṅkhārupekkhāñāṇa)的瑜伽行者(yogāvacara)，由于对存在于三界之内的诸行法离于爱著(ālaya)，具有借渴爱(taṇhā)之力也不向诸有(bhava)等扩散的意乐界(ajjhāsayadhātu)，又因对那些有等具有退缩的心，故以对三有具有退缩之心态而能修行，因而被称为退缩而行的个体（paṭilīnacara = 退缩行者）。
+
+如此，这行舍智把瑜伽行者具有退缩心态的状态造就为恒常、一向决定（ekaṃsika）、单方面确定的，从而使那在更上位圣道(ariyamagga)的圣道剎那中也应获得的 -----
+
+- 1. 六觉支、七觉支这样的差别，
+- 2. 八道支、七道支这样的差别，
+- 3. 五禅支、四禅支等等的差别，
+- 4. 行道的差别，
+- 5. 解脱的差别 ----
+
+使这种种差别得以确定。其详细内容如下。-----
+
+1. 有些论师，如**三藏小龙大长老(Tipiṭaka Cūlanāga Mahāthera)**等，主张：作为「至出起观(vuṭṭhānagāminīvipassanā)」根基的基础禅(pādakajhāna)——即临近圣道的至出起观之根基——决定了圣道剎那中所应获得的觉支、道支、禅支在数目上的差别与分别。
+
+[**按语** ----- 例如 - 本书中把安那般那第四禅(ānāpānacatutthajhāna)写作观(vipassanā)之根基的基础禅。所指的正是这一类禅那。
+精通全部八定(aṭṭhasamāpatti)的善人，无论把哪一种禅那等至(samāpatti)，都能将其作为观之根基的基础禅
+而确立起来，这本就是完全可行的。]
+
+2. 有些论师，如**住摩罗婆比的大赐大长老(Moravāpīvāsī Mahādatta Mahāthera)**等，主张：作为临近圣道的至出起观所观照对象而生起的诸蕴(khandha)，决定了觉支、道支、禅支在数目上的差别与分别。
+
+3. 有些论师，如**三藏小无畏大长老(Tipiṭaka Cūḷābhaya Mahāthera)**等，主张：当基础禅与（作为至出起观智所观照对象、把特相(lakkhaṇa)提起而加以审视的）所思惟之禅(sammasitajhāna)这两者之间存在差别时，正在修观的瑜伽行者的意愿——即所谓意乐界的众生意乐(puggalajjhāsaya)——决定了觉支、道支、禅支在数目上的差别与分别。
+
+应当了知：在这三位尊师的主张之中，唯有发生在此圣道之前、属于前分(pubbabhāga)的至出起观，才决定了觉支、道支、禅支等的差别。
+至于记取那些觉支等的差别，以下将要讲说的内容，便是按次第进行、称为次第论(anupubbikathā)的一番话。
+
+**【文件：[349]行舍智章/[405] 一、第一长老说 - 基础禅那说.md】**
+
+### 一、第一长老说(paṭhamattheravāda) - 基础禅那说(pādakajjhānavāda)
+
+- ၁။ 观的定则(vipassanāniyama) = 凭借称为「观(vipassanā)」的判准，在具有那种没有称为「禅那(jhāna)」的黏湿、干枯之观的干观者(sukkhavipassaka)个体的相续中生起的圣道(ariyamagga)，
+- ၂။ 在已获得禅那等至(jhānasamāpatti)的瑜伽行者(yogāvacara)个体的相续中，不把自己所获得的禅那作为观的基础(pādaka)而生起的圣道，
+- ၃။ 把初禅(paṭhamajjhāna)作为观的基础、转入观，然后对除了那被作为观基础的初禅以外、称为杂类行(pakiṇṇakasaṅkhāra)的众多行(saṅkhāra)法提起特相(lakkhaṇa)之乘加以审察，由此令生起的圣道 ---- 这三种圣道都只与初禅相应而生起；在那全部三种圣道中，觉支(bojjhaṅga)(七)种、道支(maggaṅga)(八)种、禅支(jhānaṅga)(五)种都生起、都存在、都包含在内。(《清净之道》2，305。)
+
+**注** ----- 此处，**干观者个体**是指：不获得禅那、是纯观乘者(suddhavipassanāyānika)、由于没有称为禅那那种湿润之界、黏胶之界，因而具有干枯之观的个体。
+**杂类行**是指：除了那存在于(此处)已被确立为自己所依止之观的基础的初禅之内的行法以外，值得提起特相之乘、以观来修习审察的那些三地(tebhūmaka)行法。
+当以观审视那些杂类行法而抵达圣道时，那圣道只与初禅相应而生起。
+倘若正是对作为观基础的初禅提起特相之乘、以观审视而抵达圣道，那么关于那圣道与初禅相应一事，就更是不待言说了。
+此处，说「干观者个体等人的圣道与初禅相应」等语，是为了显示这样一种决定性事实：观的定则拥有唯一固定的作用——即「圣道的觉支、道支等的殊异与分别，唯有导向出起的观(vuṭṭhānagāminīvipassanā)才能使之确定」——而如此宣说的。
+确实如此——若排除导向出起的观，那么作为单独确定圣道的觉支、道支等数目殊异之根本原因的基础禅(pādakajhāna)等，是无法被发现、无法被看见的。
+尤其是，导向出起的观即便没有基础禅等，也确实能够成为干观者等人所生起的圣道得以与初禅相应的可能性原因。
+因此当知：唯有导向出起的观，才是在标记、确定圣道中觉支、道支等的数目殊异与分别方面拥有唯一固定作用的决定性原因。(大义疏，2，474。)
+
+试作明示 ----- 上述那些圣道之前分中所生起的前分观(pubbabhāgavipassanā)，既可与悦(somanassa)受相应，也可与舍(upekkhā)受相应；但在称为出起(vuṭṭhāna)的圣道智(ariyamaggañāṇa)生起之时——换一种说法——即在导向出起的观之时、达到行舍(saṅkhārupekkhā)的状态时，则只与悦受相应而生起。(《清净之道》2，305。)
+
+- ၄။ 在五分法(pañcakanaya)中，把第二禅(dutiyajjhāna)作为观基础而令生起的圣道中，伺(vicāra)、喜(pīti)、乐(sukha)、一境性(ekaggatā)这四种禅支相应。
+- ၅။ 把第三禅(tatiyajjhāna)作为观基础而令生起的圣道中，喜、乐、一境性这三种禅支相应。
+- ၆။ 把第四禅(catutthajjhāna)作为观基础而令生起的圣道中，乐、一境性这两种禅支相应。
+
+尤其是，在把那第二禅、第三禅、第四禅作为观基础而令生起的诸圣道中，(由于禅支寻(vitakka)不相应，正思惟(sammāsaṅkappa)道支便减少一种，)故只生起(七)种道支。
+在把第四禅作为观基础而令生起的圣道中，(由于喜不相应，喜便减少，)故生起(六)种觉支。
+这一殊异，既是由于基础禅那定则(pādakajjhānaniyama)=称为基础禅那的确定原因，也是由于观的定则=称为导向出起的观的确定原因。
+(意即：并非像前面干观者等三种人的圣道那样，仅仅由于观的定则而生起。)
+确实如此——在那五分法中，把第二禅、第三禅、第四禅作为观基础而令生起的诸圣道，其前分中所生起的前分观，既可与悦受一同生起，也可与舍受一同生起。
+然而导向出起的观则只与悦受一同生起。(《清净之道》2，305)
+
+၇။ 再者 ----- 依四分法(catukkanaya)为第四禅、依五分法为第五禅(pañcamajjhāna)，把它作为观基础而令生起的圣道中，凭借舍、一境性之力，生起两种禅支；由于没有喜觉支(pītisambojjhaṅga)，故生起(六)种觉支；由于没有正思惟道支，故生起(七)种道支。
+这些禅支、觉支、道支的数目殊异，同样也是由于基础禅那定则、观的定则这两者之力而产生的。
+确实如此——在这一方式中，圣道之前分所生起的前分观，既可与悦受一同生起，也可与舍受一同生起；然而导向出起的观则只与舍受一同生起。(《清净之道》2，306。)
+
+၈။ 在把无色禅(arūpajjhāna)作为观基础而令生起的圣道中，也当依此方式来了知。
+
+如是，从作为观基础的基础禅出起，对存在于称为 **ye keci saṅkhāra** 的三界之内、名为 **三地行** 的诸行法提起特相之乘而审察思量，由此令生起的圣道，其称为「邻近之处(āsannapadesa)」的近旁处所所出起的等至(samāpatti)，能使圣道变得与自己相似。
+犹如大地的颜色能使巨蜥的颜色变得与自己大地的颜色相似一般。(《清净之道》2，306。)(亦请参见阿毗达摩注，1，271-272。)
+
+假设巨蜥的洞穴处是红土，由于那红土是与巨蜥最为邻近的地方，故使巨蜥带有红的颜色。
+假设是黑色的土洞，同样地，那土也使巨蜥带有黑的颜色。
+意即：当依此譬喻而记取。
+此处，邻近之处 = 与圣道邻近的地方，正是指向导向出起的观。
+因此，藉「邻近之处」这一语句所要表明的是：正在修习观修习(vipassanābhāvanā)的修观者(vipassaka)个体，在一段段间隔的时间里，由于自己所入的等至之力，这样的圣道中觉支、道支、禅支的那种殊异是不可能存在的。(大义疏，2，474。)
+
+以上这些，是与「圣道中觉支、道支、禅支的殊异与数目分别，乃由作为观基础的基础禅所确定」这一第一长老说、即三藏小龙大长老(TipiṭakaCūḷanāgaMahāthera)之说相关联，讲述基础禅与导向出起的观如何促成圣道中觉支、道支、禅支之殊异的种种语句。
+此说中所要表达的意思如下。 -----
+
+作为圣道邻近者的导向出起的观，若与悦受一同生起，那么圣道也与悦受一同生起。
+(依五分法，那圣道将随其所宜而与初禅、或第二禅、或第三禅、或第四禅相应。)
+作为圣道邻近者的导向出起的观，若与舍受一同生起，
+那么圣道也与舍受相应。
+在五分法中，第五禅之道(pañcamajjhānikamagga)=与第五禅相应的道。
+因此，圣道中觉支等的殊异便得以生起。
+因此，导向出起的观在确定那些觉支等的数目殊异方面—— -----
+
+- ၁။ 邻近之因(āsannakāraṇa)=既是邻近的原因，
+- ၂။ 主导之因(padhānakāraṇa)=也如同是主要、主导的原因那般 ----
+
+同样地，基础禅等却并不成为邻近的原因、主导的原因。
+然而，若离开基础禅、仅凭导向出起的观本身，也无法确定上述这些觉支、道支、禅支的种种殊异。
+(意即：唯有把禅那作为观基础、入了禅那之后，再从该禅那出起，对与该禅那相应(jhānasampayutta)的诸行法提起特相之乘而加以审察，那些种种殊异才有可能生起。)
+然而就实义而言，如前所说，基础禅确实正是主要、主导的原因。
+因此，义注(aṭṭhakathā)并没有说「圣道中觉支、道支、禅支的种种数目殊异唯有导向出起的观才能确定」，而是说「导向出起的观也确实能确定」而已。(大义疏，2，473-474。)
+
+**【文件：[349]行舍智章/[408] 二、第二长老辩论 = 思惟禅辩论.md】**
+
+### 二、第二长老辩论（dutiyattheravāda） = 思惟禅辩论（sammasitajhānavāda）
+
+另一种则是——在作为第二长老辩论的**住在莫拉瓦比的大赐大长老（Moravāpīvāsī Mahādatta Mahāthera）**的辩论中：从某某等至（samāpatti）出起后，把作为安住于某某等至之内的禅那（jhāna）与禅那相应（sampayutta）诸法之聚的诸行（saṅkhāra）套上相之轭，修习、审察观（vipassanā），使圣道（ariyamagga）（＝把圣道）
+生起——设若令其生起，则[该圣道]仅仅与那被套上种种相之轭、以观修习审察的等至＝思惟禅那（sammasitajhāna）相似而已——即是此义。
+假如把欲界（kāmāvacara）诸法套上相之轭、修习审察观，那时若抵达圣道，则该圣道就只与初禅那相应而生起。
+在那第二长老辩论中，观的定则（vipassanāniyama）也应完全依照第一长老辩论中已说过的方法而了知。（《清净之道》、2、306。阿毗达摩注、1、272。）
+
+此处，所谓的观，正是作为行舍智（saṅkhārupekkhāñāṇa）最后部分的趣向出起的观（vuṭṭhānagāminīvipassanā）。
+把第二禅那作为观的基础（pādaka），把某一行以无常（anicca）等加以审察、修习的瑜伽行者（yogāvacarapuggala），其观，由于不愿趣入那被第二禅那所超越的寻（vitakka）、对之厌恶，故成为寻离染修习（vitakkavirāgabhāvanā）。
+因此，从那修习提升而证得的圣道，也必定只是与不具寻的第二禅那相应的圣道。
+对于第三禅那等等那些禅那，也应依此方法而了知。
+以此方法，在名为基础禅那辩论（pādakajjhānavāda）的第一长老辩论中，趣向出起的观也把悦受（somanassavedanā）、舍受（upekkhāvedanā），觉支（bojjhaṅga）、道支（maggaṅga）、禅支（jhānaṅga）确定为彼此有别，并使那种差别、特异保持固定；依此方法，也应比对在后面诸辩论中趣向出起的观如何能使[它们]保持固定。（根本复注、1、115——请参看。）
+
+**【文件：[349]行舍智章/[409] 三、第三长老辩论 = 众生意乐禅那辩论.md】**
+
+### 三、第三长老辩论(tatiyattheravāda) = 众生意乐禅那辩论(puggalajjhāsaya jhānavāda)
+
+在**三藏小阿巴亚大长老(Tipiṭaka Cūḷābhaya Mahāthera)**所主张的第三长老辩论中 -----
+
+“aho vatāhaṃ sattaṅgikaṃ maggaṃ pāpuṇeyyaṃ, aṭṭhaṅgikaṃ maggaṃ pāpuṇeyyaṃ”
+
+“我若能到达那（不具足正思惟(sammāsaṅkappa)道支的）、具有七（7）支的、与第二禅那(dutiyajhāna)相应的第二禅那道(dutiyajhānikamagga)等，啊，那真好。
+我若能到达那具有八（8）支的、与第一禅那(paṭhamajhāna)相应的第一禅那道(paṭhamajhānikamagga)，啊，那真好。”----
+
+如此，随顺自己的意愿意乐界(ajjhāsayadhātu)，无论把哪一种禅那作为观(vipassanā)的基础(pādaka)，或者省察哪一些禅那法(jhānadhamma)，如此所生起的圣道(ariyamagga)，都只是与那各种禅那相同而已。
+无论是基础禅那(pādakajhāna)，还是以观
+修习省察的所思惟禅那(sammasitajhāna)，都加以排除，仅凭意愿意乐界，则与那各种禅那相同的圣道之生起，是无法完成的。
+（在依意乐界而成就时，若有基础禅那，则该基础禅那；若有所思惟禅那，则该所思惟禅那，都以本性亲依止力(pakatūpanissayasatti)助益意乐界；因此意思是说：基础禅那、所思惟禅那两者之一，须以本性亲依止力 = 依本来自性而言强而有力的所依亲依止力(upanissayasatti)予以助益，方能随顺意乐界而成就。）
+
+排除基础禅那或所思惟禅那、没有那禅那、仅凭意愿意乐界，则与那各种禅那相同的圣道之生起无法完成——这一义理，适合以**难达葛教诫经(Nandakovādasutta)**清楚地显示；其例证如下。
+中部(Majjhimanikāya)《后分五十》巴利圣典(Uparipaṇṇāsapāḷi)、六处品(Saḷāyatanavagga)**难达葛教诫经**中 -----
+
+“诸比库(bhikkhave)……那适合用来比较的世间譬喻(lokaupamā)是这样——正如在众人的相续(santāna)中，对于「在第十五（15）日的那个满月布萨(uposatha)日，月亮是亏缺了呢 = 是未圆满呢，还是圆满了呢」这样的少许疑惑、以及种种纷杂的思量筹划都不生起，实际上只生起「月亮确实圆满了」这样的心念——诸比库……正如这个譬喻一样，那些比库尼(bhikkhunī)因难达葛(Nandaka)的说法开示，既有欢喜愉悦之心，也有圆满的筹划意愿。
+诸比库……在那五百（500）位比库尼中，无论哪位比库尼处于最后的地位，那位比库尼便是这样的入流者(sotāpanna)——她已不再有散乱破碎、败坏堕落的性质，凭借名为正性决定(sammattaniyama)的圣道智(ariyamaggañāṇa)而确立，在名为「三（3）种确定不移的上道智」这一卧息之处上安住。”（中，3，324。）----
+
+这段圣语是佛陀(Buddha)曾经宣说的。
+兹令明晰——在那五百（500）位比库尼中，无论哪位比库尼的名色相续(rūpanāmasantāna)之流中，都明显存在着获得入流果(sotāpattiphala)的、强而有力的所依因法、善业亲依止(upanissaya)；那位比库尼确实已成为仅以入流果便具足圆满心念意愿者了。……
+无论哪位比库尼的名色相续之流中，都明显存在着阿拉汉果(arahattaphala)的、强而有力的所依因法、善业亲依止；那位比库尼确实已成为仅以阿拉汉果便具足圆满心念意愿者了。
+（意思是说：仅凭有筹划意图(saṅkappa)与欲求渴望的意乐界，是得不到道果的；唯有也具备亲依止的善因，才能获得道果。）
+
+正如这个譬喻一样，瑜伽行者(yogāvacara)随顺自己的意乐界，无论把哪一种禅那作为观的基础，或者把无论哪一种禅那法 = 禅那与禅那相应(sampayutta)诸法载于相(lakkhaṇa)之车、修观省察，如此所生起的圣道，都只是与那各种禅那相同而已。
+然而，无论是作为观之基础的基础禅那，还是在趣向出起之观(vuṭṭhānagāminīvipassanā)阶段载于相之车、修观省察的所思惟禅那，都加以排除 = 在没有获得、没有那基础禅那与所思惟禅那的情况下，仅凭「想成为入流者、想成为一来者(sakadāgāmī)、想成为不还者(anāgāmī)、想成为阿拉汉(arahant)」这样的意愿意乐界，则如此与那各种禅那相同的圣道之生起，是无法完成、无法圆满的——请记住这一点。
+在这众生意乐辩论(puggalajjhāsayavāda)中，也应当依照前面已说过的方法来了知观的定则(vipassanāniyama)。（阿毗，注，1，273。）
+
+在那部**难达葛教诫经**中，比库尼当中成为入流者的那些人，也因成为入流者而心生欢喜(attamana) = 欢喜愉悦。
+圆满意愿(paripuṇṇasaṅkappa) = 她们听闻难达葛尊者的法后，为成为入流者而作的种种筹划意愿，也都如所筹划那样得以圆满。
+成为一来者、不还者、阿拉汉的那些人，也因成为一来者、不还者、阿拉汉而同样心生欢喜 = 欢喜愉悦。
+圆满意愿 = 她们听闻难达葛尊者的法后，为成为一来者、成为不还者、成为阿拉汉而作的种种筹划意愿，也都如所筹划那样得以圆满。
+如此，她们各自凭借所获得的道智(maggañāṇa)、果智(phalañāṇa)等殊胜法而心生欢喜、意愿圆满 = 之所以能欢喜愉悦、如所筹划那样得以圆满，乃是因为在过去世中积累修习过的、作为成为入流者之因、成为一来者之因、成为不还者之因、成为阿拉汉之因的善业，正以本性亲依止力予以助益之故。
+同样地，在这出世间(lokuttara)道智方面，也因为基础禅那或所思惟禅那以本性亲依止力予以助益，才生起了欲求那具有与基础禅那或所思惟禅那相似禅支(jhānaṅga)的圣道的意乐界。
+意思是说，这只是指明并宣说那与该类意乐界相顺应的圣道之生起而已。（根本复注(Mūlaṭīkā)，1，116。大复注(Mahāṭīkā)，2，475。）
+
+**【文件：[349]行舍智章/[410] 对三藏小龙长老主张的审查.md】**
+
+### 对三藏小龙(Tipiṭaka Cūḷanāga)长老(thera)主张的审查
+
+**问** ----- 在那三位长老之中，有一位常说「唯有基础(pādaka)禅那(jhāna)才在圣道(ariyamagga)之时认定觉支(bojjhaṅga)、道支(maggaṅga)、禅支(jhānaṅga)数目上的殊异 = 使之固定」；
+这位如此常说的**三藏小龙长老**，他那些门生(antevāsika) = 近住 = 内住的弟子们如此请示、发问道。-----
+「尊者……首先，在具有基础禅那的有(bhava)里，就让那基础禅那在圣道之时认定觉支、道支、禅支数目上的殊异吧 = 就让它固定吧。
+然而，在没有基础禅那的无色有(arūpabhava)里，究竟是什么法(dhamma)在圣道之时认定觉支、道支、禅支数目上的殊异与分别 = 使之固定呢？」他们如此发问、请示道。
+
+应当记住：这是针对「依四分法，除第四禅那以外，不可能有别的基础禅那」这一点而发问的。
+在无色地(arūpabhūmi)里，无色禅那依四分法就只是第四禅那而已。
+这是因为[它们]各自都具有舍(upekkhā)、一境性(ekaggatā)这两个禅支之故。
+对于与那第四禅那相应的圣道，在无色地里，唯有各自相应的无色禅那才能成为观(vipassanā)的基础。
+依四分法，能成为观之基础的只是归属于第四禅那的、各自相应的无色禅那——由于这是惯常的常态，所以在那
+无色地里将证得的圣道中，觉支为(6)个、道支(7)个、禅支 = 舍＋一境性，恒定只有两个。
+依基础禅那[之别]不可能产生殊异。（因为在全部四种无色禅那中，禅支都相同之故。）
+因此，弟子们是指着「在无色地里将证得的圣道中，随基础禅那而来的觉支、道支、禅支之殊异与分别不可能存在，只能有一种」而发问的。
+为理解此问之答，须先知道的一点是：住于无色地的三因凡夫(puthujjana)个体(puggala)，就在无色地里也无法证得入流道(sotāpattimagga)；这是因为他缺少从名为「他人之音」(paratoghosa)、以佛陀(buddha)为首的诸善知识处听闻正法的因缘之故。
+在称为欲地、色地、具有五蕴的五蕴(pañcavokāra)地里安住而证得入流道之后，再从那五蕴地进一步到达无色地；若在那无色地里继续修习诸观法，则更高的道、果(phala)是能够证得的。
+若先把这一说明记住，便能轻易理解下面的回答。
+
+**答** ----- 朋友(āvuso)们……即使在那无色有里，也唯有基础禅那才在圣道之时认定觉支、道支、禅支数目上的殊异与分别 = 使之固定。
+确实如此——某位瑜伽行者(yogāvacara)比库(bhikkhu)由于已证得八定(aṭṭha samāpatti)，便以初禅那作为观的基础而生起入流道果之后，由于其禅那不退减 = 禅那不失坏，若他命终，便投生到无色有里；在那无色地里再次进入与初禅那相应的 =（具有五个禅支的）入流果定(sotāpattiphalasamāpatti)，从那入流果定出定而生起观，从而生起上面三种道、三种果；这位比库的那些上道、上果，都唯有在初禅那中 = 唯有与初禅那相应地生起。（意思是说：具有五个禅支。）
+在与第二禅那相应的道、果等等中，也是同样的道理。
+（在五蕴地里以第二禅那作为观的基础而证得入流道果，然后到达无色地才继续修习观，因而证得诸上道果；在这证得之处，正是第二禅那充当基础禅那，那些上道果也只与第二禅那相应，具有三个禅支。当如此等等地了知。）
+
+在无色地里，依五分法岂不是只有第五禅那、依四分法只有第四禅那吗？又怎能有第二禅那等等呢？——由于有这样值得一问之处，这位尊贵的大(mahā)长老便如此继续答道。
+
+在无色地里，依四分法，可以出现称为初禅那、第二禅那、第三禅那的三分禅那(tikajhāna)；依五分法，可以出现称为初禅那、第二禅那、第三禅那、第四禅那的四分禅那(catukkajhāna)。
+那些三分禅那、四分禅那也都只是出世间禅那(lokuttarajhāna)——[意思是说，与圣道相应、于圣道当下生起的禅那。指的是圣道生起时与该圣道相应的(5)、(4)、(3)、(2)个禅支。]
+并非世间禅那(lokiyajhāna)。
+正是这样，朋友们……即使在那无色地里，也唯有基础禅那才在圣道之时认定觉支、道支、禅支数目上的殊异与分别 = 使之固定。」大长老如此说道。
+
+「尊者……这个问题已被完善地解答了。」弟子们如此禀白道。（Abhi-ṭṭha,1,273-274。）
+
+**【文件：[349]行舍智章/[412] 对莫拉瓦比住者大赐大长老之辩论的检讨.md】**
+
+### 对莫拉瓦比住者(Moravāpīvāsī)大赐(mahādatta)大长老(thera)之辩论(vāda)的检讨
+
+「作为观(vipassanā)智(ñāṇa)所观所缘的诸蕴(khandha),预先决定 = 固定了圣道(ariyamagga)中觉支(bojjhaṅga)、道支(maggaṅga)、禅支(jhānaṅga)在数量差别上的殊异。
+的确如此 —— 把任一蕴置于相(lakkhaṇa)之乘上、以观修习审察,那名为「出起(vuṭṭhāna)」的圣道 = 至出起观(vuṭṭhānagāminīvipassanā),便生起。
+该圣道,唯与那些被观所审察的诸蕴相似而已。」
+
+向惯常如此宣说的**莫拉瓦比住者大赐大长老**(= 惯常住于莫拉瓦比地方的大赐大长老),那些门生(antevāsika) = 住在里面 = 共住的弟子们,如此禀白道。 -----
+
+「尊者啊……诸尊者以那种种观智所审察的、与观智之所缘相似的、具足觉支、道支、禅支的圣道便生起——这样的「已思惟(sammasita)之辩论」中,过失明显地存在;的确如此 —— 把色(rūpa)法置于相之乘上、以观修习审察,由于从行(saṅkhāra)与生命期间(pavatta)中出起,而抵达那名为「出起」之圣道的修行者(yogāvacara)比库(bhikkhu),其与色法相似的、成为无记(abyākata)的圣道法,是可能生起的。
+以聚思惟(kalāpasammasana)之法、用智把非想非非想处(nevasaññānāsaññāyatana)禅那(jhāna)加以分别、摄取,令观生起,由于从行与生命期间中出起,而抵达那名为「出起」之圣道的修行者比库,其唯与那非想非非想处禅那相似、达到非想非非想之状态的圣道,才是应当生起的。」——他们如此禀白道。
+
+「诸位朋友……并非如此。
+原因是这样的。
+出世间(lokuttara)圣道之中,不可能有不达到安止(appanā)的所谓圣道;因此,把色法置于相之乘上、以观修习审察,而抵达那名为「出起」之圣道的比库,其圣道乃是具有八条道支这八种支分、与悦(somanassa)受(vedanā)俱起的八支(aṭṭhaṅgika)悦俱(somanassasahagata)道。
+再者,以聚思惟之法把非想非非想处禅那置于相之乘上、以观修习审察 = 作聚思惟之事,从而获得从诸行中出起之圣道法的修行者个体(puggala),其圣道,以「行余(saṅkhārāvasesa) = 从粗糙的诸行中所余的微细之行」的体性,不能与那禅那完全相同;唯有同为第四禅那(catutthajhāna)、同为舍(upekkhā)俱这一点能够相同;因此,它只能是不含正思惟(sammāsaṅkappa)道支、具有七种支分的七支(sattaṅgika)舍俱圣道。」——大长老如此教示。(阿毗达摩义注1,274。)
+
+圣道要超越寻(vitakka)等粗糙刚强的禅支,其强而有力的强依止(upanissaya)诸因法,正是作为观智之立足所缘的第二禅那(dutiyajhāna)等等。
+当把色法观照为无常(anicca)等时,由于在那观智中并未以色界(rūpāvacara)禅那为根基 = 未把它作为观的基础(pādaka),又由于并未以观观照、审察色界禅那,倘若缺少「超越那种种禅支」这一强而有力的所依强依止,那么对那种种禅支的厌逆——即离染(virāga)之力——也就不存在,于是便不可能脱离五禅支而生起。
+因此,唯有具足八条道支的八支道才有可能生起——**aṭṭhaṅgiko somanassasahagatamaggo hoti** = 意即「它是八支(= 具足八条道支)的悦俱道」,乃是这样宣说的。
+再者,若以观审察非想非非想处禅那而抵达圣道,那圣道虽是具有舍、一境性(ekaggatā)这两个禅支的第四禅那者,但能够断除潜伏(anusaya)界的那位修行者比库的圣道,却以「行余 = 从粗糙的诸行中所余的微细之行」的体性,不能与那非想非非想处禅那完全相同,唯有同为第四禅那、同为舍俱道这一点能够相同——这一含义,也正由 **upekkhāsahagatamaggo** (阿毗达摩义注1,274。)
+这句话指示着。(根本复注1,116。)
+
+**【文件：[349]行舍智章/[413] 对三藏小无畏长老主张的审查.md】**
+
+### 对三藏小无畏(Tipiṭaka Cūḷābhaya)长老(thera)主张的审查
+
+「众生意乐(puggalajjhāsaya)禅那(jhāna)在圣道(ariyamagga)之时认定觉支(bojjhaṅga)、道支(maggaṅga)、禅支(jhānaṅga)数目上的殊异、差别 = 使之固定」——[他们]也援引常这样说的**小无畏 = 小无畏长老**的主张，向**三藏小龙(Tipiṭaka Cūḷanāga)长老**请示。
+那位三藏小龙长老如此说道。-----
+
+在某位瑜伽行者个体(yogāvacarapuggala)的相续中，首先存在着作为观(vipassanā)之根本基础(pādaka)的基础禅那；在那位比库(bhikkhu)的相续中，众生意乐禅那 = 随瑜伽行者个体的意愿意乐(ajjhāsaya)而修习、审察观的禅那，就让它在圣道之时认定觉支、道支、禅支的差别、特异吧 = 就让它固定吧。（意思是：就让它依照小无畏长老的主张而认定吧。）
+而在没有那基础禅那的瑜伽行者比库的相续中，究竟是什么样的意乐 = 众生意乐禅那，才能在圣道之时认定觉支、道支、禅支数目上的差别、差异、特异呢 = 才能使之固定呢？这就好比一个连本钱财物都没有的人，去谋求其营生财物之兴盛增长、增益之时一样。」[他]如此说道。
+
+[他们]带着上面这些话，又向**三藏小无畏长老**呈述、请示；那位三藏小无畏长老如此说道。-----
+
+「诸位贤友……对于具有基础禅那的个体(puggala)来说，众生意乐 = 众生意乐禅那，在圣道之时认定觉支、道支、禅支数目上的差异、特异 = 使之固定——我所要说的正是这句话。」[他]如此说道。
+
+再者 ----- 正如对于具有基础禅那的个体，说众生意乐 = 众生意乐禅那，[能]在圣道之时[认定]觉支、道支、禅支数目上的差异、特异一样；对于具有思惟禅那(sammasitajhāna)的瑜伽行者个体，也应同样地了知。
+确实如此 - 把第五禅那作为观之根本基础，从第五禅那出定后，把初禅那等等套上相之轭而修习、审察观的个体，在其相续中生起的圣道，依第一长老的主张与第五禅那相应；依第二长老的主张，则与初禅那等等（在导向出起的观(vuṭṭhānagāminīvipassanā)之时）正在以观修习、审察的禅那相应。
+因此，名为基础禅那说(pādakajjhānavāda)、思惟禅那说(sammasitajhānavāda)的这两种主张，也彼此互相对立；而在第三长老的主张中，则是在这些禅那中想要哪一种禅那，就与那所想要的禅那相应。
+因此，那基础禅那说、思惟禅那说，也就不再与第三的众生意乐说(puggalajjhāsayavāda)相对立了；意乐 = 众生意乐禅那，也确实是有利益的。
+应当如此了知。（Abhi-ṭṭha,1,274。）
+
+当基础禅那是第五禅那、而思惟禅那是初禅那时，若依基础禅那说来讲，就会是属第五禅那的道(pañcamajjhānikamagga)；若依思惟禅那说来讲，就会是属初禅那的道(paṭhamajjhānikamagga)。在这两种主张如此对立的情况下，若意乐想要属第五禅那的道 = 与第五禅那相应的道，那就只成为属第五禅那的圣道；若意乐反过来想要属初禅那的道，那也只会成为属初禅那的圣道。
+原因在于 --- 因为[他]只把与自己的意乐界(ajjhāsayadhātu)相应的禅那，在导向出起的观之时套上相之轭，以观加以修习、审察之故。
+意思是说：如此相互对立的那两种主张，由于意乐从中介入协调，便不再相互对立了。
+这样一来，若没有意乐、只是单单有那两种主张，[它们]就会相互对立；唯有把意乐说(ajjhāsayavāda)加进来，带有意乐的那一方才得以取胜——因此[说]，意乐 = 众生意乐，并非徒然无益，而确实具有殊胜的利益。这是义注(aṭṭhakathā)（Abhi-ṭṭha,1,274。）
+所作的解释。（Mūlaṭī,1,116——请参看。）
+
+这样看来，上面所述的这三位尊贵的大长老，也都正是能洞见因果、具本性智慧的大智者。
+[他们]都敏锐犀利，也确实都是智慧圆满具足的。
+因此，古代那些尊贵的义注师(aṭṭhakathācariya)们，便把这三位尊贵的大长老的主张，依义注的次第编排，收录进义注之中了。
+而在这部《胜义分明(aṭṭhasālinī)》义注里，则只抽取那各种主张所要表达的意义、含义，指出：导向出起的观认定这三种主张 =（三种主张中所说的诸禅那）= 使之固定 = 加以确定。（Abhi-ṭṭha,1,274。）
+
+确实如此 ----- 唯有那各种主张与观一同生起时，那各种主张中所说的种种义理的完成才有可能。
+若没有观，仅仅有基础禅那、仅仅有意乐，证得圣道这件事是无法完成的。
+意思是说：唯有当观一同存在时才能完成，因此[义注]指出：导向出起的观在圣道之时认定觉支、道支、禅支数目上的差别、差异、特异 = 使之固定。（Mūlaṭī,1,117。）
+
+**【文件：[349]行舍智章/[415]a 四种行道.md】**
+
+### 四种行道(paṭipadā)
+
+在圣道(ariya magga)之时，讲述了觉支(bojjhaṅga)、道支(maggaṅga)、禅支(jhānaṅga)的种种殊异区分与差别之后，如今接着讲述行道的种种殊异区分与差别。-----
+
+一、这行舍智(saṅkhārupekkhāñāṇa)在最初之时，倘若断离烦恼(kilesa)时，须因痛苦烦扰，伴随名为「心的加行(cittapayoga)＝心的努力加行」的修习(bhāvanā)勤修、伴随策励、伴随[如此]方能断离，那么便称为**苦行道(dukkhapaṭipadā)**＝具有痛苦烦扰之行者。
+
+二、与此相反，以没有痛苦烦扰、没有名为「心的加行＝心的努力加行」的努力用功、无须策励的行，倘若便能断离烦恼，那么便称为**乐行道(sukhapaṭipadā)**＝具有安乐轻易之行者。
+
+三、断离烦恼之后，尚未到达名为圣道、所渴求的境地，仍与圣道相隔离，而在修行具有观(vipassanā)的观之修行时，这使圣道的生起变得迟缓沉重的行舍智，便称为**迟钝证智(dandhābhiñña)**＝迟缓沉重＝具有迟缓、沉重之了知智者。 
+（意指在行舍智中停留颇久、停滞不前之意。）
+
+四、与此相反，这使圣道生起变得迅速快捷的行舍智，便称为**敏捷证智(khippābhiñña)**＝具有迅速之了知智者。
+
+如是，这行舍智安住于作为圣道生起之缘的地位，把苦行道等名称赋予各自的圣道；藉着那名称，圣道便获得苦行道等四种名称。（《清净之道》、2、306。）
+
+**【文件：[349]行舍智章/[415]b 胜义分明义疏的评述.md】**
+
+### 《胜义分明(Aṭṭhasālinī)》义疏的评述
+
+阿毗达摩(Abhidhamma)义疏（Abhi,Ṭṭha,1,260-261。）中所载的苦行道(dukkhapaṭipadā)的成因等内容，在此继续陈述如下。 -----
+
+**dukkhapaṭipadaṃ dandhābhiññaṃ** —— 在如此等语句中，应如此了知其判定。 
+一位瑜伽行者(yogāvacara)从最初开始断除诸烦恼(kilesa)时，须在忧闷、疲惫、艰难中催策自己，凭借「为断除连同行(saṅkhāra)在内的诸烦恼而作意业处(kammaṭṭhāna)」这种称为心的加行(cittapayoga)的、连同其余在内的种种因缘，疲累地断除诸烦恼；那个个体的修行行道(paṭipadā)，便是「dukkhāpaṭipadā」＝抵达苦而艰辛的圣道(ariyamagga)之因的修行。 
+再者，另一位瑜伽行者，由于烦恼已被断除，当他修习「vipassanā parivāsa ＝修习观(vipassanā)」时，须经长时间才抵达圣道的现起；那个个体的证智(abhiññā)＝了知之智，便是「dandhābhiññā」＝迟缓的证智＝了知之智。
+如是，古代的诸位大师已将不加区别的任一节(vāra)命名为「dukkhapaṭipada dandhābhiña」。（Abhi,Ṭṭha,1,260。）
+
+**yokoci vāro** ＝依据上述义疏之语，在以修习(bhāvanā)之力断除烦恼一次的节、断除两次的节、断除三次的节、断除四次的节、断除多次的节当中，无论哪一节都名为「dukkhapaṭipada dandhābhiña」——这意味着古代诸师已将其如此命名。（Mūlaṭī,1,111。）
+
+**【文件：[349]行舍智章/[416]a 义注诸位尊师所喜好的节.md】**
+
+### 义注(aṭṭhakathā)诸位尊师所喜好的节(vāra)
+
+在那些节当中,义注诸位尊师所喜好的究竟是哪一个节呢?就是——在某个节里,已经祛除过一次的诸烦恼(kilesa)在更上更上的阶段又生起了 = 重新生起了,以致第二次也须再度祛除;而第二次已祛除的诸烦恼也再一次重新生起。
+但是,对于第三次已祛除的诸烦恼,则只将其视为照常祛除、已被搁置祛除的那一类,并借由圣道(ariyamagga)使之达到被无余断除的状态;这个节正是义注诸位尊师所喜好的,并已为这个节安立了**苦行道迟通达(dukkhapaṭipadādandhābhiññā)**这一名称。(阿毗,义注,1,260。)
+
+直到这样第三次为止都须祛除诸烦恼的这个节,古昔义注的诸位圣尊师欣喜地称之为“苦行道(dukkhapaṭipadā)”。至于须祛除诸烦恼超过三次的那些节乃是苦行道,那就更不必说了。
+而仅凭祛除一次、仅凭祛除两次,就能使无余断除诸烦恼的圣道得以生起的那个节,则意指乐行道(sukhapaṭipadā)。
+由于须祛除诸烦恼超过两次的那个节并非乐行道,所以直到第三次都须祛除诸烦恼的那个节,义注诸位尊师欣喜地称之为苦行道。
+既然把那样直到第三次都须祛除诸烦恼的节如此地喜好并称为苦行道,那么当知:对于超过那第三次、乃至第四次、多次都须祛除诸烦恼的节等其他诸节,就再没有称之为苦行道的必要了。(根本复注(Mūlaṭīkā),1,111-112。)
+
+还要继续说下去。仅凭这般冗长的话语还不足以使之清晰明了,因此,对于“苦行道迟通达”等这一语句,应当知晓:要用以下将说的方法,从最初开始使之清晰地显现出来。-----
+
+**【文件：[349]行舍智章/[416]b 一、初 - 色非色摄受节.md】**
+
+### 一、初 - 色非色摄受(rūpārūpapariggaha)节(vāra)
+
+某位瑜伽行者(yogāvacara)以特相(lakkhaṇa)、作用(rasa)、现起(paccupaṭṭhāna)、足处(padaṭṭhāna)之力摄取了四大种(mahābhūta)之后 = 以智(ñāṇa)辨别把握了之后，再以特相、作用、现起、足处之力摄取二十四种所造色(upādārūpa) = 以智辨别把握。
+以特相、作用、现起、足处之力摄取名法(nāma) = 以智辨别把握。
+把色(rūpa)与名合并起来，当作「色法－名法」来摄取时 = 以智辨别把握时，唯有历经艰辛困苦、勉强吃力、烦忧郁结、疲惫劳顿、局促费力，方能摄取 = 方能以智辨别把握。
+那位个体(puggala)的修行行道(paṭipadā)称为苦行道(dukkhāpaṭipadā)。
+再者，当具有已被摄取、已被以智辨别把握之色与名的瑜伽行者修习观(vipassanā)之时，由于圣道智(ariyamagga ñāṇa)明显生起得迟缓，故称为迟钝证智(dandhābhiñña)。(阿毗,义注,1,260。根本复注(Mūlaṭīkā),1,112。)
+
+在此，以特相、作用、现起、足处这般以智辨别把握色法、名法，正是意指(甲)摄取色 (乙)摄取名 (丙)摄取色名之意。
+如是，在以智辨别把握时，倘若须艰难困苦地以智辨别把握，便成为苦行道。
+纵然在以智辨别把握色时较为容易，但若在以智辨别把握名时又陷入困难，那也依然是苦行道。当知：如此一来，只要行道的进程尚未走尽，在任何一处感到困难，便一概称之为苦行道。
+
+**【文件：[349]行舍智章/[417] 二、第二 - 名色分别节.md】**
+
+### 二、第二 —— 名色分别(nāmarūpavavatthāpana)节
+
+Nāmarūpamattamevetaṃ, na añño koci sattādikoti vavatthāpanaṃ nāmarūpavavatthāpanaṃ. (Mūlaṭī-1-112.)
+
+「唯有名色而已；除名色之外，个体(puggala)、有情(satta)、命(jīva)、我(atta)、人、天神、梵天神(brahma)等皆不存在」——如此分别识别，即是名色分别(nāmarūpavavatthāna)。这正是见清净(diṭṭhivisuddhi)的阶段。(Mūlaṭī-1-112。)
+
+某位瑜伽行者(yogāvacara)——无论是（毫不费力、轻轻松松地）还是（艰辛困难、疲惫不堪地）——以智(ñāṇa)分别把取色-名，进而分别识别名色时，都须以艰辛困难、疲惫不堪、烦闷苦恼、颇费周折的方式来分别识别。
+（即：分别识别为「并无个体、有情、命、我、人、天神、梵天神等，唯有色名而已」。）
+即便已把色-名分别识别完毕，在修习观(vipassanā)时，也须经过漫长时间才能令道智(magga-ñāṇa)生起；这类个体的行道(paṭipadā)与证智(abhiññā)，便称为苦行道(dukkhapaṭipadā)、迟钝证智(dandhābhiññā)。(Abhi-A-1-260。)
+
+以智分别把取色名的色名摄受智(rūpārūpapariggahañāṇa)因难以成就，成为苦行道；其后，分别识别色-名的名色分别等诸智，若相对立的烦恼(kilesa)较少，便能轻易地完成，从而成为乐行道(sukhapaṭipadā)。
+即便如此成为乐行道，然而对这样轻易完成的个体而言，若名为信(saddhā)、精进(vīriya)、念(sati)、定(samādhi)、慧(paññā)的诸根(indriya)迟钝软弱，那么圣道(ariyamagga)要明显生起，也仍将是迟缓的。
+如此看来，名色分别智 = 分别识别名色之智 = 分别识别色名之智，等等诸智之艰难完成，对于圣道法生起时的迟缓，并非必然的原因。
+正因为与观智(vipassanāñāṇa)一同相应存在的信等诸根之迟钝软弱，才是圣道法生起时迟缓地明显生起的必然原因，所以并未把名色分别等诸智艰难完成的情形放入第一节色名摄受节(rūpārūpapariggahavāra)中，而只是就以智分别把取色名的色名摄受智之艰难，来说明它理应成为苦行道的情形——义疏(aṭṭhakathā)如此宣说。
+
+- 一、与色名摄受节相同，
+- 二、名色分别 = 分别识别名色，
+- 三、缘摄受(paccayapariggaha) = 收摄诸因法，
+- 四、相通达(lakkhaṇapaṭivedha) = 洞察通达三种特相，
+- 五、nikantipariyādāna = 令对光明(obhāsa)等的喜好——微细的欲求(nikanti)——消尽 ---
+
+在这些节当中，也应就其恰当之处，记取苦行道生起的情形。
+若加上作为第一节的色名摄受节，则在苦行道的范畴中共有(5)节。
+在那(5)节当中，无论在哪一处感到艰难，都应记取那便一律称为苦行道。(参见 Mūlaṭī-1-112。)
+
+**【文件：[349]行舍智章/[418]a 三、第三 - 缘摄受节.md】**
+
+### 三、第三 —— 缘摄受(paccayapariggaha)节
+
+另一位瑜伽行者(yogāvacara)把名色(nāmarūpa)分别识别完毕之后，又以智(ñāṇa)分别把取、收摄名色的诸因法时，也须以艰辛困苦、艰难吃力、疲惫不堪、烦闷苦恼、颇费周折的方式，以智分别把取、收摄。
+(此部分显示的是缘摄受智(paccayapariggahañāṇa)的部分，即度疑清净(kaṅkhāvitaraṇavisuddhi)的阶段。)
+即便已以智把名色的诸因法分别把取、收摄完毕，在修习观(vipassanā)时，也要经过漫长时间才能令圣道智(ariyamagga ñāṇa)生起；如此发生时，也称为苦行道(dukkhapaṭipadā)、迟钝证智(dandhābhiññā)。(Abhi-A-1-260。)
+
+**【文件：[349]行舍智章/[418]b 四、第四 - 相通达节.md】**
+
+### 四、第四 —— 相通达(lakkhaṇapaṭivedha)节
+
+另一位瑜伽行者(yogāvacara)以智(ñāṇa)分别、把取了名色(nāmarūpa)的诸因法之后，在洞察、了知无常(anicca)、苦(dukkha)、无我(anatta)之相时，也须以艰辛困苦、艰难吃力、疲惫不堪、烦闷苦恼、颇费周折的方式洞察、了知，须为求了知而修习。
+(此部分显示的是称为相思惟(lakkhaṇasammasana)的思惟智(sammasanañāṇa)。)
+即便已洞察、了知三种相，在修习观(vipassanā)时，也要经过漫长时间才能令圣道智(ariyamagga ñāṇa)生起。
+如此发生时，也称为苦行道(dukkhapaṭipadā)、迟钝证智(dandhābhiññā)。(Abhi-A-1-261。)
+
+**【文件：[349]行舍智章/[418]c 5. 第五 - 断尽微细欲求之节.md】**
+
+### 5. 第五 - 断尽微细欲求之节(nikantipariyādānavāra)
+
+另一位瑜伽行者(yogāvacara puggala)在洞彻了知三种特相(lakkhaṇa)之后，其观智(vipassanāñāṇa) -----
+
+- （一）敏锐(tikkha) = 由于敏锐锐利，
+- （二）勇猛(sūra) = 由于勇敢无畏，
+- （三）明净(pasanna) = 由于明净清澈 ---
+
+当他肩负观的重担时，对于自己相续(santāna)中生起的光明(obhāsa)等心生喜爱的观之微细欲求(vipassanānikanti)，若要将它全面收摄断除 = 即以安立三种特相、修观的方式令其耗尽时，就必须历尽艰辛、困苦重重、疲惫不堪、烦闷苦恼、费尽气力地全面收摄 = 必须一边修观一边令其耗尽。
+且让我继续说 -----对于作为观之染污之因、于光明等心生喜爱的观之微细欲求，将它全面收摄断尽之后 = 一边修观一边令其耗尽之后，再修习观行，须经很长时间才能令圣道智(ariyamaggañāṇa)生起。
+如此这般，也正是名为苦行道(dukkhāpaṭipadā)迟通达(dandhābhiññā)者。
+此节，义注(aṭṭhakathā)诸论师认许为苦行道迟通达。
+应当为此节安立“苦行道迟通达”这一名称。
+应当了知，如此从最初便清楚地作了显示。
+依照此方法要领，对于随后而来的苦行道速通达(khippābhiññā)、乐行道(sukhāpaṭipadā)迟通达、乐行道速通达这三种行道(paṭipadā)，也应当了知。（Abhi-A-1-261。）
+
+**【文件：[349]行舍智章/[419]a 义注诸师所认可的节1.md】**
+
+### 义注(aṭṭhakathā)诸师所认可的节(vāra)
+
+在能透彻洞察并了知诸行(saṅkhāra)法之三种相的聚思惟智(kalāpasammasanañāṇa) = 相通达(lakkhaṇapaṭivedha)节的末尾,能如实了知照见那些诸行法之生起与坏灭、直至刹那现在(khaṇapaccuppanna)的生灭智(udayabbayañāṇa)便生起了。
+在那生灭智的阶段,以光明(obhāsa)为首的、使观(vipassanā)染污的随烦恼(upakkilesa)诸法明显地生起了。
+义注诸师认可:那须以观智(vipassanāñāṇa)历经多达三次去除那些随烦恼诸法、因而具有艰难性的节,即是苦行道(dukkhāpaṭipadā)。
+原因是 ----- 断除行道(paṭipadā)领域中此观随烦恼(vipassanupakkilesa)的 = 微细欲求遍尽(nikantipariyādāna)节,正是〔行道领域〕最终的分界之故。
+
+去除此使观染污之随烦恼的观随烦恼镇伏(vikkhambhana)节 = 微细欲求遍尽节,尽管具有不烦扰、不疲惫、不艰难的性质,但若在先前的色非色摄受(rūpārūpapariggaha)节等诸节中存在艰难的情形,那么〔那些节〕成为苦行道,由于这只是义注中已说过的方法,因此不应予以否定——应当如此记取听受。(根本复注(mūlaṭīkā),1,112。)
+
+另一种解释 ----- 「imaṃ vāraṃ rocesuṃ = 认可此节」——在此句中,所谓「此节」并非仅指最后的微细欲求遍尽节,而是指从名为色非色摄受节的第一节起、直至三次为止艰难地去除诸烦恼(kilesa)的一切节,皆意指「**imaṃ vāraṃ = 此节**」。
+意即:凡是须三次之多去除诸烦恼的一切节,皆一律是苦行道。
+
+若在某位瑜伽行者(yogāvacara)个体(puggala)的相续(santāna)中,于全部(5)节中仅以一次去除、或以两次去除诸烦恼,观智便增进而抵达圣道(ariya magga)的话,那么对那位瑜伽行者个体而言,在色非色摄受等一切智中都不存在艰难,应了知那位个体的行道为乐行道(sukhāpaṭipadā)。(根本复注,1,112。)
+
+**【文件：[349]行舍智章/[419]b 大复注尊师的评述.md】**
+
+### 大复注(mahāṭīkā)尊师的评述
+
+在聚思惟(kalāpasammasana)节(vāra)的末尾，当生灭随观智(udayabbayānupassanāñāṇa)生起时，由于那生灭智而生起的观随烦恼(vipassanupakkilesa)＝观(vipassanā)的染污之因诸法被反复断除达三次之多，因而具有忧苦、疲惫、烦闷的那一节，被义注(aṭṭhakathā)诸位大师喜好地判为「苦行道(dukkhapaṭipadā)」——根本复注(mūlaṭīkā)诸位大师如此阐释，确实是对的；然而，在《胜义分明(Aṭṭhasālinī)》义疏(261)中——
+
+vipassanāñāṇe tikkhe sūre pasanne vahante uppannaṃ vipassanānikantiṃ pariyādiyamāno dukkhena kasirena kilamanto pariyādiyati. (Abhi,ṭṭha,1,261.)
+
+观智(vipassanāñāṇa)由于锐利敏锐、由于勇猛、由于清明，从而能够担负起观的重任时，若要将自己相续流(santāna)中生起的、贪着于光明(obhāsa)等的观的微细欲求(vipassanānikanti)从四周彻底地收拢摄取＝以观照使之竭尽，就须以极其忧苦、极其艰难、极其疲累、极其烦闷的辛劳，从四周彻底地收拢摄取＝须以观照使之竭尽。(Abhi,ṭṭha,1,261.)
+
+由于作了如此的开示，应当铭记：在这「导向出起的观(vuṭṭhānagāminī)」之前的前一阶段，以欲解脱智(muñcitukamyatāñāṇa)等的方式而生起的那行舍智(saṅkhārupekkhāñāṇa)，倘若也须以极其忧苦、极其烦闷、极其疲累来断除自身的对治(相违)诸法，那么它便唯独安立于**苦行道**这一分位。
+而某些诸师(keci)则持这样的见解：断除观的染污之因随烦恼(upakkilesa)的道非道分别智(maggāmaggavavatthānañāṇa)＝生灭智(udayabbayañāṇa)与这行舍智，由于两智相同、故合并为一而取，凭借这样将二者合为一体的同一性理(ekattanaya)之力，《清净之道(Visuddhimagga)》义注在行道(paṭipadā)部分中作了如此的阐释。
+(请回顾前面已书写陈述过的、《清净之道》义注中所载的四种行道。)(大义疏(Mahāṭī),2,476。)
+
+**【文件：[349]行舍智章/[420] 行道的差别与相同.md】**
+
+### 行道(paṭipadā)的差别与相同
+
+那行道，对某些比库(bhikkhu)而言是各不相同的；对某些比库而言，在全部四种圣道(ariya magga)中则唯是同一种。
+尤其对诸佛陀(Buddha)而言，全部四种圣道也唯是**乐行道速通达(sukhapaṭipadā khippābhiññā)** = 唯是具有安乐之行、具有迅速之了知智。
+同样，身为法之大将的沙利子(Sāriputta)大德，其全部四种圣道也唯是**乐行道速通达**；再者，大摩嘎喇那(Mahāmoggallāna)大德的入流道(sotāpattimagga)是**乐行道速通达**，而上三道则是**苦行道迟通达(dukkhapaṭipadā dandhābhiññā)**。（《清净之道》、2、307。）
+
+而在阿毗达摩(Abhidhamma)胜义分明(aṭṭhasālinī)义注中，则如此解说。
+大摩嘎喇那大德的上三道是**苦行道速通达(dukkhapaṭipadā khippābhiññā)**。
+究其原因，乃是由于[他]被昏沉瞌睡所笼罩压迫之故。
+具有大悲的正自觉者(sammāsambuddha)佛陀，长达（7）天，犹如[照料]年幼的新郎一般，为了大摩嘎喇那大德的道果而勤加护持。
+大摩嘎喇那大长老也是在大历（103）年答波德威(Tabodwe)月上弦第（1）日，从身为沙利子大长老前身的伍巴帝思(Upatissa)游方者(paribbājaka)那里，得以听闻阿沙基(Assaji)大长老所宣说的、以「ye dhammā hetuppabhavā」开头的法偈(gāthā)开示，因而抵达了入流道果。
+那一天傍晚，[他]成为善来比库(ehibhikkhu)之后，便以马嘎塔(Magadha)地方所辖的咖喇瓦喇布德(Kallavāḷaputta)村作为托钵之村，依止于一片树林之中继续修习比库的修行法；到了第（7）日，[他]昏沉瞌睡地坐着。那时，佛陀便问那位大长老：「摩嘎喇那……你在打瞌睡吗？摩嘎喇那……你在打瞌睡吗？」
+由于如此被睡意昏沉所笼罩压迫之故，大摩嘎喇那大德的上三道乃是**苦行道速通达**。
+依照佛陀的指示，[他]藉由修习光明想(ālokasaññā)而祛除了睡意昏沉之后，继续精勤于比库的修行法，因迅速抵达了上三道果，故而成为了速通达(khippābhiññā)的个体(puggala)。
+
+即便是具有如此体性、已达至大证智已得者(mahābhiññappatta) = 具有广大了知智者之境地的弟子(sāvaka)，其抵达四种圣道的修行行道尚且有所变动，尚且有变化、有差别；那么，其余诸个体的行道，又怎能不变动而存在呢？怎能不变化、不差别而存在呢？必定唯是会有变动，唯是会有变化、有差别的。
+
+- 一、某些比库的全部四种圣道，唯是**苦行道迟通达**。
+- 二、某些比库的全部四种圣道，唯是**苦行道速通达**。
+- 三、某些比库的全部四种圣道，唯是**乐行道迟通达(sukhapaṭipadā dandhābhiññā)**。
+- 四、某些比库的全部四种圣道，唯是**乐行道速通达**。
+- 五、某些比库的初道 = 入流道是**苦行道迟通达**；第二道 = 一来道(sakadāgāmimagga)是**苦行道速通达**；第三道 = 不来道(anāgāmimagga)是**乐行道迟通达**；第四道 = 阿拉汉道(arahattamagga)是乐行道速通达。
+
+如是，请记住：行舍智(saṅkhārupekkhāñāṇa)决定了行道的殊异差别。（阿毗、注、1、280。）
+
+正如行道有变动、有变化一般，同样地，主导(adhipati)也有变动、有变化、有差别。
+某些瑜伽行者(yogāvacara)比库的全部四种圣道，是因欲主导(chandādhipateyya) = 名为「欲(chanda)」的主导而生起的。
+某些瑜伽行者比库的全部四种圣道，是因精进主导(vīriyādhipateyya) = 名为「精进(vīriya)」的主导而生起的。
+某些瑜伽行者比库的四种圣道，是因心主导(cittādhipateyya) = 名为「心(citta)」的主导而生起的。
+某些瑜伽行者比库的全部四种圣道，是因观察主导(vīmaṃsādhipateyya) = 名为「观察(vīmaṃsa) = 慧(paññā)」的主导而生起的。（阿毗、注、1、280。）
+
+再者，某些瑜伽行者比库的初道，是因名为「欲」的主导而生起的；第二道，是因名为「精进」的主导而生起的；第三道，是因名为「心」的主导而生起的。
+第四道，是因名为「观察」的主导而生起的。
+如是，主导也在某些瑜伽行者比库的四种圣道中有着殊异与差别。
+而在某些瑜伽行者比库的四种圣道中则唯是同一种——请如此记取。
+如是，行舍智标记并确定了行道的种种殊异差别。
+至于它如何确定解脱(vimokkha)的种种殊异差别，前面已经说过了。（阿毗、注、1、280。《清净之道》、2、307。）
+
+**【文件：[349]行舍智章/[422] 另一种方式——获得圣道智的名称.md】**
+
+### 另一种方式——获得圣道智(ariyamaggañāṇa)诸名称的方式
+
+若以另一种方式，广泛而完整周全地来说，圣道(ariyamagga)——
+
+- 一、**本质(sarasa)** = 依自身的体性（依自身生起之因的殊胜特性）也好，
+- 二、**相违(paccanīka)** = 依相反的一面也好，
+- 三、**自功德(saguṇa)** = 依自身的功德也好，
+- 四、**所缘(ārammaṇa)** = 依所缘也好，
+- 五、**来由(āgamana)** = 依作为圣道生起之因的观(vipassanā)也好——
+
+由于这（5）种原因法，[圣道]获得了名称。今将其阐明——
+
+**一、本质** ----- 假如行舍智(saṅkhārupekkhāñāṇa)由于将三地(tebhūmaka)的诸行(saṅkhāra)依无常 = 审视为『无常(anicca)』这一原因，而从相(nimitta)出起，那么圣道便藉由被认定为『无相(animitta)』的解脱(vimokkha)——即无相解脱(animittavimokkha)——而得解脱。
+假如由于审视为『苦(dukkha)』而从相出起，那么圣道便藉由被认定为『无愿(appaṇihita)』的解脱——即无愿解脱(appaṇihitavimokkha)——而得解脱。
+假如由于审视为『无我(anatta)』而从相出起，那么圣道便藉由被认定为『空(suññata)』的解脱——即空解脱(suññatavimokkha)——而得解脱。
+无相、无愿、空这些名称，便是圣道依本质 = 依自身体性而成立的名称。（《清净之道(Visuddhi Magga)》，2，307。）
+
+maggakattukāya vuṭṭhānakiriyāya ekantikahetubhūtā saṅkhārupekkhā phalūpacārena “vuṭṭhātī”ti vuttā.
+yasmā vā saṅkhārupekkhāti vuṭṭhānagāminiyā etaṃ upalakkhaṇaṃ, tadantogadhañca gotrabhuñāṇaṃ nimittato vuṭṭhāti, tasmā vuttaṃ ekattanayena “sammasitvā vuṭṭhātī”ti.（大义疏(Mahāṭī)，2，477。）
+
+若问：难道唯有圣道才是『出起(vuṭṭhāna)』吗？----回答如下。
+出起作业 = 于『从相与生命期间(pavatta)出起』这一作业中，能出起的法 = 作为作者(kattā)者，乃是圣道。
+而作为那圣道之唯一确切根因的法，正是行舍智。（请记住：单独拈出行舍智来说，乃是主导(padhāna)的方式。）
+请记住：义注(aṭṭhakathā)乃是把作为『果』的圣道所具有的『从相 - 生命期间出起』这一名称，安置（借喻）到作为『因』的行舍智之上，从而以**喻果(phalūpacāra)**的方式，说作为因的行舍智『从相 = 行相(saṅkhāranimitta)出起』的。
+另一种方式——上述义注中提及行舍(saṅkhārupekkhā)，只不过是标示法(upalakkhaṇa)、比较法(nidassana)而已。请藉由那行舍智，把一切趋向出起的观(vuṭṭhānagāminīvipassanā)都涵摄进来。
+在那趋向出起的观中所含摄的种姓智(gotrabhuñāṇa)，也同样是从行相出起的；因此，把行舍智与种姓智视为同属观智(vipassanāñāṇa)、合为一体、归为一类，从而以**同一性理(ekattanaya)**的方式，义注解说行舍智审视为『无常』、『苦』、『无我』而从行相出起。（大义疏，2，477。）
+
+**注记** ----- 如上面所翻译的那样，若把 sammasitvā 中 tvā- 语尾的含义理解为 hetu-（因(hetu)）之义，即：由于行舍智把诸行审视、修习观照为『无常』（『苦』、『无我』）这一原因，圣道便从相与生命期间出起——倘若采取如此直接的解释，那么便无需再去构想这『喻果法』与『同一性理法』——请如此记取。
+
+**二、相违** ----- 把作为圣道前分而生起的观智——即前分念处道(pubbabhāgasatipaṭṭhānamagga)——与圣道视为同属一道、同属一智、合为一体，从而以同一性理的方式称之为『道』；那道（= 那世间(lokiya)、出世间(lokuttarā)道）藉由随观无常智(aniccānupassanāñāṇa)，对诸行的相续密集(santatighana)、组合密集(samūhaghana)、作用密集(kiccaghana)、所缘密集(ārammaṇaghana)这各种密集(ghana) = 即色团色块、名团名块各各，以智加以破析、摧毁、剖判、分析，从而舍弃了常相(niccanimitta)、恒久相(dhuvanimitta)、常见相(sassatanimitta)而来；因此，那道便名为**无相**。
+
+再者，藉由苦随观智(dukkhānupassanāñāṇa)舍弃了乐想(sukhasaññā)，使得对被称为『愿(paṇidhi)』的诸行的渴求枯竭，如此而来；因此，那道便名为无愿。
+藉由无我随观智(anattānupassanāñāṇa)舍弃了『我(atta)-有情(satta)-个体(puggala)』这一认取之想，得以看见诸行远离我-有情-个体的状态；因此，那道便名为远离我-有情-个体的**空**。
+因此，无相、无愿、空这被称说的三个名称之集合，便是依相违 = 依相反的一面而成立的名称。（《清净之道》，2，307。大义疏，2，477。）
+
+**三、自功德** ----- 再者，由于圣道中没有贪(rāga)等，那道便由于远离贪等的状态而名为**空**。由于没有被执取为『我-我所』的色相(rūpanimitta)、受相(vedanānimitta)等，另一种说法——由于唯独没有贪相(rāganimitta)、瞋相(dosanimitta)、痴相(mohanimitta)等，另一种说法——由于没有那些仿佛实有形骸躯体、相续实质般显现的行相，那道便名为**无相**。
+由于没有贪愿(rāgapaṇidhi)、瞋愿(dosapaṇidhi)、痴愿(mohapaṇidhi) = 由于没有名为『贪』的渴求、名为『瞋』的渴求、名为『痴』的渴求，[那道]便名为**无愿**。
+因此，空、无相、无愿这三个名称之集合，便是那圣道依**自功德** = 依自身功德而成立的名称。（《清净之道》，2，307。大义疏，2，477。）
+
+**四、所缘** ---- 涅槃(nibbāna)这至尊妙法，由于远离一切诸行的状态，也由于远离我的状态，而名为**空**。
+由于那圣道以获得『空』之名的涅槃至尊妙法作为所缘，故说[它]名为**空**。
+涅槃至尊妙法由于没有一切行相，而名为**无相**。
+由于那圣道以获得『无相』之名的涅槃至尊妙法作为所缘，故说[它]名为无相。
+涅槃至尊妙法由于没有渴爱愿(taṇhāpaṇidhi)等的状态，而名为**无愿**。
+由于那圣道以获得『无愿』之名的涅槃至尊妙法作为所缘，故说[它]名为**无愿**。
+空、无相、无愿这三个名称之集合，便是那圣道依所缘而应获得的名称。（《清净之道》，2，307。大义疏，2，477-478。）
+
+**五、来由** ----- 如前面所写述的那样，来由有维巴沙那来由(vipassanāgamana)、道来由(maggāgamana)两种。
+在这两种当中，于圣道应取维巴沙那来由，于圣果(ariyaphala)应取道来由。
+（作为圣道生起之因的观，称为维巴沙那来由；作为圣果生起之因的圣道法，称为道来由——各各如此称呼。）
+确实如此：无我随观(anattānupassanā)由于得以观见诸行远离我的状态，故依自身体性而名为空。
+空观(suññatavipassanā)的圣道 = 由空观而生起的圣道，依维巴沙那来由而名为空。
+随观无常(aniccānupassanā)由于舍离了常相、恒久相、常见相，而名为无相。
+无相观(animittavipassanā)的圣道 = 由无相观而生起的圣道，依维巴沙那来由而名为无相。
+这圣道『无相』之名，依阿毗达摩(Abhidhamma)教说(desanā)的方式无法获得、不能获得；唯有依经(suttanta)教说的方式才能获得。确实如此 ----- 在那经中，种姓智以获得『无相』之名的涅槃为所缘，从而具有『无相』之名；[种姓智]立于自身作为圣道生起之因的维巴沙那来由行道(paṭipadā)之地位，将『无相』这一名称给予圣道。
+古代的诸位尊师如此说道。
+以作为其因的那观所给予的名称，把圣道称说为无相。
+
+再者，『依道来由，圣果名为无相』这一说法也唯是恰当的。
+苦随观由于使对三地诸行的、名为『渴爱(taṇhā)』的渴求枯竭，一直来到圣道，故名为无愿。
+藉由无愿观(appaṇihitavipassanā)的圣道 = 由无愿观而生起的圣道，名为无愿。
+无愿圣道的圣果，名为无愿圣果。
+以这样的方式，观把自己『无愿』之名给予圣道；圣道把自己『无愿』之名给予自己的圣果；因此，『无愿』这一名称，便是依**来由**而成立的名称。
+如是，这行舍智使解脱的种种殊异差别确立、并予以确定。（《清净之道》，2，307-308。）
+
+**【文件：[349]行舍智章/[424] 能给予结生果报的行舍.md】**
+
+### 能给予结生(paṭisandhi)果报的行舍(saṅkhārupekkhā)之类
+
+kathaṃ puthujjanassa ca sekkhassa ca saṅkhārupekkhāya cittassa abhinīhāro ekattaṃ hoti. puthujjanassa saṅkhārupekkhaṃ abhinandato cittaṃ kilissati, bhāvanāya paripantho hoti, paṭivedhassa antarāyo hoti, āyatiṃ paṭisandhiyā paccayo hoti. sekkhassāpi saṅkhārupekkhaṃ abhinandato cittaṃ kilissati, bhāvanāya paripantho hoti, uttari paṭivedhassa antarāyo hoti, āyatiṃ paṭisandhiyā paccayo hoti. evaṃ puthujjanassa ca sekkhassa ca saṅkhārupekkhāya cittassa abhinīhāro ekattaṃ hoti abhinandanaṭṭhena. (paṭisaṃ, 60.)
+
+凡夫(puthujjana)个体(puggala)也好、有学(sekkha)个体也好，在行舍(saṅkhārupekkhā)上导向其心这件事，其『同一(ekatta)』状态是如何形成的呢——喜爱行舍的凡夫之心会染污，成为观(vipassanā)修习(bhāvanā)的祸患，成为以圣道(ariyamagga)洞察四谛=通达(paṭivedha)的障碍。
+在未来世会成为结生(paṭisandhi)的因缘。
+喜爱行舍的有学个体之心也会染污，成为观修习的祸患，成为以更上更上的道(magga)智(ñāṇa)洞察四谛=通达的障碍，在未来世会成为结生的因缘。
+如此，凡夫个体也好、有学个体也好，在行舍上导向其心这件事，就以『喜爱』这一性质而言，其同一之状态得以成立。(paṭisaṃ, 60.)
+
+**āyatiṃ paṭisandhiyā paccayo hotī**ti saṅkhārupekkhāsampayuttakammassa balavattā teneva sugatipaṭisandhiyā dīyamānāya abhinandanasaṅkhāto lobhakileso anāgate kāmāvacarasugatipaṭisandhiyā paccayo hoti. yasmā kilesasahāyaṃ kammaṃ vipākaṃ janeti, tasmā kammaṃ janakapaccayo hoti, kileso upatthambhakapaccayo. pa.
+
+**āyatiṃ paṭisandhiyā paccayo hotī**ti sekkhesu sotāpannasakadāgāmīnaṃ anadhigatajjhānānaṃ saṅkhārupekkhākammena dīyamānāya kāmāvacarasugatipaṭisandhiyā abhinandanakileso paccayo hoti, jhānalābhīnaṃ pana anāgāmissa ca brahmalokeyeva paṭisandhānato paccayo na hoti. anulomagotrabhūhi ca dīyamānāya paṭisandhiyā ayameva kileso paccayo hotīti veditabbo. (paṭisaṃ, ṭha, 1, 250.)
+
+由于凡夫个体与行舍智(saṅkhārupekkhāñāṇa)相应的名为『思(cetanā)』之业(kamma)力量强大之故，那业本身在给予欲界善趣(kāmasugati)结生之果时，被称为『喜爱行舍』的贪(lobha)烦恼(kilesa)便成为未来欲界善趣结生的因缘；而获得名为贪的烦恼作伴、与行舍智相应的思之业，能够生起欲界善趣结生等果报(vipāka)，因此，与行舍智相应的思之业，是能直接生起果报的生(janaka)之因；喜爱行舍的贪烦恼，则是能资助支持的支持(upatthambhaka)之因。pa.
+
+在有学个体中，未曾获得禅那(jhāna)的入流者(sotāpanna)、一来者(sakadāgāmī)诸个体，与行舍智相应的名为『思』的行舍业，对于它所给予果报的欲界善趣结生而言，喜爱行舍的贪烦恼是能资助支持的支持之因；至于已获得禅那的入流者、一来者以及不来者(anāgāmī)个体，由于唯有在梵天界结生的性质之故，喜爱行舍的贪烦恼，对于那梵天结生等果报，便不能成为能资助支持的支持之因。
+应知：对于由与随顺(anuloma)智、种姓(gotrabhu)智相应的名为『业』之诸法所给予果报的结生而言，喜爱这行舍的贪烦恼同样也是能资助支持的支持之因。(paṭisaṃ, ṭha, 1, 250.)
+
+**值得注意的一点** ----- 在此，应留意并记住这两种说法：与随顺智相应的善(kusala)思也能在欲界善趣中给予一次结生之果，以及与种姓智相应的善思也能在欲界善趣中给予一次结生之果。
+随顺(anuloma)=随顺者也是只生起一次的心(citta)，种姓者也是只生起一次的心。
+这些正是证明『一个思能令一个有(bhava)生起』之教说的例证与实例。
+同样地，也应领会行舍业也能如此给予果报的道理。
+
+**【文件：[349]行舍智章/[426]a 最重要的时刻.md】**
+
+### 最重要的时刻
+
+对于在轮回(saṃsāra)旅途中流转的一个凡夫(puthujjana)而言：一方面，假设他没有那些必定在恶趣(apāya)成熟果报的五无间业(pañcānantariyakamma)、以及直到临死都尚未舍弃的决定邪见业(niyatamicchādiṭṭhi kamma)当中的任何一种；另一方面，假设他也没有那种在梵天(brahma)界必定成熟果报、直到临死都不退失的禅那(jhāna)之法——即广大(mahaggata)业当中的任何一种；另一方面，假设他至少连乃至缘摄受智(paccayapariggahañāṇa)为止的那些观智(vipassanāñāṇa)都尚未获得；那么，临近死亡的临死(maraṇāsanna)时段，正是最为重要的时段。
+对于那些凡夫而言，若临死的临死速行(maraṇāsannajavana)是不善(akusala)速行，他便必定堕入四恶趣之地当中的某一地。
+若临死的临死速行是善(kusala)速行，他便随其相应而到达善趣(sugati)当中的某一趣。
+在那些善业(kamma)当中，这个行舍(saṅkhārupekkhā)业是极为崇高的一种业。
+若不是那些立志渴求正等觉智(sammāsambodhiñāṇa)、辟支觉智(paccekabodhiñāṇa)、上首弟子觉智(aggasāvakabodhiñāṇa)、大弟子觉智(mahāsāvakabodhiñāṇa)这些觉智(bodhiñāṇa)的人，那么，那些把观修习(vipassanābhāvanā)业处(kammaṭṭhāna)一路修习到那行舍智(saṅkhārupekkhāñāṇa)的善男子们，一般而言，在死后的第二生中便能获得圣道(ariyamagga)、圣果、涅槃(nibbāna)这样的殊胜之法、微妙之法——这一点，佛陀(Buddha)已亲自在《随流经》(Sotānugatasutta)中作了开示。
+因此，对于如此具有确凿保证的佛陀之法，应当凭「学而知(āgamasuta)」这种听闻之知、与「行而知(adhigamasuta)」这种修行之知——凭这两种知，趁着获得人身之时、趁着获得比库(bhikkhu)身之时，以求得大知、彻底通晓的知智，格外努力精进才是。
+对于轮回旅途尚未终结的人们而言，如同上文所写，临近死亡的临死之时，正是把恶趣苦趣(duggati)与善处善趣分开的最重要的时段。
+在那时，必须已经建立起能确定无疑地令人到达善处善趣的诸业才行。
+若已经努力做到能够终结轮回旅途，那实在是超越一切、至高无上的大胜利者。
+在此，继续把《随流经》(Sotānugatasutta)的缅文译本书写呈现如下。
+
+**【文件：[349]行舍智章/[426]b 随耳而入经.md】**
+
+### 随耳而入经（sotānugatasuttanta）
+
+诸比库(bhikkhave)……那进入净耳(pasādasota)、被智之流(ñāṇasota)辨别忆持的，以口熟练背诵至能背诵的，以心一再反复、层层、细致入微地观察、思惟、审察的，凭正见(sammādiṭṭhi)智慧从法体义理方面、以及从因法方面善加亲自现见、洞穿了知的诸法(dhamma)——那些值得期望「必定能获得」的利益，就是这四种。
+是哪四种呢？-----
+
+**一**、诸比库……在此教法(sāsanā)中，比库(bhikkhu)——
+
+- 一、经(sutta) = 名为「经」的法，
+- 二、应颂(geyya) = 偈颂(gāthā)与散文两者交杂的法，
+- 三、记说(veyyākaraṇa) = 不带偈颂、纯粹是散文的法，
+- 四、偈颂 = 偈颂之法，
+- 五、自说(udāna) = 忧陀那 = 满怀欢喜咏叹宣说的法，
+- 六、如是说(itivuttaka) = 如是语 = 「世尊如是宣说」——以如此开端而铺陈序起的法，
+- 七、本生(jātaka) = 本生故事，
+- 八、未曾有法(abbhutadhamma) = 与前所未有、初次新生、令人惊奇之事相关联的法，
+- 九、智得(vedalla) = 既能获得殊胜的了知、殊胜的智，又能获得欢喜满足的问答之法 ---
+
+学习具足这（9）种支分(aṅga)的法。
+在那位比库的相续(santāna)中，那些法进入净耳，被智之流辨别忆持了；已以口熟练背诵至能背诵；已以心一再反复、层层、细致入微地观察、思惟、审察；已凭正见智慧，从法体义理方面、以及从因法方面，善加亲自现见、洞穿了知。(增支部1,504-505。)
+
+[**注释 ----- diṭṭhiyā suppaṭividdhā**ti atthato ca kāraṇato ca paññāya suṭṭhu paṭividdhā paccakkhaṃkatā. (增支部注2,364。) --
+在具足佛陀（9）种支分的三藏(tipiṭaka)法中所宣说的、名为「法体义理」的诸法，唯是心(citta)、心所(cetasika)、色(rūpa)、涅槃(nibbāna)这四种究竟法(paramattha)。
+想要证得作为第四种究竟法的殊胜涅槃法的善人，首先须努力做到：凭正见智慧，亲自现见、洞穿了知名为世间(lokiya)的心-心所-色的法体义理诸法，以及那些心-心所-色法的因法。
+这就是名色分别智(nāmarūpaparicchedañāṇa)与缘摄受智(paccayapariggahañāṇa)。
+这就是所知遍知(ñātapariññā)。
+这就是以开端示例的方法(ādidīpaka)。
+在所知遍知、审度遍知(tīraṇapariññā)、断遍知(pahānapariññā)这三种遍知中，由于取了居首的所知遍知，也就一并收摄了居中的审度遍知、居末的断遍知——这就是那种方法。
+此处所指示的，是要努力精进以圆满从名色分别智起、直至行舍智(saṅkhārupekkhāñāṇa)为止的诸观智(vipassanāñāṇa)。
+如此精进时，首先须努力以「所学而知」的方式了知那些心-心所-色法——这就是教理所闻(āgamasuta)。
+此后，须努力凭正见智慧亲自现见、洞穿了知，直至抵达行舍智——这就是证悟所闻(adhigamasuta)。
+应当明白：此处特别指的是具足如此教理所闻、证悟所闻这两种所闻(suta)之法的善人。]
+
+那位比库若在失去正念(sati)的状态下命终，便会在某个不确定的天界(devaloka)天境中出生。(增支部1,505。)
+
+[**注释 ---- muṭṭhassati kālaṃ kurumāno**ti na-y-idaṃ buddhavacanaṃ anussaraṇasatiyā abhāvena vuttaṃ, puthujjanakālakiriyaṃ pana sandhāya vuttaṃ.
+puthujjano hi muṭṭhassati kālaṃ karoti nāma. (增支部注2,364。) -----
+
+**在失去正念的状态下命终**——世尊说这句话，并非因为缺少那种能随顺追忆佛陀言教的念，而是仅仅针对以凡夫(puthujjana)之身死去而宣说的。
+确实如此——凡夫就名为「失去正念而死去」。(增支部注2,364。) ]
+
+在那天界天境中安乐的那位天子(devaputta)的相续里，法的文句聚清晰地显现了出来。
+（凡是在过去世里，以诵读念诵为根本因、曾以口熟练背诵过的，以及曾凭正见智慧善加亲自现见、洞穿了知的一切法，都如同在明净的镜面上的影像一般，清晰地显现出来。）
+
+诸比库……随顺法而观修审察的、与观智相应俱起的念的生起虽还迟缓，然而实际上，那位身为天子的有情(satta)却能够迅速地证得名为道果涅槃的殊胜妙法。
+诸比库……这就是那值得期望的——那进入净耳、被智之流辨别忆持，以口熟练背诵至能背诵，以心一再反复、层层、细致入微地观察、思惟、审察，凭正见智慧从法体义理方面、以及从因法方面善加亲自现见、洞穿了知的诸法，必定能获得——的最初的、第一种利益。(增支部1,505。)
+
+二、诸比库……另一种是：比库学习具足名为经、应颂、记说、偈颂、自说、如是说、本生、未曾有法、智得这（9）种支分的法；在那位比库的相续中，那些法进入净耳，被智之流辨别忆持了；已以口熟练背诵至能背诵；已以心一再反复、层层、细致入微地观察、思惟、审察；已凭正见智慧，从法体义理方面、以及从因法方面，善加亲自现见、洞穿了知。
+
+那位比库若在失去正念的状态下命终，便会在某个不确定的天界天境中出生。
+在那天界天境中安乐的那位天子的相续里，法的文句聚却还没有清晰地显现出来；实际上，是一位具足神通与神足(iddhipāda)、已达到能娴熟自在地驾驭其心的说法(dhammakathika)比库，在天众会中宣说了法。
+在那位天子的相续中，生起了这样的心念：「如今这位说法比库正在宣说的法，正是从前我身为人、处于比库身份时，我曾修习、精勤、多所培育过的、以戒(sīla)、定(samādhi)、慧(paññā)三学(sikkhā)的清净梵行所收摄计数的、名为教梵行(sāsanabrahmacariya)的那个法与律(dhammavinaya)。」
+诸比库……随顺法而观修审察的念的生起虽还迟缓，然而实际上，那位身为天子的有情却能够迅速地证得名为道智、果智、涅槃的殊胜妙法。
+
+诸比库……一个适切、值得用来比况的世间譬喻(upamā)是这样：一个熟悉、精通大鼓声的男子，在长途行走时听到了大鼓声；在那男子的相续中，对那大鼓声不再生起「这是大鼓声呢，还是不是大鼓声呢」的疑惑与揣度，而唯独如实地作出「就是大鼓声」的确定——正如此例一般——诸比库……比库学习具足名为经、应颂、记说、偈颂、自说、如是说、本生、未曾有法、智得这（9）种支分的法。
+在那位比库的相续中，那些法进入净耳，被智之流辨别忆持了；已以口熟练背诵至能背诵；已以心一再反复、层层、细致入微地观察、思惟、审察；已凭正见智慧，从法体义理方面、以及从因法方面，善加亲自现见、洞穿了知。
+
+那位比库若在失去正念的状态下命终，便会在某个不确定的天界天境中出生；在那天界天境中安乐的那位天子的相续里，法的文句聚却还没有清晰地显现出来；实际上，是一位具足神通神足、已达到能娴熟自在地驾驭其心的说法比库，在天众会中宣说了法。
+在那位天子的相续中，生起了这样的心念：「如今这位说法比库正在宣说的法，正是从前我身为人、处于比库身份时，我曾修习、精勤、多所培育过的、以戒、定、慧三学的清净梵行所收摄计数的、名为教梵行的那个法与律。」
+诸比库……随顺法而观修审察的念的生起虽还迟缓，然而实际上，那位身为天子的有情却能够迅速地证得名为道智、果智、涅槃的殊胜妙法。
+诸比库……这就是那值得期望的——那进入净耳、被智之流辨别忆持，以口熟练背诵至能背诵，以心一再反复、层层、细致入微地观察、思惟、审察，凭正见智慧从法体义理方面、以及从因法方面善加亲自现见、洞穿了知的诸法，必定能获得——的第二种利益。(增支部1,505-506。)
+
+三、诸比库……另一种是：比库学习具足名为经、应颂、记说、偈颂、自说、如是说、本生、未曾有法、智得这（9）种支分的法。
+在那位比库的相续中，那些法进入净耳，被智之流辨别忆持了；已以口熟练背诵至能背诵；已以心一再反复、层层、细致入微地观察、思惟、审察；已凭正见智慧，从法体义理方面、以及从因法方面，善加亲自现见、洞穿了知。
+
+那位比库若在失去正念的状态下命终，便会在某个不确定的天界天境中出生；在那天界天境中安乐的那位天子的相续里，法的文句聚还没有清晰地显现出来；那位具足神通神足、已达到能娴熟自在地驾驭其心的说法比库，也还没有在天众会中宣说法；实际上，是一位说法天子在天众会中宣说了法。
+那时，在那位天子的相续中，生起了这样的心念：「如今这位说法天子正在宣说的法，正是从前我身为人、处于比库身份时，我曾修习、精勤、多所培育过的、以戒、定、慧三学的清净梵行所收摄计数的、名为教梵行
+的那个法与律。」
+诸比库……随顺法而观修审察的念的生起虽还迟缓，然而实际上，那位身为天子的有情却能够迅速地证得名为道智、果智、涅槃的殊胜妙法。
+
+诸比库……一个适切、值得用来比况的世间譬喻是这样：一个熟悉、精通海螺声的男子，在长途行走时听到了海螺声；在那男子的相续中，对那海螺声不再生起「这是海螺声呢，还是不是海螺声呢」的疑惑与揣度，而唯独如实地作出「海螺声」的确定——正如此例一般——诸比库……比库学习具足名为经、应颂、记说、偈颂、自说、如是说、本生、未曾有法、智得这（9）种支分的法。
+在那位比库的相续中，那些法进入净耳，被智之流辨别忆持了；已以口熟练背诵至能背诵；已以心一再反复、层层、细致入微地观察、思惟、审察；已凭正见智慧，从法体义理方面、以及从因法方面，善加亲自现见、洞穿了知。
+
+那位比库若在失去正念的状态下命终，便会在某个不确定的天界天境中出生；在那天界天境中安乐的那位天子的相续里，法的文句聚还没有清晰地显现出来；那位具足神通神足、已达到能娴熟自在地
+驾驭其心的说法比库，也还没有在天众会中宣说法。
+实际上，是一位说法天子在天众会中宣说了法。
+那时，在那位天子的相续中，生起了这样的心念：「如今这位说法天子正在宣说的法，正是从前我身为人、处于比库身份时，我曾修习、精勤、多所培育过的、以戒、定、慧三学的清净梵行所收摄计数的、名为教梵行的那个法与律。」
+诸比库……随顺法而观修审察的念的生起虽还迟缓，然而实际上，那位身为天子的有情却能够迅速地证得名为道智、果智、涅槃的殊胜妙法。
+
+诸比库……这就是那值得期望的——那进入净耳、被智之流辨别忆持，以口熟练背诵至能背诵，以心一再反复、层层、细致入微地观察、思惟、审察，凭正见智慧从法体义理方面、以及从因法方面善加亲自现见、洞穿了知的诸法，必定能获得——的第三种利益。(增支部1,506。)
+
+四、诸比库……另一种是：比库学习具足名为经、应颂、记说、偈颂、自说、如是说、本生、未曾有法、智得这（9）种支分的法；在那位比库的相续中，那些法进入净耳，被智之流辨别忆持了；已以口熟练背诵至能背诵；已以心一再反复、层层、细致入微地观察、思惟、审察；已凭正见智慧，从法体义理方面、以及从因法方面，善加亲自现见、洞穿了知。
+
+那位比库若在失去正念的状态下命终，便会在某个不确定的天界天境中出生。
+在那天界天境中安乐的那位天子的相续里，法的文句聚还没有清晰地显现出来；那位具足神通神足、已达到能娴熟自在地驾驭其心的说法比库，也还没有在天众会中宣说法；说法天子也还没有在天众会中宣说法。
+实际上，是那位在天界天境中先出生为天子的、于人间时曾是同修梵行道友的天子，向后来出生的天子这样提醒（=令其忆念）：「天子朋友……从前身为人、处于比库身份时，我们曾修习、精勤、多所培育过的、以戒、定、慧三学的清净梵行所收摄计数的、名为教梵行的殊胜之行的那个法与律，你要忆念（=你要记起）；天子朋友……你要忆念（=你要记起）。」那位天子说道：「天子朋友……我忆念得（=我记得起）；天子朋友……我忆念得（=我记得起）。」
+诸比库……随顺法而观修审察的念的生起虽还迟缓，然而实际上，那位身为天子的有情却能够迅速地证得名为道智、果智、涅槃的殊胜妙法。
+
+诸比库……一个适切、值得用来比况的世间譬喻是这样：曾是一起玩泥土的两个儿时玩伴，有时在某处彼此相遇聚会；一个玩伴对另一个玩伴这样说：「朋友……你也要忆念起这件事，你也要忆念起这件事。」
+那个玩伴说道：「朋友……我忆念得=我记得起；朋友……我忆念得=我记得起。」
+诸比库，正如此例一般——比库学习具足名为经、应颂、记说、偈颂、自说、如是说、本生、未曾有法、智得这（9）种支分的法；在那位比库的相续中，那些法进入净耳，被智之流辨别忆持了。
+已以口熟练背诵至能背诵；已以心一再反复、层层、细致入微地观察、思惟、审察；已凭正见智慧，从法体义理方面、以及从因法方面，善加亲自现见、洞穿了知。
+
+那位比库若在失去正念的状态下命终，便会在某个不确定的天界天境中出生；在那天界天境中安乐的那位天子的相续里，法的文句聚还没有清晰地显现出来；那位具足神通神足、已达到能娴熟自在地驾驭其心的说法比库，也还没有在天众会中宣说法；说法天子也还没有在天众会中宣说法；实际上，是那位在天界天境中先出生为天子的、于人间时曾是同修梵行道友的天子，向后来出生的天子这样提醒（=令其忆念）：「天子朋友……从前身为人、处于比库身份时，我们曾修习、精勤、多所培育过的、以戒、定、慧三学的清净梵行所收摄计数的、名为教梵行的殊胜之行的那个法与律，你要忆念（=你要记起）；天子朋友……你要忆念（=你要记起）。」如此令其忆念（=令其记起）。
+那位天子说道：「天子朋友……我忆念得（=我记得起）；天子朋友……我忆念得（=我记得起）。」
+诸比库……随顺法而观修审察的念的生起虽还迟缓，然而实际上，那位身为天子的有情却能够迅速地证得名为道智、果智、涅槃的殊胜妙法。诸比库……这就是那值得期望的——那进入净耳、被智之流辨别忆持，以口熟练背诵至能背诵，以心一再反复、层层、细致入微地观察、思惟、审察，凭正见智慧从法体义理方面、以及从因法方面善加亲自现见、洞穿了知的诸法，必定能获得——的第四种利益。
+
+诸比库……那进入净耳、被智之流辨别忆持的，以口熟练背诵至能背诵的，以心一再反复、层层、细致入微地观察、思惟、审察的，凭正见智慧从法体义理方面、以及从因法方面善加亲自现见、洞穿了知的诸法——那些值得期望「必定能获得」的利益，就是这四种——（世尊）如此宣说。(增支部1,506-507。)
+
+**行舍智章 完毕。**
+
+**【文件：[433]随顺智章/[433] 随顺智章.md】**
+
+# 随顺智（anulomañāṇa）章
+
+**【文件：[433]随顺智章/[433]b 谛随顺智.md】**
+
+### 谛随顺智（saccānulomikañāṇa）
+
+佛德、法德、僧德、戒德、定德、慧德等种种可敬可仰的功德等等，乃是令内心明净的纯净（pasāda）法得以明显生起的根本原因，是内心明净的纯净法之所依处（vatthu）。
+安立于那使内心明净的纯净法得以明显生起、即纯净法所依处的依处上，判定『佛（Buddha）是真实的佛、确实如此』、『法（Dhamma）是真实的法、确实如此』、『僧团（Saṅgha）是真实的僧团、确实如此』，以及：由戒、定、慧三学此殊胜之行所摄集计算、名为教梵行（sāsanabrahmacariya）的八支圣道之行道法，乃是从轮回之苦中出离之原因、真正善妙的出离（niyyānika）之法，确实是真实的；由于因法明显存在，故有果法的明显存在，此种因—果相互关联、名为缘起（paṭiccasamuppāda）之法性，确实是真实的——如此等等，以这样作出判定而生起的信心，称为「信心胜解（saddhādhimokkha）」＝**胜解信（adhimokkhasaddhā）**。
+
+一、对于那恭敬地亲近、修习那行舍智（saṅkhārupekkhāñāṇa），如钻木取火般毫不懈怠、多次反复地熟习的修行者（yogāvacara）而言，由于**胜解信**之法凭借行舍修习（saṅkhārupekkhābhāvanā）的殊胜作用而具有超胜的分量，故极为强盛地生起。
+
+二、能够很好地策励＝提携、支持那相应（sampayutta）诸法，使其在观（vipassanā）修习的工作作用上不致松懈退怯，毫不退缩、极为特别锐利，因而能够将违逆的敌对（paṭipakkha）诸法驱散、去除的**精进（vīriya）**生起。
+
+三、由于极为特别锐利，故因面对自己正在观照的行（saṅkhāra）所缘而使很好地显现的**念（sati）**生起。
+
+四、由于轻安（passaddhi）与乐（sukha）极为强盛地生起，故将心均衡而很好地安置于行所缘上、坚定的心＝定（samādhi）生起。
+
+五、由于能够成为随顺智（anulomañāṇa）生起之原因法，故极为、＝异常锐利地，将行诸法以无常（anicca）之相、苦（dukkha）之相、无我（anatta）之相加以探究审察，于其中保持中庸、舍置而生起的行舍慧（saṅkhārupekkhāpaññā）生起。
+
+如是，由于五根（indriya）的锐利、成熟具足圆满，在正处于行舍的修行者相续流（santāna）中，到了值得说『如今圣道（ariyamagga）之法将要生起了』之时，行舍智将行诸法或作无常、或作苦、或作无我，于此三种相之中以某一种相加以省察；如此省察的行舍观速行（javana）生起达七次而灭去，随后落入有分（bhavaṅga）；在有分之后，行舍慧仅以把所作的无常等作为所缘的方式而〔生起〕（＝意思是说：先前已灭去的行舍慧若把行诸法省察为无常，便仅以把那无常作为所缘的方式；若省察为苦，便仅以把那苦作为所缘的方式；若省察为无我，便仅以把那无我作为所缘的方式。
+『katanayeneva』＝由于说『仅以作所缘的方式』，故应知这并非省察的方式。
+先前已灭去的行舍作了省察；如今的行舍则不省察，只是作所缘而已，此即其义。）
+如是把行诸法或作无常、或作苦、或作无我而作所缘，意门转向（manodvārāvajjana）生起。
+不给心以借有分之力而生起的机会、令有分回转断截而生起的那意门转向唯作心（kiriyacitta）之后，紧接着连续于被称为『相异之心的生起』、无有间隔的心相续，行舍观的第一速行心（javanacitta），正如前面两三个观速行心路（vīthi）相续那样——那些速行心路相续若把行诸法作无常而作所缘，则自己的第一速行也同样把行诸法作无常而作所缘；若作苦而作所缘，则自己也同样作苦而作所缘；若作无我而作所缘，则自己也同样作无我而作所缘——如是生起。
+由于那第一速行心能够为圣道的生起作准备，故称为**遍作（parikamma）**。
+
+在那遍作速行之后，如同前面一样，把行诸法于无常等诸相之中以某一种相作所缘，第二个行舍观速行心生起；由于该第二速行心游行于圣道的近处，故称为近行（upacāra）。
+
+在那名为近行的速行心之后，也如同前面一样，把行诸法于无常等诸相之中以某一种相作所缘，第三个行舍观速行心生起；由于该第三速行心随顺于前后所生的诸法，故称为**随顺（anuloma）**。
+这遍作、近行、随顺之名，乃是那三种速行各别的名称。
+
+然而，若就关联一切速行的一般性（sāmañña）意义而言，那全部三种速行心也可以——
+
+- 一、由于能恭敬地反复亲近修习，故〔称为〕**重复（āsevana）**；
+- 二、由于能为圣道的生起作准备，故〔称为〕**遍作**；
+- 三、由于游行于圣道的近处，故〔称为〕**近行**；
+- 四、由于随顺于前后所生的诸法，故也适宜称为**随顺**。
+
+**随顺** ----- 若问：随顺于何种法呢？—— 谓随顺于前分、后分中所生起的诸法之聚。
+确实如此——那第三个随顺速行，既随顺于前分所生起的、以生灭智（udayabbayañāṇa）等为首的八种观智对不颠倒、真实的行诸法安立三种相而修观省察的工作作用，也随顺于将在上位的圣道剎那生起的三十七种菩提分（bodhipakkhiya）法之不颠倒、真实的作用。（《清净之道》2,308。）
+
+随顺智对于那覆蔽四圣谛（sacca）的痴（moha）块、痴团、痴聚等，
+极为、＝异常强烈地予以断除，故在诸世间的（lokiya）观智之中已达到已去往顶点者（ukkaṃsapariyantagata）＝超胜之极点。
+正因如此，它也把在下位所生起的生灭智等的作用，以远离违逆的敌对法的方式，就意义本质而言予以完成，如是生起。
+再者，当它以这样的方式生起时，就仿佛是随顺了那生灭智等的作用一般。
+因此，身为第三个速行的随顺速行，既随顺于前分所生起的、以生灭智等为首的八种观智对不颠倒、真实的行诸法安立三种相而修观省察的工作作用，也随顺于将在上位的圣道剎那生起的三十七种菩提分法之不颠倒、真实的作用——义注（aṭṭhakathā）如是解说。（《大复注》2,480。）
+
+详说如下。
+那随顺智＝由于那随顺智仅凭无常等诸相中某一种相之力，把三地（tebhūmaka）的行诸法作所缘而生起，故——
+
+- 一、『唯有具生起坏灭之性而生起的行诸法，那了知行诸法之生起坏灭的生灭智，确实已见到了生起坏灭』；
+- 二、『唯有具坏灭剎那（bhaṅgakkhaṇa）＝坏灭之剎那而生起的行诸法，那观照行诸法之坏灭的坏灭智（bhaṅgañāṇa），确实已见到了坏灭』；
+- 三、『唯有具应怖畏之性的行诸法，那把行诸法观见为可怖之危难的怖畏现起智（bhayatupaṭṭhānañāṇa），确实以可怖之危难而向前显现』；
+- 四、『唯有具无常、苦、变易之法（vipariṇāmadhamma）此等过患的行诸法，那观见此过患的过患随观智（ādīnavānupassanāñāṇa），确实已见到了行诸法的此等过患』；
+- 五、『唯有于应倦离的行诸法，那以对行诸法倦离之相而生起的倦离智（nibbidāñāṇa），确实已倦离』；
+- 六、『唯有于应舍弃的行诸法，那欲舍弃行诸法的欲解脱智（muñcitukamyatāñāṇa），确实已生起欲求解脱』；
+- 七、『唯有安立三种相而应加以省察思量的行诸法，藉由那能安立三种相而省察思量的审察智（paṭisaṅkhāñāṇa），确实已加以省察思量』；
+- 八、『唯有对应舍置的行诸法，那对行诸法予以舍置的行舍智，确实已予以舍置』——
+
+虽未明说，然而如同以义理所归的义至（atthāpatti）法所说一般——就此八种智不颠倒、真实的作用而言，〔随顺智〕也随顺；就将在上位的圣道剎那生起的三十七种菩提分法之不颠倒、真实的作用而言，〔随顺智〕也随顺。
+（那作用，即是断除忘失四圣谛＝失念（sammosa）等违逆之法的作用。）
+若问何故——乃因那随顺智是藉由断除那覆蔽四圣谛的、粗重粗重的染污（saṅkilesa）污垢之行道（paṭipatti）而证得的缘故。
+确实如此——若随顺智不以那样的方式生起，则种姓智（gotrabhuñāṇa）便无法以涅槃（nibbāna）为所缘。
+而若种姓智也不生起，则圣道智便无法以涅槃为所缘而生起——应如是了知。
+如是，由于首先以随顺于下位的八种智为主，再加上随顺于将在上位的圣道生起的三十七种菩提分法，从而随顺于〔导向涅槃之〕道谛（maggasacca），故把此随顺智称为**谛随顺智**。（《清净之道》2,308-309。《大复注》2,479-480。）
+
+**【文件：[433]随顺智章/[437] 1。无渴爱所成性.md】**
+
+### 1。无渴爱所成性(atammayatā)
+
+atammayataṃ bhikkhave nissāya atammayataṃ āgamma yāyaṃ upekkhā ekattā ekattasitā, taṃ pajahatha taṃ samatikkamatha. (M,3,263.)
+
+将这个至出起观(vuṭṭhānagāminī vipassanā)，在**《六处分别经(Saḷāyatanavibhaṅgasutta)》中** -----
+
+「诸比库……以对治渴爱(taṇhā)的至出起观为依止、为基础而修习，又以对治渴爱的至出起观为所执、为因——凡是那内含于无色界(arūpāvacara)心(citta)的生起（即无色界心、心所(cetasika)）之中、与无色界心相应的舍受(upekkhā-vedanā)，也就是受舍(vedanupekkhā)；以及以那无色界心、心所（即名法之聚）为所缘而修观的观智慧，也就是观舍(vipassanupekkhā)：由于具有唯一、相同的自性，也由于具有唯一、相同的所缘，所以名为『同一性(ekatta)』；又由于依止、缘取具有唯一相同自性的所缘，所以也名为『依同一性(ekattasita)』。
+把那同一性、依同一性的舍，以那同一性、依同一性的舍为所缘而生起的烦恼(kilesa)，以舍断的方式舍弃吧；为能超越那舍而精勤修习吧」——如此把**无渴爱所成性**，即对治渴爱的观，作了开示。（Vs,2,309-310。）
+
+**无渴爱所成性** = 以「作为某种观的所观所缘」的世间的(lokiya)行法(saṅkhāra dhamma)为所缘、并以**随顺智(anulomañāṇa)**为终点的至出起观便随之生起；由于那依止「作为那观智所观所缘的行法」而生起的、与「作为那观智所观所缘的行法」相关联的、贪着「作为那观智所观所缘的行法」的渴爱，离开「作为那观智所观所缘的行法」便不能生起，所以名为**渴爱所成(tammayā)**；而渴爱所成本身即名为**渴爱所成性(tammayatā)**。
+
+另一种说法 ----- 与渴爱相应(sampayutta)的贪根(lobhamūla)名蕴(khandha)名为**渴爱所成**；那些贪根名蕴的生起之因的自性法，名为**渴爱所成性**。
+而那些贪根名蕴的生起之因的自性法，其实也就是那渴爱本身。
+对治那渴爱的、即能舍离那黏着于行法之上的渴爱的至出起观，名为**无渴爱所成性**。因此，在中部(majjhima nikāya)的义注(aṭṭhakathā)中如下作了解释：
+
+tammayatā nāma taṇhā, tassā pariyādiyanato vuṭṭhānagāminīvipassanā atammayatāti vuccati. (M-A,4,189.)
+
+所谓渴爱所成性，就是渴爱；由于能耗尽那渴爱，便把至出起观称为**无渴爱所成性**。（M-A,4,189。）（Mahāṭī,2,481。）
+
+**同一性 - 依同一性** ----- 以名为色所缘、声所缘、香所缘、味所缘、触所缘的五种所缘为所缘而生起的舍受，则有种种（差别）。
+（这是说：由于在五门转向(pañcadvārāvajjana)、眼识、领受(sampaṭicchana)、推度(santīraṇa)、确定(voṭṭhabbana)、速行(javana)、彼所缘(tadārammaṇa)等心中，舍受都能相应地与之相应，所以说舍受有种种。）
+因此便是不同性(nānatta)。
+又由于所缘也有（5）种，所以（它）依止着种种不同的所缘、缘取着（种种所缘）。
+因此便是依不同性(nānattasita)。
+应当把「以那不同性、依不同性的舍、或与那舍俱在的名法之聚为所缘而修观」的观慧，尤其是行舍(saṅkhārupekkhā)慧，了知为观舍。
+
+名为空无边处禅那心(ākāsānañcāyatanajhānacitta)、识无边处禅那心(viññāṇañcāyatanajhānacitta)、无所有处禅那心(ākiñcaññāyatanajhānacitta)、非想非非想处禅那心(nevasaññānāsaññāyatanajhānacitta)的这些无色界心、心所中所含摄的舍受，由于具有相同的自性，也由于具有相同的所缘，所以名为**同一性**。
+由于依止具有相同自性的所缘、缘取（这样的所缘），所以名为**依同一性**。
+那以「与具同一性、依同一性的舍受俱在的无色界诸禅那」为所缘而修观的观慧——即观舍——也名为**同一性、依同一性**。
+意思是说：对那以名为同一性、依同一性的行法之聚为所缘而黏着贪求的渴爱之法，要通过观照那些行法而加以舍弃。
+能舍弃、能耗尽那渴爱的至出起观，被开示为**无渴爱所成性**。
+
+**【文件：[433]随顺智章/[437]a 至出起观的诸名称.md】**
+
+### 至出起观(vuṭṭhānagāminī vipassanā)的诸名称
+
+Taṃ hi visesato vuṭṭhānaṃ ariyamaggaṃ gacchati upetīti vuṭṭhānagāminīti vattabbataṃ labhati. (Mahāṭī, 2, 481.)
+
+Sabbena sabbaṃ pana gotrabhuñāṇaṃ vuṭṭhānagāminiyā vipassanāya pariyosānaṃ. (Visuddhi, 2, 309.)
+唯有此随顺智(anulomañāṇa)，才是以有为法(saṅkhata dhamma)＝行法(saṅkhāra dhamma)为所缘、趣近圣道(ariya magga)的至出起观领域的尽头。然而实际上，一切种姓智(gotrabhuñāṇa)才是至出起观的终点。(《清净之道》2,309。)
+
+圣道由于从相(nimitta)与生命期间(pavatta)中出起，故得「出起(vuṭṭhāna)」之名。
+那种姓智特别地由于能走向、能趣近那得「出起」之名的圣道，因而获得了应当、值得被称为「至出起(vuṭṭhānagāminī)」的地位。
+因此，以有为法＝行法为所缘的至出起观的终点，即是随顺智。
+以涅槃(nibbāna)为所缘的至出起观的终点，即是种姓智。
+因此，依《清净之道》义注(aṭṭhakathā)之意，应当记住：种姓智也含摄于至出起观之中。
+
+那至出起观，〔世尊〕曾在种种经(suttanta)中以种种方便(pariyāya)开示过；如今，为了对那至出起观在种种经中以种种方便出现之处不致困惑、为了使智慧不致混乱，应当了知对下文将要说到的种种经所作的、恰如其分的会通研讨。
+
+**【文件：[433]随顺智章/[439] 2。倦离.md】**
+
+### 二、倦离(nibbidā)
+
+nibbindaṃ virajjati, virāgā vimuccati.(M,1,192。)
+
+生起倦离,便离贪;因离贪,而从烦恼(kilesa)解脱。(M,1,192。)
+
+在这部《阿拉葛达经》(Alagaddasutta)中,把这个**至出起观(vuṭṭhānagāminī vipassanā)**宣说为**倦离**。在那部经中——
+
+- 1。以「nibbindaṃ」〔一词〕,指至出起观,
+- 2。以「virajjati = 离贪」这一语句,指道(magga)的作用,
+- 3。以「vimuccati = 从烦恼解脱」这一语句,指果(phala)的作用——应记住,〔这三者〕是〔佛陀〕各别宣说的。(大义疏,2,481。)
+
+**【文件：[433]随顺智章/[439]b 3。法住智.md】**
+
+### 3。法住智(dhammaṭṭhitiñāṇa)
+
+pubbe kho Susima dhammaṭṭhitiñāṇaṃ, pacchā nibbāne ñāṇaṃ. (Saṃ, 1, 344.)
+
+苏西玛(Susima)……在诸行(saṅkhāra)法的无常(anicca)之相、苦(dukkha)之相、无我(anatta)之相上善加确立的、名为「法住(dhammaṭṭhiti)」的观(vipassanā)智,先前就已生起;缘取涅槃(nibbāna)尊法而生起的圣道(ariyamagga)智,则于其后之时生起。(相应部,1,344。)
+
+如是,在此《苏西玛经(Susima Sutta)》中,把这至出起观(vuṭṭhānagāminī vipassanā)宣说为「**法住智**」。
+若问何以故——这是因为:此至出起观,是以对名为「法住」的因-果关联、缘起(paṭiccasamuppāda)之自性法不迷惑的力量而生起的缘故。(《清净之道》2,310。大义疏2,482。)
+
+**Dhammaṭṭhitiñāṇa**nti paccayākāre ñāṇaṃ.
+paccayākāro hi dhammānaṃ pavattiṭṭhitikāraṇattā dhammaṭṭhitīti vuccati, ettha ñāṇaṃ dhammaṭṭhitiñāṇaṃ, etasseva chabbidhassa ñāṇassetaṃ adhivacanaṃ. (Saṃ-A, 2, 63. Dutiyañāṇavatthusutta.)
+
+凡是果法,都有着唯与因法相系而生起的自然常规;由于果法具有如此与因法相系而生起的性质,便安住于该因法之上,故把果(=名色(rūpanāma))法之所依处的因法称为「**住(ṭhiti)**」。
+与名为「刹那三具足(khaṇattayasamaṅgī)」=生起(uppāda)-住-坏灭(bhaṅga)之三刹那(khaṇa)集合相具足的果、有为(saṅkhata)名色法之所依处的因法「**住**」,名为「**法住**」。
+另一种〔说法〕——所谓「**法(dhamma)**」,即是因法。
+那因法有着某种存续安住的自性;正是那存续安住的自性,由于除了法=因法之外别无他物,故名为「**法住**」。
+意思是指:存续安住着的因法。
+于那果、名色法之所依处的因法上了知的智(ñāṇa),换言之,了知那存续安住着的因法的智,名为「**法住智**」。
+因此,所谓「**法住智**」,乃是义注(aṭṭhakathā)所解说的:于名为缘行相(paccayākāra)的因法与果法之因-果关联、缘起自性法上了知的智。
+的确如此——名为缘行相的因法与果法之因-果关联、缘起自性法,由于是作为果、〔即〕缘生(paccayuppanna)法的名色法、有为法以生起-住-坏灭的方式前后相续不断、绵延不绝地生起存在——被称为「**生命期间(pavatti)**」的、〔那〕存续安住之「**住**」法的因法,所以被称为「**法住**」。
+于此法住上了知的「**智**」,名为法住智;因此——
+
+paccayapariggahe paññā dhammaṭṭhitiñāṇaṃ. (Paṭisaṃ, 1.)
+
+以智辨别、把握诸因法之时所生起的慧(paññā),名为法住智。(《无碍解道》1。)
+
+如是,尊者沙利子(Sāriputta)大德如此宣说。
+这「**法住智**」之名称,是——
+
+- 1。了知『在现在,由于无明(avijjā)的生起,故行生起』的智,
+- 2。了知『由于无明不显现,故行不显现』=『由于无明灭,故行灭』的智,
+- 3。了知『在过去世,由于无明的生起,故行生起』的智,
+- 4。了知『由于无明不显现,故行不显现』=『由于无明灭,故行灭』的智,
+- 5。了知『在未来世,由于无明的生起,故行生起』的智,
+- 6。了知『由于无明不显现,故行不显现』=『由于无明灭,故行灭』的智——
+
+如是,〔此名称〕在『无明缘行(avijjāpaccayā saṅkhārā)』上是(6)种智,在『行缘识(saṅkhārapaccayā viññāṇaṃ)』等处也同样是各(6)种智的名称。
+这是在以过去、现在、未来三时统摄计算的缘起自性法上,以随顺-遮遣(anvaya-byatireka)=生起之样态-息灭之样态的力量而生起的(6)种智。
+
+而此至出起观,由于是把那(6)种智再次提起、安上三种特相(lakkhaṇa)而修观、能修观的智,故是以对缘起自性法不迷惑〔的方式〕而生起的;因此,把这至出起观称为「**法住智**」。(大义疏2,482。)
+
+**Dhammaṭṭhitiñāṇa**nti vipassanāñāṇaṃ, taṃ paṭhamataraṃ uppajjati. (Saṃ-A, 2, 117.)
+
+dhammānaṃ ṭhitatā taṃsabhāvatā dhammaṭṭhiti, aniccadukkhānattatā, tattha ñāṇaṃ **dhammaṭṭhitiñāṇa**nti āha “**vipassanāñāṇa**”nti. (Saṃ-ṭī, 2, 124.)
+
+依这些解说之意,于名色究竟法(paramattha dhamma)以无常状态、苦状态、无我状态而存续〔一事〕上了知的观智,名为「**法住智**」。
+在以无常、苦、无我之相而存续的名色究竟法之中,因的名色、果的名色全都涵摄在内。
+在了知那些因的名色、果的名色究竟法之无常点、苦点、无我点的诸观智当中,这至出起观智乃是最顶端的。
+因此,佛陀(Buddha)向苏西玛比库(bhikkhu)宣说:名为「法住」的至出起观智先生起,在此观智之后、观智修习完成之际,缘取涅槃而生起的圣道智才生起。
+(意思是说:缘取涅槃而生起的圣道智,只是观智的后续结果,而非神通智(abhiññāṇa)的后续结果=并非定(samādhi)的后续结果。)
+
+**【文件：[433]随顺智章/[441]a 4。想顶.md】**
+
+### 4。想顶(saññagga)
+
+sañña kho poṭṭhapāda paṭhamaṃ uppajjati, pacchā ñāṇaṃ. (D,1,172。)
+
+波达帕达(Poṭṭhapāda)……确实,想(sañña)首先生起;其后,圣道(ariyamagga)智生起。(长部,1,172。)
+
+如是,在《波达帕达经(Poṭṭhapādasutta)》中,把这至出起观(vuṭṭhānagāminī vipassanā)宣说为**想顶**。(《清净之道》2,310。)
+
+在原本的经之巴利圣典中,如上面所写呈现的那样 ----- 以『sañña kho poṭṭhapāda』等〔文句〕,仅仅宣说为『想』而已;然而,由于在经的前面部分依次序宣说了『saññaggaṃ phusati = 到达与至高尊胜的至出起观相应之想』,故义注(aṭṭhakathā)以「**想顶**」来解说。(大义疏,2,482。)
+
+**【文件：[433]随顺智章/[441]b 5。遍净主导因缘支.md】**
+
+### 5。遍净主导因缘支(pārisuddhipadhāniyaṅga)
+
+paṭipadāñāṇadassanavisuddhi pārisuddhipadhāniyaṅgaṃ. (D,3,252。)
+= 行道智见清净(paṭipadāñāṇadassanavisuddhi)名为遍净(pārisuddhi)的主导因缘支。(长部,3,252。)
+
+如是,在**《十上经(Dasuttarasutta)》**中,把这至出起观(vuṭṭhānagāminī vipassanā)宣说为**遍净主导因缘支** = 从周遍处对烦恼(kilesa)诸垢秽的远离与清净(= 遍净)之主导因缘支。(《清净之道》2,310。)
+
+至出起观是行道智见清净的一部分。 
+从随烦恼(upakkilesa)诸垢秽中解脱的、自生灭智(udayabbayañāṇa)部分起,直到至出起观为止的一切观智,全都只是行道智见清净而已。 
+是把整体的名称施设于部分之上,以一分转喻(ekadesūpacāra)的方式,将作为一部分的至出起观解说为遍净的主导因缘支。(大义疏,2,482。)
+
+**【文件：[433]随顺智章/[441]c 六、欲解脱智 + 省察随观.md】**
+
+### 六、欲解脱智(muñcitukamyatāñāṇa) + 省察随观智(paṭisaṅkhānupassanāñāṇa) + 行舍智(saṅkhārupekkhāñāṇa)
+
+Yā ca **muñcitukamyatā** yā ca **paṭisaṅkhānupassanā** yā ca **saṅkhārupekkhā,** ime dhammā ekatthā, byañjanameva nānaṃ. (Paṭisaṃ, 259.)
+
+= 凡是所谓的**欲解脱智**，凡是所谓的**省察随观智**，凡是所谓的**行舍智**，这三种法=智都具有相同的意义内涵，只是在措辞上有所差别。(无碍解道,259)
+如此，在《无碍解道(Paṭisambhidāmagga)》圣典中，这种至出起观(vuṭṭhānagāminī vipassanā)是以**欲解脱智、省察随观智、行舍智**这三种名称被宣说的。(清净之道,2,310)
+
+依据这些圣典与义注(aṭṭhakathā)，就至出起观而言，应当把那三种智全部都含摄进来。请记住：那三种智全部都可称为至出起观。
+
+**【文件：[433]随顺智章/[442]a 七、随顺 种姓 净化.md】**
+
+### 七、随顺(anuloma) 种姓(gotrabhu) 净化(vodāna)
+
+**Anulomaṃ gotrabhussa**, anulomaṃ **vodānassa. Gotrabhu** maggassa, **vodānaṃ** maggassa anantarapaccayena paccayo. (Paṭṭhāna, 1, 138.)
+**= 随顺**对于**种姓**，随顺对于**净化**，**种姓**对于入流道(sotāpattimagga)，净化对于一来道(sakadāgāmimagga)、不来道(anāgāmimagga)、阿拉汉道(arahatta magga)，以(前前的善蕴令后后的善蕴生起而给予助益的)无间缘(anantarapaccaya)之力资助。(众缘,1,138)
+如此，在《众缘》(paṭṭhāna)的教说中，这种至出起观(vuṭṭhānagāminī vipassanā)是以**随顺、种姓、净化**这三种名称被宣说的。(清净之道,2,310)
+
+**【文件：[433]随顺智章/[442]b 八、行道智见清净.md】**
+
+### 八、行道智见清净(paṭipadāñāṇadassana visuddhi)
+
+Kiṃ panāvuso paṭipadāñāṇadassanavisuddhatthaṃ bhagavati brahmacariyaṃ vussati. (M, 1, 201.)
+
+= 朋友，……如何呢，为了**行道智见清净**，你是否在佛陀的座前修习名为梵行(brahmacariya)的殊胜之行呢？(中部,1,201)
+
+如此，在**《传车经》(rathavinīta sutta)**中，这种至出起观(vuṭṭhānagāminī vipassanā)被宣说为**行道智见清净**。(清净之道,2,310)
+
+以戒(sīla)、定(samādhi)、慧(paññā)三学(sikkhā)的殊胜之行所统摄含摄的、直至至出起观=行道智见清净的殊胜行仪与行持(paṭipatti)，即是教梵行(sāsanabrahmacariya)。
+圣道智(ariyamaggañāṇa)即是道梵行(maggabrahmacariya)。
+此处特别所指的是教梵行。
+然而，一旦到达名为至出起观的行道智见清净阶段，名为智见清净(ñāṇadassanavisuddhi)的圣道智便会以决定不移的方式必然生起；因此当知，就梵行而言，虽然上述《传车经》中特别所指的是教梵行，但道梵行也并未被否弃。
+然而，道梵行则会以智见清净这一名称在后文中出现。
+
+**【文件：[433]随顺智章/[443] 从相与生命期间出起的方式判别.md】**
+
+### 从「相（nimitta）」与「生命期间（pavatta）」出起的方式判别
+
+从相与生命期间出起的方式，先前已略要地写述陈明。
+此处，将《胜义说（Atthasālinī）》注释的解说再度写述陈明。（引自阿毗达摩注，1，275-279。）
+
+如上文所写述陈明的那样，在觉支（bojjhaṅga）、道支（maggaṅga）、禅支（jhānaṅga）的数目有所变化的圣道（ariya magga）生起之时，**种姓（gotrabhu）**是从何处出起的呢？**圣道**是从何处出起的呢？此即是问，答则如下。-----
+
+最初，**种姓**是从名为『行相（saṅkhāra nimitta）所缘』的相出起的。
+然而，对于斩断那名为『相续不断地生起着的轮回（vaṭṭa）之法』的生命期间，却无能为力。
+确实如此 ----- 这种姓是『单方出起（ekato vuṭṭhāna）』＝仅从一方而有出起之法。
+圣道则不仅从名为『行相所缘』的相出起，也能斩断名为『相续不断地生起的轮回之法』的生命期间。
+确实如此 ----- 这圣道之法是『双方出起（ubhato vuṭṭhāna）』＝从名为相、生命期间的两方俱皆出起之法。
+
+接下来所要讲说的，是能了知那种姓与圣道之生起方式的方法。
+详细地说则如下。
+在某个观（vipassanā）的轮次中，名为圣道的出起生起了；在那个观的轮次里，随顺（anuloma）并非仅仅生起一次，也不是到第五次才生起。原因是——仅生起一次的随顺得不到重复缘（āsevana paccaya）的资助；第五次的随顺则因临近有分（bhavaṅga），不够坚固，以致不足以饶益种姓，因而动摇。
+确实如此 ----- 到了第五次生起之时，名为速行（javana）者的势头已经衰减；因此，随顺既不在第一次生起，也不在第五次生起。（阿毗达摩注，1，275。）
+
+**pavedhati ＝ 动摇** —— 此语意谓：它无力成为种姓的因法。
+倘若在第五次即第五心刹那（pañcama cittakkhaṇa）时，名为速行者的势头果真衰减，那么如此一来便有此可问：为何在作为第五心刹那的那时，种姓、以及紧接那种姓之后的圣道，都须在速行势头衰减之时生起呢？答案是：由于新生起的另一类速行并无势头衰减，故得以生起。
+确实如此 ----- 正是那本源速行，若多次生起，才会有势头衰减。
+至于种姓，则是在有别于行所缘的涅槃（nibbāna）所缘上生起的、崭新的速行。
+同样地，圣道也是就有别于欲界（kāmabhūmi）的、名为出世间界（lokuttara bhūmi）的另一界而言崭新的速行。
+（随顺、种姓的诸速行，由于都是欲界（kāmāvacara）大善（mahākusala）速行，故是欲法＝摄属欲界的法聚；圣道则是摄属出世间界的法。
+如此，就界而言各自不同、彼此有别，因而圣道乃是在出世间生、出世间界中崭新初起的速行。
+唯有在所缘属同一类、界属同一类时，才可说速行在第五心刹那势头衰减。
+种姓由于取名为涅槃的新所缘之故，不名为势头衰减。
+圣道也不仅是在名为涅槃的一类新所缘上生起，而且是有别于欲界法的另一类出世间界法，因而不名为势头衰减。
+因此意谓：种姓可于第五心刹那生起，圣道可于第六心刹那生起。）
+
+还不止于此 ----- 第七速行思（cetanā）由于获得前前诸速行重复缘的资助而力量强盛，岂不是既会成为『后生受业（upapajjavedanīya kamma）』＝于第二生给予果报之业，也会成为『无间业（ānantariya kamma）』吗？此亦可问。
+那一问中所要表达的含义如下。
+第七速行以无间之力（anantara satti）饶益紧接其后相续生起的有分，将自身的力量托付给那有分果报（vipāka）。
+那力量便安住蕴含于果报的相续流（santāna）中，一路随行。
+名为那有分的果报相续之流，在路心（vīthi citta）不生起之时，依其次第贯穿整个一生地生灭；而最后执行死殁（cuti）作用的心，也正是这果报心之流。
+以此方式，第七速行思能以无间之力妥善安排，使自身的力量与势能附着随行于果报相续之流；由于它是对下一生而言最贴近的业，所以既可成为后生受业，也可成为无间业。
+它成为后生受业、无间业，并不是像尚未到达势能衰减之时的前面四次速行那样、依其本身自性而力量强盛（才如此）——此即其义。（根本复注，1，117。）
+
+若相应地说，在具有广大智慧的大慧者（mahāpañña puggala）之相续中，随顺生起两次，第三次生起种姓，第四次生起圣道心。
+果速行（phala javana）生起三次。
+其后，落入有分。（阿毗达摩注，1，275。）
+
+**【文件：[433]随顺智章/[444]a 一、大慧者的道心路.md】**
+
+### 一、大慧者(mahāpaññā puggala)的道心路(magga vīthi)
+
+bha - bha - na - da - ma - nu - nu - go - mag - pho - pho - pho - bha ...
+在具中等智慧的中慧者(majjhima paññā puggala)的相续流(santāna)中，随顺(anuloma)生起三次；第四次时，种姓(gotrabhū)生起；第五次时，道心(magga citta)生起；果速行(phala javana)生起两次。
+此后，落入有分(bhavaṅga)。(Abhi-A 1,275.)
+
+**【文件：[433]随顺智章/[444]b 二、中慧者的道心路.md】**
+
+### 二、中慧者(majjhima paññā puggala)的道心路(magga vīthi)
+
+bha - bha - na - da - ma - nu - nu - nu - go - mag - pho - pho - bha - bha ...
+在迟钝而有慧的个体(puggala)的相续流(santāna)中，随顺(anuloma)生起(四)次；在第五次时，种姓(gotrabhū)生起。
+在第六次时，道心(magga citta)生起。
+在第七次时，果速行(phala javana)生起。
+此后，落入有分(bhavaṅga)。(Abhi-A 1,275.)
+
+**【文件：[433]随顺智章/[444]c 三、钝慧者的道心路.md】**
+
+### 三、钝慧者(manda paññā puggala)的道心路(magga vīthi)
+
+bha - bha - na - da - ma - nu - nu - nu - nu - go - mag - pho - bha - bha ...
+
+**注释** ----- 「此方法因存在于古义疏(aṭṭhakathā)中，故是应当宣说的方法」，疏解(yojanā)中如是说。
+这并非尊者觉音大长老(Buddhaghosa Mahāthera)所许可的方法。
+因此，《清净之道》义疏(Visuddhi Magga aṭṭhakathā)中禁止了随顺(anuloma)四次这一节(vāra)。
+对于诸随顺，也按其名称分作遍作(parikamma)、近行(upacāra)、随顺三者，仅以三次的方式作为另一种方法呈现出来。
+上文已书写陈述过了。
+
+在那三种个体(puggala)当中，不依大慧者(mahā paññā puggala)、钝慧者的能力来阐明，而依中慧者(majjhima paññā puggala)的能力来阐明。详细则如下。-----
+
+在某次观(vipassanā)的轮转时段中，名为出起(vuṭṭhāna)的圣道智(ariya magga ñāṇa)生起；在那轮转时段中，舍俱(upekkhā sahagata)唯作(kiriya)无因(ahetuka)意识界(manoviññāṇa dhātu)作为意门转向(manodvārāvajjana)而生起，缘取作为观智(vipassanā ñāṇa)所观所缘的诸名色蕴(rūpanāma khandha)（= 意指或缘取色、或缘取名、或缘取色名二者全部、或缘取任一蕴，如此等等的缘取。）
+使有分(bhavaṅga)回转 = 切断有分之流。
+在那意门转向的无间(anantara)之后，正是取那意门转向已缘取过的诸名色蕴为所缘，作为第一速行(javana)的随顺智(anulomañāṇa)生起。
+那随顺智，在那些名色蕴上，或作诸无常(anicca)、或作诸苦(dukkha)、或作诸无我(anatta)而生起后 =（生起观的修习之后），破除那粗重粗重的、能遮蔽四谛(sacca)使之不被了知的、名为痴(moha)之黑暗，令三相(lakkhaṇa)极其明显，然后灭去。
+在那第一随顺智的无间之后，第二随顺智又生起。
+在那第一、第二两种随顺智当中，先生起的第一随顺智（因为在它自己之前没有速行）未能获得重复缘(āsevanapaccaya)这一支持因缘；而它却成为第二随顺智的重复缘因法。那第二随顺智由于获得了第一随顺智作为重复缘的良好支持因缘，故而敏锐锋利、勇猛、明净；如此敏锐锋利、勇猛明净，就在那名为名色蕴的所缘上，仍以那无常、苦、无我的相状（三者当中任一种相状）而生起，破除那中等分量的、能遮蔽四谛使之不被了知的、名为痴之黑暗，令三相极其明显，然后灭去。
+在那第二随顺智的无间之后，第三随顺智又生起；那第二随顺智又成为那第三随顺智的重复缘因法。
+那第三随顺智，也由于具有那第二随顺智的助益支持这一所获得的重复缘因法，故而敏锐锋利、勇猛明净，就在那名为名色蕴的所缘上，仍以那无常、苦、无我的相状（三者当中任一种相状）而生起，破除那从第二随顺智所应舍断的、能遮蔽四谛使之不被了知的、名为痴之暗冥中残余下来的、与微细一同生起的、能遮蔽四谛的、名为痴之黑暗，令无残余，令三相极其明显，然后灭去。
+如此，三次的随顺智破除了能遮蔽四谛的、名为痴之黑暗之后，在那三次随顺智的无间之后，种姓智(gotrabhūñāṇa)缘取涅槃(nibbāna)而生起。
+
+关于那段话，接下来要说的是一个譬喻(upamā)。----- 一个有眼净色(cakkhupasāda)、视力良好的男子，心想「我要弄清月亮与星宿(nakkhatta)会合的情形」而起意谋划，于夜间从屋内出来，为了见到月亮而抬头仰望上方的天空。
+由于被云层遮蔽的缘故，在那男子的眼(cakkhu)中月亮并不明显。
+那时，一种风吹起，摧散了极厚极厚的云层；不同于第一种风的第二种风，则摧散了中等的云层。
+不同于第二种风的第三种风，摧散了微细的云层。
+此后，那男子在无云的天空中见到了月亮，从而得知了月亮与星宿会合的情形。
+
+在那譬喻中，应把能遮蔽四谛使之不被了知、不被见到的厚重的烦恼(kilesa)之暗、中等的烦恼之暗、微细的烦恼之暗，比作那三种云层。
+应把种姓智比作那有眼净色的男子。
+应把涅槃比作月亮。
+应把每一随顺心(anuloma citta)破除能遮蔽四谛的、名为痴之黑暗，比作每一种风依次摧散三种云层的聚合。
+应把种姓智在能遮蔽四谛的、名为痴之黑暗离尽之时缘取那格外清净的涅槃，比作那男子在无云的天空中见到那格外清净的月亮。
+
+使之明了。----- 正如那三种风只能摧散能遮蔽月亮的云层，却不能见到月亮；同样，三次随顺只能破除能遮蔽四谛的、名为痴之诸黑暗，却不能缘取涅槃。
+正如那有眼净色的男子只能见到月亮，却不能摧散云层；同样，种姓智只能缘取涅槃，却不能破除名为烦恼的暗冥与黑暗。
+如此，随顺智以行法(saṅkhāra dhamma)为所缘，种姓智以涅槃法为所缘。
+
+再来阐明可能招致的过失。----- 假如种姓智竟然继续缘取随顺智已取过的那行所缘(saṅkhāra ārammaṇa)，如此一来，种姓（智）便不缘取涅槃，而只是继续缘取自己前面的随顺所取过的行所缘，若它这样持续地缘取、持续地取为所缘，那么种姓（智）也就不能再得到「种姓」这一名称，而只会继续得到「随顺 = 随顺」这一名称；如同它随顺于随顺一样，后面的随顺也会随顺于它；这样一来，若只有随顺一个接一个地持续生起，那么圣道(ariya magga)由于得不到那与自己所缘相同、住于转向(āvajjana)之位、能以无间等诸缘力(paccayasatti)予以助益的种姓，便不能再作为从行所缘中出起、名为出起之法而生起 = 名为出起的圣道也就再不能生起了。
+
+其实，种姓智并不取作为随顺智所缘的行所缘，令那随顺此后不再生起，虽然自己种姓本身并非转向，却站在转向之位上，仿佛向圣道给出「就这样，正应缘取涅槃而生起吧」的信号一般，如此运作之后便灭去。
+（其实并不具有能给予的力量，却仿佛具有力量一般加以譬喻而说，故说「仿佛给出」，这是以名为「依彼法借喻」(taddhammūpacāra)的推想语(uparikkhā)而说的。）
+
+圣道也正是不放弃那种姓所给出的信号，凭借毫无间断的名相续(nāma santati)之流的力量，随顺于那种姓智，穿透、破开那在名为无始(anamatagga)轮回(saṃsāra)的、看不到起点的、以往从未有一次被穿透、从未被破开的贪(lobha)之团块、瞋(dosa)之团块、痴之团块，正是如此穿透、如此破开而生起。
+
+关于这样生起，接下来要说的是一个譬喻。
+一位射手，在一百个弓程之外放置了一百块木板，用布蒙住脸，把箭好好搭上，站在一架机械装置上。（意即：站在装有轮子的机械装置车上。）
+另一个男子拉动那机械装置，当射手的脸正对着那一百块木板、笔直相向之时，那时他就用棍子在那木板上（把木板敲得咚地一声作响）给出信号。
+射手不放过那用棍子敲击发出声响的记号，便射出箭，穿透了那一百块木板。
+
+在那譬喻中，用棍子敲击发出声响的记号与种姓智相似；射手与圣道智(ariya magga ñāṇa)相似；射手不放过用棍子敲击发出声响的记号、以箭射穿一百块木板，与圣道智不放过种姓智所给出的记号、缘取涅槃而穿透、破开那在名为无始轮回中、以往从未有一次被穿透、从未被破开的贪之团块等等，二者相似。
+穿透、破开这贪之团块等等，也正可称为 **bhūmiladdhavaṭṭasetusamugghātakaraṇa** = 对能系缚所获得的、有其所依处之地的轮回法(vaṭṭa)的诸烦恼作无余断除。
+
+[**注释** ----- 由于圣道法尚未被舍除，那些一再潜伏安住于作为取(upādāna)之所缘的诸取蕴(upādānakkhandha)中的随眠烦恼(anusaya kilesa)，因为拥有名为五取蕴(pañcupādānakkhandha)的、所获得的所依处之地，故也称为 **bhūmiladdha**（地所得）。
+由于能系缚名为烦恼轮转(kilesavaṭṭa)、业轮转(kammavaṭṭa)、果报轮转(vipākavaṭṭa)的轮回法使之不得脱离，故也称为 **vaṭṭasetu**（轮回的系缚）。
+圣道会逐级地、无余而彻底地断杀那些名为 bhūmiladdha vaṭṭasetu 的随眠烦恼。
+如此断杀，正是穿透、破开贪之团块、瞋之团块、痴之团块。]
+
+确实如此。----- 圣道唯一的作用(kicca)，正是舍断随眠烦恼。
+如此，那圣道无余地断杀、舍弃诸随眠烦恼，被称为从名为 **相(nimitta)** 的行所缘之相中出起。
+被称为切断名为 **生命期间(pavatta)** 的、连续不断生起的轮回法。(Abhi-A 1,275-277.)
+
+**Nimitta**nti rūpa-vedanā-saññā-saṅkhāra-viññāṇanimittaṃ.
+**Pavattampi** rūpa-vedanā-saññā-saṅkhāra-viññāṇapavattameva.
+Taṃ duvidhaṃ hoti upādinnakaṃ anupādinnakanti. (Abhi-A 1,277.)
+
+**相(nimitta)** ----- 名为色(rūpa)、受(vedanā)、想(saññā)、行(saṅkhāra)、识(viññāṇa)的行相(saṅkhāra nimitta)称为 **相**。
+**生命期间(pavatta)** ----- 名为色、受、想、行、识的、连续不断生起的轮回法，正是也称为 **生命期间**。
+那 **生命期间** 有两种：执受生命期间(upādinnakapavatta)与非执受生命期间(anupādinnakapavatta)。
+
+在那两种当中，由于说「应当见到圣道从非执受生命期间中出起的迹象」，故说圣道是从非执受生命期间中出起。
+
+**【文件：[433]随顺智章/[448] 非执取出起 = 非执取蕴.md】**
+
+### 非执取(anupādinnaka)出起(vuṭṭhāna) = 从非执取蕴相续中出起的样态
+
+欲知其详，如下所述。
+入流道(sotāpatti magga)断除五种心：邪见相应(diṭṭhigatasampayutta)心四种、与疑(vicikicchā)俱行的心一种——共计五种心；这些心能够生起心生色(cittajarūpa)＝即只是具有能生起心生色之能力与势能的那些心。
+由那五种心所生起的心生色，即是非执取色蕴(rūpakkhandha)。
+（由于是心生色，故不存在名为业生色(kammajarūpa)的执取(upādinnaka)所成色，因此称为非执取色蕴。
+意思是：由被渴爱(taṇhā)与见(diṭṭhi)所黏附之业，以果报显现的方式，却不被执取为「我所有」的色蕴。）
+那五种心，即是识(viññāṇa)蕴。
+与那五种心相应的受(vedanā)、想(saññā)、行(saṅkhāra)诸心所(cetasika)，即是受蕴、想蕴、行蕴这三种名蕴。全部合计则成五蕴。
+
+在断除那五种心时，倘若入流者(Sotāpanna)个体(puggala)未能生起入流道，那五种心便会在六种所缘中生起。
+然而，由于那位修行者(yogāvacara)个体能够生起入流道，故该入流道遮止那五种心的生起，对能够系缚令不脱离轮回(vaṭṭa)法的、名为烦恼(kilesa)的因法作无余的断除，使其成为不应再度生起之状态，从而从上述名为五蕴的、属于非执取的转起(pavaṭṭa)中出起——如此称之。
+
+一来道(sakadāgāmimagga)以粗重的欲(kāma)贪(rāga)与恶意(byāpāda)之力，断除邪见不相应(diṭṭhigatavippayutta)心四种、嗔根(dosamūla)心两种——共六种心。
+不来道(anāgāmimagga)以具有微细性质的欲贪与恶意之力，断除那同样的六种心。
+阿拉汉道(arahatta magga)断除名为色贪染(rūparāga)、无色贪染(arūparāga)的邪见不相应心四种，以及掉举(uddhacca)俱行心——这五种不善(akusala)心。
+
+在断除那些不善心时，倘若那些圣(ariya)者个体未能生起各自相应的圣道(ariya magga)法，若如此，则那些不善心便会在六种所缘中生起；然而，由于那些圣者个体能够各自生起相应的圣道法，故那些圣道法遮止那些不善心的生起，对能够系缚令不脱离轮回法的、名为烦恼的因法作无余的断除，使其成为不应再度生起之状态，从而从名为「那不善心生色与那不善心、心所」的、属于非执取的五蕴转起法中出起——如此称之。
+这便是从非执取蕴相续中出起的样态。（阿毗达摩义注、1、277-278。）
+
+**【文件：[433]随顺智章/[449]a 执取出起 = 执取蕴.md】**
+
+### 执取(upādinnaka)出起(vuṭṭhāna) = 从执取蕴相续中出起的样态
+
+在说了「应当见到名为从执取转起(pavaṭṭa)中出起的迹象」之后，诸师也说「（圣道）从执取转起中出起」。
+（所谓执取，是指被无明(avijjā)、渴爱(taṇhā)、取(upādāna)所环绕、所黏附之业，以「（此业乃）我的果报」这样、依果报之显现而被执取的世间(lokiya)果报(vipāka)名蕴(nāmakhandha)与业生色(kammajarūpa)。所谓执取转起，即是那些蕴不间断生起的相续。）
+其详如下。-----
+
+倘若入流者(Sotāpanna)个体(puggala)未能生起入流道(sotāpatti magga)，若如此未曾令其生起，则除去（那）七次生存(bhava)之外，在名为「其始不可知」等的无始(anamatagga)轮回(saṃsāravaṭṭa)中，执取转起＝不间断生起的执取蕴相续便会持续生起。
+何以故——因为作为那执取蕴转起之生起原因的诸烦恼(kilesa)，仍然明显地存在着之故。
+有身见(sakkāyadiṭṭhi)结缚、戒禁取(sīlabbataparāmāsa)结缚、疑(vicikicchā)结缚这三种结缚(saṃyojana)，以及邪见随眠(diṭṭhānusaya)、疑随眠(vicikicchānusaya)这两种随眠(anusaya)——合计五种，这些烦恼，入流道一旦生起，就在其自身正生起的那一刹那，无余地断除。
+如此断除之后，如今在成为入流者之时，于入流者个体的相续(santāna)中，除去（那）七次生存之外，在无始轮回中，执取转起＝不间断生起的执取蕴相续，又如何还能生起呢？（意即：已不再有可令其生起的因法了。）
+如此一来，入流道通过使执取转起不再不间断地生起，便称为「从执取转起中出起」。（阿毗达摩义注、1、278。）
+
+**【文件：[433]随顺智章/[449]b (七)有的见解.md】**
+
+### (七)有的见解
+
+Ekavāraṃ kāmāvacaradevesu ekavāraṃ manussesūti evampi missitūpapattivasena tesu ekissā eva upapattiyā nāyaṃ paricchedo (ayaṃ paricchedo——别本异读)。
+Yaṃ pana "na te bhavaṃ aṭṭhamamādiyantī"ti vuttaṃ, tampi kāmāvacarabhavaṃyeva sandhāyāha, mahaggatabhavānaṃ paricchedo natthīti vadanti. (Anuṭī-1-124)
+
+一时在欲界(kāmāvacara)天人(deva)界受生，一时在人间受生——以这样交杂之有(bhava)的力量，而说为（七）有。
+在那天—人的生有(upapattibhava)当中，并非是作这样的界定：无论成为天人还是成为人，此（七）有只在某一种生有里生起。
+「na te bhavaṃ aṭṭhamamādiyanti = 那些须陀洹(Sotāpanna)补特伽罗(puggala)不会去取受第八次之有」——在《宝经(Ratana Sutta)》中所宣说的这句话，也是佛陀(Buddha)只就称为人—天的欲有(kāmabhava)而宣说的圣言；至于属于广大(mahaggata)的色有(rūpabhava)、非色有(arūpabhava)当中，则没有「此（七）有」的界限——诸大师如此说。(Anuṭī-1-124)
+
+**【文件：[433]随顺智章/[450]a 三种入流者.md】**
+
+### 三种入流者(sotāpanna)
+
+所谓「不取这第八个有(bhava)」，是针对入流者当中最下等的极七返(sattakkhattuparama)入流者而言的。
+成为入流者之后，能否迅速地获得上位诸道的智，取决于信(saddhā)、精进(vīriya)、念(sati)、定(samādhi)、慧(paññā)这些根(indriya)是否锐利。
+
+- 一、具有锐利之根的入流者，只经历一生的结生(paṭisandhi)便成为阿罗汉(arahanta)。
+这类人被称为**一种子(ekabījī)** = 具有一个结生种子的入流者。
+- 二、从两生到六生都经历结生的入流者，则是具有中等之根的人。
+这类人被称为**家家(kolaṃkola)** = 能够从一个善良种姓到另一个善良种姓、而绝不会在低劣下贱的种姓中投生的入流者。
+- 三、有七生结生、要经历七生结生的入流者，则是具有钝根的人。
+这类人被称为**极七返(sattakkhattuparama)** = 最多经历七次结生的入流者。(paṭisaṃ, ṭṭha, 2, 67。)
+Ime tayopi sotāpannā kāmabhavavasena vuttā, rūpārūpabhave pana bahukāpi paṭisandhiyo gaṇhanti. (paṭisaṃ, ṭṭha, 2, 67。)
+
+这三种入流者的有的次数限制，只是就感官之欲方面(kāmabhūmi)而言；至于色(rūpa)、非色(arūpa)诸界的入流者，则能够多次地取结生。(paṭisaṃ, ṭṭha, 2, 67。)
+
+**【文件：[433]随顺智章/[450]b 决定性的法.md】**
+
+### 决定性的法
+
+关于「三种须陀洹(Sotāpanna)之所以有差别，是什么法确定并决定了如此的差别」这一要点，诸尊师的见解并不一致，彼此相异。
+这些差别在《个体概念》义疏(Puggalapaññatti Aṭṭhakathā)（Abhi,Ṭṭha,3,47。）中有阐释。其要旨如下。
+
+如此进行决定的法是——
+
+- 1。有些人说是「前因(pubbahetu)」＝往昔业的因缘，
+- 2。有些人说是「初道(pathamamagga)」＝入流道(sotāpattimagga)，
+- 3。有些人说是上三道，
+- 4。而有些人则说是上三道之前生起的观(vipassanā)——各自有其主张。
+
+在那四种主张之中，唯有「只有上三道之前生起的观才作决定」这最后一种见解才是恰当的，这一点以「"tiṇṇaṃ maggānaṃ vipassanā niyametī"ti vādo pana yujjati。」(Abhi,Ṭṭha,3,47。)如此确定地作出了裁定。
+
+然而在《无碍解道》义疏(Paṭisambhidāmagga Aṭṭhakathā)中则说：——taṃ panetaṃ tesaṃ mudumajjhimatikkhapaññattaṃ pubbahetu niyameti。(Paṭisaṃ,Ṭṭha,2,67。)
+
+那三种须陀洹的诸根(indriya)之锐利与迟钝，是由「前因」＝往昔的因缘业所决定的。(Paṭisaṃ,Ṭṭha,2,67。)
+
+如此作了阐释。
+这与上述《个体概念》义疏中出现的第一位尊师的见解完全相同。
+
+**【文件：[433]随顺智章/[451] 补充说明.md】**
+
+### 补充说明
+
+在上述那四种主张之中，在「往昔业的因缘(pubbahetu)确定了三种须陀洹(sotāpanna)之根(indriya)的锐利与迟钝」—— 这第一种主张里，「初道(pathamamagga)那强而有力的作为所依的强依止(upanissaya)之因，可以说是由往昔业的因缘所造作的；而上三道却是在没有强而有力的作为所依的强依止之因的情况下生起的」——这样一种带有过失的说法，
+便随之出现了。
+
+再者，在「初道＝入流道(sotāpattimagga)确定了三种须陀洹之根的锐利与迟钝」这第二种主张里，便会导致上三道成为没有作用（效用）的东西这一结果。
+
+在「上三道确定了三种须陀洹之根的锐利与迟钝」这第三种主张里，便会导致「在初道尚未生起之前，上三道就已经先生起了」这样的过失。
+
+因此，若要恰当地说，唯有「只有在上三道之前生起的观(vipassanā)才确定了三种须陀洹之根的锐利与迟钝」这一主张才是妥当的。
+其原因如下所述。——
+
+倘若在上三道之前生起的观是强而有力的，那么，正因为观强而有力，只需在一生之中经历一次结生(paṭisandhi)便能获得上位诸道，故而被称为一种子(ekabījī)须陀洹。
+若观比作为那一种子须陀洹之成因的观稍弱一些，便能成为家家(kolaṃkola)须陀洹。
+若观比作为那一家家须陀洹之成因的观更弱一些，便能成为极七返(sattakkhattuparama)须陀洹。
+因此，唯有最后那「只有上三道的观才使那些须陀洹之根的锐利与迟钝得以固定」这第四种主张才是妥当的。(Abhi,Ṭṭha,3,47。)
+
+**应当注意** ——仅仅是由于佛陀所采用的名称的作用，才有了极七返、家家、一种子这三种名称，成为这三类须陀洹个体(puggala)的名字。到达如此长短程度的处所、如此之有的须陀洹个体，被称为极七返；到达如此长短程度的处所、如此之有的须陀洹个体，被称为家家；到达如此长短程度的处所、如此之有的须陀洹个体，被称为一种子——佛陀如此采用了这些须陀洹个体的名字。尽管佛陀如此作了采用，但并没有一种恒定的裁定说「这个个体就是极七返须陀洹、这个个体就是家家须陀洹、这个个体就是一种子须陀洹」。(Abhi,Ṭṭha,3,46。)
+
+**【文件：[433]随顺智章/[452] 除痴注释的解说.md】**
+
+### 《除痴》(Sammohavinodanī)注释的解说
+
+Koci pana puggalo sattannaṃ bhavānaṃ niyato nāma natthi, ariyasāvako pana yena kenacipi ākārena mandapañño samāno aṭṭhamaṃ bhavaṃ appatvā antarāva parinibbāti. Sakkasadisopi vaṭṭābhirato sattamaṃyeva bhavaṃ gacchati, sattame bhave sabbākārena pamādavihārinopi vipassanāñāṇaṃ paripākaṃ gacchati, appamattakepi ārammaṇe nibbinditvā nibbutiṃ pāpuṇāti. Sacepi hissa sattame bhave niddaṃ vā okkamantassa parammukhaṃ vā gacchantassa pacchato ṭhatvā tikhiṇena asinā kocideva sīsaṃ pāteyya, udake vā osādetvā māreyya, asani vā panassa sīse pateyya, evarūpepi kāle sappaṭisandhikā kālaṃkiriyā nāma na hoti, arahattaṃ patvāva parinibbāti. Tena vuttaṃ "aṭṭhamaṃ bhavaṃ nibbatteyya, netaṃ ṭhānaṃ vijjatī"ti. (Abhi-ṭṭha-2-411.)
+
+并没有任何一个被确定为「在整个七生期间必须于轮回(saṃsāra)中流转」、固定不变的个体(puggala)。
+至于圣弟子(ariyasāvaka),即便由于某种不确定的原因而成为钝慧(mandapañña)——即拥有迟钝之慧者,他也不会到达第八生,而仅在(通往)第八生的中途便般涅槃(parinibbāna)。
+即便是像帝释(sakka)那样、极其贪恋轮回的须陀洹(sotāpanna),也顶多只走到第七生为止。
+而在第七生,即便是以一切方式都惯于放逸而住的须陀洹个体,其观智(vipassanāñāṇa)也会达到成熟。
+即便对极其微小的所缘,也会生厌,从而达到烦恼(kilesa)的止息。
+确实如此——那位须陀洹个体,在第七生中,或当他正陷入睡眠之时,或当他正面向一侧行走、(有人)从其后方站定之时,即便有某人用极其锋利的刀剑砍落他的头颅使之坠地,或将他沉入水中杀害,或有雷电坠落在那位须陀洹个体的头顶——即便在如此情形的时刻,也绝不会发生与结生(paṭisandhi)俱起的死亡。
+唯有在证得阿拉汉果(arahattaphala)之后,他才般涅槃。因此——
+
+Aṭṭhamaṃ bhavaṃ nibbatteyya, netaṃ ṭhānaṃ vijjati. (Abhi-2-349.)
+
+= 具足入流道智(sotāpattimaggañāṇa)之见的见具足者(diṭṭhisampanna),竟会令第八生生起——这样的道理是绝不存在的。(Abhi-2-349。)
+
+佛陀(Buddha)如此宣说。(Abhi-ṭṭha-2-411。)
+
+如果认为:注释师(aṭṭhakathā)大德对上述这段话也是仅针对欲有(kāmabhava)而作解说的,那么注释与复注(ṭīkā)的诸多说法,前后便不会相互矛盾了。
+
+在陈述了三种须陀洹个体的相关内容之后,如今再继续,把上三道之转起(pavatta)的相关内容书写陈述如下。
+
+**【文件：[433]随顺智章/[453] 上三道从转起出起的样态.md】**
+
+### 上三道从转起(pavaṭṭa)出起的样态
+
+倘若一来者(sakadāgāmi)个体(puggala)未能生起一来道(sakadāgāmimagga)，若如此未曾令其生起，则由于须陀洹(Sotāpanna)个体至多七次生存(bhava)之中只有两次会生起，故除去那两次生存之外，在其余五次生存中，执取(upādinnaka)转起便会生起。
+何以故——因为作为那执取转起之生起原因的诸烦恼(kilesa)，仍然存在着之故。
+然而，粗的欲贪(kāmarāga)结缚(saṃyojana)、厌恶(paṭigha)结缚，粗的欲贪随眠(kāmarāgānusaya)、嗔恚随眠(paṭighānusaya)——这四种烦恼，那一来道一旦生起，就在其自身正生起的那一刹那，无余地断除。
+如此断除之后，如今在成为一来者之时，于一来者个体的相续(santāna)中，除去那两次生存之外，在五次生存中，执取转起＝不间断生起的执取蕴相续，又如何还能生起呢？
+如此一来，一来道通过使执取转起不再不间断地生起，便称为「从执取转起中出起」。（阿毗达摩义注、1、278。）
+
+**两次生存** ----- 一来者个体若不再继续精进以证得不来道(anāgāmimagga)，而以一来者之身安住，则以一来者之身，还会有执取转起的两次生存可生。
+除去那两次生存之外，便不再有执取转起可生了。
+此处所谓两次生存，即是欲界(kāmāvacara)天神生存与人的生存。
+至于色(rūpa)、非色(arūpa)界的生存中，且不说一来者，就连不来者(anāgāmi)也仍会在净居地(suddhāvāsabhūmi)等处多次受生。
+----- tathā "ṭhapetvā dve bhave"ti etthāpi kāmāvacaradevamanussabhavānaṃ missakavaseneva. (Anuṭī-1-124.)
+
+倘若不来者个体未能生起不来道，若如此未曾令其生起，则除去某一种色界、非色界生存之外，在第二次生存中，执取转起便会生起；其原因是——因为作为那执取转起之生起原因的诸烦恼，仍然存在着之故。
+然而，与微细之性俱行的欲贪结缚、厌恶结缚，与微细之性俱行的欲贪随眠、嗔恚随眠——这四种烦恼，那不来道一旦生起，就在其自身正生起的那一刹那，无余地断除；如此断除之后，如今在成为不来者之时，于不来者个体的相续中，除去某一种色界、非色界生存之外，在第二次生存中，执取转起＝不间断生起的执取蕴相续，又如何还能生起呢？
+如此一来，不来道通过使执取转起不再不间断地生起，便称为「从执取转起中出起」。（阿毗达摩义注、1、278。）
+
+**ekaṃ bhava**nti anāgāmino anekakkhattuñca tattheva upapajjantassa heṭṭhā anāgamanavasena eko bhavoti gahetvā vuttaṃ. (Mūlaṭī-1-117.)
+
+不来者个体虽在色界、非色界中一再地、多次地受生，但因广大(mahaggata)生存唯是一处、唯是一类，故其没有再返回下方欲(kāma)地的可能——依此之力，故 ----- eko bhavo = 一类生存，义注(aṭṭhakathā)如是取意而说。（根本复注、1、117。）
+
+倘若阿拉汉(arahanta)个体未能生起阿拉汉道(arahattamagga)，若如此未曾令其生起，则在色界、非色界生存中，不间断生起的执取转起便会生起；何以故——因为作为那执取转起之生起原因的诸烦恼，仍然明显地存在着之故。
+然而，色贪染(rūparāga)、非色贪染(arūparāga)、慢(māna)、掉举(uddhacca)、无明(avijjā)这名为上分的五种结缚，以及慢随眠(mānānusaya)、有贪随眠(bhavarāgānusaya)、无明随眠(avijjānusaya)这三种随眠——合计八种，这些烦恼，那阿拉汉道一旦生起，就在其自身正生起的那一刹那，无余地断除；如此断除之后，如今在成为阿拉汉之时，于阿拉汉个体的相续中，又如何还能于此后另一次生存中生起执取转起＝不间断生起的执取蕴相续呢？
+如此一来，阿拉汉道通过使执取转起不再不间断地生起，便称为「从执取转起中出起」。（阿毗达摩义注、1、278-279。）
+
+接下来再说 ----- 若把执取转起也以「生存」之名来称说，则在这四种圣道(ariya magga)中，入流道(sotāpattimagga)从恶趣(apāya)生存中出起；一来道从名为欲善趣生存(kāmasugatibhava)的某一部分生存中出起。
+不来道从一切欲界生存(kāmabhava)中出起。
+阿拉汉道从色界、非色界生存中出起。
+诸尊师也说，（阿拉汉道）实是从一切生存中出起。（阿毗达摩义注、1、279。）
+
+为了明确显示上述「圣道从执取转起中出起」这一含义，接下来所要说的，即是《小广释(Cūḷaniddesa)·波罗延品(Pārāyanavagga)·阿吉德青年所问义释(Ajitamāṇavapucchāniddesa)》的巴利圣典。
+
+sotāpattimaggañāṇena abhisaṅkhāraviññāṇassa nirodhena satta bhave ṭhapetvā anamatagge saṃsāravaṭṭe ye uppajjeyyuṃ nāmañca rūpañca, etthete nirujjhanti vūpasamanti atthaṃ gacchanti paṭippassambhanti.
+
+sakadāgāmimaggañāṇena abhisaṅkhāraviññāṇassa nirodhena dve bhave ṭhapetvā pañcasu bhavesu ye uppajjeyyuṃ nāmañca rūpañca, etthete nirujjhanti vūpasamanti atthaṃ gacchanti paṭippassambhanti.
+
+anāgāmimaggañāṇena abhisaṅkhāraviññāṇassa nirodhena ekaṃ bhavaṃ ṭhapetvā kāmadhātuyā dvīsu bhavesu ye uppajjeyyuṃ nāmañca rūpañca, etthete nirujjhanti vūpasamanti atthaṃ gacchanti paṭippassambhanti.
+
+arahattamaggañāṇena abhisaṅkhāraviññāṇassa nirodhena rūpadhātuyā vā arūpadhātuyā vā ye uppajjeyyuṃ nāmañca rūpañca, etthete nirujjhanti vūpasamanti atthaṃ gacchanti paṭippassambhanti.
+arahato anupādisesāya nibbānadhātuyā parinibbāyantassa carimaviññāṇassa nirodhena paññā ca sati ca nāmañca rūpañca, etthete nirujjhanti vūpasamanti atthaṃ gacchanti paṭippassambhanti. (Khu-8-33 - Cūḷaniddesa.)
+
+由于因入流道智(sotāpattimaggañāṇa)而使那能筹措令新生存之果报(vipāka)生起的积聚识(abhisaṅkhāraviññāṇa)＝业识(kammaviññāṇa)灭尽，故除去那七次生存之外，在名为「其始不可知」的无始(anamatagga)轮回(saṃsāravaṭṭa)苦的整个领域中，本应生起种种名(nāma)之法与色之法。
+由于这入流道智，这些名色之法便灭尽、寂止，趋于灭没，寂灭清凉。
+
+由于因一来道智(sakadāgāmimaggañāṇa)而使那能筹措令新生存中果报生起的积聚识＝业识灭尽，故除去那两次生存之外，在五次生存中，本应生起种种名之法与色之法。
+由于这一来道智，这些名色之法便灭尽、寂止，趋于坏灭，寂灭清凉。
+
+由于因不来道智(anāgāmimaggañāṇa)而使那能筹措令新生存中果报生起的积聚识＝业识灭尽，故除去一次生存之外，在欲界(kāmadhātu)中（由于未能生起不来道，而以一来者之身可能受生的）两次生存中，本应生起种种名之法与色之法。
+由于这不来道，这些名色之法便灭尽、寂止，趋于坏灭，寂灭清凉。
+
+由于因阿拉汉道智(arahattamaggañāṇa)而使那能筹措令新生存中果报生起的积聚识＝业识灭尽，故若未证得阿拉汉道，则以不来者之身，无论在色界(rūpadhātu)或非色界(arūpadhātu)中，本应生起种种名之法与色之法。
+由于这阿拉汉道，这些名色之法便灭尽、寂止，趋于灭没，寂灭清凉。
+阿拉汉个体以那没有果报名蕴(vipākanāmakkhandha)、业所作色(kaṭattārūpa)＝果报名法与业生色(kammajarūpa)丝毫剩余的无五蕴剩余(anupādisesa)涅槃界(nibbānadhātu)而入般涅槃(parinibbāna)、色身寂灭止息之时，由于最后生起的般涅槃死殁(cuti)识(viññāṇa)以那不再重生的无生灭(anuppādanirodha)之性而灭，故慧(paññā)、念(sati)、名、色，这些法便灭尽、寂止，趋于坏灭，寂灭清凉。（小部、8、33—小广释。阿毗达摩义注、1、279。）
+
+**积聚识** ----- 如在「福积聚(puññābhisaṅkhāra)」等中那样，abhisaṅkhāra 一词表示能筹措果报之法的「业」这一含义。因此，所谓积聚识，即是与那业(kamma)＝思(cetanā)相应的识；也称为业识。
+当证得入流道智时，那本会在七次生存之后给予果报的积聚识便灭去了。
+因此，七次生存之后，作为果报的名与业生色便不再生起了。
+至于因一来道智等而使积聚识灭尽的样态，也应以同样的方式了知。
+（此处「七次生存」等的取意方式，也应如前面已写述的那样记取。）
+
+**nirodha** ---- apāyesu sattamabhavato uddhaṃ sugatiyañca vipākadāyakassa abhisaṅkhāraviññāṇassa paccayaghāto sotāpattimaggañāṇena abhisaṅkhāraviññāṇassa nirodho daṭṭhabbo. (Mūlaṭī-1-117.)
+
+**积聚识的息灭** ---- 名为「积聚识」的这一业，并非圣道智所应断除之法；因此便有「积聚识这一业究竟以何种方式灭去」这样值得提问之处。
+答曰——积聚识唯有在获得名为无明—渴爱(taṇhā)的伴侣时，才能筹措令果报诸法生起；而那无明—渴爱，正是圣道诸法所应无余断除之法。
+当圣道诸法把作为积聚识之原因的无明—渴爱无余地、连根拔除地断尽时，积聚识也就随之趋于灭尽了。
+因此，便以「因的譬喻用法(kāraṇūpacāra)」——即以因之名施于果——把作为原因的无明—渴爱之灭，说成是积聚识之灭。
+因此，应当把「断杀那作为积聚识之原因、能在恶趣苦趣地(duggati)的诸生存中，以及在超过七次生存之后的善趣地(sugati)生存中给予果报的诸烦恼」这一事，记作是「因入流道智而使积聚识灭」。
+至于因其余诸圣道智而使各自相应的积聚识灭尽的样态，也应以同样的方式记取。（参见根本复注、1、117。）
+
+以上便是《胜义说(Atthasālinī)》义注中所载「圣道从相(nimitta)与转起中出起的样态」之判别。（阿毗达摩义注、1、277-279。）
+
+**【文件：[433]随顺智章/[457] 逐个法观.md】**
+
+### 逐个法观（anupadadhammavipassanā）
+
+Samūhagahaṇavasena pavattaṃ **kalāpasammasanaṃ.** 
+Phassādiekekadhammagahaṇavasena pavattā **anupadadhammavipassanā.** (Mūlaṭī 1,109.)
+
+以色（rūpa）、名（nāma）二法的方式，以五蕴（khandha）的方式，以十二入处（āyatana）的方式，以十八界（dhātu）的方式，以缘起（paṭiccasamuppāda）十二支的方式等等的这些观修法，都是把诸究竟法（paramattha）总括归摄起来而修习观照的聚思惟（kalāpasammasana）观修法。
+在色的部分，以智（ñāṇa）把存在于诸如眼十法聚（cakkhudasakakalāpa）等种种色聚（rūpakalāpa）之中的、如地界（pathavīdhātu）等诸究竟法逐一分辨析取，并在那些究竟法当中，把如地界等的每一粒究竟界质一粒一粒地〔取来观照〕；在名的部分，也是以智把存在于诸如初禅（jhāna）名法等种种名法群之中的、如触（phassa）等每一个个的法分辨析取、摄持，并把那些名法一粒一粒地〔取来观照〕——为它们标示特相（lakkhaṇā）而修习观照的方法，正是凭借以智对如地、如触等每一个个的法逐一分辨析取之力而生起的**逐个法观修法**。（Mūlaṭī 1,109。Abhi-A 1,253。）
+
+如此，观修法有聚思惟观修法与逐个法观修法这两种；上文所写陈述过的那些观修法，都只是聚思惟观修法而已。
+尽管以这聚思惟观修法的种种方式努力用功，倘若你这位善男子仍未能到达至出起观（vuṭṭhānagāminīvipassanā），那么此时若想改换为逐个法观修法来重新振作，也是可以重新振作的。
+
+逐个法观修法出现于《后五十篇》圣典（Uparipaṇṇāsa）的《逐一品》（Anupadavagga）《逐一经》（Anupadasutta）（M 3,75）当中。
+若以模式化的方式来说——你这位善男子应入出息（ānāpāna）初禅；在那初禅的三十四个名法当中，以智把触分辨析取出来，为那触套上特相之轨而观照。
+同样地，其余的诸名法也一粒一粒地套上特相之轨而观照。
+倘若你这位善男子已在全部十种遍处（kasiṇa）上各自证得八种等至（samāpatti），那么，除去非想非非想处（nevasaññānāsaññāyatana）禅等至的名法群不计，对于其余诸禅等至的名法群，也同样地把每一粒一粒的名究竟法以智分辨析取，并为那些名法一一套上特相之轨而观照。
+诸弟子（sāvaka）无法以逐个法观之法，把非想非非想处禅等至的名法群一粒一粒地观照。
+唯有以聚思惟之法，总括归摄起来才能观照。
+即便是尊者沙利子（sāriputta）大德本人，也无法以逐个法观之法来观照那非想非非想处禅等至诸法。
+唯有以聚思惟观修法，总括归摄起来才能观照。
+以逐个法观之法来观照那非想非非想处禅等至诸法，唯是一切知正自觉（sabbaññusammāsambuddha）诸佛陀（Buddha）的境界而已。（参见 Abhi-A 1,253。）
+
+对于存在于六门（dvāra）四十二部分（koṭṭhāsa）中的诸色法，也把诸色聚加以分界，按照色业处（rūpakammaṭṭhāna）部分诸表所列示的那样，以智把如地界等一粒一粒的每一色法分辨析取，并对那些色究竟一一地、一粒一粒地同样套上特相之轨，以逐个法观之法而修习观照。
+同样地，对于诸如眼门心路（cakkhudvāravīthi）等的欲界（kāmāvacara）名法＝存在于那些各个心刹那（cittakkhaṇa）之内的名法，也能一粒一粒地观照。
+
+如此，在聚思惟之法与逐个法观之法这两种观照方法当中，无论只用其中任何一种，还是两种都用，只要如此修习观照，你这位善男子便能随着波罗蜜（pāramī）的相应程度，到达至出起观。
+
+### 名业处（nāmakammaṭṭhāna）的详广观修法
+
+在**名业处部分**中，已经写述陈列了详广地摄持诸名法的方法。
+对于以详广之法所摄持的那些名法，在从思惟智（sammasanañāṇa）部分、生灭智（udayabbayañāṇa）部分开始、直到行舍智（saṅkhārupekkhāñāṇa）为止的这观智部分中，也能套上三重特相之轨而修习观照。
+
+以上文所写陈述过的种种观照方法竭尽全力地精勤修习观的修习（bhāvanā）业处，倘若仍未能获得直至道智（maggañāṇa）、果智（phalañāṇa）的成就，又或者你这位善男子自己也想再以名业处详广观修法来遍历观的修习业处，那么便详广地摄持诸名法，为那些名法套上三重特相之轨而修习观照吧。
+
+关于观修法的体系，为了智慧较钝的人，在此再稍作一些补充解说。
+譬如——眼门（cakkhudvāra）＝眼睛处有五十四种色法，对每一粒一粒的色作为所缘（ārammaṇa）而生起的、以善（kusala）速行（javana）速起的一切名法，以及以不善（akusala）速行速起的一切名法，都加以摄持，并为那些名法套上三重特相之轨而修习观照。
+同样地，对于存在于诸如耳门（sotadvāra）等其余五种门中的各个色法＝把每一种一种的色法作为所缘而生起的诸名法，以及对于四十二部分当中各个部分里所存在的如四十四种等诸色法当中、把每一种一种的色法作为所缘而生起的诸名法，都加以摄持，套上三重特相之轨而修习观照。
+
+如此观照时，眼门处有五十四种色，其中眼十法聚里有十种色；对存在于那眼十法聚中的地界作为所缘而生起的诸名法观照完毕后，再对同样存在于那眼十法聚中的水界（āpodhātu）作为所缘而生起的诸名法观照。
+以这种方法，把眼十法聚中十种色法里、每一种一种的色作为所缘而生起的各个名法观照完毕后，对于同样存在于那眼门中的身十法聚（kāyadasakakalāpa）里十种色当中、每一种一种的色作为所缘而生起的诸名法，也照此次第、以相同方法观照。
+把眼门中五十四种色里、每一种一种的色作为所缘而生起的诸名法，在内（ajjhatta）、外（bahiddha）两种相续（santāna）中都观照完毕后，再转向耳门等去观照。
+在四十二部分中也以相同方法观照。
+
+对于存在于那六门四十二部分中的诸色法，若依所缘分门别类地划分，则只有六种所缘而已。
+存在于各个色聚之中的——
+
+- 一、颜色（vaṇṇa）是色所缘（rūpārammaṇa）。
+- 二、香（gandha）是香所缘（gandhārammaṇa）。
+- 三、味（rasa）是味所缘（rasārammaṇa）。
+- 四、地、火（tejo）、风（vāyo）是触所缘（phoṭṭhabbārammaṇa）。
+- 五、存在于入出息声九法聚（assāsapassāsasaddanavakakalāpa）等之中的声音—声色（saddarūpa），是声所缘（saddārammaṇa）。
+- 六、水界、性根色（bhāvarūpa）、命（jīvita）、心色（hadayarūpa）、净色（pasādarūpa）等其余的净色、细色（sukhumarūpa），是法所缘（dhammārammaṇa）。
+
+如同在名业处部分里于色所缘线、声所缘线等中曾摄持诸名法那样＝按照名业处诸表，把那些名法摄持起来而观照。
+把善速行心路、不善速行心路都观照至尽、无所遗漏。
+
+如此观照时，可以用**聚思惟观照法、逐个法观照法**这两种观照方法，随自己所喜好地修习观照。
+依你这位善男子的波罗蜜为基础，或许便能到达至出起观。
+
+**【文件：[433]随顺智章/[460] 无明与明.md】**
+
+### 无明(avijjā)与明(vijjā)
+
+有一次，佛陀(Buddha)正住在沙瓦提(sāvatthi)城。
+那时，一位比库(bhikkhu)来到世尊面前，恭敬地礼拜佛陀之后，坐在一处适当的地方，然后向世尊这样禀白。
+
+“世尊……说到『无明、无明』，世尊……什么法是无明呢？以何种程度成为堕入无明者呢？”如此禀白此语。
+
+“亲爱的比库……在此世间，对于具有因法的五取蕴(pañcupādānakkhandha)，缺乏名为学闻(āgama suta)的学知、名为修闻(adhigama suta)的行知——由于没有这『学知、行知』两种知，缺少博学多闻、究竟(paramattha)智慧之眼盲昧的凡夫(puthujjana)——
+
+- 1.（甲）不了知色(rūpa)法，
+- （乙）不了知色法生起之因的集(samudaya)，
+- （丙）不了知色法息灭的灭(nirodha)，
+- （丁）不了知导向色法息灭之灭的修行道。
+- 2.（甲）不了知受(vedanā)法。略。
+- 3.（甲）不了知想(saññā)法。略。
+- 4.（甲）不了知诸行(saṅkhāra)法。略。
+- 5.（甲）不了知识(viññāṇa)法，
+- （乙）不了知识法生起之因的集，
+- （丙）不了知识法息灭的灭，
+- （丁）不了知导向识法息灭之灭的修行道。
+
+“亲爱的比库……如此不了知，称为无明；以此程度，即成为堕入无明者。”佛陀如此说。（相应部、2、132 —— 无明经。）
+
+有一次，佛陀正住在沙瓦提城；那时，一位比库来到世尊面前，恭敬地礼拜佛陀之后，坐在一处适当的地方，然后向世尊这样禀白。
+
+“世尊……说到『明、明』，什么法是明呢？
+世尊……以何种程度成为证得明者呢？”如此禀白此语。
+
+“亲爱的比库……在此世间，对于具有因法的五取蕴，具备名为学闻、修闻的『学知、行知』这两种知，博学多闻、身为圣(ariya)者、我世尊的弟子(sāvaka)——
+
+- 1.（甲）了知色法，
+  - （乙）了知色法生起之因的集，
+  - （丙）了知色法息灭的灭，
+  - （丁）了知导向色法息灭之灭的修行道。
+- 2.（甲）受法。略。
+- 3.（甲）想法。略。
+- 4.（甲）诸行法。略。
+- 5.（甲）了知识法，
+  - （乙）了知识法生起之因的集，
+  - （丙）了知识法息灭的灭，
+  - （丁）了知导向识法息灭之灭的修行道。
+
+亲爱的比库……此即称为明；以此程度，即成为证得明者。”佛陀如此说。（相应部、2、132 —— 明经。）
+
+有一次，佛陀正住在沙瓦提城；那时，一位比库来到世尊面前，恭敬地礼拜佛陀之后，坐在一处适当的地方，然后向世尊这样禀白。
+
+“世尊……以何种方式了知、以何种方式见的人，才能使『不知＝无明』消除、『知＝明智』生起呢？”如此禀白。
+“亲爱的比库……
+
+- 1.（甲）对于将眼(cakkhu)净色了知、见为无常(anicca)（苦(dukkha)、无我(anatta)）的人，不知＝无明能够消除，知＝明智能够生起。
+  - （乙）诸色所缘(rūpārammaṇa)。略。
+  - （丙）眼识。略。
+  - （丁）眼触(cakkhusamphassa)。略。
+  - （戊）对于将由名为眼触的因缘而生起的感受——乐(sukha)受、苦受、舍(upekkhā)受了知、见为无常（苦、无我）的人，不知＝无明能够消除，知＝明智能够生起。
+- 2.（甲）耳净色。略。
+  - （乙）诸声所缘。略。
+  - （丙）耳识。略。
+  - （丁）耳触(sotasamphassa)。略。
+  - （戊）将由名为耳触的因缘而生起的感受——乐受、苦受、舍受。略。
+- 3.（甲）鼻净色。略。
+  - （乙）诸香所缘。略。
+  - （丙）鼻识。略。
+  - （丁）鼻触(ghānasamphassa)。略。
+  - （戊）将由名为鼻触的因缘而生起的感受——乐受、苦受、舍受。略。
+- 4.（甲）舌净色。略。
+  - （乙）诸味所缘。略。
+  - （丙）舌识。略。
+  - （丁）舌触(jivhāsamphassa)。略。
+  - （戊）将由名为舌触的因缘而生起的感受——乐受、苦受、舍受。略。
+- 5.（甲）身(kāya)净色。略。
+  - （乙）诸触所缘。略。
+  - （丙）身识。略。
+  - （丁）身触(kāyasamphassa)。略。
+  - （戊）将由名为身触的因缘而生起的感受——乐受、苦受、舍受。略。
+- 6.（甲）对于将意(mano)净色了知、见为无常（苦、无我）的人，不知＝无明能够消除，知＝明智能够生起。
+  - （乙）诸法所缘。略。
+  - （丙）意识。略。
+  - （丁）意触(manosamphassa)。略。
+  - （戊）对于将由名为意触的因缘而生起的感受——乐受、苦受、舍受了知、见为无常（苦、无我）的人，不知＝无明能够消除，知＝明智能够生起。
+
+亲爱的比库……对于如此了知、如此见的人，不知＝无明能够消除，知＝明智能够生起。”佛陀如此说。（相应部、2、259-260 —— 舍断(pahāna)无明经。）
+
+善男子也应恭敬顶戴这些开示，精勤努力，使无明消除、明智之光生起。
+
+**行道智见清净广释(paṭipadāñāṇadassanavisuddhiniddesa) 完结。**
+
+**【文件：[463]智见清净释/[463]a 智见清净释.md】**
+
+# 智见清净（ñāṇadassanavisuddhi）释
+
+**【文件：[463]智见清净释/[463]b 第一道智 = 入流道智.md】**
+
+### 第一道智(paṭhamamaggañāṇa) = 入流道智(sotāpattimaggañāṇa)
+
+从属于至出起观(vuṭṭhānagāminī vipassanā)所摄的这一**随顺智(anulomañāṇa)**之上，种姓智(gotrabhuñāṇa)生起；由于那**种姓**智安立于圣道(ariyamagga)的转向(āvajjana)之处，所以它也不归入行道智见清净(paṭipadāñāṇadassanavisuddhi)——这是因为它不以无常(anicca)等[三相]的力量去执取诸行法(saṅkhāra dhamma)之故，也就是不把行的所缘作为所缘、不作意行的所缘之故。
+虽然它有以涅槃(nibbāna)为所缘的性质，但由于不能灭尽诸烦恼(kilesa)，所以它也不归入智见清净(ñāṇadassanavisuddhi)。
+正因为如此地不能灭尽诸烦恼，那种姓智——犹如那能为眼识(cakkhuviññāṇa)等五识界(pañcaviññāṇadhātu)在五所缘(pañcārammaṇa)中指示出色所缘(rūpārammaṇa)等某一种所缘、从而担负指示所缘之职的唯作意界(kiriya manodhātu)五门转向(pañcadvārāvajjana)一样——因为它能为圣道指示出涅槃，所以说它安立于圣道的转向之处。
+它处于行道智见清净与智见清净这两者之间，由于不具备那两种清净(visuddhi)的特相，所以是不可言说的(abbohārika)——就名言(vohāra)而言，不值得称它为哪一种清净。
+然而——由于它作为至出起观的终点，是观(vipassanā)的随从、伙伴，落在观流(vipassanāsota)＝观的水流之中，因而也就达到了被称为「观」＝被称为「至出起观」的
+地步。
+（这句话也显示了种姓智同样归属于行道智见清净。）（《清净之道》2,312。《大疏钞》2,483。）
+
+入流道(sotāpattimagga)、一来道(sakadāgāmimagga)、不来道(anāgāmimagga)、阿拉汉道(arahattamagga)——在这四种道中生起的智，名为**智见清净(ñāṇadassanavisuddhi)**。（《清净之道》2,312。）
+
+在那四种圣道智中，想要首先圆满第一道智＝入流道智的瑜伽行者(yogāvacara puggala)，再没有别的任何应做之事了。
+的确——那瑜伽行者应做的事，即令以随顺智为终点的观智生起，唯有在把应做该做的工作做完之后才会成就。
+唯有做完之后才会成就。（《清净之道》2,312。）
+
+[**须注意**——这一部分是：取诸行法的纯粹坏灭为所缘，把三种相(lakkhaṇa)之乘轮流提起，特别是以无我相(anattalakkhaṇa)为主、着重于它而修观的部分。
+在这一部分中，你这位贤善的禅修者若是纯观乘者(suddhavipassanāyānika puggala)，由于已经把种种杂多(pakiṇṇaka)行法周遍观照过、修过观了，就只须以法所缘(dhammārammaṇa)一系中善的一组、纯粹的名法(nāma dhamma)为主而修观。
+以那些名法、以及有时以那些名法所依的依处色(vatthurūpa)为主，色一轮、名一轮、内(ajjhatta)一轮、外(bahiddha)一轮地轮换，也在三种相之乘中逐一提起，或者以自己最喜爱的某一种相为主而修观。
+有时也要把正在观照的观智再度拿来修观。
+
+如果你这位贤善的禅修者是以止为乘者(samathayānika puggala)，就以自己已证得的诸禅那名法(jhāna nāma dhamma)一轮、以那些禅那名法所依的依处色一轮、内一轮、外一轮，也在三种相之乘中逐一提起，或者以自己所喜欢的某一相为主，来修观。
+也可以只以自己最喜爱的一种禅那为主、以最喜爱的一种相之乘为主来修观。
+由于已经把种种观照的项目都周遍观照过了，所以完全可以只以自己所喜爱的某一种行法为主来修观。
+如此观照时，也要一再地把正在修观的智＝意门观速行心路(manodvārika vipassanā javana vīthi)的心识之流、名法组，再度拿来修观。
+
+在聚思惟观(kalāpasammasana vipassanā)的修法与次第法观(anupadadhamma vipassanā)的修法这两种观修法中，完全可以用自己所喜欢的方法来修观、审察。
+
+如此修观时，观心在观照内在诸法之际，若安稳地贴住、安立于内在的行的所缘上，那就继续观照内在的诸行法。
+在观照外在诸行法之际，那观心若安稳地贴住、安立于外在的所缘上，就继续观照外在的诸行法。
+这是因为在这样的时刻，如果勉强要内、外轮流地修观，那么心安稳贴住、安立于行的所缘上的定根(samādhindriya)反而会减弱之故。
+也因为对诸行法的舍置、行舍(saṅkhārupekkhā)之性也会减弱之故。
+
+再者，当把诸行法观为无常之际，观修习心(vipassanā bhāvanā citta)若安稳地贴住、安立于那行的所缘上，就继续把那些行法观为无常。
+当把那些行法观为苦之际，观修习心若安稳地贴住、安立于那行的所缘上，就继续把那些行法观为苦。
+当把那些行法观为无我之际，观修习心若安稳地贴住、安立于那行的所缘上，就继续把那些行法观为无我。
+这正是为了使定根与行舍之性不致减退。
+
+如此安稳地贴住、安立于诸行法的无常之点、或苦之点、或无我之点上的观心，正是上文所述的信(saddhā)、精进(vīriya)、念(sati)、定(samādhi)、慧(paññā)诸根(indriya)已然齐备的那种观心。
+为了让与那观心相应的诸根越来越成熟，就继续取自己所观照的色行(rūpa saṅkhāra)或名行(nāma saṅkhāra)的坏灭为所缘，也在三种相状中只专注地提起自己一向惯观的某一种相之乘，
+如此持续修观。
+如此修观的观心，当五根均等、变得成熟、变得敏锐、变得勇猛、变得清净时，就必定会令以随顺智为终点的观智生起。
+为了使以随顺智为终点的观智生起而必须做的工作，此时已经做完了。]
+
+由于如此把应做该做的工作做完了，在那瑜伽行者的相续中，便生起三次或两次的随顺智；在那些智中，第一随顺智＝遍作(parikamma)，能使那遮蔽一切中最粗重之四谛(sacca)的痴(moha)暗隐没；第二随顺智＝近行(upacāra)，能使那遮蔽较此不那么粗重之四谛的痴暗隐没；第三随顺智＝随顺(anuloma)，能使那遮蔽较此更不那么粗重之四谛的
+痴暗隐没。
+换一种说法：由于依循下等行舍智(saṅkhārupekkhāñāṇa)所熏成的力量，[这三种随顺智]便能使那遮蔽粗细不等之四谛的痴暗隐没。
+当如此使[痴暗]隐没时，那瑜伽行者的心便不再奔入一切诸行法，不再安住其中，不再作意，不再贴附，不再黏着，不再联结，而是如同微微倾斜的莲(paduma)叶上的水珠一般，退缩、蜷卷、回转。
+名为「所知(ñāta)、智(ñāṇa)」的观智所缘取的对象——即一切名为行相(saṅkhāranimitta)的所缘，以及那相续不断的、名为有执受(upādinnaka)蕴之生命期间(pavatta)的所缘——由于那能遮蔽「[它们]乃是令人操心的障碍(palibodha)」之实的痴暗已被去除、被灭尽，故而都显现为障碍。
+此后，对那瑜伽行者而言，一切名为「相(nimitta)与生命期间」的所缘既已显现为障碍，那么，在得到重复缘(āsevanapaccaya)之助的第二随顺智、或第三随顺智的末尾，承接了那第二或第三随顺智之重复(āsevana)力之恩助的——
+
+- 一、无相(animitta)＝没有行相、与行相相对立的，
+- 二、无生命期间(appavatta)＝远离生命期间、与生命期间相对立的，
+- 三、离行(visaṅkhāra)＝非行的，
+- 四、灭(nirodha)＝作为诸行之寂灭处的——
+
+以涅槃这一殊胜之法为所缘，超越凡夫(puthujjana)的族类＝「凡夫」之名、「凡夫」之名言、凡夫之地(bhūmi)＝凡夫之境地＝凡夫之时位，而趣入圣者(ariya)的族类、趣入「圣者」之名言、趣入圣者的阶位之地，在涅槃所缘上最先回转、最先作意、最先思择而生起——它为第一道智以无间(anantara)、等无间(samanantara)、重复、强依止(upanissaya)、无有(natthi)、离去(vigata)之力这六种缘力(paccayasatti)作助益，圆满此助益之事，作为已达至最高顶点、终极究竟的观之顶巅，故因它是一向决定(ekantika)的，又因它只生起一次、不再回转，如此的**种姓智**便生起了。（《清净之道》2,312。）
+
+在那随顺智与种姓智这两者中，随顺智只能够断除那遮蔽四谛的、名为烦恼的暗，却不能够以涅槃为所缘。
+至于种姓智，则只能够以涅槃为所缘，而不能够断除那遮蔽四谛的烦恼之暗。
+正因为如此地不能够[断烦恼]，才把那种姓智称为圣道的转向。
+的确——那种姓智虽然并非转向，却安立于转向之处——它仿佛是在向圣道给予一个信号：「你要这样生起＝不要像诸随顺智那样以行为所缘，而要像我一样以涅槃为所缘而生起」，如此[给予信号]之后便灭去。
+圣道也不放过那种姓智所给予的信号，凭借那毫无间隔的名相续(nāmasantati)之流的力量，紧随于那种姓智之后，同样以那种姓智所缘取的涅槃为所缘，去洞穿、去剖开那尚未曾被洞穿、尚未曾被剖开的贪(lobha)块、瞋(dosa)块、痴块——正是在如此洞穿、如此剖开之下而生起。（《清净之道》2,313-314。）
+
+那圣道并不只是纯粹地洞穿贪块等而已；实际上，它更使那从未来第一世起将要生起的、以「不可知[其起点]」等为特征的、名为生死轮回(saṃsāra)之苦的大海之水枯竭；关闭一切恶趣(apāya)之门；使信、戒(sīla)、惭(hiri)、愧(ottappa)、闻(suta)、施(cāga)、慧这七种善人之财在现前得以圆满成就；舍弃以邪见(micchādiṭṭhi)等八支为体的邪道(micchāmagga)；平息以杀生(pāṇātipāta)等为首的五种怖畏、二十五种大恶怖；引领[行者]成为一切知正自觉之佛陀(sabbaññu sammāsambuddha)金色胸怀所生的真子、真女；此外还能带来对三宝(ratana)生起信解等无量众多的利益(ānisaṃsa)。
+如此，与能给予如此众多利益之入流道相应的智，即名为「于入流道中生起的智」。（《清净之道》2,314-315。）
+
+**【文件：[463]智见清净释/[466] 须陀洹个体.md】**
+
+### 须陀洹(sotāpanna)个体(puggala)
+
+在这入流道智(sotāpattimaggañāṇa)的无间之后，唯独以那入流道心(sotāpattimaggacitta)为因（而生果）的两次果心(phalacitta)也好、三次果心也好，都会生起。
+的确————正因为出世间(lokuttara)善(kusala)具有「在自己生起之后的无间处即予以果报」的性质————
+
+“Samādhimānantarikaññamāhu”（《小部》1,5。）
+
+＝「诸佛陀(buddha)开示说：与那圣道(ariyamagga)相应结合的殊胜的定(samādhi)法，在它自己隐没之后的无间之时，必定确凿地给予名为圣果(ariyaphala)的果法」——如此，
+
+Dandhaṃ ānantarikaṃ pāpuṇāti āsavānaṃ khayāya.（《增支部》1,467。）
+
+＝「为使诸漏(āsava)法灭尽，[行者]缓缓迟缓地到达那圣道——此圣道有着唯在自身无间之后才生起的、名为圣果的果」——如此，————
+
+佛陀开示了如此等等的圣言。（《清净之道》2,315。）
+
+某些阿闍梨(keci)则说：一次、两次、三次或四次的果心都可能生起。但那些阿闍梨的说法是断然不可采纳的。
+原因在于：在获得重复缘(āsevanapaccaya)之助的随顺智(anulomañāṇa)之无间处，种姓智(gotrabhuñāṇa)生起；因此，就位于一切之最下、最低的那一分而言，依其分限，至少应有两次的随顺心(anulomacitta)生起。
+的确——仅仅一次的随顺是无法获得重复缘之助的。
+再者，具有一个转向(āvajjana)的心路(vīthi)，其长度为七个心[刹那]。
+（意思是：速行(javana)至多也只生起六次或七次。）
+因此，在任一瑜伽行者(yogāvacara puggala)的相续(santāna)中，若生起两次随顺，那么在那个体的相续中，第三次的种姓速行(gotrabhujavana)便生起，第四次的圣道心(ariyamaggacitta)生起，随后是三次的圣果心(ariyaphalacitta)生起。（《清净之道》2,315。）
+
+在任一瑜伽行者的相续中，若生起三次随顺，那么在那个体的相续中，第四次的种姓、第五次的圣道心、以及两次的圣果心便生起。
+因此，「生起两次、三次的果心」这样的说法，是应当采纳的。（《清净之道》2,315。）
+
+而某些阿闍梨则说：在任一瑜伽者(yogī)身上，若生起四次随顺，那么在那个体身上，第五次的种姓、第六次的圣道心、以及一次的圣果心便生起。
+那些阿闍梨的说法，就其实质而言，是不可信受的。
+原因在于————第四次也好、第五次也好，都能以安止(appanā)之力而生起；但超过那第五次，就无法以安止之力而生起了，因为[它]已经与有分(bhavaṅga)极为接近之故——[圣典]如此地予以否决。
+因此，某些阿闍梨之说(kecivāda)，就其实质而言，是不可信受的。（《清净之道》2,315。）
+
+唯有当圣果在如此长度的第一道(paṭhamamagga)之无间处生起，仅仅凭借这一点，这位瑜伽行者才成为名为须陀洹的第二种圣者(ariyapuggala)。
+纵使他[将来]因得为帝释(sakka)之王、转轮王(cakkavatti)之王等而落入放逸之境地、剧烈地放逸，他仍然能够在天界与人间之间往返奔走七次之后，作出苦的终结。
+在圣果心的末尾，那位瑜伽行者的心便再度落入有分。
+在落入那有分之后，由于有分中断，为了省察圣道，意门转向(manodvārāvajjana)便生起。
+当那意门转向灭去之后，依次生起七次省察圣道的速行。这就是省察圣道的省察心路(paccavekkhaṇāvīthi)。
+再者，[心]又落入有分，就以那种方式，为了省察圣果等，转向等便生起。
+由于那些转向与速行心(javanacitta)的生起，这位须陀洹个体————
+
+- 一、名为省察道(magga)，
+- 二、名为省察果(phala)，
+- 三、名为省察已断的诸烦恼(kilesa)，
+- 四、名为省察已断烦恼之外所余的、尚未断除的诸烦恼，
+- 五、名为省察涅槃(nibbāna)。
+
+那个体如此地省察道：「我确实是由这条道而来的呀。」
+此后，[他]省察果：「我获得了这项果报利益(ānisaṃsa)。」
+此后，[他]省察已断的诸烦恼：「我已经断除了如此这般的诸烦恼。」
+此后，[他]省察那些应由上三种圣道所断除的诸烦恼：「我还残余着如此这般的诸烦恼。」
+最后，[他]省察那无有死亡的不死涅槃：「我已经以此法(dhamma)为所缘(ārammaṇa)而了知了它。」
+如此，在成为须陀洹的圣弟子(ariyasāvaka)的相续中，便生起五次的省察。
+正如须陀洹个体有五次省察生起那样，同样地，一来者(sakadāgāmi)个体、不来者(anāgāmi)个体也各有五次省察生起。
+尤其应当记住：对于阿拉汉(arahanta)个体而言，已不再有所谓省察残余烦恼这回事了。
+（意思是：在阿拉汉个体的相续中，只可能生起四种省察。）
+如此，全部合计共有（19）种省察。（《清净之道》2,315-316。）
+
+如此的陈述，乃是「最极限度(ukkaṭṭhapariccheda)」＝依最极的分限而作的陈述。
+的确，省察已断除的诸烦恼、以及省察尚未断除而残余的诸烦恼，对于有学(sekkha)个体而言，有时会生起，有时也不生起。
+的确————那种能够省察已断烦恼、残余烦恼的能力，某些有学个体有之，某些有学个体则无。
+正因为如此地没有[能够]作这样的省察，释迦族的大王子摩诃男(Mahānāma)才向世尊请问：「威德广大尊贵的世尊……由于存在着某种尚未断除的烦恼法(kilesadhamma)，弟子的善心(kusalacitta)，有时贪(lobha)法也将它耗尽而住立，有时瞋(dosa)法也将它耗尽而住立，有时痴(moha)法也将它耗尽而住立；在弟子内在的相续(ajjhattasantāna)中，那尚未断除的烦恼法究竟是什么样的烦恼法呢？」（《中部》1,126。）
+应当详尽地了知这整部经(sutta)。（《清净之道》2,316。）
+
+以上这些论述，乃是《清净之道》义注(aṭṭhakathā)的解说。
+《根本五十经篇》义注中的《小苦蕴经》(Cūḷadukkhakkhandhasutta)（《中部义注》1,366。）
+其注解中，也如此解说道：————
+
+Sā pana na sabbesaṃ paripuṇṇā hoti.
+Eko hi pahīnakilesameva paccavekkhati, eko avasiṭṭhakilesameva, eko maggameva, eko phalameva, eko nibbānameva.
+Imāsu pana pañcasu paccavekkhaṇāsu ekaṃ vā dve vā no laddhuṃ na vaṭṭanti.
+Iti yassa paccavekkhaṇā na paripuṇṇā, tassa maggavajjhakilesapaññattiyaṃ akovidattā evaṃ hoti.（《中部义注》1,366。）
+
+那省察，对于一切圣者而言，并非总是必定圆满齐全的。
+有一种圣者只省察已断的烦恼，有一种圣者只省察残余而尚未断除的烦恼，有一种圣者只省察道，有一种圣者只省察果，有一种圣者只省察涅槃。
+在这五种省察之中，无论是获得一种省察、还是获得两种省察，都是恰当的。
+如此，若某个体的五种省察不圆满，那正是因为那个体对于「圣道所断除的诸烦恼之名称概念(paññatti)」不熟练精通，才导致如此不圆满。（《中部义注》1,366。）
+
+依照以上义注的意趣，五种省察之中，无论一种也好、两种也好，必定会获得其一二；然而，究竟是哪一种省察，却没有确切地说明。
+已断的烦恼、尚未断除的烦恼、道、果、涅槃————在这五种之中，无论一种也好、两种也好，必定会省察其一二。
+但是，若参酌「因为对圣道所断除的诸烦恼之名称概念不熟练精通，才导致如此不圆满」这句后文，那么一般而言，[未能圆满的]只是没能省察到已断的烦恼、尚未断除的烦恼而已。
+至于道、果、涅槃，则大多是会省察到的——这一点应当与上文《清净之道》义注相互参照而领会。
+
+**【文件：[463]智见清净释/[469]a 第二道智部分.md】**
+
+### 第二道智(dutiyamaggañāṇa)部分
+
+再者，如此以省察智(paccavekkhaṇāñāṇa)审察完毕之后，已成为须陀洹(sotāpanna)的那位圣弟子(ariyasāvaka)，有时就住在那个地方，有时也住在别的某一处，为了使强盛有力的欲贪(kāmarāga)与瞋恚(byāpāda)变得薄弱，也为了到达、证得第二的一来果(sakadāgāmiphala)，而在观修习(vipassanābhāvanā)中付出努力、作精勤加行(payoga)。
+那个体(puggala)把根(indriya)、力(bala)、觉支(bojjhaṅga)聚合起来，使那些根、力、觉支达到敏锐的状态，就依色(rūpa)、受(vedanā)、想(saññā)、行(saṅkhāra)、识(viññāṇa)这五蕴(khandha)之法而分为五类的那一切行法(saṅkhāra dhamma)的聚合，以观智(vipassanāñāṇa)按无常(anicca)、苦(dukkha)、无我(anatta)去探究三种相(lakkhaṇa)的力量，反反复复、交替往返地审察；一层又一层、一次又一次地令观智生起；趣入观的相续。
+对于以此上述方法修行的那位须陀洹个体来说，在令生灭智(udayabbayañāṇa)等诸智生起之处，也正是依照上述的方法，在行舍智(saṅkhārupekkhāñāṇa)的末尾，以一个转向(āvajjana)，随顺智(anulomañāṇa)与种姓智(gotrabhuñāṇa)——换一种说法，随顺智与净化智(vodānañāṇa)——生起之后，在犹如种姓(gotrabhu)的净化(vodāna)的紧接之后，一来道(sakadāgāmimagga)便生起了；与那一来道相应的智，名为「于一来道中生起的智」。
+在这一来道智的紧接之后，也正是依照上述的方法，应当了知诸果心(phalacitta)。
+至此，这个体便名为**一来者(sakadāgāmi)**，成为第四种圣者个体(ariyapuggala)，是仅仅一次以结生(paṭisandhi)的方式来到此世间、便能作出轮回之苦(vaṭṭadukkha)的终结的人。
+如此到达一来果之后，其省察便与上述的方法完全相同。(《清净之道》2,316-317。)
+
+**【文件：[463]智见清净释/[469]b 烦恼的稀薄.md】**
+
+### 烦恼(kilesa)的稀薄
+
+强盛有力的欲贪(kāmarāga)、瞋恚(byāpāda)的稀薄，应当依据什么样的理由来了知呢？——
+
+- 一、由于只是偶尔、断断续续地生起；
+- 二、由于在心相续中以生(uppāda)-住(ṭhiti)-灭(bhaṅga)的方式明显涌动、生起的缠(pariyuṭṭhāna)之性质是软弱的、是无力的——
+
+依这两种理由，应当了知欲贪、瞋恚的稀薄、稀疏、微细软弱的状态。
+就像在沿着轮回(saṃsāravaṭṭa)不断行走的大多数人的相续中，诸烦恼持续不断地生起那样，对于一来者(sakadāgāmi)个体(puggala)而言，诸烦恼并不持续不断地生起。
+它们只是偶尔、断断续续地，以稀疏、稀薄的样态而生起；虽然如此以偶尔、断续、稀薄的样态生起，但它们不会压制、覆盖、造成愚暗，也不会毫无节制地生起。
+实际上，由于已被入流道(sotāpattimagga)、一来道(sakadāgāmimagga)这两种道所舍断，它们变得极为软弱，以稀薄的样态而生起。
+应观察这样的生起情形，从而了知其稀薄。(《大疏钞》2,487。)
+
+**种姓(gotrabhu)**——在入流道智(sotāpattimaggañāṇa)之前生起的智，既由于压制凡夫(puthujjana)的族姓，又由于增长圣者(ariya)的族姓，确实地被称为种姓。
+而在这一来道之前生起的智，由于与那真正的种姓相似，便依方便(pariyāya)、依等同近行(sadisūpacāra)而被称为种姓。
+为什么被称为净化(vodāna)呢？——既由于从某些杂染(saṃkilesa)中清净，又由于以真正清净的涅槃(nibbāna)为所缘，所以被称为**净化**。
+因此，在《众缘》(paṭṭhāna)的教说中——
+
+- anulomaṃ vodānassa anantarapaccayena paccayo. (阿毗达摩1,138。)
+- 随顺智(anulomañāṇa)以无间缘(anantarapaccaya)之力资助净化。(阿毗达摩1,138。)
+
+如此宣说了。
+如果说净化才是那确定的名称，那么为何不说 vodānānantaraṃ =「在净化的紧接之后」，而在上述《清净之道》注释(aṭṭhakathā)中要解释为 gotrabhuanantaraṃ =「在种姓的紧接之后」呢？——这是随顺《无碍解道》(paṭisambhidāmagga)圣典的旨趣而作的解释。
+
+在《无碍解道》圣典(65)中，依「超越生起(uppāda)等」之义，说：「八种种姓法依定(samādhi)之力而生起，十种种姓法依观(vipassanā)之力而生起」——在这类语句中，正是以种姓这个名称，来称呼这一来道智等诸智之前的智之名。
+因此，在这部《清净之道》典籍中，也解释为 gotrabhuanantaraṃ =「在种姓的紧接之后」。(《大疏钞》2,487-488。)
+
+**【文件：[463]智见清净释/[470] 只回来一次者 = 一来者个体.md】**
+
+### 只回来一次者 = 一来者（sakadāgāmi）个体（puggala）
+
+在上述《清净之道》义注（aṭṭhakathā）的语句中，「只以结生（paṭisandhi）的方式来到此人间世间一次、并能够作成轮回苦（vaṭṭa dukkha）之终结者，名为**一来者**」这一说明，是在五种一来者个体当中排除其中四种个体、仅取一种个体而言的。
+
+- 一、某些个体在此人间世间证得一来果（sakadāgāmi phala）之后，就在此人间世间般涅槃（parinibbāna）。
+- 二、某些个体在此人间世间证得一来果之后，在天界般涅槃。
+- 三、某些个体在天界证得一来果之后，就在那天界般涅槃。
+- 四、某些个体在天界证得一来果之后，又以结生的方式在此人间世间再度出生，然后般涅槃。不取这四种个体，而是——
+- 五、凡是这样的个体：在此人间世间证得一来果之后，又以结生的方式生于天界，在天界活到寿命终尽，再以结生的方式生于此人间世间，就在此人间般涅槃。——
+
+应当知道：在此《清净之道》义注中，只取这一种个体来加以阐释。（大义疏，2，488。）
+
+**【文件：[463]智见清净释/[471] 第三道智部分.md】**
+
+### 第三道智部分
+
+在此一来果(sakadāgāmiphala)之后，省察速行心路(paccavekkhaṇājavanavīthi)生起，如理省察了道(magga)、果(phala)、涅槃(nibbāna)等之后，已成为一来者(sakadāgāmi)的那位圣弟子(ariyasāvaka)，或住于原处，或在另一时住于原处、或住于别处，为了无余断除已被一来道(sakadāgāmimagga)减弱的欲贪结(kāmarāgasaṃyojana)与厌恶结(paṭighasaṃyojana)，为了证得第三个之不来果(anāgāmiphala)，而在观(vipassanā)上勤作精进努力。
+那个体(puggala)聚集根(indriya)、力(bala)、觉支(bojjhaṅga)，使之达到锐利的状态，把那名色法(rūpanāmadhamma)、三地行法(tebhūmakasaṅkhāradhamma)的整个聚合，作为无常(anicca)、苦(dukkha)、无我(anatta)，以观智(vipassanāñāṇa)反复审察、揉炼。
+一再地令观智生起，落入观智的相续之中。
+（意指从生灭智(udayabbayañāṇa)开始，直到行舍智(saṅkhārupekkhāñāṇa)结束为止，依次令其生起。）
+对于以如此方法修行的那位一来者个体，正如前面已说过的方法那样，在行舍智的末尾，以一个转向(āvajjana)，随顺智(anulomañāṇa)、种姓(gotrabhu)（=净化 vodāna）智生起时，在种姓（=净化）智的无间(anantara)之后，**不来道(anāgāmimagga)**便生起；与那不来道相应的智，称为于不来道中生起之智。（《清净之道》，2，317。）
+
+在此不来道智的无间之后，也应如前面已说过的方法那样，了知诸果心(phalacitta)。
+在这般长度的不来道之无间之后，仅以不来果的生起，此个体便成为这样的人：在梵天界(brahma)以身显现而生 = 化生(opapātika) = 只有化生(upapāta)结生(paṭisandhi)，他惯于在那梵天界、或在净居地(suddhāvāsabhūmi)般涅槃(parinibbāna)，以结生之力不再返回此欲有(kāmabhava)，是具有如此性质的个体；由于以结生之力不再来到此欲界世间(kāmalokadhātu)，便成为称为**不来者(anāgāmi)**的第六位圣者个体(ariyapuggala)。
+如是到达不来果之后，省察生起的情形，也只如前面所说过的那样。（《清净之道》，2，317。）
+
+仅就结生之力而言，具有不从那梵天界来到此欲界(kāmabhūmi)的性质；但为了瞻仰佛陀(Buddha)、为了听闻正法(dhamma)这些利益之事，则确实会来到包括此人间世界在内的欲世间(kāmaloka)。
+也如珊那古玛拉梵天(Sanaṅkumārabrahma)那样，为了在善法堂(sudhammā)讲说正法，也确实会来到欲世间。（《大义疏》，2，488-489。）
+
+**【文件：[463]智见清净释/[472] 第四道果 = 阿拉汉道果.md】**
+
+### 第四道（magga）果（phala） = 阿拉汉（arahatta）道果
+
+如是，那位已成为不来者（anāgāmi）的圣（ariya）弟子（sāvaka），以诸省察速行（javana）心路（vīthi）适当地省察了道、果、涅槃（nibbāna）等之后，无论是住于那个地方，还是在别的时候住于那个地方或其他地方，为了无余地舍断对色地（bhūmi）贪着的色贪染（rūparāga）、对非色（arūpa）地贪着的非色贪染（arūparāga）、慢（māna）、掉举（uddhacca）、以及称为无明（avijjā）的这上分的五种上分结（uddhambhāgiya saṃyojana），为了到达第四的阿拉汉果，便精勤地作观（vipassanā）的努力；那个个体（puggala）使根（indriya）、力（bala）、觉支（bojjhaṅga）聚集而达到锐利的状态，就以观智（ñāṇa）审察、揉炼那些属于三地（tebhūmaka）的名色（nāmarūpa）行法（saṅkhāra dhamma）之全体，一再地令观智生起。
+进入观的相续。（意思是：从生灭智（udayabbaya ñāṇa）起，直到行舍智（saṅkhārupekkhā ñāṇa）为止，依照次第修习。）
+对于以这样的方法修习着的那位不来者个体，正如前面已经说过的方法一样，在行舍智的末尾，藉一个转向（āvajjana）而随顺智（anulomañāṇa）、种姓智（gotrabhu）＝净化（vodāna）智生起时，就在种姓智＝净化智的无间（anantara）处，**阿拉汉道**便生起；与那阿拉汉道相应（sampayutta）的智，称为**在阿拉汉道中生起的智**。（《清净之道》2，317-318。）
+
+在这阿拉汉道的无间处，也应当依照前面已经说过的方法，了知诸阿拉汉果心（citta）。
+仅仅由于在这般长度的阿拉汉道之无间处生起了阿拉汉果，这个个体便成为称为**阿拉汉**的第八种圣者个体（ariya puggala）。
+
+- 1. 大漏尽者（mahākhīṇāsava） = 应受供养、具有崇高威力、诸漏（āsava）已尽的，
+- 2. 最后身者（antima dehadhārī） = 荷载着最后的蕴（khandha）身的，
+- 3. 已卸重担者（ohitabhāra） = 已放下蕴的重担、烦恼（kilesa）的重担、积聚（abhisaṅkhāra）的重担的，
+- 4. 已达自利者（anuppattasadattha） = 具有依次第所证得的、称为阿拉汉果的自身利益的，
+- 5. 有结尽者（parikkhīṇabhavasaṃyojana） = 具有已尽的十种有结（bhavasaṃyojana）的，
+- 6. 正智解脱者（sammadaññāvimutta） = 恰当地了知蕴等的自性之后、以殊胜方式解脱了的，
+- 7. 最上应供者（aggadakkhiṇeyya） = 应领受连同天神在内的有情世间的殊胜供施物的殊胜个体、崇高个体。
+
+与这如上已说的四种圣道（ariya magga）相应的智，就称为**智见清净（ñāṇadassana visuddhi）**。
+
+**【文件：[463]智见清净释/[473] 四念处已圆满.md】**
+
+### 四念处（satipaṭṭhāna）已圆满
+
+直到详细修习生灭智（udayabbayañāṇa）的部分为止 -----
+
+- 1. 依「samudayadhammānupassī」一语而观照集（samudaya）之自性的方式，
+- 2. 依「vayadhammānupassī」一语而观照灭（vaya）之自性的方式，
+- 3. 依「samudayavayadhammānupassī」一语而观照集—灭之自性的方式，都已详细阐明。
+
+在那生灭详细修习方式的后段，从摆脱名为随烦恼（upakkilesa）的诸垢秽的生灭智那一段开始，直到此阿拉汉果（arahattaphala）为止所阐明的种种层层递进的修习方式体系，只不过是以下诸念处开示（desanā）所含的详细观照片段罢了。
+
+- 1. “Atthi kāyo”ti vā pan'assa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya. Anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho bhikkhave bhikkhu kāye kāyānupassī viharati.（中部1，71。）
+- 2. “Atthi vedanā”ti vā pan'assa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya. Anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho bhikkhave bhikkhu vedanāsu vedanānupassī viharati.（中部1，75-76。）
+- 3. “Atthi cittan”ti vā pan'assa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya. Anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho bhikkhave bhikkhu citte cittānupassī viharati.（中部1，76。）
+- 4. “Atthi dhammā”ti vā pan'assa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya. Anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho bhikkhave bhikkhu dhammesu dhammānupassī viharati.（中部1，78。）
+
+- 1. 再者，「唯有色（rūpa）之聚集才存在」——如此，在那比库（bhikkhu）的相续流（santāna）中，念（sati）朝向前方而确立 = 朝向前方而显现。
+那念，仅仅是为了使能一再观照色之聚集的观智（vipassanā ñāṇa）增长而生起，仅仅是为了使与能摄持色之聚集的观智相应的那念次第再次增长而生起；那比库也以不被渴爱（taṇhā）—见（diṭṭhi）所依着的方式而安住。
+在名为五取蕴（upādānakkhandhā）的世间（loka）中，他不再把任何一种法、任何可执取之物执取为「我、我所有」。
+诸比库……比库也这样一再观照色之聚集而安住。（中部1，71。）
+- 2. 再者，「唯有受（vedanā）才存在」——如此，在那比库的相续流中，念朝向前方而确立 = 朝向前方而显现。
+那念，仅仅是为了使能一再观照受的观智增长而生起，仅仅是为了使与能摄持受的观智相应的那念次第再次增长而生起。
+那比库也以不被渴爱—见所依着的方式而安住；在名为五取蕴的世间中，他不再把任何一种法、任何可执取之物执取为「我、我所有」。
+诸比库……比库也这样于诸受中一再观照诸受而安住。（中部1，75-76。）
+- 3. 再者，「唯有心（citta）才存在」——如此，在那比库的相续流中，念朝向前方而确立 = 朝向前方而显现；那念，仅仅是为了使能一再观照心的观智增长而生起，仅仅是为了使与能摄持心的观智相应的那念次第再次增长而生起。
+那比库也以不被渴爱—见所依着的方式而安住；在名为五取蕴的世间中，他不再把任何一种法、任何可执取之物执取为「我、我所有」。
+诸比库……比库也这样于心中一再观照心而安住。（中部1，76。）
+- 4. 再者，「唯有法（dhamma）自性之诸法才存在」——如此，在那比库的相续流中，念朝向前方而确立 = 朝向前方而显现。
+那念，仅仅是为了使能一再观照法自性之诸法的观智增长而生起，仅仅是为了使与能摄持法自性之诸法的观智相应的那念次第再次增长而生起。
+那比库也以不被渴爱—见所依着的方式而安住；在名为五取蕴的世间中，他不再把任何一种法、任何可执取之物执取为「我、我所有」。
+诸比库……比库也这样于法自性之诸法中一再观照法自性之诸法而安住。（中部1，78。）
+
+**【文件：[463]智见清净释/[474] 三十七种菩提分法.md】**
+
+### 三十七(37)种菩提分(bodhipakkhiya)法
+
+四种念处(satipaṭṭhāna)、四种正勤(sammappadhāna)、四种成就的基础(iddhipāda)、五种根(indriya)、五种力(bala)、七种觉支(bojjhaṅga)、清净殊胜的八圣道支(ariya magganga)——把这一切合起来，这三十七种法由于能了知四谛(sacca)，因而在值得称为「**bodha**」（觉悟）名号的圣道(ariya magga)之助伴、随从中生起，又因于此而立于能作利益的随从地位，故这些法便名为「**菩提分法**」。
+
+**四种念处(satipaṭṭhāna)** ----- 在那些菩提分法当中，念由于奔赴、深入身(kāya)、受(vedanā)、心(citta)、法(dhamma)诸所缘(ārammaṇa)，以取不净(asubha)之相、苦(dukkha)之相、无常(anicca)之相、无我(anatta)之相的能力而贴近安住（即由于成办舍弃净(subha)想、乐(sukha)想、常(nicca)想、我(atta)想之事的能力而生起），故念(sati)本身便名为念处。
+
+这些菩提分法，在圣道之前、世间(lokiya)观(vipassanā)智(ñāṇa)生起之时，可在种种不同的心中获得；其获得的情形如下。-----
+
+- 1. 入出息部分(ānāpānapabba) = 修习入出息(ānāpāna)的部分，
+- 2. 威仪部分(iriyāpathapabba) = 修习威仪(iriyāpatha)的部分，
+- 3. 正知部分(sampajaññapabba) = 修习念与正知(sampajañña)相关内容的部分，
+- 4. 可厌作意部分(paṭikūlamanasikārapabba) = 修习令人厌恶、可厌(paṭikūla)之性的部分，
+- 5. 界作意部分(dhātumanasikārapabba) = 作意(manasikāra)修习界(dhātu)的部分，
+- 6-14. 九墓墟部分(navasivathikapabba) = 修习九(9)种死尸的部分 ---
+
+对于以此(14)种方式摄取色身(rūpakāya)的瑜伽行者(yogāvacara)来说，便得到身随观(kāyānupassanā)念处。
+
+在那入出息部分等当中，先于前段建立定(samādhi)，以该定作为观的立足处，先以色(rūpa)为首而摄取名色(nāmarūpa)，接着寻求这些名色的因缘之法，把连同因缘之法的这些名色行(saṅkhāra)法安立于特相(lakkhaṇa)之轨上，于三时、两相续(santāna)之中作观，由于是以色为首而修观，故说为身随观念处。(1)
+
+对于以(9)种方式摄取受的瑜伽行者来说，便得到受随观(vedanānupassanā)念处。
+在摄取名(nāma)法时，是以受为首、连同相应(sampayutta)的诸法一起摄取。
+摄取名之后，须再一次摄取该名法聚的所缘色与所依的依处色(vatthu)。
+如此以受为首而摄取名色，寻求这些名色的因缘之法之后，把连同因缘之法的这些名色安立于特相之轨上而作观时，便入于受随观念处。(2)
+
+对于以(16)种方式摄取心的瑜伽行者来说，便得到心随观(cittānupassanā)念处。
+在摄取名法时，以心为首、连同相应的诸法一起摄取名法，并须再一次摄取这些名法的所缘色与所依的依处色。
+如此以心为首而摄取名色，寻求这些名色的因缘之法之后，把连同因缘之法的这些名色安立于特相之轨上而作观时，便入于心随观念处。(3)
+
+- 1. 以五种盖(nīvaraṇa)为首而摄取、修习色名 = 盖部分(nīvaraṇapabba)，
+- 2. 摄取、修习五蕴(khandha) = 蕴部分(khandhapabba)，
+- 3. 摄取、修习十二(12)入处(āyatana) = 入处部分(āyatanapabba)，
+- 4. 以七(7)种觉支为首而摄取、修习色名 = 觉支部分(bojjhaṅgapabba)，
+- 5. 摄取苦圣谛(dukkha sacca)、苦因圣谛(samudaya sacca)而修习以了知四谛 = 谛部分(saccapabba) ----
+
+对于以此五种方式摄取名色法、诸行法的瑜伽行者来说，便得到法随观(dhammānupassanā)念处。
+在三种名业处(nāmakammaṭṭhāna)当中，以触(phassa)为首而摄取名法，随后摄取这些名法的所缘色与所依的依处色，寻求这些名色的因缘之法之后，把连同因缘之法的这些名色安立于特相之轨上而正作观的方法，也同样入于法随观。
+把作为观智之所观所缘的诸行法，以蕴法、入处法、觉支法、谛法加以摄取，寻求诸因缘之法之后，把连同因缘之法的这些名色法、诸行法安立于特相之轨上而正作观的方法，其菩提分法也同样入于法随观念处。(4)
+
+在那四种随观(anupassanā)当中，被立为首的身=色、受、心、法，都只是名色、因果=诸行法而已。
+因此，若把存在于三时、两相续之中的名色因果=诸行法，安立于三种特相之轨上而持续不断地作观，则可说四种念处法全都在被修习。
+但在世间观之时，于一个心刹那(cittakkhaṇa)之内，四种念处不可能齐全一致地同时发生，因此说：在世间观之时，四种念处是在各别的心刹那中获得的。
+然而在圣道之时，四种念处则全都齐全一致地发生。
+
+**四种正勤(sammappadhāna)** ----- 在此现见的现在自体(attabhāva)中，于自己的名色相续之流里从未生起过、却在他人相续中已经生起的不善(akusala)，以及以那不善为根本因、应遭杀害与捆绑的过患等，都被见到了，于是这样作意：「以某种方式修行的人，会生起以此不善为根本因的过患；我不以那种方式修行；若我如此善加修行，则以不善为根本因的过患便不会在我身上生起」——如此作意，在为了使这类以不善为根本因的过患不生起而策励精进之时，便得到那名为『令尚未生起的不善法不生而策励精进』的第一种正勤。(1)
+
+见到在自己相续中已多次生起、因常发生而变得熟习的不善法，为了能舍断这类不善法而策励精进之时，便得到那名为『为舍断已生起的不善法而努力精进』的第二种正勤。(2)
+
+对于为了使在此现见的现在自体中、于自己相续里从未生起过的禅那(jhāna)或观生起而策励精进的人来说，便得到那名为『为使尚未生起的善(kusala)法生起而努力精进』的第三种正勤。(3)
+
+对于以某种方式令在此现见的现在自体中已生起过的禅那或观生起、若如此令生起便不退失，并以那种方式一再令其生起的人来说，便得到那名为『为使已生起的善法增长而努力精进』的第四种正勤。(4)
+
+**四种成就的基础(iddhipāda)** ----- 以渴求禅那法、观法、道(magga)法、果(phala)法、涅槃(nibbāna)法的欲(chanda)为首，在令止(samatha)观等善法生起之时，便得到欲成就基础(chandiddhipāda)。(1)
+
+以心为首，在令止观等善生起之时，便得到心成就基础(cittiddhipāda)。(2)
+
+以精进(viriya)为首，在令止观等善生起之处，便得到精进成就基础(viriyiddhipāda)。(3)
+
+以观察(vīmaṃsa)=慧(paññā)为首，在令止观等善生起之处，便得到观察成就基础(vīmaṃsiddhipāda)。(4)
+
+**五种根(indriya)** ----- 与信(saddhā)法相违的诸不善法，以及对三宝(ratana)以外、住于三宝之外的有情或无情之物起信乐、属于假冒纯净(pasāda)的邪胜解(micchādhimokkha)，都名为无信(assaddhiya)。
+信根(saddhindriya)能镇伏、能制胜那无信法，并能主宰那些作为出离无信之因的相应法。(1)
+
+精进根(vīriyindriya)能镇伏、能制胜那名为以昏沉睡眠(thina-middha)为主的不善心生起、被称为懒惰=懈怠(kosajja)之法，并能主宰那些作为出离懈怠之因的相应法。(2)
+念根(satindriya)能镇伏、能制胜那名为放逸(pamāda)之法——即念的失忘、缺失、消失，以及由于那种失念状态而生起的不善蕴，并能主宰那些作为出离放逸之因的相应法。(3)
+
+定根(samādhindriya)能镇伏、能制胜那名为心散逸的散乱(vikkhepa)之法，并能主宰那些作为出离散乱之因的相应法。(4)
+
+慧根(paññindriya)能镇伏、能制胜那具有『于究竟法(paramattha)所缘迷蒙、不能如实通达究竟法』之性的迷痴(sammoha)之法，并能主宰那些作为出离迷痴之因的相应法。
+这五种根，即使在世间观之时，也能于一个心刹那之内同时发生。(5)
+
+**五种力(bala)** ----- 由于不被那无信、懈怠、放逸、散乱、迷痴诸法所压制，由于具有不动摇之性，又由于（在行(saṅkhāra)所缘上）坚固稳定，信、精进、念、定、慧这五种法便名为力。
+这五种法也同样，即使在世间观之时，也能于一个心刹那之内一同相伴、同时发生。
+
+**觉支(bojjhaṅga) = 七种觉支** ----- 由于是能了知四圣谛(ariya sacca)之有情(satta)的因缘之法，念、择法(dhammavicaya)、精进、喜(pīti)、轻安(passaddhi)、定、舍(upekkhā)——此七(7)种法便名为觉支。
+此七(7)种觉支也同样，能在世间观之时、于一个心刹那之内一同相伴而发生。
+
+能摄取那名为身、受、心、法、连同因缘之法的诸行法的念，即念觉支(satisambojjhaṅga)；探究、思察、决断这些行法的无常之点、苦之点、无我之点而能通达洞见的观智，即择法觉支(dhammavicayasambojjhaṅga)；与该观智相伴的精进，即精进觉支(viriyasambojjhaṅga)；喜，即喜觉支(pītisambojjhaṅga)；轻安，即轻安觉支(passaddhisambojjhaṅga)；定，即定觉支(samādhisambojjhaṅga)；中舍性心所(tatramajjhattatā)，即舍觉支(upekkhāsambojjhaṅga)。
+这便是在世间观之时七(7)种觉支法同时发生的情形。
+
+至于在出世间(lokuttara)圣道之时——能摄取涅槃圣妙之法的念，即念觉支；对涅槃圣妙之法作透彻洞见的圣道智(ariya magga ñāṇa)，即择法觉支；与该圣道智相伴的精进、喜、轻安、定、舍(=中舍性心所)，便分别是精进觉支、喜觉支、轻安觉支、定觉支、舍觉支。
+
+**八种道支(magganga)** ----- 由于是从轮回(vaṭṭa)苦难之聚出离的因缘之法，正见(sammādiṭṭhi)、正思惟(sammāsaṅkappa)、正语(sammāvācā)、正业(sammākammanta)、正命(sammāājīva)、正精进(sammāvāyāma)、正念(sammāsati)、正定(sammāsamādhi)此八(8)者便名为道支。
+
+在那八(8)者当中，于远离邪语(micchāvācā)之时得正语，于远离错误的业(micchākammanta)之时得正业，于远离邪命(micchāājīva)之时得正命，各各获得。
+正见等其余五种道支，能在世间观智之时、于一个心刹那之内一同相伴而发生。
+对名为苦谛、集谛的诸行法的无常之点、苦之点、无我之点作透彻洞见的观智，即正见；与该观智相伴的寻(vitakka)，即正思惟；精进，即正精进；念，即正念；定，即正定，各各如是。
+在世间观之时，这五种道支能于一个心刹那之内一同相伴而发生。
+至于在出世间圣道智之时，那八种道支能于一个圣道心刹那之内如其所应地一同相伴、同时发生。
+一切道支都以涅槃为所缘。
+
+特别是，以慧根(paññindriya)心所为法之本体而取的观察成就基础、慧根、慧力(paññābala)、择法觉支、正见道支，有时不与智不相应(ñāṇavippayutta)=不与智相应的世间观心相应。
+如此，三十七(37)种菩提分法在世间观之时，是在各别的心刹那中获得的。
+
+另一种情形是：在此四种圣道智生起之时，这三十七(37)种菩提分法能在同一个道心生起中获得。
+在果心刹那，除去四种正勤法，可获得除四种正勤法之外所余的三十三(33)种菩提分法。
+一切菩提分法在出世间之时都以涅槃为所缘。(参看《清净之道》2·320。)
+
+全部的菩提分法其实都摄入圣道心生起中；虽然如此摄入，但由于在圣道刹那正勤的作用(kicca)极为强盛之故，注释书(aṭṭhakathā)才解说为『在果刹那除去四种正勤法』。
+虽说在果刹那可获得三十三(33)种菩提分法，但要记住：并非以究竟的方式获得，而只是以方便(pariyāya)的方式获得。(《大义疏》2·492。)
+
+**【文件：[463]智见清净释/[479] 圣道刹那三十七种菩提分法生起的情形.md】**
+
+### 在圣道(ariyamagga)刹那，三十七种菩提分(bodhipakkhiya)法生起的情形
+
+Evaṃ ekacitte labbhamānesu cetesu ekāva nibbānārammaṇā sati kāyādīsu subhasaññādippahānakiccasādhanavasena cattāro satipaṭṭhānāti vuccati. Ekameva ca vīriyaṃ anuppannānaṃ anuppādādikicca sādhanavasena cattāro sammappadhānāti vuccati.
+Sesesu pana hāpanavaḍḍhanaṃ natthi. (Visuddhi 2 320.)
+
+在一个圣道心刹那中，那些值得获得的三十七种菩提分法，全都以涅槃(nibbāna)为所缘。
+道(magga)心如果是初禅那(pathamajhānika)道心，就会有三十七个心与心所(cetasika)。
+按四分法(catukkanaya)，若是第二禅那道，由于不与寻(vitakka)、伺(vicāra)相应，剩下三十五个心与心所；若是第三禅那道，再舍去喜(pīti)，则是三十四个心与心所；若是第四禅那道，在乐受(sukhavedanā)之处成为舍受(upekkhāvedanā)，也是三十四个心与心所。
+所有那些道的心与心所——即所谓道心生起(cittuppāda)——都以涅槃为所缘。
+在那道心生起当中，念(sati)也包含在内。
+那念也以涅槃为所缘。
+以那涅槃为所缘的、单单一个的念，究竟是以怎样、如何、以什么途径来缘取身(kāya)、受(vedanā)、心(citta)、法(dhamma)这四种念处(satipaṭṭhāna)法的呢？——这值得提问。
+答案如下。-----
+
+在一个圣道心刹那(cittakkhaṇa)之内，那些值得获得的菩提分法当中，以涅槃为所缘而生起的、单单一种的念——
+
+- 1. 身 = 在色(rūpa)法的聚合上，把净想(subhasaññā)、
+- 2. 在受上，把乐想(sukhasaññā)、
+- 3. 在心上，把常想(niccasaññā)、
+- 4. 在诸法（自性法）上，把我想(attasaññā)——
+
+完成断除的作用(kicca)。
+如此，由于附着在身、受、心、法这些念处之上的净想、乐想、常想、我想，已被与念一同的圣道法所断除摧毁，因此在身、受、心、法之上，净、乐、常、我这些想就完全消失了。
+无论在什么时候，只要缘取身、受、心、法，净、乐、常、我这些想就再也不会生起了。
+在身、受、心、法当中，只有不净(asubha)、苦(dukkha)、无常(anicca)、无我(anatta)这些想在生起。
+这样的了知，就作用成就(kiccasiddhi)而言，称为了知四念处。
+如此，在一个圣道心刹那之内，那些值得获得的菩提分法当中，以涅槃为所缘而生起的、单单一种的念，就凭借在身、受、心、法上断除摧毁净想、乐想、常想、我想这一作用的力量，被称为四念处。
+
+同样地，在一个圣道心刹那之内，那值得获得的、单单一种的精进(vīriya)，就凭借完成「努力使尚未生起的不善(akusala)法不生起」等四种作用的力量，被称为四正勤(sammappadhāna)。
+至于成就的基础(iddhipāda)、根(indriya)、力(bala)、觉支(bojjhaṅga)、道支(maggaṅga)这些，其法体的数量则没有增减。（《清净之道》，2，320。）
+
+[**注释** ----- 若是初禅那圣道，就能如其所应地获得三十七种菩提分法。
+若是第二禅那圣道，由于不与寻相应，正思惟(sammāsaṅkappa)道支会减少。
+按四分法，若是第三禅那圣道，喜觉支(pītisambojjhaṅga)与正思惟道支会减少。
+按四分法，若是第四禅那圣道，同样地，喜觉支与正思惟道支也会减少。]
+
+**应当注意** ----- 在上述的话语中，「在圣道刹那所应获得的、以涅槃为所缘的念，或与念一同的圣道法，完成了断除摧毁身、受、心、法上正在生起的净想、乐想、常想、我想这一作用」——对这句话请特别留意。
+在观(vipassanā)法当中 -----
+
+- 1. 就「身」而言，应以主要的方式取所谓二十八种色的色身(rūpakāya)。
+以次要的方式，也应取以那色法为所缘、依靠那色法而生起的名法，即所谓名
+身也应一并取。
+- 2. 就「受」而言，应以主要的方式取九种受。
+以次要的方式，以受为先，既应取与那受一同的名法，也应取作为那些名法之所缘的色、以及作为所依处的色法。
+- 3. 就「心」而言，应以主要的方式取十六种心，或禅修者(yogāvacara)的相续(santāna)中应获得的种种心。
+以次要的方式，以心为先，既应取与心相应的一切名法，也应取作为那些名法之所缘的色、以及作为所依处的色法。
+- 4. 就「法」而言，除了在身、受、心当中已以主要方式取的色、受、心之外，应以主要的方式取其余的、以触(phassa)、思考(cetanā)为首的心所法群。
+以次要的方式，既应取与那心所法群相应(sampayutta)的受、心，也应取那些名法群缘取而生起的色法、以及依靠而生起的色法。
+另一种方式 ----- 就「法」而言，应取五蕴(khandha)、十二入处(āyatana)、七觉支、四谛(sacca)。
+
+圣道法在见到涅槃的当下，一举完成了断杀那覆盖在身、受、心、法之上、使人无法了知的痴(moha)法这一作用，因此，禅修者若再度缘取那身、受、心、法，就能轻而易举地了知。
+
+如果你这位善人认为自己已经成为圣(ariya)者，那么上述这一点，正是一块可以检验自己究竟是不是圣者的试金石。
+即使在自己坚信「我已经成为圣者」的时候，如果连二十八种色都还不能摄取、还不能以智(ñāṇa)加以辨别、还不能观照、还不了知；如果对心与心所还不能依照心的确定法则(cittaniyāma)的自性去摄取、还不能以智辨别、还不能观照、还不了知；如果对苦圣谛(dukkhasacca)与苦因圣谛(samudayasacca)诸法的因果关联——即缘起(paṭiccasamuppāda)的自性——还不能摄取、还不能以智辨别、还不能观照、还不了知，那么就应当下定决心、确定无疑、必定地作出决断：「我还不是圣者。」
+原因在于 ----- 因为那覆盖着四谛、或身、受、心、法而使人无法了知的痴=无明(avijjā)，已被圣道法毫无残余地断杀了。
+
+比起随着他人的话语而（其实并非真正的圣者却）成为圣者，依照佛陀(Buddha)的心意而成为真正的圣弟子(sāvaka)，对你这位善人来说，利益必定要大得多。
+如果每当被人抬举就一味想被抬举，那就应当记住：他只会在整个轮回(saṃsāra)之中继续不断地随大流漂荡下去。并非只有在成为圣者之后才能了知这身、受、心、法；在尚未成为圣者之前，为了努力成为圣者而精进时，这身、受、心、法也正是必须努力去了知的法。
+原因在于，归属于苦圣谛、苦因圣谛的身、受、心、法，正是观智(vipassanāñāṇa)所观照的所缘。
+
+**【文件：[463]智见清净释/[481] 法体的归纳方式.md】**
+
+### 法体的归纳方式
+
+在这些「菩提分(bodhipakkhiya)法」中，依「取尚未取者(aggahitaggahana)」= 以把尚未取的加以取的方法，不与另一些词项相混杂，而把纯属同一法体、性质相同者合并起来归纳，则有 ----- 念(sati)、精进(vīriya)、欲(chanda)、心(citta)、慧(pañña)、信(saddhā)、定(samādhi)、喜(pīti)、轻安(passaddhi)、舍(upekkhā)(= 中舍性(tatramajjhattatā))、正思惟(sammāsaṅkappa)、正语(sammāvācā)、正业(sammākammanta)、正命(sammāājīva)，合计共有(14)种。
+
+在那些法当中，以念为首的某些法，虽然就本性(sabhāva)而言只是一种，但因各自随顺自己的力用，能成办身随观(kāyānupassanā)等种种作用，故被分为(8)种等而分别宣说。
+以心成就基础(cittiddhipāda)为首的某些法，由于仅以自相(sarūpa)而存在，故这些法各只作一种而宣说。
+
+此处把「菩提分法」以法体归纳而示为(14)种，只是就最多所能得到的法体加以归纳而示。
+唯有在第一禅那(jhāna)的道中，这(14)种法才都能生起。
+在第二禅那的道中，由于得不到正思惟，故为(13)种；依五法(pañcakanaya)，在第三禅、第四禅、第五禅中，由于得不到喜觉支(pītisambojjhaṅga)，故各为(12)种。
+
+**(1)处、9种** ----- 就自相而言只分为一种的法有：欲、心、喜、轻安、舍、正思惟、正语、正业、正命，共(9)种。
+即欲成就基础(chandiddhipāda)、心成就基础、喜觉支、轻安觉支(passaddhisambojjhaṅga)、舍觉支(upekkhāsambojjhaṅga)、正思惟道支(sammāsaṅkappamaggaṅga)、正语道支(sammāvācāmaggaṅga)、正业道支(sammākammantamaggaṅga)、正命道支(sammāājīvamaggaṅga)，各自只在一处分别生起。
+
+**信 - (2)处** ----- 信分为信根(saddhindriya)、信力(saddhābala)两种，在两处生起。
+
+**定 - (4)处** ----- 定分为定根(samādhindriya)、定力(samādhibala)、定觉支(samādhisambojjhaṅga)、正定道支(sammāsamādhimaggaṅga)四种，在四处生起。
+
+**慧 - (5)处** ----- 慧分为思择成就基础(vīmaṃsiddhipāda)、慧根(paññindriya)、慧力(paññābala)、择法觉支(dhammavicayasambojjhaṅga)、正见道支(sammādiṭṭhimaggaṅga)(5)种，在(5)处生起。
+
+**念 - (8)处** ----- 念依四念处(satipaṭṭhāna)、念根(satindriya)、念力(satibala)、念觉支(satisambojjhaṅga)、正念道支(sammāsatimaggaṅga)而分为(8)种，在(8)处生起。
+
+**精进 - (9)处** ----- 依四正勤(sammappadhāna)、精进成就基础(vīriyiddhipāda)、精进根(vīriyindriya)、精进力(vīriyabala)、精进觉支(vīriyasambojjhaṅga)、正精进道支(sammāvāyāmamaggaṅga)之力，精进分为(9)种，在(9)处生起。
+
+由于成为名为「觉悟(bodha)」的圣道(ariyamagga)之助伴、随从、同党，——另一说——由于安住于能利益圣道的随从之地位，故此处所列示的(37)种、就法体而言(14)种的诸法，称为「菩提分法」。
+在世间(lokiya)观(vipassanā)的部分，于修观之时，也能相应地得到这些菩提分法。
+
+Ānāpānassati bhikkhave bhāvitā bahulīkatā cattāro satipaṭṭhāne paripūrenti.
+Cattāro satipaṭṭhānā bhāvitā bahulīkatā satta bojjhaṅge paripūrenti.
+Satta bojjhaṅgā bhāvitā bahulīkatā vijjāvimuttiṃ paripūrenti. (M.3.124.)
+
+诸比库(bhikkhu)……修习、多修入出息念(ānāpānassati)时，能圆满四念处；修习、多修四念处时，能圆满七觉支(bojjhaṅga)。
+修习、多修七觉支时，能圆满阿拉汉道(arahattamagga)、阿拉汉果(arahattaphala)。(M.3.124.)
+
+**【文件：[463]智见清净释/[483] 从相与生命期间出起的方式——出起部分.md】**
+
+### 从相(nimitta)与生命期间(pavatta)出起的方式——出起(vuṭṭhāna)部分
+
+观(vipassanā)有世间观(lokiyavipassanā)与出世间观(lokuttaravipassanā)两种。
+其中，圣道慧(ariyamaggapañña)——
+
+- 1. 凭借遍知现观(pariññābhisamaya)之力，分别了知苦圣谛(dukkhasacca)，
+- 2. 凭借舍断现观(pahānābhisamaya)之力，舍弃苦因圣谛(samudayasacca)，
+- 3. 凭借现证现观(sacchikiriyābhisamaya)之力，现见灭谛(nirodhasacca)，
+- 4. 凭借修习现观(bhāvanābhisamaya)之力，修习道谛(maggasacca)——
+
+由于凭借这些现观之力，能够在四谛(saccā)上特别地善加观照、善加见到，因此那道慧也被称为『观』，即出世间观。
+
+在世间观与出世间观这两种之中，世间观由于以名为『行相(saṅkhāranimitta)』的所缘为对象，所以不能从行相出起。
+生命期间(pavatti)＝由于不能无余地断除作为果报蕴(vipākakhandhā)生起之根本原因的苦因圣谛，所以也不能从生命期间出起。
+
+种姓智(gotrabhuñāṇa)由于不能无余地断除苦因圣谛，所以不能从生命期间出起。
+由于以涅槃(nibbāna)为所缘，所以从行相出起。
+因此，它被称为『一方出起(ekatovuṭṭhāna)』——即仅从一方出起之法。
+
+至于这四种圣道智(ariyamaggañāṇa)，由于以远离行相、名为『无相(animitta)』的涅槃为所缘，所以也从行相出起。
+由于能够无余地断除苦因圣谛，所以也从生命期间出起。
+因此，它们是『两方出起(ubhatovuṭṭhāna)』——即从相与生命期间两者皆能出起之法。(《清净之道》2,321。)
+
+**nimitta-pavatta** --- tattha nimittato vuṭṭhānaṃ saṅkhāranimittaṃ nissajjitvā nibbānārammaṇakaraṇaṃ.
+pavattato vuṭṭhānaṃ hetunirodhena āyatiṃ vipākappavattassa anuppattidhammatāpādanaṃ.
+tenāha "**samudayassa asamucchindanato pavattā na vuṭṭhātī**"ti. (Mahāṭī-2-494.)
+
+舍弃行相而以涅槃为所缘，这就称为『从相出起(nimittato vuṭṭhāna)』——即从行相出起。
+由于名为无明(avijjā)、渴爱(taṇhā)、取(upādāna)、行(saṅkhāra)、业(kamma)的原因苦因圣谛诸法无余地灭尽（由于入流道(sotāpattimagga)，导致堕入恶趣的无明、渴爱、取、行、业等原因苦因圣谛得以灭尽。
+应如此等等逐层了知。）
+在未来时，使名为『有执受生命期间(upādinnakapavatta)』——即果报蕴之生起——者达到具有不再生起之性质的状态，这就称为『从生命期间出起(pavattato vuṭṭhāna)』，即从生命期间出起。
+因此，注疏师(aṭṭhakathā)大长老才说：『种姓智由于不能无余地断除苦因圣谛，所以不能从生命期间出起』。(大义疏 2,494。)
+
+依照上述《清净之道》注疏(Visuddhimaggaaṭṭhakathā)与《大疏钞》(Mahāṭīkā)之意趣，就『生命期间』而言，似有仅取『有执受生命期间』之意向。
+然而，前面已经引述过《胜义说》注疏(Atthasālinīaṭṭhakathā)的说法。
+依照那部注疏之意趣，就『生命期间』而言，应当把『无执受生命期间(anupādinnakapavatta)』与『有执受生命期间』这两种都取来。
+从相与生命期间出起的方式
+
+**【文件：[463]智见清净释/[484] 种姓智.md】**
+
+### 种姓智(gotrabhuñāṇa)
+
+种姓智，是从外在(bahiddha)的行相(saṅkhāranimitta)出起、退缩离脱之中生起的慧(paññā)。
+外在行相的含义，在《无碍解道》注疏（Paṭisambhidāmagga-aṭṭhakathā）中如此解释。
+
+**Bahiddhā saṅkhāranimitta**nti sakasantānappavatta-akusalakkhandhato bahiddhābhūtaṃ saṅkhāranimittaṃ.
+Lokiyasaṅkhārā hi kilesānaṃ nimittattā, nimittākārena upaṭṭhānato vā nimittanti vuccanti. (Paṭisaṃ-ṭṭha-1-253.)
+
+所谓「**外在的行相**」，是指自己相续(santāna)中生起的不善(akusala)名蕴以外的、属于外部的色(rūpa)名行相。
+的确如此——因为一切世间(lokiya)的色名行法都是诸烦恼(kilesa)生起的因相，又因为对于尚无究竟(paramattha)智慧之眼的人而言，它们会以男人、女人、个体(puggala)、有情、人、天神、梵天(brahma)等形状、相(nimitta)行相的方式显现，所以被称为「诸相之法」。（Paṭisaṃ-ṭṭha-1-253。）
+
+依此解释，在自己相续中生起的烦恼便是内在(ajjhatta)之法，是自己内在之人。
+除该烦恼之外的一切色名法、行法，凡存在于三十一界之内的一切三地(tebhūmaka)之法，无论是在自己相续中生起的、还是在他人相续中生起的，无论是有生命的执受(upādinnaka)行、还是无生命的非执受(anupādinnaka)行，应当记住：这一切全都只是外在的行法(saṅkhāradhamma)。
+关于从这外在的行法出起、奔向并趣入涅槃(nibbāna)的情形，《无碍解道》圣典中如此宣说。
+
+由于往昔过去之业(kamma)，在此生中果报轮转(vipākavaṭṭa)诸蕴(khandha)的生起——即「生起(uppāda)」——从中出起，退缩离脱，而奔入果报轮转诸蕴的不生起——即「无生(anuppāda)」，因此称为「种姓(gotrabhu)」。
+由往昔过去之业所生的果报轮转诸蕴之流相续不断的生起——即「执受转起(upādinnakapavatta)」——从中出起，退缩离脱，而奔入「不转起(appavatta)」，即果报轮转诸蕴之流不再生起之处的涅槃。……
+于未来世，造作作为结生(paṭisandhi)之根本原因的业——即「加行(āyūhana)」——从中出起，退缩离脱，而奔入「无加行(anāyūhana)」，即远离造作结生根本原因之业之处的涅槃。……
+于未来世果报(vipāka)诸蕴的生起——即「结生」——出起，退缩离脱，而奔入远离结生之处的涅槃。……
+从结生所依附的「趣(gati)」出起，退缩离脱，而奔入结生无所依附之趣的涅槃。……
+从五蕴的显现生成——即「转生(nibbatti)」——出起，退缩离脱，而奔入诸蕴无显现生成、无转生之处的涅槃。……
+从果报诸蕴之流的生起——即「果报转起(vipākappavatti)」——出起，退缩离脱，而奔入无果报转起之处的涅槃。……
+从一期生命中诸蕴最初的显现生成——即「生(jāti)」——出起，退缩离脱，而奔入生无显现之处的涅槃。……
+从「老(jarā)」出起，退缩离脱，而奔入无老之处的涅槃。……
+从「病(byādhi)」出起，退缩离脱，而奔入无病之处的涅槃。……
+从死亡——即「死(maraṇa)」——出起，退缩离脱，而奔入远离死亡之处的涅槃。……
+从忧虑愁苦——即「愁(soka)」——出起，退缩离脱，而奔入远离愁之处的涅槃。……
+从哭泣悲号——即「悲(parideva)」——出起，退缩离脱，而奔入远离悲之处的涅槃。……
+从剧烈的忧恼——即「恼(upāyāsa)」——出起，退缩离脱，而奔入远离恼之处的涅槃。……
+从外在的行相出起，退缩离脱，而奔入诸行寂灭之处——即「灭涅槃(nirodhanibbāna)」，因此称为「种姓」。（Paṭisaṃ-63-64。）
+
+**【文件：[463]智见清净释/[485] 从两侧出起 - 道智.md】**
+
+### 从两侧出起(ubhato vuṭṭhāna) — 道智(magga ñāṇa)
+
+从「相(nimitta)、生命期间(pavatta)」两者出起 = 于退没脱离之中所生起的慧(paññā)被称为道智，这究竟是如何生起的呢？—————
+
+**正见(sammādiṭṭhi)** ————— 于入流道(sotāpattimagga)刹那，正见凭借以清清楚楚地知见具有遍知现观(pariññābhisamaya)、舍断现观(pahānābhisamaya)、现证现观(sacchikiriyābhisamaya)、修习现观(bhāvanābhisamaya)之特相、极为深奥难解的谛(sacca)义之义理，而从有(62)种之别的邪见(micchādiṭṭhi)出起。
+由于是能令[人]堕入恶趣(apāya)之因法，[正见]既从随逐于该邪见的疑(vicikicchā)等烦恼(kilesa)出起，也从随逐于该邪见的诸蕴(khandhā)出起。
+[正见]也从自身相续中所生的烦恼、蕴之外、属于外在的(bahiddha)一切行相(saṅkhāra nimitta)出起。
+因此说：于从「相、生命期间」两者出起、退没脱离之中所生的慧，即名为生起于圣道(ariya magga)之智。(无碍解道(Patisam)、66。)
+
+**随逐[邪见]之烦恼(tadanuvattaka kilesa)** ——— 入流道智(sotāpattimagga ñāṇa)藉由以正断(samuccheda)将邪见随眠(diṭṭhānusaya)= 见(diṭṭhi)随眠(anusaya)界毫无剩余、彻底断尽，而从(62)种邪见出起。
+[入流道智]也从与该邪见在一个心刹那(citta khaṇa)之内共同相应而生、以邪见为强力所依止(upanissaya)、随逐于所生起之邪见而起的种种烦恼出起。
+该语句意在指舍断与彼[邪见]同处之烦恼(tadekaṭṭha kilesa)。同处(ekaṭṭha)有俱生同处(sahajekaṭṭha)、舍断同处(pahānekaṭṭha)两种。
+
+**俱生同处(sahajekaṭṭha)** ————— 那些既在一个心刹那之内、又在一个个体(puggala)的相续中与该见相应，直到被圣道法除去为止一直存在的烦恼，即是与彼[见]同处之烦恼(tadekaṭṭha)= 与该见有相同住处的烦恼。
+当圣道法断除见时，入流道藉由**俱生同处**之力，断除以下诸烦恼：其一，在贪根(lobhamūla)、邪见相应(diṭṭhigata sampayutta)、无行(asaṅkhārika)的两种心中与该见共同相应而生的贪(lobha)、痴(moha)、掉举(uddhacca)、无惭(ahirika)、无愧(anottappa)这些烦恼；其二，在贪根、邪见相应、有行(sasaṅkhārika)的两种心中与该见共同相应而生、而住的贪、痴、心力不足(thina)、掉举、无惭、无愧这些烦恼。
+
+**舍断同处(pahānekaṭṭha)** ————— 当入流道智正断除见之烦恼本身时，与该见之烦恼一同存在于单一个体的相续中、成为堕入恶趣之因、被称为贪、瞋(dosa)、痴、慢(māna)、疑、心力不足、掉举、无惭、无愧的这些烦恼，也藉由**舍断同处**之力被断除。
+
+**从诸蕴(khandhehi)** ————— 在「[正见]也从随逐于该邪见的诸蕴出起」这句话中，那些蕴即是：—————
+- (一) 随逐于该见而生起、在一个心刹那之内与该见共同相应而生的贪见组 = 贪根邪见相应的心、心所(cetasika)——四名蕴(nāmakkhandhā)，(俱生同处之蕴)
+- (二) 与那些成为与该见之烦恼舍断同处、成为堕入恶趣之因的贪、瞋、痴等烦恼相应而生的：贪根邪见不相应(diṭṭhigatavippayutta)的心、心所——名蕴，嗔根(dosamūla)的心、心所——名蕴，痴根(mohamūla)的心、心所——名蕴，[共]四种，(舍断同处之蕴)
+- (三) 由那些俱生同处、舍断同处的不善(akusala)心、心所所生的、称为心生色(cittajarūpa)的色蕴(rūpakkhandha)——全部合起来共有(5)蕴，(即是称为无执取(anupādinnaka)之生命期间的五蕴。)
+- (四) 由该邪见等烦恼而于未来将生起的五种果报(vipāka)蕴 =（即是称为有执取(upādinnaka)之生命期间的五蕴。）
+  - 入流道智即从这无执取之生命期间的五蕴、有执取之生命期间的五蕴出起。
+- (五) **bahiddhā ca sabbanimittehī**ti yathāvuttakilesakkhandhato bahibhūtehi sabbasaṅkhāranimittehi. (无碍解道注、1、255-256。)
+
+**属于外在的一切行相**是指：应当了知，入流道也从一切属于世间的(lokiya)、脱离前面所说自身相续中所生的烦恼、蕴的（内、外(ajjhatta bahiddha)）一切行法(saṅkhāra dhamma)出起。(无碍解道注、1、255-256。)
+
+上面这段《无碍解道》注释，也和前面所举的《胜义说(Aṭṭhasālinī)》注释所说的一致，持有如下见解：圣道从无执取之蕴的生命期间、有执取之蕴的生命期间这两者，以及从一切行相出起。
+
+**正思惟(sammāsaṅkappa)** ————— 与圣道相应的正思惟，凭借能将相应(sampayutta)诸法导向涅槃(nibbāna)所缘之义理，而从邪思惟(micchāsaṅkappa)出起。
+[它]既从随逐于该邪思惟而生的诸烦恼出起，也从诸蕴出起。
+[它]也从外在的一切行相出起。
+因此说：于从「相、生命期间」两者出起、退没脱离之中所生的慧，即名为生起于圣道之智。(无碍解道、66。)
+
+入流道智从与以下[心]相应的邪思惟 = 寻(vitakka)出起：应以入流道舍断的邪见相应心(4)种、疑俱行(vicikicchā sahagata)心一种，共计五种心；以及成为趣往恶趣、趣恶趣之因(apāyagamanīya)的其余不善心。(无碍解道注、1、256。)
+
+**正语(sammāvācā)** ————— 与圣道相应的正语，凭借能摄持之义理，而从邪语(micchāvācā)出起。
+[它]既从随逐于该邪语而生的诸烦恼出起，也从诸蕴出起。
+[它]也从外在的一切行相出起。
+因此说：于从「相、生命期间」两者出起、退没脱离之中所生的慧，即名为生起于圣道之智。(无碍解道、66。)
+（意即：[它]既从虚妄语(musāvāda)出起，也从成为趣往恶趣之因的离间语(pisuṇavācā)、粗恶语(pharusavācā)、绮语(samphappalāpavācā)出起。）
+
+**正业(sammākammanta)** ————— 与圣道相应的正业，凭借能使身之举止不粗野、善巧生起之义理，而从错误的业(micchākammanta)出起。
+[它]既从随逐于该错误的业而生的诸烦恼出起，也从诸蕴出起。
+[它]也从外在的一切行相出起。
+因此说：于从「相、生命期间」两者出起、退没脱离之中所生的慧，即名为生起于圣道之智。(无碍解道、66。)
+（[它]从杀生(pāṇātipāta)、偷盗(adinnādāna)、邪淫(kāmesumicchācāra)出起。）
+
+**正命(sammā-ājīva)** ————— 与圣道相应的正命，凭借能令活命清净之义理，而从邪命(micchā-ājīva)出起。
+[它]既从随逐于该邪命而生的诸烦恼出起，也从诸蕴出起。
+[它]也从外在的一切行相出起。
+因此说：于从「相、生命期间」两者出起、退没脱离之中所生的慧，即名为生起于圣道之智。(无碍解道、66。)
+
+[做出令人惊奇稀有之事以炫示 = 诡诈(kuhana)，自吹自擂、阿谀奉承地言说 = 虚谈(lapana)，为获得四资具而显现暗示的相貌 = 现相(nemittikatā)，以言语挤兑、以话语讥刺 = 激将求利(nippesikatā)，以一利求取另一利、进行交易授受 = 以利求利(lābhena labhaṃ nijigīsanatā)，以及以活命为根由、与谋生营生有关的三种身恶行(kāyaduccarita)、四种语恶行(vacīduccarita)——[它]从这样的种种邪命出起。]
+
+**正精进(sammāvāyāma)** ————— 与圣道相应结合的正精进，凭借能提举相应诸法使之抵达涅槃所缘之义理，而从误精进(micchāvāyāma)出起。
+[它]既从随逐于该误精进而生的诸烦恼出起，也从诸蕴出起。
+[它]也从外在的一切行相出起。
+因此说：于从「相、生命期间」两者出起、退没脱离之中所生的慧，即名为生起于圣道之智。(无碍解道、67。)
+（[它]从与以下五种心相应的误精进 = 精进(vīriya)出起：邪见相应心四种、疑——这五种心；以及从与成为趣往恶趣、趣恶趣之因(apāyagamanīya)的其余不善心相应的误精进 = 精进出起。）
+
+**正念(sammāsati)** ————— 与圣道相应的正念，凭借能贴近安住于涅槃所缘之义理，而从错误的铭记(micchāsati)出起。
+[它]既从随逐于该错误的铭记而生的诸烦恼出起，也从诸蕴出起，[它]也从外在的一切行相出起。
+因此说：于从「相、生命期间」两者出起、退没脱离之中所生的慧，即名为生起于圣道之智。(无碍解道、67。)
+
+**micchāsatīti** ca satiyā paṭipakkhākārena uppajjamānā akusalacittuppādamattameva. (无碍解道注、1、256。)
+
+**micchāsati** tathāpavattā cattāro khandhā. (大义疏(Mahāṭī)、2、494。)
+
+以与念(sati)相反的行相、以忆念不善之行相而生起的那些不善心生起(cittuppāda)= 心、心所法聚，即被称为错误的铭记。(无碍解道注、1、256。)
+
+**正定(sammāsamādhi)** ————— 与圣道相应的正定，凭借不散逸到涅槃所缘以外别的所缘之义理，而从邪定(micchāsamādhi)出起。
+[它]既从随逐于该邪定而生的诸烦恼出起，也从诸蕴出起。
+[它]也从外在的一切行相出起。
+因此说：于从「相、生命期间」两者出起、退没脱离之中所生的慧，即名为生起于圣道之智。(无碍解道、67。)
+（正定从以下称为邪定的一境性(ekaggatā)出起：与这五种心——邪见相应心四种、疑心一种——相应的一境性，以及与成为趣往恶趣、趣恶趣之因(apāyagamanīya)的其余不善心相应的一境性心所。）
+
+**注记** ————— 在种种经(suttanta)的巴利圣典中，也宣说了邪语、错误的业、邪命、错误的铭记这些道支(magganga)。
+在那些道支中，并无各别的法自体；若念正确，便只有名为正念的净心所(sobhana cetasika)。
+由于这样没有各别的法自体，因此在阿毗达摩(Abhidhamma)的巴利圣典中并未宣说[它们]。
+应当知道：说那种种恶言——四种语恶行——时所生起的不善心、心所法聚，称为邪语；做那种种恶事——三种身恶行——时所生起的不善心、心所法聚，称为错误的业；从事那种种邪命营生之事时所生起的不善心、心所法聚，称为邪命；忆念那种种恶事时所生起的、以不善想(akusala saññā)为主的不善心、心所法聚，称为错误的铭记——[道支的]法自体是分别如此摄取的。
+在那些不善心、心所法聚中，入流道智断除了这五种心、心所法聚——邪见相应心四种、疑俱行心一种——以及成为趣往恶趣、趣恶趣之因(apāyagamanīya)的其余不善心、心所法聚；因此入流道即被称为：从与该见、疑俱在的不善法聚，以及其余趣往恶趣、趣恶趣之因的不善法聚出起。
+
+这便是在入流道智之时，(8)道支从各自对治相反之法——邪见等——出起、从随逐于该邪见等各自相反之法的诸烦恼出起、从诸蕴出起、以及从外在的一切行相出起的情形。
+现在，接着简要地陈述在一来道智(sakadāgāmimagga ñāṇa)之时等[各道]从烦恼、蕴等出起的情形。
+
+**一来道(sakadāgāmimagga)** ———— 于一来道刹那，正见凭借能知见四谛之义理[而出起]。……
+正定凭借不散逸到涅槃所缘以外别的所缘之义理，而从粗的欲贪结缚(kāmarāga saṃyojana)、厌恶结缚(paṭigha saṃyojana)、粗的欲贪随眠(kāmarāgānusaya)、以及嗔恚随眠(paṭighānusaya)出起。……
+
+**不来道(anāgāmimagga)** ————— 于不来道刹那，正见凭借能知见四谛之义理[而出起]。……
+正定凭借不散逸到涅槃所缘以外别的所缘之义理，而从已成为稀薄微细、变得稀薄微细的欲贪结缚、厌恶结缚，以及已成为稀薄微细、变得稀薄微细的欲贪随眠、嗔恚随眠出起。……
+
+**阿拉汉道(arahatta magga)** ————— 于阿拉汉道刹那，正见凭借能知见四谛之义理[而出起]。……
+正定凭借不散逸到涅槃所缘以外别的所缘之义理，而从色贪染(rūparāga)、非色贪染(arūparāga)、慢、掉举、无明(avijjā)结缚，以及慢随眠(mānānusaya)、有贪随眠(bhavarāgānusaya)、无明随眠(avijjānusaya)出起。
+[它]既从随逐于那种种色贪染等的诸烦恼出起，也从随逐于那些烦恼的诸蕴出起，[它]也从外在的一切行相出起。
+因此说：于从「相、生命期间」两者出起、退没脱离之中所生的慧，即名为生起于圣道之智。(无碍解道、67。《清净之道(Visuddhi Magga)》、2、321-322。)
+
+在一来道、不来道、阿拉汉道这三上道的总集中，正见从那种种圣道所应断除的慢出起。
+确实如此 ————— 那慢由于以「我存在」这样的行相而生起，故立于见之处；然而，在这三上道的总集中，[圣典]并不以「从邪见出起」等这样的方式提出宣说从邪道(micchāmagga)出起，而是应当记住：[圣典]专门提出宣说的，只是从那种种圣道所应断除的结缚、随眠出起。(大义疏、2、495。)
+
+**【文件：[463]智见清净释/[489] 止力 观力 = 止的力量 观.md】**
+
+### 止力(samathabala) 观力(vipassanābala) = 止的力量 观的力量
+
+在修习八种世间(lokiya)禅那(jhāna)等至(samāpatti)之时，由于是定(samādhi)的修习(bhāvanā)，止力=定的力量占优。
+在修习「随观无常(aniccānupassanā)」等之时，由于观的修习之智(ñāṇa)极为强盛，观力=观慧(paññā)的力量占优。
+再者，在圣道(ariya magga)刹那，止与观=定与慧彼此之间一者不超过另一者，因此就定的作用(kicca)与慧的作用而言彼此不减不增，故这名为止观的定与慧诸法，如同在轭上并驾套结、力量相等如两头力气相等的公牛一般，彼此不减不增，成为=轭结缚(yuganaddha)，一同生起。
+因此，在这四种道智(magga ñāṇa)之中，也生起了与止力=止的力量、观力=观的力量这两者以相等幅度的力量相配合。（《清净之道》，二，三二二。）
+
+**【文件：[463]智见清净释/[489]b 在《无碍解道》圣典中的宣说.md】**
+
+#### 在《无碍解道》圣典中的宣说方式
+
+“Uddhaccasahagatakilesehi ca khandhehi ca vuṭṭhahato cittassa ekaggatā avikkhepo samādhi nirodhagocaro, avijjāsahagatakilesehi ca khandhehi ca vuṭṭhahato anupassanaṭṭhena vipassanā nirodhagocaro. 
+Iti vuṭṭhānaṭṭhena samathavipassanā ekarasā honti, yuganaddhā honti, aññamaññaṃ nātivattantīti. 
+Tena vuccati vuṭṭhānaṭṭhena samathavipassanaṃ yuganaddhaṃ bhāvetī”ti. (paṭisaṃ, 289.)
+
+从与掉举(uddhacca)俱生、以掉举为主的诸烦恼(kilesa)，以及随顺于掉举的诸蕴(khandha)出起(vuṭṭhāna)之心的、成为具有单一所缘之状态，也就是与那名为「心飘散、散乱(vikkhepa)」者笔直相反对的、与圣道智(ariyamagga-ñāṇa)相应的定(samādhi)，以名为涅槃(nibbāna)的为所缘。
+从以无明(avijjā)为主的诸烦恼，以及随顺于那无明的诸蕴出起之心的、由于能够一再观照之状态的缘故，观(vipassanā)以名为涅槃的为所缘。
+
+如是，凭借能从相(nimitta)＝行相(saṅkhāranimitta)，以及生命期间(pavatta)＝执取的生命期间(upādinnaka-pavatta)、非执取的生命期间(anupādinnaka-pavatta)出起之状态，止(samatha)＝定，与观＝慧(paññā)，便有着相同的作用(kicca)。
+犹如共轭于轭木上、力量相等的两头牛一般，彼此力量相等、互不减弱也不超越，彼此互不超越。
+因此，凭借能从相与生命期间出起之状态，说是把止与观＝定与慧，犹如共轭于轭木上、力量相等的两头牛一般，令其力量相等而修习(bhāvanā)。（无碍解道，289。）
+
+这就是：在圣道智之际，由于定与慧二者力量相等、诸根(indriya)相等，而成为轭结缚(yuganaddha)的方式；也就是圣道智与止的力量、观的力量这两者都相应共存的方式。
+至于在观之际成为轭结缚的方式，先前在观的部分中已经引用《轭结缚经》(Yuganaddhasutta)作了阐明呈述。
+
+**【文件：[463]智见清净释/[490] 圣道法所舍断的烦恼.md】**
+
+### 圣道（ariya magga）法所舍断的烦恼（kilesa）
+
+一、假如圣道舍断过去（atīta）的诸烦恼，那么这圣道便叫作使已尽的烦恼再尽，叫作使已灭的烦恼再灭，叫作使已离的烦恼再离。
+叫作使已到达灭的烦恼再一次到达灭。
+这属于过去的烦恼，已随着以生-住-坏灭（uppāda-ṭhiti-bhaṅga）计的三刹那寿量届满而自然灭没了；如此一来，圣道岂不成了舍断这样已灭没而不存在的烦恼了。
+因此，圣道并非舍断属于过去的诸烦恼。
+
+二、假如圣道舍断属于未来（anāgata）的诸烦恼——所谓未来的烦恼，是在名色相续（santati）之流中尚未以生-住-坏灭之相清清楚楚地生起的烦恼，因此圣道便叫作舍断尚未生起的烦恼，叫作舍断尚未到达的烦恼，叫作舍断尚未到达三刹那的烦恼，叫作舍断尚未清楚生起的烦恼；属于未来的烦恼在名色相续之流中尚未以生-住-坏灭之相清楚存在，因此圣道便叫作舍断那尚未清楚存在的烦恼；所以，圣道也并非舍断属于未来的诸烦恼。
+
+三、假如圣道舍断现在（paccuppanna）的诸烦恼，那么便成了：在以贪（rāga）贪着之时舍断贪，在以瞋（dosa）发怒之时舍断瞋，在以痴（moha）迷昧之时舍断痴，在以慢（māna）而心生刚强之时舍断慢。
+在以邪见（micchādiṭṭhi）作错误的作意之时舍断偏颇的见（diṭṭhi）执。
+在以掉举（uddhacca）陷入心散乱之时舍断掉举，在以疑（vicikicchā）陷入无法决断之时舍断疑。
+在有着已达牢固安立状态的坚牢（thāmagata）烦恼、有着已达牢固安立状态的随眠界（anusaya dhātu）之时舍断随眠烦恼（anusaya kilesa）。
+在一个心刹那（cittakkhaṇa）之内，不善（akusala）法与善（kusala）法便如同共轭在轭上的双牛那样并列俱起。
+便成了修习那与令心污染的烦恼污垢即杂染（saṃkilesa）法相应而生起的圣道。
+因此，圣道也并非舍断现在的诸烦恼。
+
+如此，圣道法若不舍断过去、未来、现在的诸烦恼，而诸烦恼又都是仅存在于三时中的法，那么令圣道生起的道修习（maggabhāvanā）岂不就没有了 = 借由令道生起、令其现起而应予完成的「舍断烦恼」这一工作职事岂不就没有了，现证（sacchikiriyā）圣果岂不就没有了，舍断烦恼岂不就没有了，面对面地贯穿现证而了知洞见四谛（sacca）岂不就没有了——这是应当提出的疑问；而答案是：并非没有，确实是有的。
+
+**世间的譬喻** ----- 有那样一棵尚未结果、柔嫩的树；有一个人把这棵尚未结果、柔嫩的树从根切断；这棵树上那些尚未结的果实是存在的；这些尚未结的果实，正因为尚未明显生起便不明显生起，正因为尚未出现便不出现，正因为尚未发生便不发生，正因为尚未明显存在便不明显存在。
+
+正如这个譬喻一样，由于宿世过去的业（kamma）而在此生中具有生起（uppāda）之性的果报轮转（vipāka vaṭṭa）诸蕴，正是诸烦恼依之而生起的因（hetu）之缘由，也是作为助益的缘（paccaya）之缘由；对这具有如是生起之性的执取所成五蕴（upādinnaka khandha）见到过患，于是心便奔入那具如是生起之性的诸执取所成蕴所离脱之处——无生涅槃（anuppāda nibbāna）；由于心奔入那无生涅槃，凭借那具如是生起之性的执取所成蕴这一缘由，本会明显生起的那些烦恼，正因为尚未明显生起便不明显生起，正因为尚未出现便不出现，正因为尚未发生便不发生，正因为尚未明显存在便不明显存在；如此，由于作为原因的诸烦恼之灭，将来会生起的果报之苦便随之而灭。
+
+为诸烦恼之生起，执取所成蕴之流不断地生起相续——生命期间（pavatta）——乃是诸烦恼依之而生起的因（hetu）之缘由。（略）
+
+行相（saṅkhāra nimitta）乃是诸烦恼依之而生起的因之缘由。（略）
+
+再者，努力造作那作为来世新生中结生（paṭisandhi）之因的业——加行（āyūhana）——乃是诸烦恼依之而生起的因之缘由；那加行乃是能予扶助的缘（paccaya）之缘由。
+如此，对努力造作那未来结生之根本因业的加行见到过患，于是心便奔入那不努力造作此业的无加行（anāyūhana）中 = 离加行的涅槃中；由于心奔入那离加行之处的涅槃，凭借那加行这一缘由，本会生起的那些烦恼，正因为尚未明显生起便不明显生起，正因为尚未出现便不出现，正因为尚未发生便不发生，正因为尚未明显存在便不明显存在。
+如此，由于作为原因的诸烦恼之灭，将来会生起的果报之苦（dukkha）之灭便得以发生。
+
+如此，令圣道生起、令其现起的道修习（maggabhāvanā）是有的，现证圣果（ariya phala）是有的，舍断烦恼是有的，面对面地贯穿现证而了知洞见四谛是有的。（无碍解道，394-395。）
+
+正如那尚未结果、柔嫩的树在根部被切断时，假如没有这样的切断本会在将来生起、却由于「切断」这一缘由而不会生起的那些果实被说成是败坏了一样；同样地，那些假如没有令圣道生起、令其现起的道修习本会生起的烦恼，由于令圣道生起、令其现起的道修习而不生起时，便只能说它们是被舍断的。
+如此，请将譬喻（upamā）与所喻（upameyya）相互对照配合。
+
+**【文件：[463]智见清净释/[492] 得地已生的烦恼.md】**
+
+### 得地已生的烦恼（bhūmiladdhuppanna kilesā）
+
+Etena kiṃ dīpitaṃ hoti, bhūmiladdhānaṃ kilesānaṃ pahānaṃ dīpitaṃ hoti. 
+Bhūmiladdhā pana kiṃ atītānāgatā udāhu paccuppannāti. 
+Bhūmiladdhuppannā eva nāma te. (Visuddhi 2, 328.)
+
+以上这段《无碍解道》（Paṭisambhidāmagga）巴利圣典的文句，显示的是什么样的意义呢？ 
+这显示的是舍断名为「**得地**（bhūmiladdha）」的随眠烦恼（anusaya kilesa）。 
+那些名为得地的随眠烦恼，究竟是过去（atīta）、未来（anāgata）之法，还是现在（paccuppanna）之法呢——这是应当发问之处。
+答案是：那些烦恼唯独名为**得地已生**而已。
+
+Tāsu tāsu bhūmīsu asamūhataṃ akusalaṃ **bhūmiladdhuppannaṃ** nāma. 
+Ettha ca bhūmiyā bhūmiladdhassa ca nānattaṃ veditabbaṃ. 
+**Bhūmī**ti hi vipassanāya ārammaṇabhūtā tebhūmakā pañcakkhandhā. 
+Bhūmiladdhaṃ nāma tesu khandhesu uppattirahaṃ kilesajātaṃ. 
+Tena hi sā bhūmiladdhā nāma hotīti tasmā bhūmiladdhanti vuccati, sā ca kho na ārammaṇavasena. 
+Ārammaṇavasena hi sabbepi atītānāgate pariññātepi ca khīṇāsavānaṃ khandhe ārabbha kilesā uppajjanti mahākaccāna-uppalavaṇṇādīnaṃ khandhe ārabbha soreyyaseṭṭhi-nandamāṇavakā-dīnaṃ viya. 
+Yadi ca taṃ bhūmiladdhaṃ nāma siyā, tassa appaheyyato na koci bhavamūlaṃ pajaheyya.
+Vatthuvasena pana bhūmiladdhaṃ veditabbaṃ. 
+Yattha yattha hi vipassanāya apariññātā khandhā uppajjanti, tattha tattha uppādato pabhuti tesu vaṭṭamūlaṃ kilesajātaṃ anuseti. 
+Taṃ appahīnaṭṭhena bhūmiladdhanti veditabbaṃ. (Visuddhi 2, 328-329.)
+
+在称为人、天等有情（sattā）之自体（attabhāva）的那些取蕴（upādānakkhandha）中，在那些名色（nāmarūpa）相续（santāna）之流里，由于尚未使之达到具有「今后不再生起」之性质的状态，尚未以圣道（ariya magga）断除，正因为尚未以圣道无余地断除，从而不应被说为「无」，具有生起之性质、堪称为「已生（uppanna）」的不善（akusala），即名为**得地已生**。
+
+在此，应当了知**地**（bhūmi）与**得地**的差别。 
+所谓**地**，是指作为观智（vipassanā ñāṇa）之所观所缘、尚未以智遍知（ñātapariññā）、审察遍知（tīraṇapariññā）、断遍知（pahānapariññā）这三种遍知（pariññā）予以辨别了知的、生起于三界的三地（tebhūmaka）五蕴。 
+的确——尚未以遍知之智辨别了知的诸蕴（khandha），即是诸烦恼所依而生起之处＝地。
+
+Apariññātā hi khandhā kilesānaṃ bhūmīti adhippetā. (Mahāṭī 2, 500.)
+
+那些堪于三地取蕴中生起的一切烦恼法之聚，即名为**得地**。 
+缘由是——那烦恼法之聚，得到了这被称为「尚未以遍知之智辨别、尚未清清楚楚辨别了知的三地取蕴」的、作为诸烦恼所依之处的那个地。 
+因此，那烦恼法之聚便被称为**得地**。
+
+那烦恼法之聚，也不是以缘取所缘（ārammaṇa）之力而得取那个地；倘若认为它是以缘取所缘之力而得取，那么过失便是这样的。 
+当某个尚未断尽烦恼的有情取所缘而观察时，若有不如理作意（ayoniso manasikāra）在先而居主导，那么在那有情的相续中，以缘取所缘之力，莫说现在诸蕴，纵使缘取过去、未来诸蕴，诸烦恼也能够生起。 
+由于诸大圣尊已以三种遍知之智清清楚楚地辨知，从而成为「已遍知（pariññāta）」的佛陀（Buddha）、阿拉汉（arahanta）等大圣尊的诸蕴，也能被缘取而令诸烦恼生起。 
+应知：犹如缘取马哈咖吒那（Mahākaccāna）尊者的诸蕴，索瑞亚（Soreyya）长者之子便生起了诸烦恼；又如缘取乌巴喇瓦纳（Uppalavaṇṇā）长老尼的诸蕴，难德（Nanda）青年的相续中便生起了诸烦恼。 
+马哈咖吒那尊者的诸蕴，乃是尊者本人已以遍知之智辨别了知的、已成为「已遍知」的诸蕴；乌巴喇瓦纳长老尼的诸蕴，也是长老尼本人已以遍知之智辨别了知的、已成为「已遍知」的诸蕴。
+由于缘取那些「已遍知」的诸蕴，如难德青年那样，在其他有情的相续中也能生起诸烦恼，若因此将「以缘取所缘之力生起烦恼」一事认作得地，那么，由于像索瑞亚长者之子与难德青年那样、落在他人相续中的烦恼法之聚是落在他人相续中的，而像马哈咖吒那尊者、乌巴喇瓦纳长老尼那样的阿拉汉大圣尊，无法以自己的圣道断除存在于他人相续中的烦恼，于是便会招致这样的过失：任何人都无法舍断、拔除作为存在之根本的烦恼。 
+如此一来，名为得地的烦恼便成了依然潜伏安住着的了。
+
+因此，凡缘取佛陀、阿拉汉等圣善者本人已以遍知之智辨别了知的「已遍知」诸蕴，以及尚未以遍知之智辨别、尚未辨别了知的其余个体（puggala）的「未遍知（apariññāta）」诸蕴，而以缘取所缘之力生起的烦恼，都不可认作得地。 
+依相应之义而言——应当依诸烦恼所住立的依处（vatthu）＝所依而生起之处所，来了知得地。 
+的确——在任何一种存在（bhava）中，或在任何一种名色相续之流中，尚未以观智辨别的「未遍知」诸蕴正在生起；在那种存在中、或在那种名色相续之流中，自那些蕴最初的生起（uppāda）时起，除了诸烦恼尚未以圣道断除这一状况之外，因为没有别的因缘之法，故而在那些蕴中，作为轮回（vaṭṭa）之根的烦恼之聚，唯是潜伏安住着。 
+因此，正因为潜伏安住于那些蕴中的烦恼法之聚尚未以圣道断除，故应了知它为：**得地＝拥有所得取的生起处所（界／地）的烦恼**。（《清净之道》2, 328-329）
+
+依据这些话语，已断除烦恼的蕴，名为「已遍知蕴（pariññāta khandha）」。 
+那「已遍知蕴」不是烦恼的生起处所＝生起处（uppattiṭṭhāna）。 
+烦恼尚未被拔除的蕴，名为「未遍知蕴（apariññāta khandha）」；那「未遍知蕴」即是烦恼的生起处所＝生起处。
+「已遍知蕴」即是无学（asekkha）个体＝阿拉汉个体的诸蕴。 
+「未遍知蕴」即是除无学＝阿拉汉之外其余圣者（ariya）个体与凡夫（puthujjana）个体的诸蕴。 
+那「未遍知蕴」即是诸烦恼的生起处所——地。 
+应知：潜伏安住于那个地中的随眠烦恼，即是得地。
+
+**潜伏之相** ----- 在那些作为诸烦恼生起处所（界／地）的诸蕴当中，凡在某个体的诸蕴里，由于尚未以圣道断除，随眠烦恼便潜伏着；唯有那个体的、作为那些随眠烦恼潜伏之处的诸蕴，才是那些随眠烦恼的所住依处、生起处所、依处田地。 
+而属于他人所有的诸蕴，则不是那些随眠烦恼的所住依处、生起处所、依处田地。
+
+对于那些因在过去诸蕴中尚未以圣道断除、而曾潜伏安住着的随眠烦恼而言，唯有过去诸蕴才是其所住依处、生起处所、依处田地。 
+现在诸蕴与未来诸蕴则不是其所住依处、生起处所、依处田地。 
+对于那些因在未来诸蕴中尚未以圣道断除、将要潜伏安住的未来随眠烦恼而言，唯有未来诸蕴才是其所住依处、生起处所、依处田地。 
+现在诸蕴与过去诸蕴则不是那些未来随眠烦恼的所住依处、生起处所、依处田地。 
+对于那些因在现在诸蕴中尚未以圣道断除、正潜伏安住着的随眠烦恼而言，唯有现在诸蕴才是其所住依处、生起处所、依处田地；过去诸蕴与未来诸蕴则不是其所住依处、生起处所、依处田地。（《清净之道》2, 329）
+
+这些话语显示：得地是依所住依处之力而成立的，并非依所缘之力而成立；因此，随着依处的坏灭，那随眠的坏灭也随之发生。（《大义疏》2, 501）
+
+再者，对于那些因在欲界（kāmāvacara）诸蕴中尚未以圣道断除、而潜伏安住着的随眠烦恼而言，唯有欲界诸蕴才是其所住依处、生起处所、依处田地；色界（rūpāvacara）诸蕴与无色界（arūpāvacara）诸蕴则不是那些随眠的所住依处、生起处所、依处田地。
+对于那些因在色界诸蕴中尚未以圣道断除、而潜伏安住着的随眠烦恼而言，唯有那色界诸蕴才是其所住依处、生起处所、依处田地；欲界诸蕴与无色界诸蕴则不是其所住依处、生起处所、依处田地。 
+对于那些因在无色界诸蕴中尚未以圣道断除、而潜伏安住着的诸烦恼而言，唯有无色界诸蕴才是其所住依处、生起处所、依处田地；欲界诸蕴与色界诸蕴则不是其所住依处、生起处所、依处田地。 
+（意思是说：在轮回中流转期间，唯有那当下正存在于各自界地存在中的诸蕴，才是各自随眠界（anusaya dhātu）的所住依处、生起处所。 
+而以过去、未来等而言时间相异的诸蕴、界地存在相异的诸蕴，则不是那样时间相异、存在相异的随眠界的所住之处——此即其义。）（《清净之道》2, 329）
+
+**【文件：[463]智见清净释/[495]a 无法得到「地」名称的蕴.md】**
+
+### 无法得到「地(bhūmi)」名称的蕴(khandha)
+
+特别是——在须陀洹(Sotāpanna)等个体(puggala)当中，凡是某位圣(ariya)者的诸蕴中，作为轮回(vaṭṭa)之根源的那些随眠烦恼(anusaya kilesa)聚合，都已被相应的圣道(ariya magga)所断除了。
+那位圣者的那些蕴，由于已不再是那已被断除的、作为那轮回之根源的轮回根本(mūla)随眠烦恼的立足依处(vatthu)、生起之处、田地，因此便无法再得到「地」这个称呼。
+在心(citta)相续(santati)中，凭借那明显地以生(uppāda)-住(ṭhiti)-灭(bhaṅga)的方式生起、涌现、侵袭而来的缠烦恼(pariyuṭṭhāna kilesa)所施加的压制、折磨之力，就能推度而知、能够了知：烦恼(kilesa)以随眠界(anusaya dhātu)的体性，潜伏安住于诸蕴相续之中的这种状态。
+其原因在于：倘若随眠界并不明显地存在，那么该缠烦恼的压制、折磨之相便不会生起。
+在某个体的相续中，诸随眠界已被圣道所拔除；那个体因已对作为诸随眠界立足依处的五蕴加以了「遍知(pariññāta)」＝已凭借诸遍知(pariññā)之慧予以辨别了知，所以称为已善加超越了诸随眠界。
+因此，那依处＝那五蕴，就意味着再也无法成为那些随眠界的立足处「地」这样的名称了。（《清净之道》2，329。大义疏(Mahāṭī)2，501-502。）
+
+**【文件：[463]智见清净释/[495]b 驻留于何蕴之中？.md】**
+
+### 驻留于何蕴之中？
+
+由于连一种随眠界(anusaya dhātu)也尚未拔除，能生起众多烦恼(kilesa)的凡夫(puthujjana)，因为作为轮回(vaṭṭa)之根源的、种种轮回根本随眠烦恼(anusaya kilesa)尚未被断除，所以其无所拣择的任何一种身业(kāyakamma)、语业(vacīkamma)、意业(manokamma)，既可能成为善(kusala)，也可能成为不善(akusala)。
+由于存在这些尚未断除的随眠界，那凡夫因业—烦恼(kamma-kilesa)这一缘故，果报轮转(vipāka vaṭṭa)便流转不息。
+对那凡夫而言，不应当说这轮回根本随眠界唯独驻留于色蕴(rūpakkhandha)之中、而不驻留于受蕴(vedanākkhandha)等之中，也不应当说它唯独驻留于识蕴(viññāṇakkhandha)之中、而不驻留于色蕴等之中——如此说法既不应当、也不恰当。
+其缘由在于，一般而言，诸随眠界是普遍地驻留于全部五蕴之中的。（《清净之道》，2，329。）
+
+**世间譬喻** ----- 应当如同驻留存在于一棵大树之中的、具支地界(sasambhāra-pathavī)的精味与具支水界(sasambhāra-āpo)的精味一般来理解。
+试作显明 ----- 一棵大树立于地面之上，依凭具支地界的精味以及具支水界的精味，由于这地界精味、水界精味这一缘故（＝即由于所吸取的地脂、水脂、滋养素这一缘故），凭借根、干、大枝、小枝、嫩芽、叶、花、果而生长繁茂，充满于虚空，直至世界终尽，藉着一代又一代的种子而生出一代又一代的树木＝即藉子孙曾孙等而生出一代又一代的树木、如此持续存在时，那地界精味、水界精味的液汁唯独顺次遍布于根之中，而并非顺次遍布于干、大枝、小枝等之中。（略）。
+也不应当如此这般地说：它唯独顺次遍布于果之中，而并非顺次遍布于根等之中——如此等说法既不应当、也不恰当。
+其缘由在于，一般而言，由于它顺次遍布于一切的根、干、大枝、小枝、嫩芽、花、果之中，所以不应当那样说、也不恰当那样说。
+正如这个譬喻一般，诸随眠界也因为一般而言顺次驻留于全部五蕴之中，所以不应当说唯独驻留于某蕴之中、而不驻留于某蕴之中——如此既不应当、也不恰当。（《清净之道》，2，329。）
+
+**反向意义的道理** ----- 有一个唯独厌恶、憎恶那树之花、果等的男子，向那树的四面，击打诸位尊师所称说的、既名「龟甲石刺」又名「鱼毒牙」、名为 maṇḍūka、kaṇṭaka 的带毒之刺。
+当如此击打之时，那树由于遭受、被那毒的接触所折磨，因地界精味、水界精味的枯竭之故，便陷入无法生长繁茂的状态，再也不能生出树之子孙相续这样的相续之流；正如此譬喻一般，对诸蕴一再地生起深感厌恶、憎恶的善男子、善女人——就如同那男子在树的四面八方击入毒、＝将带毒之刺附着上去、击打刺入一般——便在自身的名色蕴(nāmarūpa)相续之中，致力于修习四种圣道(ariya magga)、即四道修习(catumagga bhāvanā)。
+当如此致力之时，那善男子、善女人的名色蕴相续之流，由于接触了名为那四种圣道的毒，使得作为一切轮回之根源的种种轮回根本随眠烦恼枯竭，因此那善男子、善女人凡所造作的一切身业、凡所有的语业、凡所有的意业，便都只安住于纯粹造作的唯作(kiriya)状态之中。（意即：不再成为善或不善。）
+由于身业等一切业的差别皆如此趋入唯作纯粹造作的状态，那善男子、那善女人在未来便趋入了于新的一生中不再生起这样的状态；由于如此趋入，便再也无力生出所谓「另一生」的名色相续之蕴的相续了。
+而实际上，由于名为最终死殁(cuti)的识(viññāṇa)的止息寂灭，就如同没有可燃薪柴的野火一般，对于犹如火之燃料的五取蕴(upādānakkhandha)中的任何一蕴，都不以「我、我所」而执取，于是便证入般涅槃(parinibbāna)、归于止息寂灭。
+如是，应当了知「地(bhūmi)」与「地所得(bhūmiladdha)」二者差别的实况。（《清净之道》，2，329-330。）
+
+**【文件：[463]智见清净释/[497] 同时了知四谛的方式.md】**
+
+### 同时了知四谛的方式
+
+油灯在不先不后、同一个刹那里完成四种作用。
+- 一、烧灯芯 = 使之耗尽。
+- 二、破除黑暗。
+- 三、清楚地显现光明。
+- 四、使名为油的黏液耗尽。
+
+就如这个譬喻一样，圣道智(ariyamaggañāṇa)在不先不后、同一个刹那里洞穿而了知四圣谛。
+
+- 一、名为无余辨别苦圣谛(dukkhasacca)的洞穿了知 = 藉由遍知现观(pariññābhisamaya)，以断除那覆盖着、使人无法了知苦圣谛的迷痴(sammoha)之法的方式，洞穿而了知。
+- 二、名为无余根除苦因圣谛(samudayasacca)相关烦恼(kilesa)的洞穿了知 = 藉由舍断现观(pahānābhisamaya)，以断除那覆盖着、使人无法了知苦因圣谛的迷痴之法的方式，洞穿而了知。
+- 三、圣道智以俱生(sahajāta)等诸缘力(paccayasatti)，助益以正思惟(sammāsaṅkappa)为首、其余七支的道(sattaṅgamagga)得以生起；如此以俱生等诸因缘力，使那些一同生起的道支(maggaṅga)之法生起、增长 = 藉由修习现观(bhāvanābhisamaya)，[即]藉由名为观智(vipassanāñāṇa)的、在圣道前分中生起的修习(bhāvanā)所引生的、名为圣道修习(ariyamaggabhāvanā)的那种洞穿了知，以摧毁那覆盖着、使人无法了知道谛(maggasacca)的迷痴之法的方式，洞穿而了知。（《清净之道》2,331。）
+
+Maggañāṇañhi sampayuttadhammesu sammohaṃ viddhaṃsentaṃ attanipi sammohaṃ viddhaṃseti yeva. (Mahāṭī-2-503.)
+
+圣道智一边摧毁那覆盖遮蔽着、使人无法了知相应(sampayutta)诸法的迷痴之法，一边也确实摧毁那覆盖着、使人无法了知自身道智的迷痴之法。（大义疏，2，503。）
+
+- 四、名为现证那名为灭谛(nirodhasacca)的无为界(asaṅkhatadhātu)、寂静之界涅槃(nibbāna)的洞穿了知 = 藉由现证现观(sacchikiriyābhisamaya)，以摧毁那覆盖着、使人无法了知那灭谛涅槃的迷痴的方式，洞穿而了知。
+
+若问：藉这些语句要表达怎样的义理呢？—— 意思是说：以作为灭谛的无为界涅槃为所缘，也获得、了知、见到、洞穿而了知全部四谛(saccā)。
+
+正如油灯烧灯芯、使之耗尽那样，同样地，圣道智分别了知苦圣谛。
+正如油灯破除黑暗那样，同样地，圣道智舍弃苦因圣谛。
+正如油灯清楚地显现光明那样，同样地，圣道智藉由俱生等诸缘力的助益，清楚地显现、生起那名为以正思惟为首之法的道支。
+正如油灯使名为油的黏液耗尽那样，同样地，圣道智现证那作为名为烦恼的黏液之枯竭处的灭谛涅槃殊胜之法。（《清净之道》2,331。）
+
+应当了知：由于[苦圣谛]乃是[渴爱]所依止之依处得以存在的原因，故分别了知苦圣谛便如同烧灯芯一般。
+应当了知：由于能摧毁相对的烦恼的缘故，舍弃苦因圣谛便如同驱散黑暗一般。
+应当了知：由于能将名为智的光明遍布于周遭的缘故，修习道谛便如同清楚地显现光明一般。
+由于藉着种种圣道、以如此这般的方式使名为烦恼的黏液枯竭，所以现证灭谛便如同使油的黏液枯竭一般——这是依据名为「因缘转喻(kāraṇūpacāra)」（=以因之名作为果之名）的用法而说的。（大义疏，2，504。）
+
+圣道智在了知见到四谛时，有洞穿而了知见到的两种方式：藉所缘通达(ārammaṇapaṭivedha)而了知见到，以及藉无痴通达(asammohapaṭivedha)而了知见到。
+将以缘取、以现证的方式所作的洞穿了知，称为藉所缘通达而洞穿了知见到。
+将藉着摧毁那覆盖着、使人无法了知四谛的痴(moha)之法，以作用成就(kiccasiddhi)=了知作用之完成的方式所作的洞穿了知见到，称为无痴通达。
+圣道智在了知见到四谛时，对作为灭谛的涅槃，既藉所缘通达、也藉无痴通达，即藉这两种通达(paṭivedha)而了知；对苦圣谛、苦因圣谛、道谛，则藉无痴通达而了知。
+
+在说「于圣道刹那了知全部四谛」时，是指：当圣道智生起时，唯以灭谛涅槃这一伟大殊胜之法为所缘而了知，缘取而了知——这就是所缘通达。
+至于了知其余三谛的方式，则是这样的。
+当圣道智生起时，便无余地、连根断除那覆盖、遮蔽、使人无法了知四谛的痴之黑暗；由于如此断除，在那位圣者个体(ariyapuggala)的相续(santāna)中——那覆盖着、使人无法把名为五取蕴(pañcupādānakkhandhā)的苦圣谛之法认作苦圣谛的痴，那覆盖着、使人无法把名为无明(avijjā)、渴爱(taṇhā)、取(upādāna)、行(saṅkhāra)、业(kamma)的苦因圣谛认作苦因圣谛的痴，那覆盖着、使人无法把灭谛涅槃认作灭谛的痴，那覆盖着、使人无法把名为八道支的道谛之法认作道谛的痴——由于这覆盖、遮蔽、使人无法了知这全部四谛的无明痴之法已连根断尽、彻底清除，所以那位圣者个体虽不缘取其余三谛、而唯以灭谛涅槃为所缘，却已成为对那其余三谛完成了了知作用的人。
+正是这种如此已完成了知作用的情形，才被称为「藉作用成就而对其余三谛也加以了知」。
+
+**须注意** ----- 假如你这位善士也认为自己是圣者个体、或是须陀洹(sotāpanna)，那么请把上面的解说再读一遍。
+应当明白：倘若你对那名为苦圣谛、存在于三时(kāla)二相续之内的五取蕴，还未能破析其各自的密集(ghana)、抵达究竟法(paramattha)而彻底了知；倘若你对那由于名为无明、渴爱、取、行、业的苦因圣谛，而使名为苦圣谛的五取蕴显现生起的情形，也还未能如实了知——那么请领会：你这位善士距离佛陀(buddha)所判定的圣者个体阶位，还犹如天与地那般、极为极为遥远。
+其缘由在于：由于每一位圣者个体的道智，都已无余地、彻底地断除了那覆盖着、使人无法了知那苦圣谛之法与苦因圣谛之法的痴、无明，所以每一位、每一位圣者个体，只要一缘取那名为苦圣谛、苦因圣谛的因-果行法，便都能了知。
+若真是圣者善士，那么不仅苦圣谛与苦因圣谛，就连灭谛与道谛，也是只要一缘取便都能了知的。
+正是这样的了知，才被称为藉无痴通达而了知。
+
+**【文件：[463]智见清净释/[499] 理证依据的巴利圣典.md】**
+
+### 理证依据的巴利圣典
+
+圣道智(ariya magga ñāṇa)以所缘通达(ārammaṇapaṭivedha)透彻洞见灭谛(nirodhasacca)——涅槃(nibbāna)这一者,以无痴通达(asammoha paṭivedha)透彻洞见其余三谛、换言之洞见全部四谛——关于这一要点,理证依据的巴利圣典如下所示。-----
+
+Yo bhikkhave dukkhaṃ passati, dukkhasamudayampi so passati, dukkhanirodhampi passati, dukkhanirodhagāminiṃ paṭipadampi passati. (Saṃ, 3, 382.)
+
+诸比库(bhikkhu)……凡是洞见苦圣谛(dukkha sacca)之个体(puggala)者。 
+那个体也洞见苦之生起之因——苦因圣谛(samudaya sacca),也洞见苦之止息处、止息之因——灭谛,也洞见通往苦之止息处涅槃、作为修行次第的道谛(magga sacca)。(Saṃ, 3, 382.)
+
+在上述这段巴利圣典中,佛陀(Buddha)并非意在宣说四谛的洞见是「一谛之后再一谛、分隔时段而洞见」的那种;确切地说,佛陀所意指并宣说的,唯是「一通达(eka paṭivedha)=于一个心刹那(cittakkhaṇa)中同时透彻洞见全部四谛」的那种。 
+其证据如下。-----
+
+- Maggasamaṅgissa ñāṇaṃ, dukkhepetaṃ ñāṇaṃ, dukkhasamudayepetaṃ ñāṇaṃ, dukkhanirodhepetaṃ ñāṇaṃ,
+- Dukkhanirodhagāminiyā paṭipadāyapetaṃ ñāṇaṃ. (Vibhaṅga, 341. Paṭisaṃ, 114.)
+
+具足圣道(ariya magga)的个体,存在着这样的圣道智;该圣道智也存在于苦圣谛之中,该圣道智也存在于苦之生起因——苦因圣谛之中,该圣道智也存在于苦之止息处、止息之因——灭谛之中,该圣道智也存在于通往苦之止息处涅槃、作为修行次第的道谛之中。(Vibhaṅga, 341. Paṭisaṃ, 114.)
+
+这便是——圣道智同时了知全部四谛的方式;以所缘通达了知灭谛、以无痴通达了知其余三谛、换言之了知全部四谛的方式;以遍知现观(pariññā-abhisamaya)了知苦圣谛、以舍断现观(pahāna-abhisamaya)了知苦因圣谛、以现证现观(sacchikiriyā-abhisamaya)了知灭谛、以修习现观(bhāvanā-abhisamaya)了知道谛的方式——所依据的自性之理(sabhāva-yutti)与圣教之理(āgama-yutti)。
+
+**【文件：[463]智见清净释/[500] 譬喻与所喻的对照.md】**
+
+### 譬喻(upamā)与所喻(upameyya)的对照
+
+1. 若已一分一分地(逐一分辨地)了知名为「苦圣谛(dukkha sacca)」的五蕴(khandha)，以及那五蕴成为苦圣谛的样态，那么在那些已被逐一分辨了知的「已遍知之蕴(pariññātakhandha)」中，贪爱(taṇhā)与见(diṭṭhi)便无法得到攀附的机会。
+因此，逐一分辨地了知名为苦圣谛的五蕴，以及那五蕴成为苦圣谛的样态，正是贪爱与见——即以「我、我所」而执取——之无所依止(nissaya)的真实原因。
+由于分辨了知苦圣谛正是贪爱与见如此无所依止的真实原因，所以分辨了知苦圣谛，就如同油灯之火烧燃灯芯一般，如同将它烧尽一般。
+
+2. 由于圣道(ariya magga)能够无余地舍断、摧毁各自相对治的烦恼(kilesa)，所以如此的舍断、摧毁，正是舍弃苦因圣谛(samudaya sacca)。
+圣道智(ariya magga ñāṇa)舍弃、摧毁、驱除各自相对治的烦恼——苦因圣谛，就如同油灯之火驱散与之相对的黑暗一般。
+
+3. 圣道智=正见(sammādiṭṭhi)，借由俱生(sahajāta)等各种缘(paccaya)的力量，资助其余的正思惟(sammāsaṅkappa)等七道支(maggaṅga)得以生起；由于如此资助，便令俱起的七道支生起、增长，这就是道的修习(maggabhāvanā)。
+如此地增长、生起名为道谛(magga sacca)=出世间(lokuttara)道谛的道之修习，即称为向四周周遍地增长圣道智的光明。
+因此，由于增长道谛能够向四周周遍地增长智的光明，所以增长道谛就如同油灯之火明显地显现光明一般。
+
+ñāṇālokaparibrūhanatāya maggabhāvanāya ālokavidaṃsanasadisatā = parividaṃsanasadisatā. (Mahāṭī, 2, 504.)
+
+由于道之心、心所(magga citta-cetasika)（果之心、心所亦含摄在内），生起了以食素(ojā)为第八法的心生之色（cittaja ojaṭṭhamaka rūpa）；在那些色法中也含有名为颜色(vaṇṇa)的色所缘(rūpārammaṇa)；那色所缘是 bhāsura=极为光耀明亮。
+再者，在那些心生的食素第八法之色中，名为季节(utu)的火界(tejodhātu)也存在于每一个色聚(rūpakalāpa)之中。
+由于那火界=季节，以食素为第八(法)之色，不仅在内在(ajjhatta)，甚至还向外在(bahiddha)扩散出去。
+在那些季节生之色（utuja rūpa）中，也含有名为颜色的色所缘；那色所缘同样也是 bhāsura=极为光耀明亮。
+须知：这是把作为果的色法之光明这一名称，比拟安置于作为因的智之上，宛如作为因的智中具有光明一般，依「同法转用(taddhammūpacāra)、果转用(phalūpacāra)」而如此称说使用的。
+
+4. 现证(sacchikiriyā)名为烦恼的湿性界、黏性界之止息处与止息因——灭谛(nirodha sacca)、涅槃(nibbāna)，就如同油灯之火将油的黏质烧尽一般。
+由那圣道以任何种种方式现证灭谛；正是以那样种种方式，由那圣道智令名为烦恼的湿性界、黏性界灭尽、枯竭，因此说：现证灭谛就如同油灯之火将油的黏质烧尽、枯竭一般。
+
+**果转用之说(phalūpacāra)** ----- 无为界(asaṅkhatadhātu)、涅槃这一至尊之法，即是灭谛；是圣道智的所缘之因法；而圣道智则是名为「所缘拥有者(ārammaṇika)」的果法。
+令烦恼灭尽枯竭，其实唯有作为果的圣道智才能作此灭尽枯竭。
+须知：把作为果的圣道智令烦恼的湿性界、黏性界灭尽枯竭这一名称，比拟安置于作为因的灭谛、涅槃这一至尊大法之上，说成「作为因的灭谛、涅槃令烦恼的湿性界、黏性界灭尽枯竭」——这就是把果之名比拟安置于因之上而如此称说使用的「果转用之说」。
+
+[此 - **同时了知四谛之样态的部分**，乃是从《清净之道》注释(aṭṭhakathā)第二册331-332，
+以及《大疏钞》(Mahāṭīkā)第二册503-504，摘取要旨而呈示的。]
+
+**【文件：[463]智见清净释/[501]a 谛的十六种意义.md】**
+
+### 谛(sacca)的十六种意义
+
+Kathaṃ tathaṭṭhena cattāri saccāni ekapaṭivedhāni.
+Soḷasahi ākārehi tathaṭṭhena cattāri saccāni ekapaṭivedhāni.
+
+- 1. **Dukkhassa** pīḷanaṭṭho, saṅkhataṭṭho, santāpaṭṭho, vipariṇāmaṭṭho, tathaṭṭho.
+- 2. **Samudayassa** āyūhanaṭṭho, nidānaṭṭho, saṃyogaṭṭho, palibodhaṭṭho, tathaṭṭho.
+- 3. **Nirodhassa** nissaraṇaṭṭho, vivekaṭṭho, asaṅkhataṭṭho, amataṭṭho, tathaṭṭho.
+- 4. **Maggassa** niyyānaṭṭho, hetuṭṭho, dassanaṭṭho, adhipateyyaṭṭho, tathaṭṭho.
+
+Imehi soḷasahi ākārehi tathaṭṭhena cattāri saccāni ekasaṅgahitāni.
+Yaṃ ekasaṅgahitaṃ, taṃ ekattaṃ.
+Yaṃ ekattaṃ, taṃ ekena ñāṇena paṭivijjhatīti cattāri saccāni ekapaṭivedhānīti. (Paṭisaṃ 296; Visuddhi 2, 332.)
+
+如何以不曲不谬、真实的自性(tatha),四谛是以单一之智同时一举地洞察而应知的呢?
+以(十六)种情形,以不曲不谬、真实的自性,四谛是以单一之智同时一举地洞察而应知的。
+
+**【文件：[463]智见清净释/[501]b 苦圣谛之义（4）点.md】**
+
+### 苦圣谛（dukkha sacca）之义（4）点
+
+**逼迫之义（pīḷanaṭṭha）** ----- dukkhadukkhatā taṃnimittatāhi aniṭṭhatā pīḷanaṭṭho.（Mūlaṭī 2, 50）
+
+**1. 逼迫之义** ----- 在两个嗔根（dosamūla）〔心〕中相应的、称为属心的忧受（cetasika domanassa vedanā）的心里受苦的感受，以及在与苦俱行（dukkhasahagata）的身识（kāyaviññāṇa）中相应的、称为身苦受（kāyika dukkha vedanā）的身体受苦的感受——这种感受＝受（vedanā）这两类，一方面就本性而言，另一方面由于凡是被生、灭的打击不断地折磨、压迫的一切法都能被称为纯粹的苦，故就名称而言，又由于是真真实实的苦、确实是苦，因此名为苦苦性（dukkhadukkhatā）。
+凡是那种苦之生起的因法，都名为彼因性（taṃnimittatā）。
+就法体而言，即是乐受（sukha vedanā）、舍受（upekkhā vedanā），以及其余的三地行法（tebhūmaka saṅkhāra dhamma）诸法。
+乐受在住立时虽是乐，然而一旦变异、坏灭，便成为苦，成为苦难。
+因此，那无法长久存续而变异坏灭的、或者说易于变异坏灭的乐受，正是那种苦受得以生起的根本原因，即彼因性。（sukhā vedanā ṭhiti sukhā vipariṇāmadukkhā -- M 1, 377）
+舍受以及其余凡是三地行法者，由于被生、灭的打击不断地折磨、压迫，故名为行苦（saṅkhāradukkha）。
+那些被称为行苦的三地行法诸法，也正是身苦、心苦（cetasika dukkha）等种种苦得以生起的根本原因，即彼因性。
+对于那些尚未离颠倒（vipallāsa）的人而言，凡是所生起的身苦、心苦，都正是以那些三地行法为因才得以生起的；因此，那些三地行法诸法＝凡是存在于三界之内的行法，都是苦得以生起的根本原因，即彼因性。
+因此，被称为苦苦的苦受、被称为坏苦（vipariṇāma dukkha）的乐受、被称为行苦的舍受以及其余凡是三地行法者，在诸圣（ariya）者善人的智见中，都只是不受欲求的、不可意（aniṭṭha）的诸法；只是具有被苦苦、坏苦、行苦这三种苦所压迫之性质＝具有逼迫之义之性质的诸法。
+
+tathā pīḷanaṃ pana maggaphalānampi atthi.
+tasmā ete dhammā dukkhasaccapariyāpannattena saṅkhāradukkhaṃ nāmāti veditabbā.（Abhi-ṭ 2, 88）
+
+正如凡是存在于三界之内的三地行法，由于被生、灭即生灭（udayabbaya）的打击不断地折磨、压迫，故名为行苦一样；同样地，道心之生起（magga cittuppāda）＝道心与诸心所，果心之生起（phala cittuppāda）＝果心与诸心所诸法，也由于具有被那生、灭的打击不断地折磨、压迫的生灭逼迫（udayabbaya paṭipīḷana）之性质，因此并非究竟地、而是就方便（pariyāya）而言被含摄于苦圣谛之中，故当知它们也名为行苦。（Abhi-ṭ 2, 88）
+
+puggalahiṃsanaṃ vā **pīḷanaṃ.**（Mūlaṭī 2, 50）
+
+**pīḷanaṭṭho** taṃsamaṅgino sattassa hiṃsanaṃ avipphārikatākaraṇaṃ.（Mahāṭī 1, 257）
+
+另一种说法 ----- 当苦生起时，蕴（khandha）之相续的不兴旺、憔悴，就是苦对那具足被称为苦圣谛的五蕴（pañca khandha）的个体（puggala）的折磨。
+正因为如此被苦所折磨，受苦的人们即使年纪尚轻，也不欢欣，而是憔悴萎靡。
+要言之，当知苦苦、坏苦、行苦这三种苦那令人不堪欲求的被压迫之性质，正是被称为苦圣谛的五蕴的逼迫之义之性质。
+那逼迫之义之苦最为剧烈的领域，就是四恶趣（apāya）；而其中，地狱界又居于最顶端。
+即使在善趣（sugati）诸界中，那逼迫之义之苦的打击也依然是猛烈的。
+至少而言，凡是行法者，都始终被生、灭的打击不断地折磨、压迫着。
+
+2. **有为之义（saṅkhataṭṭha）** ----- 那些被称为苦圣谛的五蕴、即名色（nāmarūpa）诸法，正如在缘摄受智（paccaya pariggaha ñāṇa）部分＝缘起（paṭiccasamuppāda）部分中所撰述陈列的那样，都是唯有当无明（avijjā）、渴爱（taṇhā）、取（upādāna）、行（saṅkhāra）、业（kamma）、食（āhāra）、触（phassa）等各自相关的因法予以造作安排时，才能生起、才得以生起的诸性质法。
+如此，被称为苦圣谛的有为名色诸法，其诸因法协同和合、共同一起地被造作安排以令其生起——这种〔被造作而〕生起的状态之性质，就是有为之义之性质。
+
+如此地被造作安排，本身也正是苦。
+即使在培育那些导致堕入恶趣的不善（akusala）恶行（duccarita）之时，也依然正被身受苦、心受苦等等苦苦、坏苦、行苦的打击所围绕，遭受折磨、压迫。
+平凡普通的诸弟子（sāvaka）自不必说，即便是伟大的诸菩萨（bodhisatta），为了获得伟大的一切知智（sabbaññuta ñāṇa），也要奋力精进地圆满修习诸波罗蜜（pāramī），为此须舍弃生命，须舍弃肢体手足，须舍弃儿子，须舍弃女儿，须舍弃妻室，须舍弃财富资产，须舍弃王位——这正是有为苦（saṅkhata dukkha）的打击之巨大情形。
+布施（dāna）能在一天之内就使一位富翁变为穷人。
+至于所谓戒（sīla），也具有须艰苦费力地去圆满修习的性质；在努力修习止（samatha）、观（vipassanā）之时，也须极其猛烈地精勤，因此有为的打击着实是巨大的。
+凡是为了令某一期生有生起而培育那些导致到达种种界地生存的善（kusala）、不善之行者，都纯粹只是有为苦之性质。
+
+**3. 热恼之义（santāpaṭṭha）** ----- 被称为苦圣谛的有为诸法，藉由上文所述的苦苦性、彼因性＝即真实的身受苦、心受苦，以及那身受苦、心受苦得以生起的根本原因这两种情形，而剧烈灼烧的意义之性质，就是热恼之义之性质。
+另一种说法 -- 那称为烦恼（kilesa）的、能灼烧、能压迫的热界，与被称为苦圣谛的诸法，在同一个名色相续（santati）之流之内相互并存、共处的性质，就是热恼之义之性质。
+另一种说法 -- 作为苦圣谛的有为诸法，就其自身的本性而言，具有能够承载苦、痛之性质的那种锐利之性质；如此就其自身本性而言即是锐利的这种状态，正是热恼之义＝剧烈灼烧之性质。
+
+对于一位已用观（vipassanā）智之慧眼，仔细审察行法的无常（anicca）之点、苦之点、无我（anatta）之点，而清清楚楚地照见了知的瑜伽行者（yogāvacara）而言，苦圣谛诸法的那种热恼之义之性质，必定会清清楚楚、明明白白地被亲见。
+
+**4. 变异之义（vipariṇāmaṭṭha）** ----- 被称为结生（paṭisandhi）之安住、即生（jāti）的苦圣谛法，藉由所谓衰老之老（jarā）法，以及一期生命中一度会毁坏消亡之死（maraṇa）法这两种类别，而变异、坏灭的性质法，就是变异之义之性质。
+这是就世俗谛（sammuti sacca）而言。
+而就究竟谛（paramattha sacca）而言，以生（uppāda）的形态而显现生起的五蕴，即是苦圣谛诸法。
+那苦圣谛法并非只以生起之生的形态恒常安住，而是藉由所谓安住之住（ṭhiti）的老，以及所谓坏灭之灭（bhaṅga）的死——这两种类别而变异、坏灭的性质法，就是变异之义之性质。
+
+**【文件：[463]智见清净释/[504]a 应当记住的特别之处.md】**
+
+### 应当记住的特别之处
+
+在苦圣谛（dukkha sacca）所具有的四种意义之中，**逼迫之义（pīḷanaṭṭha）**是不依赖其他诸谛、
+而是依苦圣谛自身的根本本性所显现出来的意义。
+**有为之义（saṅkhataṭṭha）**是依于能造作、安排苦圣谛的苦因圣谛（samudaya sacca），而显现出「凡是苦圣谛，都只是由爱（taṇhā）的苦因圣谛所造作、安排的有为（saṅkhata）之法而已」的意义。
+**热恼之义（santāpaṭṭha）**是依于清凉的道谛（magga sacca）——它品尝着不死界（amata dhātu）甘露清水的寂静乐（santisukha）、寂灭之界的滋味——而显现出「凡是正在生灭、或正在坏灭的有为苦圣谛之法，都不像道那样清凉，而是真实炽热的苦」的意义。
+（意思是说：瑜伽行者（yogāvacara）依于无为（asaṅkhata）方面的清凉之相，便能了知有为方面的炽热之相。）
+**变易之义（vipariṇāmaṭṭha）**是依于不变异的灭·涅槃（nirodha nibbāna）（＝依于不生不灭的灭谛（nirodhasacca）·涅槃），而显现出「苦圣谛这有为诸法之聚，并不像涅槃那样不变异＝并非不生不灭的界之自性，而是会因老（jarā）、也会因死（maraṇa）而变异坏灭的＝正在生灭的种种苦」的意义。（根本复注（Mūlaṭī），2，50。）
+
+苦圣谛的这四种意义之法都是真实的，并非不真实，毫无错谬；苦圣谛诸法不会以逼迫等四种情形以外的其他情形而生起，因此才被称为「谛」。
+
+**【文件：[463]智见清净释/[504]b 苦因圣谛之义 (四) 项.md】**
+
+### 苦因圣谛（samudaya sacca）之义 (四) 项
+
+**၁။ 加行义（āyūhanaṭṭha）** ----- 在种种生存、种种所缘中，以极度喜爱之力造作苦（dukkha）聚、使苦生起 = 培育助长苦聚使之生起，称为「加行（āyūhana）」。
+另一种说法 —— 苦圣谛（dukkha sacca）诸法之聚，由于因苦因圣谛而生起，故称为「āya」。
+使那名为「āya」的苦圣谛生起之自性法，称为「加行」。 
+这「加行」之义的自性法，正是苦因圣谛依其自身自性、按其自身自性而清楚显现出来的那种情形之义。 
+（意思是说，这并非借助其他种种谛（sacca）而获得的义。）
+
+**၂။ 来源义（nidānaṭṭha）** ----- 由于能够交付苦圣谛诸法之聚、如同交付一般地生起，故称为「来源（nidāna）」。
+意思是说，它如同令人接受「那苦即是此」那样、如同交付那样，使苦生起。 
+唯有当知见苦圣谛时，由于知见到苦圣谛，苦因圣谛的这「来源」义的自性法才得以清楚地显现出来。 
+由于过去生所培育助长的、名为无明（avijjā）、渴爱（taṇhā）、取（upādāna）、行（saṅkhāra）、业（kamma）的苦因圣谛，当自己以正见（sammādiṭṭhi）智慧、亲自现见地洞穿而知见到此生的结生（paṭisandhi）五蕴（khandha）苦圣谛法如何清楚生起等情形时，这「来源」义之自性便会清楚地显现出来。 
+对于三时全部，也应以同样的方法理解其义。
+
+**၃။ 系缚义（saṃyogaṭṭha）** ----- 苦因圣谛使人与轮回（saṃsāra）之轮转苦相系缚、紧贴而无法脱离的自性，称为「系缚义（saṃyogaṭṭha）」。 
+这正是束缚人、使之无法从轮回之苦中解脱的义。 
+苦因圣谛的这「系缚」义的自性法，由于知见到不与轮回相系缚的灭谛（nirodhasacca），而清楚地显现出来。 
+把蕴（khandha）—入处（āyatana）—界（dhātu）的相续不断生起称为轮回；即不断生—灭、不断坏灭的名色（nāmarūpa）有为（saṅkhata）法之聚。 
+瑜伽行者（yogāvacara）在观照那被称为轮回的诸有为法之坏灭时，便现见了不生—不灭、没有坏灭自性的无为界（asaṅkhatadhātu）灭谛。 
+那无为界灭谛，由于没有生—灭，因此是不与有生—灭的有为轮回相系缚之法。 
+意思是说，由于见到了不与那轮回相系缚的无为界灭谛，具有「使之系缚于轮回中」这一情形的苦因圣谛的系缚义自性法，便清楚地显现出来。 
+由于作为原因的苦因圣谛法清楚存在、由于其生起，作为结果的苦圣谛法便清楚存在、清楚生起的情形，以及由于作为原因的诸苦因圣谛法止息、作为结果的诸苦圣谛法便随之止息的情形——对于已经以现量智（paccakkha ñāṇa）、亲自现见地观照通达了这些的那位瑜伽行者而言，当他以圣道智（ariyamagga ñāṇa）现见灭谛时，那苦因圣谛一再地、连续不断地使诸苦圣谛法相系缚、使之生起的系缚义，便早已清楚鲜明地显现出来了——意思是这样。
+
+**၄။ 障碍义（palibodhaṭṭha）** ----- 扰乱、阻止、遮止、妨碍那作为「从轮回出离之因」的圣道（ariya magga）法——这种义，正是苦因圣谛的「障碍义（palibodhaṭṭha）」。
+当圣道智以所缘通达（ārammaṇapaṭivedha）= 现见所缘、直接洞穿而知见的方式，现见了那名色有为诸法的止息处、生灭有为诸法的无有处、不生不灭的无为界灭谛时；对于那作为「从轮回出离之因」的、导向出离（niyyānika）的善法、作为「从生灭有为诸法解脱之因」的行道、即八支的道（magga）道谛法，也以无痴通达（asammoha paṭivedha）= 以断除那遮蔽而使人无法了知的痴（moha）的方式，完成了洞穿了知的工作。 
+如此，由于知见到那作为「从生灭轮回出离之因」的行道即道谛，对于苦因圣谛阻止那作为「从轮回出离之因」的圣道的这种情形，智（ñāṇa）也已经趣入了。 
+道谛乃是「从轮回出离之因」之法。
+苦因圣谛乃是「于轮回中流转之因」之法。 
+乃是「不从轮回出离之因」之法。
+意思是说，当知见到「从轮回出离之因」之法时，便会知见到：苦因圣谛乃是为使人无法从轮回出离，而阻止、扰乱那「从轮回出离之因」之法的法。
+
+苦因圣谛的这四种义的自性法都是真实的，无不真实、无有错谬；它们绝不会以「加行」等这四种情形之外的其他情形而生起，因此称为「谛」。
+
+**【文件：[463]智见清净释/[505] 灭谛之义(四)点.md】**
+
+### 灭谛(nirodhasacca)之义(四)点
+
+**1. 出离义(nissaraṇaṭṭha)** ----- 当这个称为涅槃(nibbāna)的所缘在圣者(ariya)们的相续中被证得时 = 当在圣者们的名色(nāmarūpa)相续之流中生起的道智(magga ñāṇa)、果智现证并知见涅槃时,凭借这个称为涅槃的所缘,以道智、果智知见涅槃的圣者们便得以从轮回(saṃsāra)中出离;由于如此成为从轮回出离之因,那涅槃便称为**出离(nissaraṇa)**。另一种方式 -----
+
+- 1. 称为「欲基质(kāmūpadhi)」的、作为五种所缘的欲功德(kāmaguṇa)诸法,
+- 2. 称为「蕴基质(khandhūpadhi)」的五蕴(khandha),
+- 3. 称为「烦恼基质(kilesūpadhi)」的十种烦恼(kilesa),
+- 4. 称为「积聚基质(abhisaṅkhārūpadhi)」的、能造作新一世之蕴的积聚(abhisaṅkhāra)业法 ----
+
+由于成为这一切基质(upadhi)诸法的舍弃之处,由于成为舍弃一切基质诸法之处,由于成为一切基质无所存留、寂离之处,涅槃自身便从一切有为(saṅkhata)诸法中出离,不与有为诸法相应;因此那涅槃由于「从一切有为诸法出离」这一含义之相,而称为**出离(nissaraṇa)**。
+
+另一种方式 ----- 由于无为(asaṅkhata)涅槃以所缘缘(ārammaṇapaccaya)之力作助益,以那涅槃为所缘而生起的、称为 ārammaṇika(能取所缘者) = 能取所缘的圣道智(ariya magga ñāṇa)逐层断杀诸烦恼;由于无余地断杀诸烦恼,那些必须获得烦恼为伴才能给予果报的业(kamma)诸法,也不再获得给予果报的机会。
+由于业与烦恼止息了,那些本应因业与烦恼而生起的果报轮转(vipākavaṭṭa)的五蕴、有为诸法,也不再获得生起的机会了。
+一切基质都止息了。
+因此,无为界(asaṅkhatadhātu)、涅槃这尊贵之法,便成为从一切基质中解脱之根本原因的法。
+如此「成为从一切基质中解脱之根本原因」这一含义之相,正是灭谛的**出离义(nissaraṇaṭṭha)**含义之相。
+
+nissaranti ettha sattā, sayameva vā nissaṭaṃ visaṃyuttaṃ sabbasaṅkhatehi sabbūpadhipaṭinissaggabhāvatoti **nissaraṇaṃ.** (Mūlaṭī, 2, 50.)
+
+nirodhassa **nissaraṇaṭṭho** sabbūpadhīnaṃ paṭinissaggasabhāvattā tato vinissaṭatā, tannissaraṇanimittatā vā. (Mahāṭī, 1, 257.)
+那灭谛的这个出离义 = 出离含义,是就其自身之显现的含义而言、鲜明地生起的行相之含义。(意思是说,这并非借由推度其他诸谛而得知的含义之相。)
+
+**2. 远离义(vivekaṭṭha)** 「从渴爱(taṇhā)之集(samudaya)中远离(viveka)」这一含义之相,便称为灭谛的**远离义(vivekaṭṭha)**含义。
+由于渴爱远离,那必须获得称为渴爱的伴侣才有能力给予果报的业,也远离了。
+由于业与烦恼远离,从那本应因业与烦恼而生起的果报轮转的有为诸法中,也只是远离了而已。
+不与一切行(saṅkhāra)诸法相杂相应、从行诸法中远离的这一体性,也正称为灭谛的**远离义(vivekaṭṭha)**含义。
+
+灭谛既是渴爱的尽灭之因、有为诸法的尽灭之因,便从集之渴爱(samudayataṇhā)中远离,从生灭的有为诸法中远离。
+因此,灭谛的远离义含义,是由于圣道以无痴通达(asammoha paṭivedha)知见了非远离的集、非远离的有为,而显现出来的灭谛的另一种含义。
+
+**3. 无为义(asaṅkhataṭṭha)** ----- 「不被无明(avijjā)、渴爱、取(upādāna)、行、业等任何一种因法所造作」这一含义之相,便称为灭谛的**无为义(asaṅkhataṭṭha)**含义。
+即使是那作为知见灭谛——涅槃这尊贵伟大之法之因的圣道法,也必须由逐层的观(vipassanā)智以强大所依的强依止(upanissaya)之力作助益才能生起,是有明显因法的有缘(sappaccaya)之法而已,是唯有诸因法造作才能生起的有为之法而已。
+即使是圣道法,也仍无法脱离有缘之性、有为之性。
+如此,由于见到圣道法之为有为的情形,灭谛的无为含义便得以显现,成为另一种含义。
+意思是说,借由推度道谛(maggasacca)之为有为的情形,灭谛之为无为的情形便显现出来。
+
+**4. 不死义(amataṭṭha)** ----- 由于灭谛、涅槃这尊贵之法具有恒久的常(nicca)之性,另一种方式说,由于它成为众生不死之因,故「不老、不死、不死(amata)」这一体性,不坏之性,无坏灭之性,便称为灭谛的**不死义(amataṭṭha)**含义。
+
+由于知见了因具有死之性而不断坏灭、坏灭的有为苦圣谛(dukkhasacca)之法,那没有死之性的灭谛、涅槃之法的不死义含义,便也得以显现。
+在观的部分中所观照的有为诸法,是坏灭的境地,是死亡的境地。
+在那坏灭境地的尽头(= 在以行诸法之坏灭为所缘的观智之尽头),于圣道智中显现的无为界,则是不坏的境地,是不死的不死(amata)境地。
+意思是说,借由推度有为的死之性,无为的不死之性便显现出来。
+
+灭谛的这四种含义之相都是真实的,并非不真、并无错谬;除了以出离等四种行相之外,不会以其他行相而成立;因此称为谛(sacca)。
+
+另一种方式 -- 由于涅槃这尊贵之法是集之渴爱的尽灭之处,故它既称为「从集之渴爱中远离」之性的**远离义(vivekaṭṭha)**,又称为「没有无明、渴爱、取、行、业等因」之无缘(appaccaya)之性的**无为义(asaṅkhataṭṭha)**,也称为「不坏灭、无坏灭之性」的不死义(amataṭṭha)。(Mūlaṭī, 2, 50.)
+
+**【文件：[463]智见清净释/[507] 值得提问的要点.md】**
+
+### 值得提问的要点
+
+在苦（dukkha）、集（samudaya）等的『逼迫（pīḷana）』、『有为（saṅkhata）』等意义之外，尚有诸如与疾病相同、与疮疡相同等等、另属一类的种种相状与意义存在着；那么，为什么却唯独宣说了四种意义呢？——这样的疑问是有的；而回答如下。-----
+
+由于是借着见到另一谛（sacca）之力而得以显明的缘故，才唯独宣说了这四种。确实如此——
+
+Tattha katamaṃ dukkhe ñāṇaṃ, dukkhaṃ ārabbha yā uppajjati paññā pajānanā.（Vibhaṅga 341, Paṭisaṃ 114）
+
+在此，于苦圣谛（dukkha sacca）中生起的智（ñāṇa）是什么呢？即以苦圣谛为所缘而生起的那种慧（paññā）、那种个别个别地了知，是有的。（Vibhaṅga 341, Paṭisaṃ 114）
+
+以如此等等的方式，藉由逐一逐一地缘取各别之谛之力，宣说了谛智（saccañāṇa）。
+
+Yo bhikkhave dukkhaṃ passati, samudayampi so passati.（Saṃ 3, 382）
+
+诸比库（bhikkhu）……凡是那位比库见到苦圣谛，那位比库也见到集圣谛（samudaya sacca）。（Saṃ 3, 382）
+
+以如此等等的方式，藉由缘取某一个谛、并于其余三谛之中了知之作用（kicca）皆得成就之力，也宣说了谛智。（Visuddhi 2, 333）
+
+在那两种教说（desanā）之中，藉由了知作用得以成就之力，以无痴通达（asammoha paṭivedha）而洞察见到四谛，这是明显地发生的，故与『见』相同。
+〔以下〕不就那种由了知作用得以成就而言的『见』来考察，而仅就见到各别每一个谛的『见』来考察，在义注（aṭṭhakathā）中如此继续解说道。（Mahāṭī 2, 505）
+
+在那两种教说之中，凡于任何时候缘取某一个谛之时，那时，由于见到集圣谛，就本性而言首先具有逼迫之相（pīḷana lakkhaṇa）的苦圣谛，其有为的意义便得以显明地生起。
+为什么会变得显明呢？
+
+藉由极度爱乐那苦圣谛之力，而造作苦之聚、令苦生起、为令苦圣谛生起而奋力＝具有加行之相（āyūhana lakkhaṇa）的集圣谛，藉由将那苦圣谛聚集起来，使之依聚合体＝依所谓色聚（rūpakalāpa）、名聚（nāmakalāpa）的群组，成堆成聚成群地生起。
+确实如此 ----- 有某个无标记的、被称为缘生（paccayuppanna）的果法存在着。
+那一切果法，都唯有成为聚合体才会生起、才能够生起，具有这样的法性（dhammatā）。
+并非仅凭集本身，而是与趣（gati）、再生的基质（upadhi）、时（kāla）、精勤（payoga）等等其他种种因缘和合聚集、结为一体而被造作出来。
+它们被造作成所谓色聚、名聚的种种聚合的小群组、成堆的小聚集。确实如此 --- 不止一个、而是众多的缘生果法，当它们结为一体、共同一起地在一个色聚之内、在所谓名聚的一个心刹那（cittakkhaṇa）之内生起时，就如同是各自相关的种种因法将它们聚合起来一般。
+如此，由于集圣谛是以聚合的方式令苦圣谛的果法生起的，因此那苦圣谛的那种有为之性质便得以显明。（Visuddhi 2, 333）
+
+再者，道谛（magga sacca）由于能够遣除所谓烦恼（kilesa）的苦热，且道谛自身也由于远离了所谓烦恼的灼烧，因此极为清凉安宁。
+因此，由于见到道谛，那苦圣谛的热恼（santāpa）之性质便得以显明地生起。
+若问这如何？这就如同：王弟、尊者难德（Nanda），由于见到天女，那名为孙陀利（Sundarī）的国中丽人（janapadakalyāṇī）公主的容貌，便显得如同一只不美的老母猴般丑陋，如此显现出来一样。（Visuddhi 2, 333）
+
+再者，由于灭谛（nirodha sacca）＝无为（asaṅkhata）涅槃（nibbāna）没有生、没有灭，不变异、不坏灭，具有恒常之性质，没有转向所谓老（jarā）之性质、坏灭（bhaṅga）之性质的那种变异、变坏的变异（vipariṇāma）之性质；由于见到这样的灭谛，那苦圣谛在生（uppāda）之后便转变、变坏为所谓老之性质、坏灭之性质，其变异的意义便得以显明地生起。
+如此，由于见到灭谛，苦圣谛的变异之义（vipariṇāmaṭṭha）之所以能得以显明，是因为这种藉由相反、对立（paṭipakkha）之性质而显明生起的情形容易达成，因此简直没有什么可说的了。（Visuddhi 2, 333）
+
+再者，就本性而言也具有加行之相的集圣谛，其来源之义（nidānaṭṭha）由于见到苦圣谛，便如此显明地生起：『这集圣谛能够交付出那苦圣谛』。
+当知这就如同：由于见到因食用不适宜的食物而生起的疾病，食物之为疾病之因这一点便得以显明一样。（Visuddhi 2, 333）
+
+藉由见到那种由于远离了与轮回之苦（vaṭṭa dukkha）相应之状态而生起的灭谛，集圣谛与烦恼之苦相应连结的性质便得以显明。
+而由于见到那种能从轮回（saṃsāra）之轮出脱、作为出脱之因的道谛，集圣谛将〔众生〕投入轮回的牢笼之中加以折磨、禁锢的性质便得以显明。（Visuddhi 2, 333）
+
+再者，藉由见到那种由于与所谓烦恼的伴侣相互结合、连结等等之力而不寂静、不空寂的集圣谛，那具有出离之相（nissaraṇa lakkhaṇa）的灭谛，其远离四种再生的基质之状态、即所谓远离之义（vivekaṭṭha）的性质，便得以显明地生起。
+藉由见到道谛，灭谛的无为之义（asaṅkhataṭṭha）的性质便得以显明地生起。
+确实如此 -- 这位瑜伽行者（yogāvacara）个体（puggala），在无始（anamatagga）、不见其端的整个轮回之中，先前从未曾见过圣道（ariya magga）＝道谛。
+那在不见其端的整个轮回之中从未曾见过的圣道，虽然由于在不见其端的整个轮回之中从未曾见过，而具有奇特稀有、从未曾生起过的性质，然而它却是唯有当层层递进的诸观（vipassanā）智以强而有力的所依、即强依止（upanissaya）之力予以助益时才得以生起的，因此它是所谓观智这一因法明显存在的有缘之法（sappaccaya dhamma）；正因如此，灭谛乃是不被诸因法所造作的无缘之法（appaccaya dhamma），其无为的状态便格外地显明。
+再者，由于见到苦圣谛，那灭谛的不死之义（amataṭṭha）之性质、不死之性质、不坏灭之性质、无有坏灭之性质便得以显明。
+确实如此 ----- 由于苦圣谛具有坏灭、死亡的性质，因此如同毒药一般。
+那作为如毒药般之苦圣谛的、如良药般的涅槃法，乃是脱离死亡、坏灭而趋于寂灭之因，如同不死之药、甘露之药一般——如此显明地生起。（Visuddhi 2, 333）
+
+再者，由于见到集圣谛——虽然在生灭智（udayabbaya ñāṇa）阶段，那种由于达到甚至可被赞誉为圣道的微细寂静之状态而显现出来的、其实仍是〔对观的〕微细的欲求（nikanti）；然而，正如在道非道智见清净（maggāmagga ñāṇadassana visuddhi）阶段所说过的那样：『这集圣谛并非到达涅槃之因，唯有这圣道才是到达涅槃之因』——那种能从轮回之苦中出离、具有出脱之相（niyyāna lakkhaṇa）的道谛，其因之义（hetuṭṭha）的性质＝即所谓『作为到达涅槃之因』的意义，便得以显明。
+由于见到极其微细深奥的灭谛，道谛的见之义（dassanaṭṭha）＝即所谓『能够见到无为界（asaṅkhata dhātu）、涅槃这一殊胜之法』的性质法，便得以显明。
+这就如同：对于一个能看见极其微细的诸色所缘（rūpārammaṇa）的人来说，会觉得『我的眼净色（cakkhupasāda）实在极为清澈明净啊』——如此，眼净色这一清澈之界的极为清澈明净的状态便得以显明一样。
+由于见到那种因极度陷入痛苦忧恼、而具有广泛众多、密集的过患（ādīnava）的苦圣谛，与那苦圣谛相反地，道谛的『在见到四谛、熄灭烦恼之苦的热恼之火这方面居于首领地位』这一所谓增上之义（adhipateyyaṭṭha）的性质，便得以显明。
+若问这如何？这就如同：由于见到一个被众多疾病折磨得痛苦难忍、孤苦无依的穷人，那位拥有荣华富贵、眷属随从、尊贵显赫、统御人间的国王之高贵便得以显明一样。（Visuddhi 2, 333-334）
+
+如此，在这四谛之中：一方面，藉由各自本性之相之力，〔显明了〕各别每一个谛所具有的逼迫之义（pīḷanaṭṭha）、加行之义（āyūhanaṭṭha）、出离之义（nissaraṇaṭṭha）、出脱之义（niyyānaṭṭha）这样的某一种性质；另一方面，藉由见到其他各谛之力，〔还显明了〕除逼迫之义、加行之义、出离之义、出脱之义这四种之中〔本谛自身那一种〕以外的、各别三种三种的意义——由于这两方面都得以显明，因此各别每一个谛的四种
+四种意义、相状、行相（ākāra），都被宣说了出来。
+当知：而在圣道刹那，那全部一齐生起的（16）种性质之相与行相，则唯有藉由那于四谛之中显现出四种作用的、单一的圣道智（ariya magga ñāṇa），才得以被洞察了知。（Visuddhi 2, 334）
+
+**【文件：[463]智见清净释/[510] 道谛之义的（四）点.md】**
+
+### 道谛(magga sacca)之义的（四）点
+
+**1. 出离之义(niyyānaṭṭha)** ----- 道谛作为从轮回轮转之苦(saṃsāravaṭṭadukkha)中出离之因的这种存在——这一意义之性质，称为 **出离之义**。
+这出离之义的性质，正是那道谛借由自身作用(kicca)而显现的样态。
+以诸观智(vipassanāñāṇa)取有为法(saṅkhata dhamma)的坏灭为所缘，将其安立于[无常、苦、无我三]相的轨道上，如此进行观照的过程中，在观智的末端生起的圣道智(ariyamaggañāṇa)，能够转而取那不坏灭的无为界(asaṅkhatadhātu)、寂静之界、涅槃(nibbāna)这一至尊大法为所缘。
+因此，圣道智便是从有为坏灭之境域中出离的根本原因。
+这正是 **出离之义** 的性质。
+当圣道智转取那离于坏灭的无为界为所缘时，由于无为界的清凉、寂静安乐之界，在圣道智所依止、所生起的有情(satta)之名色(nāmarūpa)相续中，那些潜伏着的随眠界(anusaya dhātu)之火，便逐层地寂灭清凉下去。
+由于烦恼(kilesa)灭尽，诸业(kamma)也逐层灭尽；如此，本应因业与烦恼而显现的果报蕴(vipākakhandhā)相续，也逐
+层地趋于寂灭。
+果报蕴逐层地趋于寂灭，正是从轮回轮转之苦中逐层解脱的过程。
+如此从轮回中的解脱，是唯有依靠圣道智才能获得的果之法，因此圣道之法便是从轮回轮转之苦中出离的根本原因——**出离**之法(niyyāna dhamma)。
+
+这出离之义的性质之法，是那道谛借由舍断各自相应的烦恼这一自身作用而显现出来的样态。
+
+2. **因之义（hetuṭṭha ＝ hetvaṭṭha）** ----- 作为到达涅槃之原因的这种存在——这一意义之性质，称为道谛的 **因之义** 之意义之性质。
+
+Tattha palibodhupacchedavasena nibbānādhigamova nibbānanimittatā **hetvaṭṭho.** (Mūlaṭī 2, 50-51.)
+**Palibodhupacchedavasenā**ti samudayappahānavasena. (Anuṭī 2, 61.)
+
+**Hetuattho** nibbānassa sampāpakabhāvo. (Mahāṭī 1, 257.)
+
+唯有当圣道之法以无为界、寂静之界、涅槃为所缘而显现生起时，那圣道之法才能逐层地、无余地舍断名为苦因圣谛(samudaya sacca)、会障碍扰乱自身圣道的诸随眠烦恼(anusaya kilesa)。
+诸随眠烦恼逐层无余地灭尽，正是入证烦恼般涅槃(kilesa parinibbāna)。
+也就是证得有余依涅槃(saupādisesa nibbāna)。
+由于诸烦恼逐层灭尽，那些唯有在烦恼的湿润之界、黏着之界存在时才有能力给出果报的诸业，也因得不到烦恼这一伙伴助缘，其给出果报的能量随之耗尽。
+由于业与烦恼的能量耗尽，本应因业与烦恼而生起的诸果报蕴，也逐层地趋于寂灭。
+最后，当到达阿拉汉道(arahatta magga)时，诸烦恼便无余地灭尽。
+由于诸烦恼无余地灭尽，在那阿拉汉(arahanta)尊者般涅槃死殁(parinibbāna cuti)之后的紧接处，五蕴也以此后不再重新生起之性质的无生灭(anuppāda nirodha)之性质而趋于寂灭，这就是入证蕴般涅槃(khandha parinibbāna)，也就是到达无余依涅槃界(anupādisesa nibbānadhātu)。
+如此现证无为界、涅槃，以及证得有余依涅槃界、无余依涅槃界，唯有借由圣道之法才能生起，因此名为道谛的圣道之法，便是到达涅槃的根本原因——**因(hetu)**。
+
+如此，道谛的因之义之显现，是相对于苦因圣谛而显现出来的。
+由于见到名为苦因圣谛的贪爱只是苦圣谛的根本原因、而非获得涅槃的原因，唯有名为道谛的这八道支才是获得涅槃的原因——如此，由于见到苦因圣谛，道谛的到达涅槃之因的因之义之性质，便显现出来。
+
+**3. 见之义(dassanaṭṭha)** ----- 由于名为八道支的道谛之正见(sammādiṭṭhi)这一慧(paññā)具有主导(padhāna)＝主要地位的存在，从而具有能够见到无为界、涅槃的性质——这种意义之性质；另一种说法——即能够了知彻见四圣谛的存在这一意义之性质；又一种说法，实则是现证(sacchikiriyā)那微妙的无为涅槃至尊大法这一意义之性质，称为道谛的 **见之义** 之性质。
+由于能够真实地见到那极为微妙深奥、作为灭谛(nirodhasacca)的无为界、涅槃至尊大法，因此借由见到那灭谛，道谛的见之义便显现出来。（意谓：由于见到了应被见到之法，能见之法便因所应见之法而显现出来。）
+
+**4. 主导之义(adhipateyyaṭṭha)** ----- 在了知彻见四圣谛、止息烦恼与苦之热恼中作为首要主导者的存在——这一意义之性质，称为道谛的 **主导之义** 之性质。
+
+依四分法(catukka naya)，道心生起(maggacittuppāda)若是初禅那(jhāna)之道心生起，则有心(citta)与心所(cetasika)（37）个；若是第二禅那之道心生起，则有心与心所（35）个；若是第三禅那之道心生起，则有心与心所（34）个；若是第四禅那之道心生起，则有心与心所（34）个——各自如此。
+在那些道心生起＝道心与道心所之中所包含的诸道支(maggaṅga)法自体，获得了名为道谛的名称。
+那些名为道谛的诸道支法自体，无论是在了知彻见四圣谛时，还是在止息诸烦恼与苦的极度炽燃时，都能够在诸相应(sampayutta)法中起首要主导者的作用。
+因此，那种首要主导者的存在，称为道谛的 **主导之义** 之意义之性质。
+
+另一种说法 ----- 由于[世尊]曾开示「maggādhipatino dhammā（诸道为主导之法）」，故诸道支法比起其他与之相应的相应法，格外地成为所缘主导缘(ārammaṇādhipati paccaya)之法。
+因此，那些道支法成为该所缘主导缘这一样态，称为 **主导之义** 之意义之性质。
+
+正如由于见到饱受众多疾病折磨的贫穷之人，那无病之官员的高贵之相便显现出来一样，由于见到苦圣谛(dukkha sacca)这一法聚，道谛的主宰、首要主导者的存在便显现出来。
+
+道谛的这四种意义之性质之法都是真实的，并非不真、并非虚妄、并无差错；除了以出离之义等四种样态之外，它们不会以其他样态生起，因此称为谛(sacca)。
+
+以这（16）种不颠倒、真实的性质而言，四圣谛唯有作为一种单一的性质被合而取之。
+凡这（16）种意义之性质，都以那单一的、不颠倒、真实之存在的性质被合而取之，
+那被合而取之的（16）种性质，称为四圣谛之相同性的存在，即同一性(ekatta)之性质。
+存在着这样一种同一性之性质。
+那同一性之性质，是以单一的道智(magga ñāṇa)洞穿而了知的；因此，四圣谛便具有这样的样态：以（16）种不颠倒、真实的性质，能够以单一的道智同时、一举地洞穿而了知。
+
+[这（16）种谛义乃摘录并列示自 Paṭisaṃ 296、Abhi-ṭ 2, 78、Visuddhi 2, 332、Mūlaṭī 2, 50-51、Mahāṭī 1, 257。]
+
+**一时通达之见(ekapaṭivedhadassana)** ----- 圣道智虽然仅以灭谛涅槃这一者为所缘，但在苦圣谛等之中，那被称为真实之存在、不颠倒之存在、真确之存在的、如此真实的 究竟之义(saccaṭṭha)＝谛之意义的性质，是存在的。
+那真确的究竟之义之性质，是由于摧毁了那覆蔽此究竟之义之性质的痴(moha)，从而以无痴通达(asammoha paṭivedha)、不颠倒、如实地洞穿而了知，并唯有借由现证才得以了知的。
+（意谓：由于已摧毁了那使人无法了知谛义、加以覆蔽的痴，故那些谛义已被亲见智(paccakkha ñāṇa)洞穿了知。）
+由于如此现证而洞穿了知的存在，在圣道智生起之后的后续时期里，这（16）种谛义，在圣者(ariyapuggala)的智慧洞见中，也如同置于掌上、洁净无垢的红宝石一般，又如置于手中的木橘果(Aegle marmelos)一般，如实清晰地显现出来。（Mahāṭī 2, 505.）
+
+**【文件：[463]智见清净释/[513] 遍知现观.md】**
+
+### 遍知现观(pariññābhisamaya)
+
+- 一、智遍知(ñātapariññā)，
+- 二、度遍知(tīraṇapariññā)，
+- 三、断遍知(pahānapariññā)——遍知(pariññā)有此三种。
+  
+**一、智遍知** ----- tassā sappaccayanāmarūpābhijananā āveṇikā bhūmi。(《清净之道》,2,334。)
+以现前的现证智(paccakkhañāṇa)，能把与因之法一同的名色(nāmarūpa)，透彻照见直至究竟法(paramattha)的名色分别智(nāmarūpaparicchedañāṇa)与缘摄受智(paccayapariggahañāṇa)，由于不属于此智遍知以外的其他诸遍知的对象，因此是各别(āveṇika)的地(bhūmi)。
+即是那智遍知得以存立、生起之地。(《清净之道》,2,334。)
+
+**二、度遍知** ----- tassā kalāpasammasanato paṭṭhāya aniccaṃ dukkhamanattāti tīraṇavasena pavattamānāya yāva anulomā āveṇikā bhūmi。(《清净之道》,2,334。)
+从名为聚思惟(kalāpasammasana)的理法观(nayavipassanā)起，以审察之力、以思量决断之力，把色、名、因、果诸行(saṅkhāra)法当作无常(anicca)、当作苦(dukkha)、当作无我(anatta)而生起的、直至那度遍知的随顺智(anulomañāṇa)为止的观(vipassanā)，即是各别的地；即是那度遍知得以存立、生起之地。(《清净之道》,2,334。)
+
+随顺智也只是以无常等方式、把诸行法作为所缘而生起罢了；至于省察随观(paṭisaṅkhānupassanā)等在前的诸观智，那就更不用说了。
+因此才把直至随顺智为止判定为度遍知的地。
+在此度遍知的地中，智遍知与断遍知岂不也是应当获得的对象吗？——由于是把色、名、因、果诸行法作为所缘而修观，所以既应获得智遍知；又由于把应舍应断的诸烦恼(kilesa)以彼分(tadaṅga)之力舍弃、而对诸行法的无常之点、苦之点、无我之点一一分别了知，故也应获得断遍知；然而，正如度遍知连同极致之力对诸行法的无常之点、苦之点、无我之点作审察、思量、决断之事那样，智遍知与断遍知却不作此事，所以说这是度遍知的āveṇika＝各别之地。(大义疏,2,507。)
+
+**三、断遍知**----- tassā bhaṅgānupassanato paṭṭhāya yāva maggañāṇā bhūmi，ayaṃ idha adhippetā。(《清净之道》,2,335。)
+
+从坏灭随观智(bhaṅgānupassanāñāṇa)起、直至圣道智(ariyamaggañāṇa)为止的地，即名为那断遍知得以生起、存立之地。
+确切地说，唯有圣道智无余地断除诸烦恼，以无痴通达(asammohapaṭivedha)透彻而分别地了知诸行法的无常之点、苦之点、无我之点，又以所缘通达(ārammaṇapaṭivedha)通达无为(asaṅkhata)涅槃(nibbāna)，正因如此才名为断遍知。
+在探究诸圣者(ariyapuggala)、或诸圣者的道智(maggañāṇa)以遍知现观(pariññābhisamaya)之事透彻了知苦圣谛(dukkhasacca)时，唯有此断遍知才是所要的。
+意思是以断遍知现观(pahānapariññābhisamaya)了知苦圣谛，这正是无痴通达。
+因为智遍知与度遍知有着名为断遍知的成果之故。
+意思是：正是为了获得断遍知，才修习智遍知与度遍知。(《清净之道》,2,335。大义疏,2,507-508。)
+
+另一种说法——智遍知与度遍知，也只是有着名为那断遍知的成果＝只是有着舍弃那烦恼这一成果＝只是有着获得圣道(ariyamagga)这一成果罢了。
+确实如此——智遍知与度遍知，只是为了获得圣道这一利益而生起的。
+再者，凡被舍弃的那些法，这些法既是已被了知的所知法(ñātadhamma)，又是安立三相(lakkhaṇa)加以审察、思量、决断过的已度法(tīritadhamma)——它们以确定不移的决定(niyama)之性而成立。
+因此应当了知：一切三种遍知，依这一法门(pariyāya)而言，也唯是圣道智之事。
+其缘由如下。
+
+对色、名、因、果＝诸行法一一分别了知，即是智遍知；对色、名、因、果＝诸行法的无常之点、苦之点、无我之点作审察、思量、决断，即是度遍知——一方面由于离了这些[遍知]性质之法、断遍知便不能生起，另一方面由于断遍知之事一旦完成、智遍知与度遍知的生起也已完成，所以才有“凡被舍弃的那些法，这些法以确定不移的决定之性，既是已被了知的所知法，又是安立三相加以审察、思量、决断过的已度法”这样的开示。
+确实如此——圣道智若以遍知现观之力对苦圣谛之法而生起，那么，就如同它透彻了知名为那苦圣谛的五取蕴(upādānakkhandhā)、各个究竟界(paramatthadhātu)自身的自性相(sabhāvalakkhaṇa)那样，也透彻了知那苦圣谛之法、五取蕴、诸究竟界的、名为无常相、苦相、无我相的共相(sāmaññalakkhaṇa)，此为应说者。
+其缘由在于：那能遮蔽诸究竟界五取蕴的自性相、共相使之不被了知的痴(moha)，圣道智以正断舍断(samucchedapahāna)之力将其无余地摧毁、亦即已摧毁之故。
+因此应当了知：一切三种遍知，依这一法门而言，也唯是圣道智之事。(《清净之道》,2,334-335。大义疏,2,507-508。)
+
+**【文件：[463]智见清净释/[515] 舍断现观.md】**
+
+### 舍断现观（pahānābhisamaya）
+
+圣道（ariyamagga）智以舍断现观了知苦因圣谛（samudayasacca）——在此说法中，就“pahāna＝舍除烦恼（kilesa）”而言，pahāna＝舍断共有三种。
+
+- 1、镇伏断（vikkhambhanappahāna），
+- 2、彼分断（tadaṅgappahāna），
+- 3、正断（samucchedappahāna），如是共有三种。
+
+**1、镇伏断** ----- 在这三种当中，犹如因把水罐投入长有浮萍的水中，而使浮萍分开、裂散一样，以那种种世间禅那（lokiyajhāna）之定，把与禅那之定相违的盖（nīvaraṇa）、寻（vitakka）、伺（vicāra）等诸法抽离，这就名为镇伏断。
+欲贪盖（kāmacchandanīvaraṇa）等，不以某种方式在心相续中以生—住—灭（uppāda-ṭhiti-bhaṅga）的样态腾涌生起，即不以缠（pariyuṭṭhāna）的性质逼迫、恼害心而住立；作出遮止、使这样的逼迫恼害不生起，这就名为 vikkhambhana＝抽离。
+正因为这种抽离本身即是舍断（pahāna）的一种，所以称为镇伏断。在巴利圣典中如是记载：
+
+vikkhambhanappahānañca nīvaraṇānaṃ paṭhamaṃ jhānaṃ bhāvayato. (Paṭisaṃ, 26.)
+
+对于修习初禅（paṭhamajhāna）的人而言，把诸盖抽离的那种舍断……（Paṭisaṃ，26。）
+
+如此等等，唯就抽离诸盖法一事作了开示。
+应当了知：这样的开示之所以作出，是因为它在他人身上也明显可见——如说“此人有不被瞋（dosa）所恼害之心、已远离昏沉睡眠（thinamiddha）”等等。
+的确如此——诸盖在禅那的前分与后分，都不能骤然压伏、恼害心＝止修习（samathabhāvanā）之心。
+寻、伺、喜（pīti）、乐（sukha）、色想（rūpasaññā）等，只有在证入第二禅、第三禅、第四禅等的刹那，才会离去。
+虽然如此离去，但在刚从第二禅等诸禅出定的人的相续中，诸盖仍能生起；其原因是：所谓从禅那出定，唯有借着欲界心（kāmāvacaracitta）之力＝唯有在欲界心生起时，才能从禅那出定。（Visuddhi，2，335。Mahāṭī，2，508。）
+
+“诸盖在禅那的前分与后分都不能骤然压伏、恼害心”这句话，乃是就那刚获得不久的禅那之力而说的。
+但是，对于经过多次善加修习、纯熟娴练的娴熟禅那（paguṇajhāna）而言，乃至直到最后的死心（cuticitta），诸盖法也都无法压伏。
+换一种说法——应当了知：无论是在为证得禅那而努力精进、处于禅那前分的前分行道（pubbabhāgapaṭipadā）修行阶段中，还是在证得禅那之后忙于种种事务的人的相续中，诸盖都不能骤然压伏心。（Mahāṭī，2，508。）
+
+**2、彼分断** ----- 犹如夜间因点燃的油灯而令黑暗消失一样，借着作为观（vipassanā）之部分而生起的那种种智这一因法，唯以其相违、对治（paṭipakkha）之力，来舍断那种种应舍、当舍之法，这就名为彼分断。
+（这句话只是为了显示已进入观之范畴的那种彼分断而说的；应当记住：借着为使戒（sīla）清净而洗涤、拭净＝戒清净（sīlavisodhana）等作业，也能以彼分的方式舍断那种种应舍、当舍之法。）（Visuddhi，2，335。Mahāṭī，2，508-509。）
+
+首先，以名色分别智（nāmarūpaparicchedañāṇa）舍断二十种有身见（sakkāyadiṭṭhi）。
+以缘摄受智（paccayapariggahañāṇa），舍断：认为“无因”的无因见（ahetukadiṭṭhi）；认为有梵天神（brahmā）、毗湿奴（visnu）、永恒之神等造物主为其因的错因见（visamahetudiṭṭhi）；具有十六种依处（vatthu）的疑惑（kaṅkhā）、疑（vicikicchā），以及在具有八种依处的八处上生起的疑惑、疑——这些垢秽。
+以聚思惟智（kalāpasammasanañāṇa），舍断把行（saṅkhāra）法之聚合按类按聚执取为“我—我所”的执著。
+以能分辨“maggāmaggavavatthāna＝是道非道”、辨明道与非道的生灭智（udayabbayañāṇa），舍断在非圣道之处误以为是圣道的错误想（saññā）。
+以观照五蕴（khandha）之生起（udaya），舍断断灭见（ucchedadiṭṭhi）＝执取“我（atta）死后即断灭”的邪见。
+以观照五蕴之坏灭（vaya），舍断常见（sassatadiṭṭhi）＝执取“我是恒常的、死后不会毁坏”的邪见。
+以怖畏现起智（bhayatupaṭṭhānañāṇa），舍断在伴随“坏灭”这一具可畏之性的大祸患的三地（tebhūmaka）行法之聚上、认为其“无可畏之性”的无畏想（abhayasaññā）＝颠倒想。
+以能观照行法坏灭的过患随观智（ādīnavānupassanāñāṇa），舍断在五蕴上由可乐着之味（assāda）之力而生起的错误想（micchāsaññā）＝颠倒想。
+以对行法生起厌倦、厌恶的厌离随观智（nibbidānupassanāñāṇa），舍断由对轮回（saṃsāravaṭṭa）极度耽乐之力而生起的爱乐想（abhiratisaññā）。
+以欲解脱智（muñcitukamyatāñāṇa），舍断不欲从行法中解脱出来的状态。
+以审察随观智（paṭisaṅkhānupassanāñāṇa），舍断作为审察随观智之对立面的痴（moha）。
+以行舍智（saṅkhārupekkhāñāṇa），舍断对行法不能平舍、不加省视的不舍置（anupekkhana）之性。
+以随顺智（anulomañāṇa），舍断在行法上以“常（nicca）”等方式生起的、与证得并了知道谛（maggasacca）相违的执著。如是的舍断，便是**彼分断**＝以彼分方式作的舍断。（Visuddhi，2，335。）
+
+**【文件：[463]智见清净释/[516] 大观(18)种.md】**
+
+### 大观（mahāvipassanā）（18）种
+
+另有一种说法——在（18）种大观当中，以「无常随观智（aniccānupassanāñāṇa）」舍断「常想（nicca saññā）」。
+以「苦随观智（dukkhānupassanāñāṇa）」舍断「乐想（sukha saññā）」。
+以「无我随观智（anattānupassanāñāṇa）」舍断「我想（atta saññā）」。
+以「厌离随观智（nibbidānupassanāñāṇa）」舍断名为「喜（nandi）」、即有喜渴爱（sapītika-taṇhā）＝与喜（pīti）俱起的渴爱（taṇhā）。
+以反复观照爱染（rāga）离尽处之涅槃（nibbāna）的「离贪随观智（virāgānupassanāñāṇa）」，舍断爱染。
+以反复观照爱染灭尽处之涅槃的「灭随观智（nirodhānupassanāñāṇa）」，舍断爱染的生起、即集（samudaya）。
+以反复观照爱染舍离处之涅槃的「舍遣随观智（paṭinissaggānupassanāñāṇa）」，舍断强烈的执著、即执取（ādāna）。
+以反复观照行法（saṅkhāra dhamma）之灭尽、坏灭、即尽（khaya）自性的「尽随观智（khayānupassanāñāṇa）」，舍断那种凭借相续密集（santatighana）、组合密集（samūhaghana）、作用密集（kiccaghana）、所缘密集（ārammaṇaghana）之力而成、把色（rūpa）视为色团色块、把名（nāma）视为名团名块、合聚为一整块的「密集想（ghanasaññā）」。
+以观照行法坏灭（bhaṅga）刹那的「灭随观智（vayānupassanāñāṇa）」，舍断那种造作以令新的生存、即结生（paṭisandhi）得以生起的思（cetanā）之策励、即加行（āyūhana）。
+以观照行法凭借『住（ṭhiti）』即老（jarā）、『坏灭』即死（maraṇa）这『老死（jarāmaraṇa）』两种因缘而发生变异的「变异随观智（vipariṇāmānupassanāñāṇa）」，舍断那种误认行法坚固牢靠的「坚固想（dhuva saññā）」。
+
+「无相随观智（animittānupassanāñāṇa）」＝即以无常随观智，舍断于行法执取为常的「常相（nicca nimitta）」。
+「无愿随观智（appaṇihitānupassanāñāṇa）」＝即以苦随观智，舍断于行法中对乐的希求、即乐愿（sukha paṇidhi）。
+能观见行法中『我空无』即空（suññata）性的「空随观智（suññatānupassanāñāṇa）」＝即以无我随观智，舍断那种误以为『我（atta）于究竟法（paramattha）上真实存在』而作意的「我黏着（attābhinivesa）」。
+以观照名为『所知（ñāta）』的被观照之行法、与名为『智（ñāṇa）』的正在观照之观智（vipassanāñāṇa）——即两种究竟法——之坏灭，从而抵达『我空无』即空性的「增上慧法观智（adhipaññādhammavipassanāñāṇa）」，舍断那种于毫无实质（sāra）的五蕴（khandha）中执取『有名为常的实质、有名为我的实质』而错误作意的「取实黏着（sārādānābhinivesa）」。
+
+以能如实、不颠倒地了知与看见行法本来面目的「如实智见智（yathābhūtañāṇadassanāñāṇa）」＝即有缘名色摄受智（sappaccayanāmarūpapariggahañāṇa），舍断那种或由『我在过去世曾经存在过吗』等等、或由『世间是因梵天（brahma）、毗湿奴（vissanu）、大能的永恒之神等造物主、即主宰者（issara）而生起的』等等之力而生起的、纯由疑与邪智（saṁsaya-micchāñāṇa）之力所成而唯是愚迷的「迷惑黏着（sammohābhinivesa）」作意。
+以观照那由『视三地（bhūmi）中存在的行法为可怖畏、危难』而现前的怖畏现起（bhayatupaṭṭhāna）之力所生起的、于一切界地生存中的过失、即过患（ādīnava）的「过患随观智（ādīnavānupassanāñāṇa）」，舍断那种把有为（saṅkhata）诸法当作藏身处的作意，以及那种贪着于三地的作意、即执著黏着（ālayābhinivesa）。
+这是因为在（31）地当中，见不到任何可作藏身处、庇护所而值得贪着、执取的法之故。
+以那名为『慧（paññā）』、能造作出从三地解脱、即舍弃行法之因缘方便（upāya）的「审察随观智（paṭisaṅkhānupassanāñāṇa）」，舍断与审察（paṭisaṅkhā）相反的痴（moha）。
+
+以那趣入离轮回之涅槃、名为行舍智（saṅkhārupekkhāñāṇa）、随顺智（anulomañāṇa）的「离轮随观智（vivaṭṭānupassanāñāṇa）」，舍断那种与欲（kāma）相系、即欲轭（kāmasaṁyoga）等烦恼（kilesa）之作意、即黏着（abhinivesa）＝也就是欲轭等烦恼的生起。如此舍断即名为彼分断（tadaṅgappahāna）。（《清净之道》、2、335-337。）
+
+**3。正断舍断（samucchedappahāna）** ----- 犹如遭雷电击打、被雷劈中的树木不会再度复活一般，以圣道智（ariyamaggañāṇa）令结缚（saṁyojana）等不善（akusala）诸法此后不再生起，从而无余地、连根拔除地断除，即名为正断舍断。
+为指向该正断舍断，于《无碍解道》圣典（27）中开示道：『在那修习、令趣向涅槃——即出世间（lokuttara）、令业（kamma）与烦恼灭尽、令一切行法灭尽的圣道（ariyamagga）——生起的个体（puggala）相续中，正断舍断也会生起。』（《清净之道》、2、337。）
+
+在这三种舍断当中，谈到现观（abhisamaya）、说『以断现观（pahānābhisamaya）了知苦因圣谛（samudaya sacca）』时，唯有正断舍断这第三种才是所应取的。
+这是就究竟（nippariyāya）＝不加方便（pariyāya）、纯粹直截而言的说法。
+然而，对那位瑜伽行者（yogāvacara puggala）而言，生起于正断舍断之前的镇伏断（vikkhambhanappahāna）、彼分断，也都只是拥有名为正断舍断的这一利益而生起的。
+意思是说，镇伏断、彼分断乃是具有正断舍断力用的圣道之因、之构成要件。
+其缘由在于：若离开那镇伏断、彼分断，正断舍断便无法成就之故。
+另一种说法——在那位瑜伽行者的相续中，生起于圣道之前的镇伏断、彼分断，也都只是拥有名为圣道的这一利益而生起的。
+由于拥有名为圣道的这一利益，那镇伏断、彼分断便都只是具有该圣道的作用（kicca）而已。
+因此应当了知：这三种舍断，依此方便之理，也都是圣道智的作用。
+
+**世间譬喻（loka upamā）** ----- 一位杀死敌王而登上王位的国王，凡在他成为国王之前所做的政务，也都要做；那一切政务都只会被说成『这样那样的政务，也是国王所做的』。
+正如此譬喻一般，镇伏断、彼分断虽由世间（lokiya）诸智所成就，却应当被说成是由正断舍断之力而生起的圣道之作用；何以故？因为那镇伏断、彼分断拥有名为圣道的利益之故，也因为圣道落在那名为镇伏、彼分的止修习（samatha bhāvanā）心与观修习（vipassanā bhāvanā）心的相续之中之故。（《清净之道》、2、337-338。《大义疏》、2、510。）
+
+**【文件：[463]智见清净释/[518] 现证现观.md】**
+
+### 现证现观(sacchikiriyābhisamaya)
+
+「圣道智(ariyamaggañāṇa)以现证现观现前地现证灭谛(nirodhasacca)涅槃(nibbāna)、透彻洞见而了知」——在如此宣说之处，应当如此了知现证(sacchikiriyā)之理。
+现证虽又分为世间的(lokiya)现证与出世间(lokuttara)的现证两种，但由于出世间现证依洞见(dassana)现证、修习(bhāvanā)现证之力而分为两种，因此全部共分三种。
+
+- 一、**世间现证**，
+- 二、**出世间洞见现证**，
+- 三、**出世间修习现证**——即分为这三种之意。
+
+**一、世间现证** ---- 在那三种现证中，「我已获得初禅那(pathamajhāna)，我已现证初禅那」(律,1,121-122。)
+以如是等方式记载而来的初禅那等的接触＝触(phassanā)，即名为世间现证。
+所谓接触＝触，是指获得初禅那等之后，以「我已获得此禅那」这样现前、亲见(paccakkha)地作意——即以可如是称说的智去接触；以此接触，便是接触＝触(phusanā)。
+确实如此 -- 正是针对此义理，(世尊)开示道：「以接触之义而能现证的慧(paññā)，即名为智(ñāṇa)」(无碍解道,2。)
+如此开示指明之后，又(说)：「凡是应现证的诸法(dhamma)，那些法都是应以智去接触的」(无碍解道,85。)
+如此这般，(世尊)宣说了现证广释(sacchikiriyāniddesa)。(《清净之道》,2,338。)
+
+以「**paccakkhato ＝以现前、亲见的方式**」这一语句，遮止了以揣度臆测的比量(anumāna)方式来作意缘取。
+确实如此 ----- 以「此法有如是自性」这样省察禅那的省察(paccavekkhaṇā)之力，现前、亲见地了知禅那——此处希望这即是「ñāṇaphassa ＝智之接触」。(大义疏,2,510。)
+
+另一种方式 ----- 纵使不在自己的相续流(santāna)中如禅那、道、果那样生起，凡是能以「无须信赖他人的智——不依他智(aparappaccayañāṇa)」来了知的诸法，那些法便是「sacchikata ＝已被现证的诸法」。
+确实如此 ----- 正因如此，(佛陀说)：「诸比库(bhikkhu)……一切法都应现证；诸比库……应现证哪一切法呢？诸比库……眼(cakkhu)应现证」(无碍解道,34。)
+(佛陀)宣说了如是等的开示(desanā)。
+此外，(佛陀)还宣说了另一种开示。
+「以亲见的方式亲自现前地知见色(rūpa)，从而现证之。
+受(vedanā)……（中略）……想(saññā)……（中略）……诸行(saṅkhāra)……（中略）……
+以亲见的方式亲自现前地知见识(viññāṇa)，从而现证之。
+眼……（中略）……老死(jarāmaraṇa)……（中略）……
+以亲见的方式亲自现前地知见不死的甘露涅槃，从而现证之。
+凡是应现证的诸法，那些法都是应以智去接触的。」(无碍解道,34。)
+(佛陀)如此宣说。(《清净之道》,2,338。)
+
+以舍断那覆蔽应现证之诸法——即应证知的诸法(sacchikātabbadhamma)——的痴迷(sammoha)之力，能摧毁如此覆蔽诸法之痴(moha)的道智(maggañāṇa)、果智(phalañāṇa)获得之后、在其终了时生起的那种智，由于无须信赖他人，故名为不依他智。
+意即：并非仅凭信赖他人而认取，而是能亲自知见的智。(卑谬本《清净之道》,5,405。)
+
+依据这些界定应当了知：正如禅那、道、果诸法一样，亲自现前地透彻了知世间的五取蕴(pañcupādānakkhandha)、十二入处(āyatana)、十八界(dhātu)、缘起(paṭiccasamuppāda)诸自性法之智，省察那禅那之智，以及再次缘取道、果、涅槃等出世间诸法之智、省察它们之智——这些都应记为世间现证。
+
+**二、洞见现证** ----- 在入流道(sotāpattimagga)的刹那见到涅槃，即是以名为「洞见」的入流道来现证，名为**洞见现证**。
+**三、修习现证** ----- 在一来道(sakadāgāmimagga)刹那、不来道(anāgāmimagga)刹那、阿拉汉道(arahattamagga)刹那见到涅槃，即是以名为「修习」的上道来现证，名为**修习现证**。
+
+在这阐明圣者(ariyapuggala)们如何以现证现观见到灭谛的「现观论(abhisamayakathā)」中，所希望的正是洞见现证与修习现证这两种。
+因此应当了知：以洞见道(dassanamagga)、修习道(bhāvanāmagga)之力现证灭谛涅槃，即是此出世间道智的作用(kicca)。(《清净之道》,2,338。)
+
+种姓智(gotrabhuñāṇa)虽比那道智更早见到涅槃，但由于它在以涅槃为所缘而知见之后，无法执行应作、当作的舍断烦恼(kilesa)之工作，所以不能称为「洞见」。
+再者，在上述语句中，以「依洞见道、修习道之力现证涅槃」这句阐释之语，遮止了以并非圣道之力而生起的省察智(paccavekkhaṇāñāṇa)来现证涅槃。
+由于说「此处所希望的仅是现证涅槃」，因而遮止了以省察智对道、果进行现证。(大义疏,2,511。)
+
+**【文件：[463]智见清净释/[520] 修习现观.md】**
+
+### 修习现观（bhāvanābhisamaya）
+
+**圣道智（ariya magga ñāṇa）**通过修习现观洞穿而了知道谛（magga sacca），在此说法中，修习分为两种：**世间修习（lokiya bhāvanā）、出世间修习（lokuttara bhāvanā）**。
+
+**一、世间修习** ----- 在这两种之中，令属于世间的戒（sīla）、定（samādhi）、慧（paññā）生起，以及以那些戒、定、慧熏习自己的名色（rūpa-nāma）相续之流——即称为世间修习。
+（所谓「熏习」，是指在名色相续之流中一次又一次、反复地令其生起。）
+
+**二、出世间修习** ----- 令出世间的戒、定、慧生起，以及以那些出世间的戒、定、慧熏习名色相续之流——即称为出世间修习。
+在世间修习与出世间修习这两种之中，于此智见清净（ñāṇadassana visuddhi）论里，在阐明圣道如何通过修习现观洞穿而知见道谛之处，唯有出世间修习是被期许的，世间修习则不被期许。
+这是因为，世间修习只不过是那出世间修习的基础构件罢了。
+
+确实如此 ----- 四种圣道智全都令属于出世间的三个戒道支（sīla magga-aṅga）、三个定道支（samādhi magga-aṅga），或者说令戒道支、定道支、慧道支（paññā magga-aṅga）生起。
+若问如何令其生起——是以俱生缘（sahajāta paccaya）等等的缘力（paccaya-satti）令那些戒道支等等生起的。
+换一种说法，是以俱生等等的缘力、无间（anantara）等等的缘力令其生起的。
+
+圣道智把作为造作邪语（micchāvācā）、错误的业（micchākammanta）、邪命（micchāājīva）之因的烦恼（kilesa）无余地断除。
+它也把那能遮蔽、使人不能了知正见（sammādiṭṭhi）、正思惟（sammāsaṅkappa）这样的慧道支，以及正精进（sammāvāyāma）、正念（sammāsati）、正定（sammāsamādhi）这样的定道支的痴（moha）无余地断除。
+果智（phala ñāṇa）则再一次地，为使那些被圣道所断除的烦恼愈发止息，以止息（paṭipassambhana）之力将它们熄灭。
+如此，圣者（ariya puggala）便以道智（magga ñāṇa）、果智借正断（samuccheda）、止息之力所生起的、属于出世间的戒道支、定道支、慧道支，来熏习自己的名色相续之流；因此，唯有出世间修习才被称为那圣道智的作用（kicca）。（《清净之道》2、338-339。）
+
+名为正见的圣道智，以俱生等等的缘力饶益与自己相应的七个道支；对于与果心生起（phala cittuppāda）等相应的正见……乃至……正定，则既以无间等等的缘力，也以强依止（upanissaya）等等的缘力予以饶益。
+因此，圣道智既令作为诸道支法体的戒、定、慧生起，也在名色相续之流中熏习、令其被熏习；因此称为修习。
+意思是说，这修习正是修习现观中所期许的。
+
+**智见清净广释（ñāṇadassana visuddhi niddesa）终。**
+
+**【文件：[463]智见清净释/[522]a 慧修习的利益功德.md】**
+
+### 慧修习(paññābhāvanā)的利益功德
+
+这个所谓的慧修习，由于能够成办普通弟子菩提(pakatisāvakabodhi)、大弟子菩提(mahāsāvakabodhi)、上首弟子菩提(aggasāvakabodhi)、独觉(paccekabodhi)菩提、正自觉(sammāsambodhi)菩提等广大、崇高、广博、清净的殊胜利益功德，因此具有无量众多的利益功德。
+那个慧修习的利益功德，即使用漫长的时间来广泛地明白展示，也由于其利益之法极其众多，因而并不容易。
+尽管如此，那个慧修习的利益功德，简略而言有四种。
+
+- 1、nānākilesaviddhaṃsana = 摧毁种种烦恼(kilesa)，
+- 2、ariyaphalarasānubhavana = 领受享用圣果(ariyaphala)安乐的滋味(rasa)，
+- 3、nirodhasamāpattisamāpajjanasamatthatā = 能够证入灭尽定(nirodhasamāpatti)的能力，
+- 4、āhuneyyabhāvādisiddhi = 在僧(saṅgha)的诸功德当中、属于利益功德之列的「值得供养(āhuneyya)」等功德的圆满 ---
+
+如是有四种。
+在这四种当中，本书接下来只就领受享用圣果安乐滋味的部分继续撰写呈述。(《清净之道》2、340。)
+
+**【文件：[463]智见清净释/[522]b 果定论.md】**
+
+### 果定(phalasamāpatti)论
+
+- 一、所谓果定是什么呢?
+- 二、哪些人能入那果定呢?
+- 三、哪些人不能入呢?
+- 四、为什么要入呢?
+- 五、入那果定的过程是如何发生的呢?
+- 六、稳固持续是如何发生的呢?
+- 七、从果定出起是如何发生的呢?
+- 八、在圣果(ariyaphala)的无间(anantara)之后,是哪个法生起呢?
+- 九、而圣果又是在哪个法的无间之后而生起呢? -----
+
+这些问题正是与果定相关联而应当了知的要点。
+
+一、在那些问题中,**所谓果定是什么**这一问题的答案是 ----- 在作为与圣果相应的禅那(jhāna)之灭谛(nirodhasacca)的涅槃(nibbāna)所缘上,存在着以某种安止(appanā)的方式而有的生起;那安止 = 那以安止方式而有的生起,便名为果定。(《清净之道》(Visuddhi),2,341。)
+
+**安止** ----- 所谓「安止」这个名称,按照《法集论》(Dhammasaṅgaṇī)圣典(阿毗达摩(Abhidhamma),1,18。)中「takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo」这一语句,
+乃是寻(vitakka)的本名。
+Cittaṃ ārammaṇe appeti abhiniropetīti appanā = 因为能把相应(sampayutta)之心安置、导向于所缘之上,故寻名为安止。
+
+**注释书的用语(aṭṭhakathāvohāra)** ---- Vitakkassa kiccavisesena thirabhāvappatte paṭhamajjhānasamādhimhi, paccanīkadūrībhāvakatena thirabhāvena taṃsadisesu vitakkarahitesu dutiyajjhānādisamādhīsu ca appanāti aṭṭhakathāvohāro. (《根本复注》(Mūlaṭī),1,101。)
+
+在上面所呈示的《法集论》圣典中,唯把寻称名为安止。
+然而,依注释书的用语,由于寻具有把心 = 把相应诸法导向所缘这一特别的作用,那达至稳固状态的、在各自的止(samatha)所缘或涅槃所缘上牢固安住的世间(lokiya)与出世间(lokuttara)的初禅那之定,由于在一个心刹那内与名为安止的寻心所(cetasika)共同相应而生起,故依共生 = 俱行(sahacaraṇa)之法而被称为安止。
+由于借初禅那之定使之远离相违的诸盖(nīvaraṇa),从而在各自的止所缘或涅槃所缘上达至稳固,于是那些在定的程度上与初禅那之定相同的、世间与出世间的第二禅那等诸定,也依等同近行(sadisūpacāra)而同样被称为安止。
+因此,把一切世间与出世间的禅那都称为安止而使用,乃是注释书用语 = 注释书的用法。(《根本复注》,1,101。)
+
+- **二、哪些人能入呢?**
+- **三、哪些人不能入呢?**
+
+若如此发问 --- 得到世间禅那的凡夫(puthujjana)、没有得到世间禅那的凡夫,这一切凡夫由于尚未获得那道果(maggaphala),故不能入。
+而一切圣者(ariya)由于已经获得各自的道果,故都能入。
+在如此入定时,并不像世间诸禅那中那样——得到较高层禅那的人也能入较低层的禅那。
+较高的一来者(sakadāgāmi)等圣者,不入较低的入流果(sotāpattiphala)等。
+其原因是 --- 由于成为一来者等某一类个体(puggala),较低层的诸果定已经寂灭,从而达到了不再生起的状态之故。
+而较低的须陀洹(sotāpanna)等个体,也不能入较高的一来果(sakadāgāmiphala)等,因为尚未获得之故。若顺次地说 ----
+
+- 一、须陀洹个体入入流果定(sotāpattiphalasamāpatti),
+- 二、一来者个体入一来果定,
+- 三、不来者(anāgāmi)个体入不来果定,
+- 四、阿拉汉(arahanta)个体入阿拉汉果定 -----
+
+各自能入,唯有自己所获得的、各自相应的圣果 = 唯有各自的果定才能入。(《清净之道》,2,341-342。)
+
+#### 四、为什么要入呢?
+
+Diṭṭhadhammasukhavihāratthaṃ = 为了在现前之身的状态中安乐而住的利益而入。
+意即:就在这可见的五蕴(khandha)之身、自体之中 = 就在现前的此生中,由于令那能使人苦恼、从四周焚烧的名为烦恼(kilesa)之火熄灭,从而以寂静安乐的安住方式,为了这样安住的利益而入。
+以世间的譬喻来说,犹如转轮王(cakkavatti)享受王者之乐一般,与此譬喻相同,圣主诸尊者也为了享受远离贪(rāga)等烦恼垢秽、清净殊胜的出世间果乐 = 涅槃的寂静之乐、寂灭界之乐,而对时间加以界定,在所愿的任何刹那入果定。(《清净之道》,2,342。)
+
+#### 五、入定之法 六、住立之法 七、出定之法
+
+以两种因缘,发生入那果定之事。
+
+- 一、不作意(manasikāra)涅槃以外的其它所缘,
+- 二、唯作意涅槃 -----
+
+以这两种因缘而发生入定。
+
+Dve kho āvuso paccayā animittāya cetovimuttiyā samāpattiyā sabbanimittānañca amanasikāro, animittāya ca dhātuyā manasikāro. (中部(Majjhima),1,370-371。)
+
+我的贤友郭提伽(koṭṭhika)……以无行相(saṅkhāranimitta)、以涅槃为所缘的、名为心解脱(cetovimutti)的果定;换一种说法 -- 以随观无常(aniccānupassanā)为先导而入的、名为心解脱的果定——要入此果定的因法,便是两种。
+由于见到一切行相的过患后而舍弃,故不思择、不作意(其一);由于远离了一切行相,而以那与果定的果心俱生(sahajāta)的作意心所,把名为无相(animitta)的无为界(asaṅkhatadhātu)——涅槃这一殊胜法作意、安置于作为果定的果心中(其二)——便是这两种。(中部,1,370-371 - 《大智得经》(Mahā Vedalla Sutta)。《清净之道》,2,342。)
+
+在此,只说『作意涅槃』这一个因缘,对要旨来说本已足够,然而还要详细阐说『不作意涅槃以外的其它所缘』这另一种因缘,其根本原因是这样的:
+
+Vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati. (中部,1,89。)
+
+由于寻、伺(vicāra)的寂止,那能使自身内部的内相续中的心变得明净、能生起心的殊胜坚定之定(samādhi)、无寻亦无伺、由初禅那之定或相应之定所生起的、具有喜(pīti)乐(sukha)之乐的第二禅那,便到达而安住。(中部,1,89。)
+
+佛陀(Buddha)在宣说世间诸禅那时,如上面的圣典那样,尽管当喜、乐、一境性(ekaggatā)这三种禅支具足时得到第二禅那本已成就,却仍把『由于寻、伺的寂止 = 由于超越、越过寻与伺』这样所应舍弃的禅支也纳入而作了宣说。
+
+对于世间诸禅那的获得,由于以与各自相应的禅那之相应支 = 由于具足与之相应的禅支而本已成就,却唯有在能超越、越过所应舍弃的禅支时才得到那各自的禅那,故如同以所应舍弃的禅支为先导而宣说一般;与此相同,对于果定,虽然借作意涅槃便已成就,却也要宣说不作意涅槃以外的其它所缘,其原因是 --- 由于凭借退回而取一切行(saṅkhāra)的心的生起而成就之故。
+因此,也应当宣说『不作意涅槃以外的其它所缘』这一因缘。
+对于凭借生灭智(udayabbayañāṇa)等一系列、逐级的智(ñāṇa)之力,而对一切行彻底厌倦、其心离于对诸行的贪着的圣主而言,以那从一切行中出离之处——涅槃为所缘的果心,便随之生起。
+对于以这样的方式而生起的果心,也确实应当说:它是由于不作意涅槃以外的其它所缘、由于唯作意涅槃而生起的——此即其义。(《大义疏》(Mahāṭī),2,517。)
+
+**入定的次第** ----- 果定的入定次第是这样的:
+想入果定的圣弟子(sāvaka),走近寂静之处,远离种种所缘而独自一人安住,凭借从生灭智起、直到随顺智(anulomañāṇa)为止的九种观智(vipassanāñāṇa)之力,把诸行法(saṅkhāradhamma)以三相加以把握而修观(vipassanā)。
+由于如此观照,在那具有生灭智、坏灭智(bhaṅgañāṇa)、怖畏智(bhayañāṇa)等按次第生起的观智的圣弟子的相续中,在以行法为所缘的、名为可称作净化(vodāna)的种姓智(gotrabhuñāṇa)的无间之后,凭借果定之力,心就在作为灭谛的涅槃所缘上,凭借安止禅那(appanājhāna)之力而生起。
+在以如此按次第观照的次第观(anupubbavipassanā)之力入果定时,由于心倾向于果定,故即使对于有学(sekkha)个体,也唯有圣果生起,圣道(ariyamagga)不生起。(《清净之道》,2,342。)
+
+**以行法为所缘的种姓** ----- 若问:为什么在入此果定时,种姓智不像作为圣道智(ariyamaggañāṇa)前导的种姓智那样以涅槃为所缘呢?—— 因为它不像圣果诸法之于圣道诸法那样,是能使人从轮回(saṃsāravaṭṭa)出离的、导向从轮回出离的引导出离(niyyānika)的善法,所以那种姓(gotrabhu)以行法为所缘,而不以涅槃为所缘。
+确实如此 ----- 唯有圣道诸法才是能使人从轮回出离的、导向从轮回出离的引导出离的善法,真实、决定无疑。
+其例证如下:
+
+Katame dhammā niyyānikā, cattāro maggā apariyāpannā. (阿毗达摩,1,254-298。)
+
+哪些法真实地名为能使人从轮回出离的、导向从轮回出离的引导出离的善法呢?
+便是不摄属于轮回之苦的四种圣道智。(阿毗达摩,1,254-298。)
+
+这段圣语是佛陀所宣说的。既然如此,由于〔种姓智〕不像圣果之法之于圣道之法那样是导向从轮回出离的引导出离的善法,故那作为真实决定地具有引导出离之性的、以从相(nimitta)与生命期间(pavatta)两分出起为性而生起的圣道智之无间缘(anantarapaccaya)因法而生起的种姓智,便理应唯从行相中出起。
+因此,作为那圣道前导的种姓智以涅槃为所缘,这才是恰当的。
+反过来说,由于圣道已被修习,作为那圣道之果报(vipāka)而生起的、由于不能以正断舍断(samucchedapahāna)无余地舍除、断除诸烦恼故不是引导出离的、从而没有出起(vuṭṭhāna)之性的诸果智的前导的、名为可称作净化的种姓智,则连一时片刻也不应以涅槃为所缘。
+其原因是 --- 由于在道心路(maggavīthi)与果定心路(phalasamāpattivīthi)这两种心路中,随顺智具有不同的行相之故。
+
+让它明显起来 ----- 在圣道心路中,随顺智由于连同极度地击破那前所未曾击破的、粗重粗重的贪(lobha)团块、瞋(dosa)团块、痴(moha)团块等,从而在世间的观智当中到达极点、顶峰,成为随顺于圣道智者而生起。
+然而,在果定心路中,那些随顺智由于各自的烦恼已被各自的圣道无余地舍除、断除,故在那果定心路中,对于去除烦恼没有操劳与努力,而仅仅成为使圣者具足果定之乐这一状态的遍作(parikamma)而生起。
+因此,作为那圣果前导的随顺智,由于某种原因而应有出起,这是不可能有的。
+「由于某种原因,作为那圣果前导的随顺智当中最后的随顺智,由于从行相中出起而能以涅槃为所缘——这样〔出起〕之性的出起,是不可能有的」——此即其义。
+由于这样的原因,「为了享用自己的果定之乐,而以生灭智等之力把诸行法以三相加以把握而思察的有学个体,凭借观智的次第,唯有圣果生起,圣道不生起」这段注释书之语,也就完备无缺了。
+因此,注释书说:对于有学个体,「唯有圣果生起,圣道不生起」。(《大义疏》,2,518-519。)
+
+**果定** ----- 在灭谛涅槃所缘上,凭借安止禅那之力,在所界定、所划定的整段时间内,无有间隔、无有中断、连续不断地唯有果心的相续生起、入定,即名为果定。(《大义疏》,2,519。)
+
+**心倾向于果定** ----- 「假如把诸行法以三相加以把握、按次第从生灭智起直到随顺智为止而观照的次第观之力入果定之事发生,那么以如此按次第进行的次第观之法,对于有学个体上位之道也理应生起」——针对这一质问的合理性,注释书说:「phalasamāpattininnatāya = 由于心倾向于果定,故即使对于有学个体,也唯有圣果生起,圣道不生起。」
+藉那段话表明:能引生、生起圣道的观行(vipassanācāra) = 观智的生起是一类,而能引生、生起果定的观行 = 观智的生起则是另外一类。(《大义疏》,2,518-519。)
+
+**驳斥某些人之说(kecivāda)** ----- 某些无畏山(Abhayagiri)部派的师父们这样说:「须陀洹个体若想着『我要入入流果定』而修起观,便成为一来者;一来者个体若想着『我要入一来果定』而修起观,便成为不来者。」
+对那些师父,理应这样说 --- 「若这样想着『我要入果定』而修起观智,须陀洹便成为一来者、一来者成为不来者的话,那么不来者将成为阿拉汉、阿拉汉将成为独觉佛(paccekabuddha)、独觉佛也将成为一切知佛(sabbaññubuddha)」,理应、确应如此说。
+因此,若以想入果定的目标而修起观,则除了圣果之外,不会有任何其它的结果。
+那些见解不正的、住无畏山的师父们之说 -----
+
+Dasa gotrabhudhammā vipassanāvasena uppajjanti. (无碍解道(Paṭisam),65。)
+
+= 十种种姓法(gotrabhudhamma)凭借观之力而生起。(无碍解道,65。)
+
+如此,以那把以圣道为果的观、以圣果为果的观分别开来加以宣说的《无碍解道》圣典之力,便应予以破斥。
+也由于这样的原因,那些师父之说不应采取。
+若说其适当者 -- 由于想入果定的有学个体也具有正倾向于果定的心态,故唯有圣果生起、圣道不生起——只应记取这已说过的道理。(《清净之道》,2,342。)
+
+再者,假如这位圣弟子获得的是与初禅那相应的圣道,那么在那圣弟子的果定当中生起的圣果,也唯是与初禅那相应的圣果。
+假如获得的是与第二禅那等之中某一相应的圣道,那么在那果定当中生起的圣果,也唯是与第二禅那等之中某一种禅那相应的圣果。
+如此,首先便发生入那果定之事。(《清净之道》,2,342。)
+
+**Phalañcassā**tiādi mahaggatavipākānaṃ viya lokuttaravipākānañca kusalasarikkhatādassanaṃ.
+Jhānato sarikkhatādassaneneva cettha bojjhaṅga-maggaṅgavasenāpi sarikkhatā dassitāyevāti veditabbaṃ.
+
+上面这段注释书之语,是显示出世间诸果报也如广大(mahaggata)诸果报那样与善(kusala)相同的话语。在此果定之处,只是通过显示圣道与圣果依禅那而相同,就已经把它们依觉支(bojjhaṅga)、道支(maggaṅga)之力也相同这一点显示出来了——应当如此了知。(《大义疏》,2,519。)
+
+**【文件：[463]智见清净释/[528] 了知心不灭.md】**
+
+### 了知心不灭
+
+或许有人会问：这果定(phalasamāpatti)是了知心止息的等至(samāpatti)吗？而佛陀亲自宣说过：它并非了知心止息的等至。
+尊者阿难陀(Ānanda)曾如此向佛陀请问：
+
+尊者……一位比库(bhikkhu)，于地不成为『于地有地想』者，于水不成为『于水有水想』者，于火不成为『于火有火想』者，于风不成为『于风有风想』者，于无尽的虚空所依之处不成为『于无尽的虚空所依之处有无尽虚空所依之处想』者，于无尽的识所依之处不成为『于无尽的识所依之处有无尽识所依之处想』者，于『毫无一物』的所依之处不成为『于毫无一物的所依之处有毫无一物所依之处想』者，于『既非有想也非无想』的所依之处不成为『于既非有想也非无想的所依之处有既非有想也非无想所依之处想』者，于此世间(loka)不成为『于此世间有此世间想』者，于他世间不成为『于他世间有他世间想』者；纵然如此，却仍是有想者——获得具有这样性质的安定『定(samādhi)』，究竟如何才可能呢？如此请问。（增支部3,262-263。）
+
+那时，佛陀如下作答。-----
+
+Idhānanda bhikkhu evaṃ saññī hoti "etaṃ santaṃ etaṃ paṇītaṃ, yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbāna"nti.
+Evaṃ kho ānanda siyā bhikkhuno tathārūpo samādhipaṭilābho, yathā neva pathaviyaṃ pathavīsaññī assa, na āpasmiṃ āposaññī assa, na tejasmiṃ
+tejosaññī assa, na vāyasmiṃ vāyosaññī assa, na ākāsānañcāyatane ākāsānañcāyatanasaññī assa, na viññāṇañcāyatane viññāṇañcāyatanasaññī assa, na ākiñcaññāyatane ākiñcaññāyatanasaññī assa, na nevasaññānāsaññāyatane nevasaññānāsaññāyatanasaññī assa, na idhaloke idhalokasaññī assa, na paraloke paralokasaññī assa. Saññī ca pana assāti. (增支部3,263。)
+
+阿难陀……在此教法中，比库成为这样的有想者：「作为一切行(saṅkhāra)止息之处、舍弃一切再生的基质(upadhi)之处、渴爱(taṇhā)灭尽之处、离贪之处、贪爱灭止之处的涅槃(nibbāna)是寂静的，那涅槃是殊胜的」。
+阿难陀……如此，比库便不成为『于地有地想』者、不成为『于水有水想』者。
+不成为『于火有火想』者。
+不成为『于风有风想』者，于无尽的虚空所依之处不成为『于无尽的虚空所依之处有无尽虚空所依之处想』者，于无尽的识所依之处不成为『于无尽的识所依之处有无尽识所依之处想』者。
+于『毫无一物』的所依之处不成为『于毫无一物的所依之处有毫无一物所依之处想』者，于『既非有想也非无想』的所依之处不成为『于既非有想也非无想的所依之处有既非有想也非无想所依之处想』者，于此世间不成为『于此世间有此世间想』者，于他世间不成为『于他世间有他世间想』者；纵然如此，却仍成为有想者——获得具有这样性质的安定『定』，是可能发生的——佛陀如此教示。（增支部3,263。）
+
+为了让贤善的您能够理解，请容我再稍作一些解释说明。
+一位瑜伽行者(yogāvacara)将地遍(paṭhavī kasiṇa)的圆相扩展遍布至无边的宇宙，进入以地遍为所缘(ārammaṇa)的初禅(jhāna)。
+那些初禅的名法(nāma dhamma)乃是以地遍为所缘、对地遍具有想(saññā)、即于『地(paṭhavī)=地』有『地=地』之想的诸名法聚。
+瑜伽行者将那些以地遍为所缘的禅那名法安立于三种相(lakkhaṇa)之上，修观(vipassanā)照见，进而进入果定。
+那果心(phalacitta)并不以地遍为所缘，唯以涅槃为所缘；不再有『于地有地』之想，唯有与『唯于殊胜的涅槃法有想』相应的、稳固的定持续现起着。
+对于进入第二禅、第三禅、第四禅，观照那些禅那名法而进入果定的情形，也应以同样方式理解。再者，在那地遍中单方面地作意(manasikāra)虚空(ākāsa)，当见到虚空时，唯专注作意虚空，将那虚空扩展遍布至无边的宇宙，进入空无边处禅定(ākāsānañcāyatana)。
+于无尽的虚空所依之处，成为『于无尽的虚空所依之处有无尽虚空所依之处想』者。
+再者，将那空无边处禅那的名法聚安立于相的轨范上，修观照见，进而进入果定；那果定的名法聚唯以涅槃为所缘，不以虚空概念(paññatti)为所缘，因此便不成为『于无尽的虚空所依之处有无尽虚空所依之处想』者。
+
+再者，以那以无尽虚空为所缘而安立的空无边处禅心之识(viññāṇa)为所缘，进入识无边处禅定(viññāṇañcāyatana)；这是以空无边处之识为所依所缘的禅定，即成为『于无尽的识所依之处有无尽识所依之处想』者。
+再者，将那识无边处禅那名法安立于相的轨范上，修观照见，进而进入果定。
+那些果定的名法聚唯以涅槃为所缘，而不以空无边处之识——即以无尽虚空概念为所依所缘的识——为所缘。
+于是成为『于无尽的识所依之处不作无尽识所依之处想』者。
+
+再者，瑜伽行者在识无边处禅现起之际，以空无边处之识依生、住、坏灭(uppāda-ṭhiti-bhaṅga)的方式不再显现（即不存在）为所缘，观照『natthi kiñci = 一无所有』，进而进入无所有处禅定(ākiñcaññāyatana)；那等至以空无边处之识的不存在——即『无有』之概念(natthibhāva paññatti)——为所缘。
+瑜伽行者于『毫无一物』的所依之处，成为『于毫无一物的所依之处有毫无一物所依之处想』者。
+再者，将那无所有处禅那名法安立于相的轨范上，修观照见，进而进入果定；那果定的名法聚唯以涅槃为所缘，于是成为『于毫无一物的所依之处不作毫无一物所依之处想』者。
+
+再者，瑜伽行者将那寂然贴附、安住于空无边处之识的不存在——即『无有』概念——之上的无所有处禅心本身，作为所观照的所缘，观照『此识是寂静的，此识是殊胜的』，进而进入非想非非想处禅定(nevasaññānāsaññāyatana)。
+所谓非想非非想处等至，是没有粗重之想、唯有极其微细柔和之想，因此是『既非有想、也非无想』的等至。
+这位瑜伽行者于『既非有想也非无想』的所依之处，即成为『于既非有想也非无想的所依之处有既非有想也非无想所依之处想』者。
+瑜伽行者将那非想非非想处禅定的名法聚安立于相的轨范上，修观照见，进而进入果定。
+那果定的名法聚以涅槃为所缘。
+瑜伽行者于『既非有想也非无想』的所依之处（即于非想非非想处的名法聚中），成为『于既非有想也非无想的所依之处不作既非有想也非无想所依之处想』者。
+然而，他仍然是有想者。
+于水遍(āpo kasiṇa)、火遍(tejo)、风遍(vāyo)等等之中，也应以同样方式领会其义。
+以上便是前述巴利(Pāḷi)圣典所欲表达之义的略要。
+现在，接着呈现阐释前述巴利圣典之义的义注(aṭṭhakathā)释文。
+
+**Saññī ca pana assā**ti atha ca panassa samāpatti savitakkasamāpattiyeva assāti vuccati.
+**Etaṃ santaṃ etaṃ paṇīta**nti santaṃ santanti appetvā nisinnassa divasampi cittuppādo "santaṃ santa"ntveva pavattati, paṇītaṃ paṇītanti appetvā nisinnassa divasampi cittuppādo "paṇītaṃ paṇīta"ntveva pavattati.
+**Yadidaṃsabbasaṅkhārasamatho**ti nibbānaṃ nibbānanti appetvā nisinnassa divasampi cittuppādo "nibbānaṃ nibbāna"ntveva pavattatīti sabbampetaṃ phalasamāpattisamādhiṃ sandhāya vuttaṃ. pa.
+Sacittakā me sā samāpatti ahosi. (增支部义注3,288。)
+
+这果定是有想的等至，是具有心的『有心(sacittaka)』等至。
+"etaṃ santaṃ etaṃ santaṃ = 这殊胜的涅槃法是寂静清凉的，这殊胜的涅槃法是寂静清凉的。"
+如此作意，令心到达安止(appanā)果，入于果定而安坐的瑜伽行者，其相续(santāna)中，纵然历经一整天，果心与心所(cetasika)的相续也只以『santa santa（寂静、寂静）』这般方式持续现起着。
+如此作意『paṇīta paṇīta（殊胜、殊胜）』，令心到达安止果，入于果定而安坐的瑜伽行者，其相续中，纵然历经一整天，果心与心所的相续也只以『paṇīta paṇīta（殊胜、殊胜）』这般方式持续现起着。
+如此作意『nibbāna nibbāna（涅槃、涅槃）』，令心到达安止果，入于果定而安坐的瑜伽行者，其相续中，纵然历经一整天，果心与心所的相续也只以『nibbāna nibbāna（涅槃、涅槃）』这般方式持续现起着。
+这一切言说，都是佛陀针对果定之定(phalasamāpattisamādhi)而宣说的。
+这果定，实是具有心、心不止息的『有心』等至。（增支部义注3,288。）
+
+依据这些巴利圣典与义注，所谓果定，并不是了知心止息寂灭的那一类等至。
+了知心止息寂灭的等至，唯有寂灭之境界(nirodhasamāpatti)才是。
+请阅读以下的义注释文。
+
+**Kasmā samāpajjantī**ti saṅkhārānaṃ pavattibhede ukkaṇṭhitvā diṭṭheva dhamme acittakā hutvā "nirodhaṃ nibbānaṃ patvā sukhaṃ viharissāmā"ti samāpajjanti. (清净之道2,347。)
+
+**Nibbānaṃ patvā**ti anupādisesanibbānaṃ patvā viya. (大义疏2,526。)
+
+已证得八等至的不来者(anāgāmi)与阿拉汉(arahant)诸圣者，能够入于寂灭之境界。
+若问诸圣者为何入于寂灭之境界：由于几乎时时都见到诸行法的生起与灭去，因而心生厌倦，遂想『愿就在这现见世间、当下的自体(attabhāva)之中，如同令心与心所不存在、到达与想、受(vedanā)一同的心与心所之止息处——无余涅槃界(anupādisesa nibbānadhātu)那般，离苦而安乐地安住』；因如此作意，故而入于寂灭之境界。（清净之道2,347。）
+
+Aṭṭha samāpattilābhino pana anāgāmino, khīṇāsavā ca samāpajjanti. (清净之道2,344。)
+
+这心与心所的止息寂灭（心生色(cittajarūpa)的止息寂灭）——寂灭之境界，乃是唯有证得八种世间(lokiya)禅定的不来者与阿拉汉大圣者才能入而获得的一类等至。
+
+假如贤善的您尚未证得八种世间禅定，也尚未成为不来者或阿拉汉，那么在您的相续中是否可能生起某种了知心止息寂灭的等至——这一点实在值得深思。原因在于——《清净之道》义注（清净之道2,344。）中——
+
+- 1、一切凡夫(puthujjana)，
+- 2、一切须陀洹(sotāpanna)，
+- 3、一切一来者(sakadāgāmi)，
+- 4、一切禅那津液枯干的不来者，
+- 5、一切禅那津液枯干的阿拉汉——
+
+已阐明（他们）无法进入寂灭之境界。
+如今接着再继续呈述有关果定的内容。
+
+**【文件：[463]智见清净释/[531] 使之长久维持的三种原因.md】**
+
+### 使之长久维持的三种原因
+
+tayo kho āvuso paccayā animittāya cetovimuttiyā ṭhitiyā sabbanimittānañca amanasikāro, animittāya ca dhātuyā manasikāro, pubbe ca abhisaṅkhāro.（中部1,371。）
+
+郭提伽（Koṭṭhika）贤友……对于以无有行相（saṅkhāranimitta）的涅槃（nibbāna）为所缘、被称为心解脱（cetovimutti）的果定（phalasamāpatti），换言之，以随观无常（aniccānupassanā）为先导而入定、被称为心解脱的果定，为了使果心以相续（pabandha）不断的方式长久维持，其原因法有三种。
+
+- 1. 对一切行相＝对诸行法（saṅkhāradhamma）不作意（manasikāra），
+- 2. 由于离于行相，对被称为无相（animitta）的无为界（asaṅkhatadhātu）——涅槃——作意、思惟，
+- 3. 在入果定之前＝尚未入果定时，以「当月亮到达、太阳到达（钟点到达）如此这般之处时，便从果定出起」这样把握时间段的方式来造作心——
+ 
+由这三种原因，果心便以相续（pabandha）不断的方式长久维持而生起。（中部1,371。）
+
+**pubbe ca abhisaṅkhāra** ----- 在那三种当中，所谓「pubbe ca abhisaṅkhāra」，是指在入果定之前、尚未入果定时，「当月亮、太阳到达如此之处时，便从果定出起」这样划分时间段的做法，即称为积聚（abhisaṅkhāra）。
+确实如此——由于作了「在如此的时间从果定出起」这样的划分，只要那所划定的时间尚未到来，在那整段时间里，该果定便持续不断地以相续的方式维持。
+应当如此了知：该果定的长久维持便是这样生起的。（清净之道2,343。）
+
+**【文件：[463]智见清净释/[532] 能从果定出起的原因两种.md】**
+
+### 能从果定(phalasamāpatti)出起的原因两种
+
+Dve kho āvuso paccayā animittāya cetovimuttiyā vuṭṭhānāya sabbanimittānañca manasikāro, animittāya ca dhātuyā amanasikāro. (中部,1,371。)
+
+我的贤友郭提伽(koṭṭhika)……名为无相(animitta)的心解脱(cetovimutti)=从果定出起的原因法有两种。
+
+- 1. 作意(manasikāra)一切行相(saṅkhāra nimitta)，
+- 2. 由于远离诸行相，故不作意名为无相的无为界(asaṅkhatadhātu)——
+
+由于开示为这两种，故从那果定的出起，是以这两种行相而发生的。(中部,1,371。)
+
+在那圣典中，**sabbanimittānaṃ**（一切相(nimitta)之意）所指的一切相，即一切色相、受相、想相、行相、识相。
+瑜伽行者(yogāvacara)确实无法把那一切相合在一起、同时地作意。
+然而，这'sabbanimittānaṃ'之语，是以毫无遗漏、彻底总摄(sabbasaṅgāhika)一切之力而开示的。
+由于如此把一切行相合在一起、同时地作意是不应发生的，因此：把作为瑜伽行者有分(bhavaṅga)之所缘(ārammaṇa)的业(kamma)—业相(kammanimitta)—趣相(gatinimitta)这三种所缘中的某一种所缘，以与有分心相应的作意心所(cetasika)加以作意的圣弟子(ariyasāvaka)，从果定的出起便发生。
+应当如此了知那从果定的出起。(清净之道,2,343。)
+
+- **8. 在果(phala)之无间(anantara)，是什么法生起？**
+- **9. 而果又是在什么法之无间生起？**
+
+- 1. 在前前的果心(phala citta)之无间，唯有后后的果心生起。
+- 2. 在一切果心中最后的果心之无间，有分生起。
+再者，圣果(ariyaphala)也——
+- 1. 有在圣道(ariya magga)之无间生起的圣果，
+- 2. 有在圣果之无间生起的圣果，
+- 3. 有在名为随顺(anuloma)的种姓(gotrabhu)之无间生起的圣果，
+- 4. 有在非想非非想处(nevasaññānāsaññāyatana)善(kusala)、唯作(kiriya)之无间生起的圣果。
+- 1. 其中，在道心路(magga vīthi)中，是于圣道之无间生起的、最初的圣果。
+- 2. 无论是在道心路中，还是在果定心路(phalasamāpatti vīthi)中，于前前圣果之无间生起的后后圣果，即是在圣果之无间生起的圣果。
+- 3. 在诸果定心路中，最先、最初的圣果，是于名为随顺的种姓之无间生起。
+
+在这些果定心路中，应把随顺了知为种姓。
+在《众缘(paṭṭhāna)》教说中如此开示：-----
+
+Arahato anulomaṃ phalasamāpattiyā anantarapaccayena paccayo.
+Sekkhānaṃ anulomaṃ phalasamāpattiyā anantarapaccayena paccayo. (众缘,1,138。)
+
+阿拉汉(arahanta)个体的随顺，以无间缘(anantarapaccaya)之力饶益阿拉汉果(arahatta phala)的果定。
+有学(sekkha)个体的随顺，以无间缘之力饶益果定。(众缘,1,138。)
+
+4. 凡由不来果(anāgāmi phala)或阿拉汉果，而有不来者(anāgāmi)个体或阿拉汉个体从寂灭之境界(nirodhasamāpatti)的出起(vuṭṭhāna)发生；那被称为从该寂灭之境界出起之出起的不来果或阿拉汉果，是在非想非非想处善或唯作速行(javana)之无间生起。(清净之道,2,343。)
+
+已证得八等至(samāpatti)的不来者个体，若想入寂灭之境界，须以轭结缚(yuganaddha)之法，从初禅那(jhāna)起直至识无边处(viññāṇañcāyatana)禅那修习止(samatha)观(vipassanā)；入无所有处(ākiñcaññāyatana)禅那后，从该禅那出起，作四种前分作业(pubbakicca)；此后，须入非想非非想处禅那等至。
+此后，一次或两次非想非非想处禅那生起之后，便成为无心=到达寂灭之境界。
+时限届满、从寂灭之境界出起时，不来果速行落下一次。
+这是在非想非非想处善速行之后生起的不来果速行。
+假如阿拉汉个体入寂灭之境界，也须同样地修行。
+不同之处在于：在阿拉汉尊者的相续(santāna)中，只能生起唯作速行。
+因此当记住：在阿拉汉尊者的相续中，阿拉汉果速行是于非想非非想处唯作速行之无间落下。
+
+**时间的间隔** ----- 假如不来者或阿拉汉尊者以七天为界入寂灭之境界，则在到达寂灭之境界之前所生起的非想非非想处速行，与从寂灭之境界出起时最先生起的不来果速行或阿拉汉果速行之间，便有长达七天的时间间隔。
+在寂灭之境界期间，心、心所、心生色(cittajarūpa)都完全止息。
+只有业生色(kammajarūpa)、时节生色(utujarūpa)、食生色(āhārajarūpa)继续生起。
+
+如此，虽然非想非非想处速行与圣果速行之间有七天之久，但由于被性质不同的色法（=业生色、时节生色、食生色）所间隔，然而以那性质不同的色法间隔，却不算作间隔，因此：入非想非非想处禅那后到达寂灭之境界，再从寂灭之境界出起时，纵然经过约七天之久，对不来者个体而言不来果速行、对阿拉汉个体而言阿拉汉果速行便落下。
+那果速行，即称为在非想非非想处速行之无间生起的果速行。
+
+在上述各种果速行中，除在道心路中生起的果速行之外，其余一切圣果，皆称为以果定之力生起的圣果。
+无论在道心路中还是在果定心路中，皆以其现起之力而生起的、一切烦恼(kilesa)之热恼火已完全寂灭清凉的、以不死甘露涅槃(nibbāna)为所缘的、由于毫无可厌的烦恼污垢而极为庄严的、已呕出名为贪爱(taṇhā)之世间物欲(lokāmisa)的、极寂极静之真实寂静之乐(santisukha)大存在的、作为殊胜圣道之果的圣果，如同以不死甘露之药调和的蜂蜜一般，圆满具足名为真实自性的滋养素(ojā)之界，极为清净、可爱，比广大(mahaggata)善与出世间(lokuttara)善更为可爱、甘美善妙而富有滋味；由于果之乐较之道之乐更为殊胜、寂静清凉，故为最上；凡以那最乐、最胜的无上之乐(anuttara sukha)远离一切干枯之状态，故润泽湿润。
+
+由于唯有圣者、善尊、诸尊者才配受用享受，故是唯属圣者诸尊者之财的那沙门果(sāmaññaphala)的味界之精华精髓，是无有胜过自身、最好、最乐、最胜之味的——如此的果乐，有慧(paññā)的瑜伽行者若修习观修习(bhāvanā)而精勤努力，便能获得。
+因此，能受用享受圣果这无与伦比、最好、最乐、最胜之味，正应称为在此教法(sāsana)中观修习的功德利益。(清净之道,2,343-344。)
+
+**【文件：[463]智见清净释/[535] 三种观.md】**
+
+### 三种观(vipassanā)
+
+vipassanā panesā tividhā hoti saṅkhārapariggaṇhanakavipassanā, phalasamāpattivipassanā, nirodhasamāpatti vipassanāti.
+tattha saṅkhārapariggaṇhanakavipassanā mandā vā hotu tikkhā vā, maggassa padaṭṭhānaṃ hotiyeva.
+phalasamāpattivipassanā tikkhāva vaṭṭati maggabhāvanāsadisā.
+nirodhasamāpatti vipassanāpana nātimandanātitikkhā vaṭṭati. (Visuddhi, 2, 347-348.)
+
+此观 -----
+
+- 1. 能够摄持诸行法(saṅkhāra dhamma)的观，
+- 2. 能够引生果定(phalasamāpatti)的观，
+- 3. 能够引生寂灭之境界(nirodhasamāpatti)的观 -----
+
+如是便有三种。
+
+1. 在那三种当中，能够摄持诸行法的「摄持诸行法之观」(saṅkhārapariggaṇhanakavipassanā)，无论生起为钝的也好、生起为利的也好，都确实是圣道(ariya magga)的近因。（《清净之道》，2，347。）
+
+假如观是钝的，便能成就具有缓慢证智(abhiññā)的「迟钝证智之道」(dandhābhiññā magga)。
+假如观是利的，便能成就具有迅速证智的「迅速证智之道」(khippābhiññā magga)。
+这就是观的钝与利在这方面的差别。
+其实应当记住：凡是已达到观之特相的真正的观，都确实是圣道的原因。（大义疏(Mahāṭī)，2，526。）
+
+2. 能够引生果定的「果定观」(phalasamāpattivipassanā)，理应只是锐利的「利观」(tikkhavipassanā)才对。
+那观虽然确实以行法为所缘，然而一方面是由于它只以从一切行法退返回来的方式而生起，另一方面是由于它是那如同圣道一般、于诸行法所远离之处——离行(visaṅkhāra)涅槃(nibbāna)为所缘而生起的圣果(ariyaphala)之原因，(才成为这样)。
+它与开展圣道的「道的修习」(maggabhāvanā)相同。（《清净之道》，2，348。大义疏，2，526-527。）
+
+3. 「寂灭之境界观」(nirodhasamāpattivipassanā)则以既不太钝、也不太利者为恰当。（《清净之道》，2，348。）
+
+过于钝的观，由于止(samatha)过于偏胜，而在令诸行法止息上无能为力，因此往往就以止为终结。
+至于过于锐利的观，由于智(ñāṇa)过于偏胜，因过度地见到诸行法中的过患，因此往往就以果定为终结。
+因此，义注(aṭṭhakathā)阐明说：「寂灭之境界观则以既不太钝、也不太利者为恰当。」（大义疏，2，527。）
+
+根据以上义注的这一判定，想要入果定的瑜伽行者(yogāvacara)个体，必须特别努力，使观智(vipassanāñāṇa)成为锐利敏锐的「利观智」(tikkhavipassanāñāṇa)。
+
+假如并非为了果定的目的，而是以「为了上道、上果，为了灭尽尚未灭尽的诸烦恼(kilesa)」这样的意图与目标去生起观，那么如同前面所写呈的那样，那观便只会成为获得上道、上果的强力所依——强依止(upanissaya)之缘的原因罢了。
+在此则 -----
+
+Sabbaṃ, bhikkhave, anabhijānaṃ aparijānaṃ avirājayaṃ appajahaṃ abhabbo dukkhakkhayāya. pa .
+Sabbaṃ ca kho, bhikkhave, abhijānaṃ parijānaṃ virājayaṃ pajahaṃ bhabbo dukkhakkhayāya. (Saṃ, 2, 249-250.)
+
+诸比库(Bhikkhus)……对于一切五取蕴(pañcupādānakkhandha)——色法(rūpa)、名法(nāma)，若不以智遍知(ñātapariññā)之慧(paññā)洞察而了知，不以度遍知(tīraṇapariññā)之慧分辨而了知，若不能以断遍知(pahānapariññā)之慧修习到令那贪恋渴慕于一切五取蕴——色法、名法之上的渴爱(taṇhā)彻底断除、止息，也不能舍弃它，便不堪于灭尽苦(dukkha)。pa 。
+
+诸比库……其实，对于一切五取蕴——色法、名法，若以智遍知之慧洞察而了知，若以度遍知之慧分辨而了知，若能以断遍知之慧修习到令那贪恋渴慕于一切五取蕴——色法、名法之上的渴爱彻底断除、止息，并能舍弃它，便堪于灭尽苦。
+
+如是顶戴奉持佛陀(Buddha)这样等等的诸圣言，为了能够现证那作为轮回(vaṭṭa)之苦、种种苦之终尽处的涅槃，名为 **nibbānagāminipaṭipadā ＝ 通向涅槃的行道** 的、以三种遍知(pariññā)之慧对一切五取蕴——色法、名法清清楚楚地了知的那整个修习方式、修习次第，便已全部圆满完成了。
+
+**【文件：[463]智见清净释/[536] 佛陀的敦促劝勉.md】**
+
+### 佛陀(Buddha)的敦促劝勉
+
+诸比库(Bhikkhus)……任何人,凡是依照我这佛陀所宣说的方法,在七年之间修习这四念处(satipaṭṭhāna),对于如此修习的人,就在现前的今生之中,或令阿拉汉果(arahatta phala)生起,或在取(upādāna)尚有剩余时令不来果(anāgāmi phala)生起——在这两种果之中,应当希求确实证得其中某一种果。
+
+诸比库……七年且暂搁置。诸比库……任何人,凡是依照我这佛陀所宣说的方法,在六年之间修习这四念处。(中略)。五年之间。四年之间。三年之间。两年之间。一年之间。
+
+诸比库……一年且暂搁置。诸比库……任何人,凡是依照我这佛陀所宣说的方法,在七个月之间修习这四念处,对于如此修习的人,就在现前的今生之中,或令阿拉汉果生起,或在取尚有剩余时令不来果生起——在这两种果之中,应当希求确实证得其中某一种果。
+
+诸比库……七个月且暂搁置。诸比库……任何人,凡是依照我这佛陀所宣说的方法,在六个月之间修习这四念处。(中略)。五个月之间。四个月之间。三个月之间。 
+两个月之间。一个月之间。半个月之间。
+
+诸比库……半个月且暂搁置。诸比库……任何人,凡是依照我这佛陀所宣说的方法,在七日之间修习这四念处。 
+对于如此修习的人,就在现前的今生之中,或令阿拉汉果生起,或在取尚有剩余时令不来果生起——在这两种果之中,应当希求确实证得其中某一种果。(中部1,90)
+
+[ sabbampi cetaṃ majjhimasseva neyyapuggalassa vasena vuttaṃ. 
+tikkhapaññaṃ pana sandhāya "pāto anusiṭṭho sāyaṃ visesaṃ adhigamissati, sāyaṃ anusiṭṭho pāto visesaṃ adhigamissatī"ti vuttaṃ. (M-A-1-305)
+
+以七年为最长限、以七日为最短限而设定宣示的上述佛陀的一切言教,唯是针对具有中等智慧、堪能得度的可引导者(neyya puggala)而宣说的。 
+而对于智慧敏锐、慧力锐利的利慧者(tikkhapaññavā),世尊则说:「若于清晨受教诫,则于傍晚证得、达到殊胜的道果(magga phala)法;若于傍晚受教诫,则于次日清晨证得、达到殊胜的道果法」(中部2,300), 
+这是佛陀在《菩提王子经》(Bodhirājakumāra Sutta)中亲自宣说的。(中部注1,305) ]
+
+「诸比库……这条道路,是为使众生的心清净、为超越忧愁与悲泣、为证得圣道(ariya magga)、为现证涅槃(nibbāna)的唯一道路。 
+而那条道路,正是这四念处」——我这佛陀曾如此宣说这样的念处法的宣告;这个宣告,正是我这佛陀怀着为使人能在不来果、阿拉汉果这两种利益之中确实证得其中某一种的意图而宣说的。(中部1,90-91)
+
+**【文件：[463]智见清净释/[537]入出息念的利益功德.md】**
+
+### 入出息念(ānāpānassati)的利益功德
+
+诸比库(bhikkhu)……当修习入出息念时，能圆满四念处(satipaṭṭhāna)；修习四念处时，能圆满七觉支(bojjhaṅga)；修习七觉支时，能圆满阿拉汉道(arahatta magga)、阿拉汉果。(中,3,124。)
+
+拉呼喇(Rāhula)……以如此(16)种行相所宣说的方式而修习、以如此(16)种行相所宣说的方式而屡屡串习的入出息念，那些在最末端才生起的入出息(assāsapassāsa)是存在的；那些入出息也唯有在被清清楚楚地了知之后才灭去，若未被清清楚楚地了知则不会灭去。(中,2,89。)
+
+那个「最后者(carimaka)」＝在所谓「于最末端生起的入出息」当中，依入出息灭去的力用，最后者有三种。
+
+- 1、有最后者(bhavacarimaka)＝依「有(bhava)」之力用而于最末端生起的入出息，
+- 2、禅那最后者(jhānacarimaka)＝依禅那(jhāna)之力用而于最末端生起的入出息，
+- 3、死殁最后者(cuticarimaka)＝依死殁(cuti)刹那之力用而于最末端生起的入出息 ---
+
+如是，最后者有三种。
+在诸有当中，入出息只在欲有(kāmabhava)中生起，在色有(rūpabhava)、非色有(arūpabhava)中不生起；因此那些入出息名为有最后者。
+在诸禅那当中，入出息只在初禅、第二禅、第三禅这前三种禅那的总合中生起，在第四禅中不生起，因此那些入出息名为禅那最后者；从死殁心(cuti citta)倒数计算，与第(16)个、另一说与第(17)个心一同生起的那些入出息，与死殁心一同灭去，这些与死殁心一同灭去的入出息名为死殁最后者。
+在阐述此入出息念修习(bhāvanā)之利益功德时，正是这些死殁最后者的入出息，才是所要取名为「最后者」的对象。
+
+对于反复精勤、努力策励地修习此入出息念业处(kammaṭṭhāna)的瑜伽行者(yogāvacara)比库的相续(santāna)中，由于能以智善巧地辨别把握入出息所缘，因此当他在死殁心之前第(16)个或第(17)个心正在生起的「生(uppāda)刹那」观照那些入出息的生起——生时，那些入出息的生起——生便历历分明；当他观照其住立的「住(ṭhiti)时」时，那些入出息的住立——住时也历历分明地存在；当他观照其坏灭的「灭(bhaṅga)」时，那些入出息的坏灭——灭也历历分明地存在。
+
+确实如此——通过此入出息业处以外的其他业处修习而证得阿拉汉果的比库，对自己存活刹那的期限、寿量、时段，既可能辨定，也可能无法辨定。而对于依(16)种依处(vatthu)、以(16)种行相圆满地修习此入出息念、进而证得阿拉汉果的阿拉汉(arahanta)圣尊而言，则唯一定能辨定自己存活刹那的期限、寿量、时段。
+那位比库如此了知：「如今，在这么长的时段里，我的寿行(āyusaṅkhāra)将会持续生起；超过这么长的时段之后，便不再生起。」如此了知后，便完全依照自己的法性、完全随顺自己的意愿，做完盥洗身体、着下裙、披上外衣等一切事务之后，闭上双眼。
+在果达山(koṭapabbata)寺院安居的帝思长老(Tissa Thera)，在长有坚硬心木大树的马哈咖然基亚(Mahākarañjiya)寺院安居的大帝思长老(Mahā Tissa Thera)，在迭瓦补答(Devaputta)地方安居的宾达巴帝迦帝思长老(Piṇḍapātika Tissa Thera)，在吉德罗山(Cittalapabbata)寺院安居的兄弟二位长老——这些大长老们，正是堪为典范、以入出息念为业处的诸位大长老。
+
+**一则故事** ----- 在兄弟二位长老当中，有一位长老在某个满月布萨(uposatha)日诵完巴帝牟卡(Pātimokkha)之后，在众多比库簇拥围绕下回到自己的住处，站立于经行道上——在上弦月初夜分时，见到犹如从四周十方倾倒下来的乳浆般的天空，以及铺满犹如银片般白沙的地面，(心想)：「这时节、这地方实在可爱可乐啊！与我清净的意乐(ajjhāsaya)之性正相契合。这蕴苦(khandha dukkha)的重担，还要再肩负多久呢？」如此凝望着月光，探察省思自己的寿行而观察时，便省察了知「寿行已尽」，于是对比库僧如此说道。
+
+「诸位贤友……你们曾见过以何种威仪(iriyāpatha)而般涅槃(parinibbāna)的比库呢？」——如此发问。
+
+在那众多比库当中，有些比库禀白道：「尊者……弟子们曾瞻仰过就那样坐在座位上般涅槃的诸位长老。」
+
+有些比库禀白道：「曾见过在空中结跏趺坐着般涅槃的诸位大长老。」
+那时，大长老如此吩咐道。
+
+「诸位贤友……我如今就在正踏着经行道时＝正在经行的当下，向你们示现般涅槃。」-----
+
+如此说道。
+随后，大长老在经行道的某处横向划了一道横痕＝画了一条线。
+如此画完线之后 -----
+
+「诸位贤友……我从这一端的经行道端头走到那一端的经行道端头，再折返回来时，一到达这条所画的线痕处，便即般涅槃。」——如此说完，便走下经行道，向那一端的经行道走去，再折返回来时，就在一只脚踏到所画之线痕的那一刹那，般涅槃了。
+
+如此，以(16)种行相圆圆满满地修习的入出息念，直至般涅槃为止都具有广大、增盛、殊胜的利益，因此有智慧的善人确实应当（如同在这部名为**《去向涅槃之道》**的著作中，一路依循巴利圣典、义注(aṭṭhakathā)、复注(ṭīkā)诸处而撰写阐释的那样）对这具有众多利益功德、不只一端的**入出息念**，日夜无间、时时刻刻，于止(samatha)观(vipassanā)修习之事上，手持不忘不失的不放逸(appamāda)之法，一再地、反反复复地修习。(清净,1,283-284。大义疏,1,346。)
+
+**观的部分结束。**
+
+| | |
+|:-|-:|
+|教历 -2538- 年，|帕奥托亚西亚多|
+|缅历 -1356- 年 - 那多月满月日，|吉德罗山寺|
+|公元 -1994- 年 - 12月 -17- 日，|帕奥托亚|
+|上午(10)时(40)分完成。|
