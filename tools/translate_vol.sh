@@ -3,7 +3,9 @@
 # 串行处理全部待译文件: 每个由 `claude -p` 翻译并立即写盘, 随后 check_lines 复核
 # 逐行对齐。可中断后重跑(断点续译)。全卷译完后(可选)自动生成 epub。
 #
-# key 兼容两种命名: vol_5 字母在括号外 [93]a, vol_1 字母在括号内 [186a]。
+# key 兼容各卷命名: vol_5 字母在括号外 [93]a, vol_1 字母在括号内 [186a], vol_4 [000A]。
+# 键冲突组(同目录同 [页码] 有多个不同源文件, 如 vol_4): 用 _produced.tsv 记录
+#   源->目标 映射逐一判重, 避免同键多文件互相覆盖/漏译。非冲突键行为不变。
 #
 # 用法:  tools/translate_vol.sh vol_1
 #        OVERWRITE=1 tools/translate_vol.sh vol_1     # 已存在也重译
@@ -21,12 +23,16 @@ VOL="${1:?用法: translate_vol.sh <vol_1|vol_5|...>}"
 MANIFEST="$VOL/chinese/_manifest.tsv"
 LOG="$VOL/chinese/_batch_translate.log"
 INSTR="$VOL/chinese/_TRANSLATE_INSTRUCTIONS.md"
+PRODUCED="$VOL/chinese/_produced.tsv"   # 键冲突组: 源路径<TAB>目标路径
 PER_FILE_TIMEOUT="${PER_FILE_TIMEOUT:-1800}"
 LIMIT="${LIMIT:-0}"
 OVERWRITE="${OVERWRITE:-0}"
 BUILD_EPUB="${BUILD_EPUB:-1}"
 WAIT_ON_LIMIT="${WAIT_ON_LIMIT:-0}"   # 1=撞配额时等待重试(不停止)
 LIMIT_WAIT="${LIMIT_WAIT:-1800}"      # 等待秒数
+NSHARD="${NSHARD:-1}"                 # 分片总数(并行进程数); 1=不分片
+SHARD="${SHARD:-0}"                   # 本进程分片号 [0, NSHARD)
+# 分片按 (treldir,key) 的确定性哈希: 同一冲突组必落同一分片, 组内串行无竞争
 
 [ -f "$MANIFEST" ] || { echo "找不到 manifest: $MANIFEST" >&2; exit 1; }
 [ -f "$INSTR" ]    || { echo "找不到翻译指令: $INSTR" >&2; exit 1; }
@@ -36,35 +42,75 @@ log() { echo "$*" | tee -a "$LOG"; }
 # 通用 key 正则: 兼容 [93]a/[186a]/[000A]/[က]/[11] 等各卷命名
 PYKEY='import re; KEY=re.compile(r"^\s*(\[[^\]]+\][A-Za-z]?)")'
 
+# 公共: 载入键冲突组集合与 _produced 映射, 并定义 is_done(源级, 冲突组感知)
+PYCOMMON='
+from collections import Counter
+def _load(manifest, produced_path):
+    rows=[]; cnt=Counter()
+    for ln in open(manifest, encoding="utf-8"):
+        ln=ln.rstrip("\n")
+        if not ln or ln.startswith("#"): continue
+        c=ln.split("\t"); rows.append(c); cnt[(c[1],c[2])]+=1
+    coll={kk for kk,n in cnt.items() if n>1}
+    prod={}; produced_exists=os.path.exists(produced_path)
+    if produced_exists:
+        for ln in open(produced_path, encoding="utf-8"):
+            ln=ln.rstrip("\n")
+            if not ln: continue
+            p=ln.split("\t")
+            if len(p)>=2: prod[p[0]]=p[1]
+    return rows, coll, prod, produced_exists
+def _is_done(src, treldir, key, chroot, coll, prod, produced_exists):
+    tdir=os.path.join(chroot, treldir) if treldir else chroot
+    # 冲突组判重仅在该卷存在 _produced.tsv 时启用; 否则(旧卷)一律按 key 扫描, 行为不变
+    if produced_exists and (treldir,key) in coll:   # 冲突组: 按 源->目标 映射
+        t=prod.get(src); return bool(t and os.path.exists(t))
+    if not os.path.isdir(tdir): return False
+    return any(f.endswith(".md") and k(f)==key for f in os.listdir(tdir))
+'
+
 # 列出某卷全部"待译"源路径(按 page 排序), 每行一个
 list_pending() {
-  python3 - "$VOL" "$MANIFEST" <<PY
-import os, sys, re
+  python3 - "$VOL" "$MANIFEST" "$PRODUCED" "${NSHARD:-1}" "${SHARD:-0}" <<PY
+import os, sys, re, hashlib
 $PYKEY
-vol, manifest = sys.argv[1], sys.argv[2]
-root = os.path.join(vol, "chinese")
 def k(n):
     m = KEY.match(n); return m.group(1) if m else None
-rows = []
-for ln in open(manifest, encoding="utf-8"):
-    ln = ln.rstrip("\n")
-    if not ln or ln.startswith("#"): continue
-    c = ln.split("\t")
-    rows.append(c)
-def done(c):
-    treldir, key = c[1], c[2]
-    tdir = os.path.join(root, treldir) if treldir else root
-    if not os.path.isdir(tdir): return False
-    return any(f.endswith(".md") and k(f) == key for f in os.listdir(tdir))
-rows = [c for c in rows if not done(c)]
+$PYCOMMON
+vol, manifest, produced = sys.argv[1], sys.argv[2], sys.argv[3]
+nshard, shard = int(sys.argv[4]), int(sys.argv[5])
+chroot = os.path.join(vol, "chinese")
+def in_shard(c):
+    if nshard <= 1: return True
+    h = int(hashlib.md5((c[1] + "\t" + c[2]).encode("utf-8")).hexdigest(), 16)
+    return h % nshard == shard
+rows, coll, prod, pe = _load(manifest, produced)
+rows = [c for c in rows if in_shard(c) and not _is_done(c[0], c[1], c[2], chroot, coll, prod, pe)]
 rows.sort(key=lambda c: (int(c[3]) if c[3].isdigit() else 0, c[0]))
 for c in rows:
     print(c[0])
 PY
 }
 
-# 在目标目录找与 key 对应的已写文件(返回路径或空)
-found_target() {  # $1=tdir $2=key
+# 判断单个源是否已译完(循环内跳过判断; 冲突组感知)
+is_done_src() {  # $1=src -> 打印 "1" 表示已完成
+  python3 - "$VOL" "$MANIFEST" "$PRODUCED" "$1" <<PY
+import os, sys, re
+$PYKEY
+def k(n):
+    m = KEY.match(n); return m.group(1) if m else None
+$PYCOMMON
+vol, manifest, produced, src = sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4]
+chroot = os.path.join(vol, "chinese")
+rows, coll, prod, pe = _load(manifest, produced)
+row = next((c for c in rows if c[0]==src), None)
+if row and _is_done(row[0], row[1], row[2], chroot, coll, prod, pe):
+    print("1")
+PY
+}
+
+# 列出目标目录中所有与 key 匹配的已写文件路径(每行一个, 已排序)
+found_all() {  # $1=tdir $2=key
   python3 - "$1" "$2" <<PY
 import os, sys, re
 $PYKEY
@@ -74,7 +120,46 @@ def k(n):
 if os.path.isdir(tdir):
     for f in sorted(os.listdir(tdir)):
         if f.endswith(".md") and k(f) == key:
-            print(os.path.join(tdir, f)); break
+            print(os.path.join(tdir, f))
+PY
+}
+
+# 在目标目录找与 key 对应的已写文件(返回第一个或空)
+found_target() { found_all "$1" "$2" | head -n1; }
+
+# 是否为键冲突组成员(同 treldir+key 有多个源) -> 打印 "1"
+is_collision() {  # $1=treldir $2=key
+  python3 - "$MANIFEST" "$1" "$2" <<PY
+import sys
+from collections import Counter
+manifest, treldir, key = sys.argv[1], sys.argv[2], sys.argv[3]
+cnt=Counter()
+for ln in open(manifest, encoding="utf-8"):
+    ln=ln.rstrip("\n")
+    if not ln or ln.startswith("#"): continue
+    c=ln.split("\t"); cnt[(c[1],c[2])]+=1
+if cnt[(treldir,key)]>1: print("1")
+PY
+}
+
+# 冲突组: 相对 before 快照, 找出新出现的 key 匹配文件(本源的目标)
+new_target() {  # $1=tdir $2=key $3=before快照文件
+  python3 - "$1" "$2" "$3" <<PY
+import os, sys, re
+$PYKEY
+tdir, key, snap = sys.argv[1], sys.argv[2], sys.argv[3]
+def k(n):
+    m = KEY.match(n); return m.group(1) if m else None
+before=set()
+if os.path.exists(snap):
+    before=set(l.rstrip("\n") for l in open(snap, encoding="utf-8"))
+cur=[]
+if os.path.isdir(tdir):
+    for f in sorted(os.listdir(tdir)):
+        if f.endswith(".md") and k(f)==key:
+            cur.append(os.path.join(tdir,f))
+new=[p for p in cur if p not in before]
+print(new[0] if new else "")
 PY
 }
 
@@ -97,9 +182,13 @@ for src in "${PENDING[@]}"; do
   mkdir -p "$tdir"
 
   if [ "$OVERWRITE" != "1" ]; then
-    existing=$(found_target "$tdir" "$key")
-    if [ -n "$existing" ]; then log "[$done_cnt/$total] ⏭ 已存在跳过 key=$key"; continue; fi
+    if [ -n "$(is_done_src "$src")" ]; then log "[$done_cnt/$total] ⏭ 已存在跳过 key=$key"; continue; fi
   fi
+
+  # 冲突组: 记录翻译前的 key 匹配文件快照, 译后据此认定本源新产出的目标
+  coll_member=$(is_collision "$treldir" "$key")
+  before_snap=""
+  if [ -n "$coll_member" ]; then before_snap=$(mktemp); found_all "$tdir" "$key" > "$before_snap"; fi
 
   log "[$done_cnt/$total] ▶ $(date '+%T') 翻译 key=$key  $src"
 
@@ -112,7 +201,7 @@ for src in "${PENDING[@]}"; do
 
 把译文用 Write 工具写入目录:
   ${tdir}/
-目标文件名 = 把上面源文件名译成中文, 并【原样保留开头的方括号 [页码] 前缀(vol_1 形如 [186a]/[002a]/[769], 字母在括号内、可能补零, 一字不差)】, 文件名内不加巴利。
+目标文件名 = 把上面源文件名译成中文, 并【原样保留开头的方括号 [页码] 前缀(如 [186a]/[002a]/[000A]/[035], 一字不差)】, 文件名内不加巴利。同目录若已有同页码前缀的其它文件, 请按本源标题另取不同的中文文件名, 不要覆盖它们。
 
 辅助材料:
   英文参考(仅帮助理解长难句, 禁止直译英文): ${eng}
@@ -138,6 +227,7 @@ for src in "${PENDING[@]}"; do
       fi
       log "[$done_cnt/$total] ⛔ 撞配额/限流, 停止本次(已译保留, 配额恢复后重跑续译)。"
       LIMIT_HIT=1
+      [ -n "$before_snap" ] && rm -f "$before_snap"
       break 2
     fi
     cat "$tmpout" >>"$LOG"; rm -f "$tmpout"
@@ -145,7 +235,15 @@ for src in "${PENDING[@]}"; do
     break
   done
 
-  tgt=$(found_target "$tdir" "$key")
+  # 认定本源目标: 冲突组用 before/after 差集; 非冲突组按 key 找
+  if [ -n "$coll_member" ]; then
+    tgt=$(new_target "$tdir" "$key" "$before_snap")
+    rm -f "$before_snap"
+    [ -n "$tgt" ] && printf '%s\t%s\n' "$src" "$tgt" >> "$PRODUCED"
+  else
+    tgt=$(found_target "$tdir" "$key")
+  fi
+
   if [ -z "$tgt" ]; then
     log "[$done_cnt/$total] ✗ 未写出译文 key=$key"; fail=$((fail+1)); continue
   fi
@@ -156,9 +254,10 @@ for src in "${PENDING[@]}"; do
   fi
 done
 
-remain=$(list_pending | wc -l)
+remain=$(NSHARD=1 SHARD=0 list_pending | wc -l)   # 全卷剩余(不分片), 供 epub 触发与日志
+shard_note=""; [ "$NSHARD" -gt 1 ] && shard_note=" [分片 $SHARD/$NSHARD]"
 hit_note=""; [ "$LIMIT_HIT" = "1" ] && hit_note=" (因配额停止)"
-log "[$(date '+%F %T')] === 结束$hit_note: 本次 ✓$ok ⚠$warn ✗$fail。 $VOL 剩余待译 $remain ==="
+log "[$(date '+%F %T')] === 结束$hit_note$shard_note: 本次 ✓$ok ⚠$warn ✗$fail。 $VOL 剩余待译 $remain ==="
 
 if [ "$BUILD_EPUB" = "1" ] && [ "$remain" -eq 0 ]; then
   log "[$(date '+%F %T')] 全卷译完, 生成 epub …"
