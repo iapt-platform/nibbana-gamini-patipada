@@ -31,13 +31,13 @@ visuddhinanda@gmail.com
 
 **【文件：[00A]特相 - 作用 - 现起 - 足处 应如何观察/[000A]以相为首的四法篇.md】**
 
-# 以相(lakkhaṇā)为首的四法(catukka)篇 <br>论母(mātikā)
+**以相(lakkhaṇā)为首的四法(catukka)篇 <br>论母(mātikā)**
 
 **【文件：[00A]特相 - 作用 - 现起 - 足处 应如何观察/[000A]序论.md】**
 
-# 《去向涅槃之道》（Nibbānagāminipaṭipadā）— 第四册
+**《去向涅槃之道》（Nibbānagāminipaṭipadā）— 第四册**
 
-## 序论（nidānakathā）＝ 阐明缘起的论述
+# 序论（nidānakathā）＝ 阐明缘起的论述
 
 ## dukkhapaṭipadaṃ dandhābhiññaṃ
 
@@ -587,7 +587,7 @@ Lakkhaṇādīsu hi tesaṃ tesaṃ dhammānaṃ sabhāvo vā sāmaññaṃ vā 
 - 3. Sammaṭicchana paccupaṭṭhānā,
 - 4. Avasesadhātuttaya padaṭṭhānā. (Abhi-ṭṭha-1-368. Visuddhi-1-362. Visuddhi-2-73.)
 
-### 1. 地界
+#### 1. 地界
 
 - 1. 有坚硬（＝坚挺，坚固）之本质、特相(lakkhaṇa)。
 - 2. 有作为自身以外、同一色聚(kalāpa)中其余诸色法之立足处（作用(kicca)）的作用(rasa)。
@@ -600,7 +600,7 @@ Lakkhaṇādīsu hi tesaṃ tesaṃ dhammānaṃ sabhāvo vā sāmaññaṃ vā 
 但就其含义而言，务必只按上面的译文来记。 
 其余的特相—作用等处，也请以同样方式记忆。
 
-### 1. 地界
+#### 1. 地界
 
 - 1. 坚硬（＝坚挺，坚固）之本质——特相；
 - 2. 自身以外、同一色聚中其余诸色法之立足处（作用）——作用；
@@ -609,7 +609,7 @@ Lakkhaṇādīsu hi tesaṃ tesaṃ dhammānaṃ sabhāvo vā sāmaññaṃ vā 
 
 **【文件：[010]色（28）法 = 色蕴论章/[011]观照方法.md】**
 
-### 观照方法
+#### 观照方法
 
 在(6)门（dvāra）、(42)身分（koṭṭhāsa）中存在的每一个色聚（kalāpa）里，以及在含有次生色的每一个心生色聚（cittaja kalāpa）、时节生色聚（utuja kalāpa）、食生色聚（āhāraja kalāpa）里，地界（pathavīdhātu）都始终存在着。
 在蕴之屋（身体）内，那重约四分之一维斯（约408克）的每一个色聚、以及每一个色聚中所有的地界，弟子（sāvaka）们是无法把它们观照到毫无遗漏的。
@@ -684,7 +684,7 @@ Cattāro mahābhūtā aññamaññaṁ sahajātapaccayena paccayo.
 - 3. Saṅgahapaccupaṭṭhānā,
 - 4. Avasesadhātuttayapadaṭṭhānā. (Abhi-ṭṭha-1-368. Visuddhi-1-362. Visuddhi-2-73.)
 
-### 2. 水界
+#### 2. 水界
 
 - 1. 流动之本质 <r>特相(lakkhaṇa)；</r>
 - 2. 使一同生起的诸色(rūpa)法增长 <r>（作用(kicca)）作用(rasa)；</r>
@@ -755,7 +755,7 @@ Sopi hi sahajāta-aññamañña-nissayādipaccayatāya sesabhūtattaya-saṅkhā
 
 **【文件：[010]色（28）法 = 色蕴论章/[016]3. 火界.md】**
 
-### 3. 火界(tejodhātu)
+#### 3. 火界(tejodhātu)
 
 - 1. **Tejodhātu** uṇhattalakkhaṇā,
 - 2. Paripācanarasā,
@@ -763,7 +763,7 @@ Sopi hi sahajāta-aññamañña-nissayādipaccayatāya sesabhūtattaya-saṅkhā
 - 4. Avasesadhātuttayapadaṭṭhānā.
  (Abhi-ṭṭha-1-368. Visuddhi-1-362. Visuddhi-2-73.)
 
-### 3. 火界
+#### 3. 火界
 
 - 1. 热之本质（凉之本质）特相(lakkhaṇa)，
 - 2. 使同一色聚(kalāpa)的诸色(rūpa)法成熟（作用(kicca)）作用(rasa)，
@@ -822,7 +822,7 @@ Tejodhātuvasena labbhamānā imasmiṃ kāye jarāpavatti, pākatajarāvasena v
 即当某种疾病恒常缠附之时，或在年岁衰退之际，于此蕴(khandha)之屋内某些色聚中所具有的、由本有体温变异而来之火。
 然而，年岁却是恒常在衰退着的。
 
-### 消化之火(pācakatejo)
+#### 消化之火(pācakatejo)
 
 **Yena ca asitapītakhāyitasāyitaṃ sammā pariṇāmaṃ gacchatī**ti yenetaṃ asitaṃ vā odanādi, pītaṃ vā pānakādi, khāyitaṃ vā piṭṭhakhajjakādi, sāyitaṃ vā ambapakkamadhuphāṇitādi sammā paripākaṃ gacchati, rasādibhāvena vivekaṃ gacchatīti attho. (Visuddhi-1-345.)
 
@@ -970,7 +970,7 @@ Sopi tatheva calati, taṃgatiko tadanuvattakova hoti. (Abhi-ṭṭha-1-126.)
 
 **【文件：[010]色（28）法 = 色蕴论章/[024].md】**
 
-## 5. 眼净色(cakkhupasāda)
+### 5. 眼净色(cakkhupasāda)
 
 - 1. (a) Rūpābhighātārahabhūtappasādalakkhaṇaṃ,<br>(b) Daṭṭhukāmatānidānakammasamuṭṭhānabhūtappasādalakkhaṇaṃ vā **cakkhu**.
 - 2. Rūpesu āviñcharasaṃ,
@@ -990,7 +990,7 @@ Sopi tatheva calati, taṃgatiko tadanuvattakova hoti. (Abhi-ṭṭha-1-126.)
 
 **【文件：[010]色（28）法 = 色蕴论章/[025].md】**
 
-### 撞击(abhighāta) = 迎面击打 = 触击
+#### 撞击(abhighāta) = 迎面击打 = 触击
 
 Abhighāto ca visaya visayīnaṃ aññamaññaṃ abhimukhībhāvo yogyadesāvaṭṭhānaṃ abhighāto viyāti katvā. So rūpe cakkhussa, rūpassa vā cakkhumhi hoti. (Mahāṭī-2-89.)
 
@@ -1088,7 +1088,7 @@ Cakkhuviññāṇassa **vatthubhāvaṃ** nissayabhāvato āvajjanasampaṭiccha
 
 **【文件：[010]色（28）法 = 色蕴论章/[029]眼识依止哪一种眼净界.md】**
 
-### 眼识（cakkhuviññāṇa）依止哪一种眼净界
+#### 眼识（cakkhuviññāṇa）依止哪一种眼净界
 
 在前面的色业处（rūpakammaṭṭhāna）部分，已从究竟谛（paramatthasacca）的角度，把含成分眼（sasambhāracakkhu）、净色眼（pasādacakkhu）的诸般因由阐明陈述过了。
 在此，再稍作一些阐明陈述。
@@ -1138,7 +1138,7 @@ Sattaakkhipaṭalabyāpanavacaneneva cakkhussa anekakalāpagatabhāvaṃ dasseti
 
 **【文件：[010]色（28）法 = 色蕴论章/[031]应当亲身实地试验查看.md】**
 
-### 应当亲身实地试验查看
+#### 应当亲身实地试验查看
 
 你这位善人，对于这位大义疏（Mahāṭī）论师的见解与论说，应当真正亲身去试验查看，应当真正亲身去研究考察。
 有些尊贵的论师并不愿意接受这位大义疏论师的见解。
@@ -1253,7 +1253,7 @@ Nāmarūpaparicchedo, tassa ca paccayapariggaho na paṭhamābhinivesamattena ho
 
 **【文件：[010]色（28）法 = 色蕴论章/[036]一个值得提问的要点.md】**
 
-### 一个值得提问的要点
+#### 一个值得提问的要点
 
 身处(kāyāyatana) = 身净色(kāyapasāda)，在被称为「执受(upādinnaka)」的诸业生色(kammajarūpa)所存在的整个色身当中，犹如渗透遍布并安住于棉絮薄层中的油脂那样遍布安住时，也必定会安住于眼球内部、耳内、鼻内、舌中央等处，因此[身处]与诸门(dvāra)彼此接连、彼此相连，从而与包含在不同的、各别的眼十法色聚(cakkhudasakakalāpa)等等那些诸色聚(kalāpa)当中的诸色法(rūpadhamma)，岂不是会在特相(lakkhaṇa)上相互混杂而行了吗？[再者，]身处若在执受=业生色所存在的整个色身当中遍布，由于身处势必会穿透进入眼净色(cakkhupasāda)内部，所以在眼净色当中也就包含着身处的自性；如此包含着的话，那么在眼净色当中也就有着触所缘(phoṭṭhabbārammaṇa)所显现的影像，在身处当中也就有着色所缘(rūpārammaṇa)所显现的影像，如此一来，眼净色与身净色=身处，岂不是会在特相上相互混杂了吗——有这样的问题可提。
 
@@ -1300,7 +1300,7 @@ Nāmarūpaparicchedo, tassa ca paccayapariggaho na paṭhamābhinivesamattena ho
 
 **【文件：[010]色（28）法 = 色蕴论章/[037]境与行境.md】**
 
-## 境与行境
+### 境与行境
 
 **Visayabhāvo** ārammaṇapaccayatā. Kāmaṃ sā eva gocaratā, tathāpi visayagocarānaṃ ayaṃ viseso aññatthabhāvo tabbahulacāritā ca cakkhuviññāṇassa. (Mahāṭī-2-94.)
 
@@ -6295,7 +6295,7 @@ Somanassasahagatāhetukakiriyā ---
 
 **【文件：[209]受蕴论章/[209a]受蕴论章.md】**
 
-## 受蕴（vedanākkhandha）论章
+# 受蕴（vedanākkhandha）论章
 
 **【文件：[209]受蕴论章/[209b]一、乐受.md】**
 
@@ -6677,7 +6677,7 @@ kāyacittābādhanti **sukhaṃ**, somanassavedanāyetaṃ nāmaṃ.（Abhi-A-1-
 
 **【文件：[221]想蕴论章/[221]想蕴论章.md】**
 
-## 想蕴（saññakkhandha）论章
+# 想蕴（saññakkhandha）论章
 
 - 1. Sañjānana lakkhaṇā **saññā**,
 - 2. Tadevetanti puna sañjānanapaccayanimittakaraṇa rasā, (Dāruādīsu tacchakādayo viya.)
@@ -16084,7 +16084,7 @@ aññāṇasampayuttāpi vā upekkhāvedanā **aññāṇupekkhā**. (Anuṭī-1
 
 **【文件：[227]行蕴论章/[587]梵住心所/[595] 依特相、作用、现起、足处收摄观修名法的方式体系.md】**
 
-### 依特相(lakkhaṇa)、作用(rasa)、现起(paccupaṭṭhāna)、足处(padaṭṭhāna)收摄、观修名法(nāma-dhamma)的方式体系
+# 依特相(lakkhaṇa)、作用(rasa)、现起(paccupaṭṭhāna)、足处(padaṭṭhāna)收摄、观修名法(nāma-dhamma)的方式体系
 
 在前面的名业处(nāma kammaṭṭhāna)部分中，已经以名法的自性相(sabhāva lakkhaṇā)为主，写述并呈示了收摄名法的方式。
 如今，则再次写述并呈示：借由特相、作用、现起、足处之力来收摄这些名法的方式。
@@ -16187,7 +16187,7 @@ Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānup
 
 **【文件：[599]缘起支分章/[599]a 缘起支分章.md】**
 
-## 缘起(paṭiccasamuppāda)支分章
+# 缘起(paṭiccasamuppāda)支分章
 
 如上所述，以特相(lakkhaṇa)、作用(rasa)、现起(paccupaṭṭhāna)、足处(padaṭṭhāna)的方法，把各个色法、各个名法收摄完毕之后，再以色究竟(rūpa paramattha)、名究竟(nāma paramattha)自身的自性特相(sabhāvalakkhaṇa)为先——在内在(ajjhatta)、外在(bahiddha)两者当中——
 
@@ -16207,7 +16207,7 @@ Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānup
 
 **【文件：[599]缘起支分章/[599]b 一、无明.md】**
 
-### 1. 无明(avijjā)
+## 1. 无明(avijjā)
 
 - 1. aññāṇalakkhaṇā **avijjā**,
 - 2. sammohanarasā,
@@ -16239,7 +16239,7 @@ Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānup
 
 **【文件：[599]缘起支分章/[600] 二、行.md】**
 
-### 2. 行(saṅkhāra)
+## 2. 行(saṅkhāra)
 
 - 1. abhisaṅkharaṇalakkhaṇā **saṅkhārā**,
 - 2. āyūhanarasā,
@@ -16289,7 +16289,7 @@ tenāha **"paṭisandhi. pa. āyūhanarasā"**ti. (Anuṭī-2-95.)
 
 **【文件：[599]缘起支分章/[601] 三、识.md】**
 
-### 3. 识(viññāṇa)
+## 3. 识(viññāṇa)
 
 - 1. vijānanalakkhaṇaṃ **viññāṇaṃ**,
 - 2. pubbaṅgamarasaṃ,
@@ -16308,7 +16308,7 @@ tenāha **"paṭisandhi. pa. āyūhanarasā"**ti. (Anuṭī-2-95.)
 
 **【文件：[599]缘起支分章/[602]a 4. 从(名+色)至色=心所.md】**
 
-### 4. 从(名(nāma) + 色(rūpa))至 — 名 = 心所(cetasika)
+## 4. 从(名(nāma) + 色(rūpa))至 — 名 = 心所(cetasika)
 
 - 1. namanalakkhaṇaṃ **nāmaṃ**,
 - 2. sampayogarasaṃ,
@@ -16374,7 +16374,7 @@ Anārammaṇapariyāyevettha avyākatasaddo. (Madhu)
 **【文件：[599]缘起支分章/[604]五、六处.md】**
 
 
-### 五、六处(salāyatana)
+## 五、六处(salāyatana)
 
 - 1.āyatanalakkhaṇaṃ **salāyatanaṃ**,
 - 2.dassanādirasaṃ,
@@ -16508,7 +16508,7 @@ vatthuggahaṇañcettha cakkhādipañcakāpekkhaṃ。(Mahāṭī-2-254。)
 - 3.因鼻依处(ghānavatthu)+气味所缘+鼻识(ghānaviññāṇa)三者会合而生起的自性法 <r>现起,</r>
 - 4.鼻处(ghānāyatana) <r>足处。</r>
 
-## 舌触(jivhāsamphassa)
+### 舌触(jivhāsamphassa)
 
 - 1.碰触味所缘(rasārammaṇa)的自性=以碰触味所缘的方式而生起的自性—— <r>特相,</r>
 - 2.摩擦、贴近触及味所缘=在味所缘上撞击 <r>(作用)作用,</r>
@@ -16539,7 +16539,7 @@ vatthuggahaṇañcettha cakkhādipañcakāpekkhaṃ。(Mahāṭī-2-254。)
 
 **【文件：[599]缘起支分章/[608]七、受.md】**
 
-### 七、受(vedanā)
+## 七、受(vedanā)
 
 - 1.anubhavanalakkhaṇā **vedanā,**
 - 2.visayarasasambhogarasā,
@@ -16567,7 +16567,7 @@ vatthuggahaṇañcettha cakkhādipañcakāpekkhaṃ。(Mahāṭī-2-254。)
 [**备注** --- 就眼触所生受而言,亦可就那些在取色所缘为所缘的眼门心路(cakkhudvāravīthi)、意门心路(manodvāravīthi)诸心刹那(cittakkhaṇa)中相应的善果报、不善果报的受,取之为所缘而观照。
 对于耳触所生受(sotasamphassajāvedanā)等等,方法亦复相同。]
 
-## 耳触所生受
+### 耳触所生受
 
 - 1.声音所缘(saddārammaṇa)=感受声音所缘之味的自性 <r>特相,</r>
 - 2.享用声音所缘之味 <r>(作用)作用,</r>
@@ -16607,7 +16607,7 @@ vatthuggahaṇañcettha cakkhādipañcakāpekkhaṃ。(Mahāṭī-2-254。)
 
 **【文件：[599]缘起支分章/[610]八、渴爱.md】**
 
-### 八、渴爱(taṇhā)
+## 八、渴爱(taṇhā)
 
 - 1.hetulakkhaṇā **taṇhā,**
 - 2.abhinandanarasā,
@@ -16676,7 +16676,7 @@ Dukkhasamudayattā **hetulakkhaṇā taṇhā**。"Tatratatrābhinandinī"ti vac
 
 **【文件：[599]缘起支分章/[612]九、取.md】**
 
-### 九、取(upādāna)
+## 九、取(upādāna)
 
 - 1.gahaṇalakkhaṇaṃ upādānaṃ,
 - 2.amuñcanarasaṃ,
@@ -16720,7 +16720,7 @@ Dukkhasamudayattā **hetulakkhaṇā taṇhā**。"Tatratatrābhinandinī"ti vac
 
 **【文件：[599]缘起支分章/[613]十、有.md】**
 
-### 十、有(bhava)
+## 十、有(bhava)
 
 - 1.Kammakammaphalalakkhaṇo **bhavo**,
 - 2.Bhāvanabhavanaraso,
@@ -16758,7 +16758,7 @@ Kammupapattibhavavasena bhavassa lakkhaṇādayo yojetabbā。(Mūlaṭī-2-91�
 
 **【文件：[599]缘起支分章/[614]11。生.md】**
 
-### 11。生(jāti)
+## 11。生(jāti)
 
 - 1。Tattha tattha bhave pathamābhinibbattilakkhaṇā **jāti**,
 - 2。Niyyātanarasā,
@@ -16798,7 +16798,7 @@ Kammupapattibhavavasena bhavassa lakkhaṇādayo yojetabbā。(Mūlaṭī-2-91�
 
 **【文件：[599]缘起支分章/[615]12。老.md】**
 
-### 12。老(jarā)
+## 12。老(jarā)
 
 - 1。Khandhaparipākalakkhaṇā **jarā**,
 - 2。Maraṇūpanayanarasā,
