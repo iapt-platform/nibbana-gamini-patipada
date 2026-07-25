@@ -27,8 +27,8 @@ import re
 # key 通用: 兼容 [93]a(vol_5) / [186a][002a](vol_1) / [000A](vol_4) / [က](vol_3) / [11](vol_2)
 KEY_RE = re.compile(r"^\s*(\[[^\]]+\][A-Za-z]?)")
 PAGE_RE = re.compile(r"\[0*(\d+)")
-# 页段: 兼容 "Pg 001-40"(vol_1/5) 与 "Page 292_324"/"Page 1-33"(vol_4); 分隔符 - 或 _
-RANGE_RE = re.compile(r"(?:Pg|Page)\s*0*(\d+)\s*[-_]\s*0*(\d+)")
+# 页段: 兼容 "Pg 001-40"(vol_1/5) / "Page 292_324"(vol_4) / "pg 1-50"(vol_2); 大小写不敏感, 分隔符 - 或 _
+RANGE_RE = re.compile(r"(?:Pg|Page)\s*0*(\d+)\s*[-_]\s*0*(\d+)", re.IGNORECASE)
 SUB_DIR = "glossary/subsets"
 
 

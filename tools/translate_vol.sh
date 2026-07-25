@@ -40,6 +40,7 @@ SHARD="${SHARD:-0}"                   # 本进程分片号 [0, NSHARD)
 log() { echo "$*" | tee -a "$LOG"; }
 
 # 通用 key 正则: 兼容 [93]a/[186a]/[000A]/[က]/[11] 等各卷命名
+# 无键文件(如 vol_2 的 前言1.md)key 回退为完整文件名, 与 build_manifest 的 `key_of(fn) or fn` 一致
 PYKEY='import re; KEY=re.compile(r"^\s*(\[[^\]]+\][A-Za-z]?)")'
 
 # 公共: 载入键冲突组集合与 _produced 映射, 并定义 is_done(源级, 冲突组感知)
@@ -75,7 +76,7 @@ list_pending() {
 import os, sys, re, hashlib
 $PYKEY
 def k(n):
-    m = KEY.match(n); return m.group(1) if m else None
+    m = KEY.match(n); return m.group(1) if m else n
 $PYCOMMON
 vol, manifest, produced = sys.argv[1], sys.argv[2], sys.argv[3]
 nshard, shard = int(sys.argv[4]), int(sys.argv[5])
@@ -98,7 +99,7 @@ is_done_src() {  # $1=src -> 打印 "1" 表示已完成
 import os, sys, re
 $PYKEY
 def k(n):
-    m = KEY.match(n); return m.group(1) if m else None
+    m = KEY.match(n); return m.group(1) if m else n
 $PYCOMMON
 vol, manifest, produced, src = sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4]
 chroot = os.path.join(vol, "chinese")
@@ -116,7 +117,7 @@ import os, sys, re
 $PYKEY
 tdir, key = sys.argv[1], sys.argv[2]
 def k(n):
-    m = KEY.match(n); return m.group(1) if m else None
+    m = KEY.match(n); return m.group(1) if m else n
 if os.path.isdir(tdir):
     for f in sorted(os.listdir(tdir)):
         if f.endswith(".md") and k(f) == key:
@@ -149,7 +150,7 @@ import os, sys, re
 $PYKEY
 tdir, key, snap = sys.argv[1], sys.argv[2], sys.argv[3]
 def k(n):
-    m = KEY.match(n); return m.group(1) if m else None
+    m = KEY.match(n); return m.group(1) if m else n
 before=set()
 if os.path.exists(snap):
     before=set(l.rstrip("\n") for l in open(snap, encoding="utf-8"))
