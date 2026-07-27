@@ -70,7 +70,7 @@ bahuñca te bhikkhave bhikkhū puññaṃ pasavanti, te cimaṃ saddhammaṃ ṭ
 为了天人的利益与安乐而修行者。
 诸比库……那些比库既产生大量的善法，也使这教法住立久存。(增支部1、19。)
 
-### 教法隐没的五种类型
+## 教法隐没的五种类型
 
 te cimaṃ saddhammaṃ antaradhāpenti ——那些比库也使这教法隐没消失。(增支部18-19。)
 就这段开示而言，增支部义注(aṅguttara-aṭṭhakathā)(增支部注1、67-72。)中对教法隐没的五种作了如下阐释。
@@ -217,7 +217,7 @@ na tvevāhaṃ ānanda kenaci pariyāyena saṃghagatāya dakkhiṇāya pāṭip
 待到年岁久远，人们将耗时于寻求钱财物资，智慧日渐浅薄，不再珍重、供养舍利。
 那时，凡存在于人间、天界、龙界(nāga)、梵天界的一切舍利，都将前往大菩提座。
 
-### 舍利聚合圣像
+## 舍利聚合圣像
 
 一切舍利将在大菩提座聚集会合，化现为世尊的圣像形貌，于菩提座上结跏趺坐。
 那舍利聚合的佛陀圣像，具足(32)种大丈夫的大相(lakkhaṇā)与(80)种小相(随好)，以一寻光明般炽盛辉耀的光环，庄严绚烂地放光。
@@ -422,7 +422,7 @@ evamevaṃ pariyattiyā dharamānāya sāsanaṃ antarahitaṃ nāma na hotīti.
 
 **【文件：[1]无色摄受章/[1]b 观智所观照的名法.md】**
 
-### 观智(vipassanāñāṇa)所观照的名(nāma)法
+## 观智(vipassanāñāṇa)所观照的名(nāma)法
 
 全知正等觉的佛陀(Buddha)亲自在《相应部(Saṃyutta)》六处篇(Saḷāyatanavagga)不遍知经(Aparijānana Sutta)的巴利圣典中开示：若不以了知遍知(ñātapariññā)、审察遍知(tīraṇapariññā)、断遍知(pahānapariññā)这三种遍知(pariññā)，一一分别、透彻地了知一切色(rūpa)法与名法，则轮回(saṃsāra)之苦(dukkha)无论以何种方法都无法穷尽——由于有此开示之故（相应部，2，249-250。），
 
@@ -718,6 +718,8 @@ yathā nāma heṭṭhimajhānaṃ subhāvitaṃ vasībhāvaṃ pāpitameva upar
 换句话说，你也许曾经是这样一种人：仅仅只知道推动、移动的风界(vāyodhātu)这一种，或仅仅只知道推动移动的风界与冷热的火界(tejodhātu)这两种色，便舍弃了摄受色业处(rūpakammaṭṭhāna)的工作，转而去摄受、观照名业处。
 由于这样地摄受，至于自己有没有能力：把依照眼门(cakkhudvāra)心路(vīthi)等心之定律(cittaniyama)轨道而生起、存在于心路心相续之中的，以及存在于五门转向(pañcadvārāvajjana)、眼识(cakkhuviññāṇa)等每一心剎那(cittakkhaṇa)之中的心(citta)、心所(cetasika)诸法聚，把称为密集(ghana)的名的团块破除、摧毁，从而摄受、观照到智见抵达究竟法的程度——这就得由自己亲自去评判、思考了。
 倘若你能够自己向自己承认：对于依照心之定律轨道而生起的名法们，无法在每一心剎那中摄受、观照到智见抵达究竟法的程度；倘若你也能自己向自己承认：连(28)种色，也无法把称为色密集(rūpaghana)的色的团块破除、摧毁而摄受、观照到智见抵达究竟法的程度——那么，对于连色、名都尚未能了知到智见抵达究竟法程度的自己而言，业处(kammaṭṭhāna)法究竟是在增长进步呢，还是在衰退败坏呢？——这一点，极其渴望、企盼那作为轮回(saṃsāra)流转大苦(dukkha)之终结的涅槃(nibbāna)大圣法的你这位贤善禅修者，应当以正确的如理作意(yonisomanasikāra)、以纯净正直的心去思考、衡量、评判。
+
+## 二、摄持名法的圣典古例-[增加]
 
 **【文件：[1]无色摄受章/[12] 《不断经》摘录.md】**
 
@@ -1271,9 +1273,13 @@ Sarāgaṃ vā cittaṃ “sarāgaṃ cittan”ti pajānāti. (M-1-76.)
 而在名界中,那名为正在生起、正在生起之剎那的正当下的现在,则无论以任何方法都无法观照到——请务必坚定不移地牢记这一点。
 这正是因为:被观照的名法与能观照的名法,在一个心剎那(cittakkhaṇa)之内、一个心路(vīthi)过程之内,不可能同时并存生起之故。
 
+## 三、名法生起的心路理论基础-[增加]
+
+### （一）门与依处-[增加]
+
 **【文件：[1]无色摄受章/[30]b 入处门.md】**
 
-### 入处门（āyatanadvāra）
+#### 入处门（āyatanadvāra）
 
 身门（kāyadvāra）、语门（vacīdvāra）、意门（manodvāra）这三种门称为业门（kammadvāra），而眼门（cakkhudvāra）、耳门（sotadvāra）、鼻门（ghānadvāra）、舌门（jivhādvāra）、身门、意门这六种门则称为入处门。（大义疏，2，410。）
 想要摄持名法（nāma dhamma）的瑜伽行者（yogāvacara），要依照该入处门，沿着名为心路心（vīthi citta）之相续的心之定律（cittaniyama）路径，用智将名之团块、名之硬块这样的名密集（nāmaghana）之团块硬块加以破除摧毁，直至智见抵达究竟法（paramattha），如此摄持。
@@ -1283,7 +1289,7 @@ Sarāgaṃ vā cittaṃ “sarāgaṃ cittan”ti pajānāti. (M-1-76.)
 
 **【文件：[1]无色摄受章/[30]c 依处与门.md】**
 
-### 依处(vatthu)与门(dvāra)
+#### 依处(vatthu)与门(dvāra)
 
 - 1. **眼净色(cakkhupasāda)** = 眼的净明界，由于它是眼识(cakkhuviññāṇa)连同（8）个名法(nāma-dhamma)所依止而生起之处的色(rūpa)，所以也称为眼依处(cakkhuvatthu)；又由于它犹如那些名法之群出入的门口，所以也称为眼门(cakkhudvāra)。
 - 2. **耳净色(sotapasāda)** = 耳的净明界，由于它是耳识(sotaviññāṇa)连同（8）个名法所依止而生起之处的色，所以也称为耳依处(sotavatthu)；又由于它犹如那些名法之群出入的门口，所以也称为耳门(sotadvāra)。
@@ -1293,7 +1299,7 @@ Sarāgaṃ vā cittaṃ “sarāgaṃ cittan”ti pajānāti. (M-1-76.)
 
 **【文件：[1]无色摄受章/[31] 六、意门与心生起的物质基础.md】**
 
-### 六、意门(manodvāra)与心生起的物质基础(hadayavatthu)
+#### 六、意门(manodvāra)与心生起的物质基础(hadayavatthu)
 
 **manodvāraṁ** nāma sāvajjanaṁ bhavaṅgaṁ. 
 tassa nissayabhāvato hadayavatthuṁ sandhāya nissitavohārena "**manodvāre**"ti vuttaṁ, yattha manodvāruppatti. (Mahāṭī, 2, 410.)
@@ -1326,7 +1332,7 @@ tassa nissayabhāvato hadayavatthuṁ sandhāya nissitavohārena "**manodvāre**
 
 **【文件：[1]无色摄受章/[32]a 另一种方式 果借代的说法.md】**
 
-### 另一种方式——应记取这是「果借代(phalūpacāra)」的说法
+#### 另一种方式——应记取这是「果借代(phalūpacāra)」的说法
 
 转向(āvajjana)与有分心(bhavaṅga)，须各自依止于——与那些「紧贴在自己之前而生起的前前心剎那(cittakkhaṇa)」于生起(uppāda)之际一同并起的——心生起的物质基础色(hadayavatthu)，方得生起。
 因此，心生起的物质基础先于转向与有分而生起，并为使那些转向与有分心得以生起，而以作为所依止之依止缘力(nissayapaccaya)——即作为所依止的因法——给予助益。
@@ -1338,7 +1344,7 @@ tassa nissayabhāvato hadayavatthuṁ sandhāya nissitavohārena "**manodvāre**
 
 **【文件：[1]无色摄受章/[32]b 所谓转向.md】**
 
-### 所谓转向（āvajjana）
+#### 所谓转向（āvajjana）
 
 **mano**ti bhavaṅgacittaṃ. pa .
 **manoviññāṇa**nti sahāvajjanakajavanaṃ.
@@ -1359,7 +1365,7 @@ tassa nissayabhāvato hadayavatthuṁ sandhāya nissitavohārena "**manodvāre**
 
 **【文件：[1]无色摄受章/[32]c 所谓门.md】**
 
-### 所谓门
+#### 所谓门
 
 「门（dvāra）」一词，本来只是在指称人们居住的房屋那平常的门口。
 但在此处，「门」一词却是借「等同近行（sadisūpacāra）」的方式，来指称与那门口相似的「眼净色（cakkhupasāda）」等诸法。
@@ -1371,7 +1377,7 @@ tassa nissayabhāvato hadayavatthuṁ sandhāya nissitavohārena "**manodvāre**
 
 **【文件：[1]无色摄受章/[33]a 为远离夹杂混乱.md】**
 
-### 为远离夹杂混乱
+#### 为远离夹杂混乱
 
 由于按所依止的依处(vatthu)来摄持诸名法(nāma)会有夹杂混乱，因此诸义注(aṭṭhakathā)开示：应按入处门(āyatanadvāra)来摄持、观修诸名法。
 在（6）种依处当中，心生起的物质基础(hadayavatthu)，则是那些恰当地缘取全部（6）种所缘(ārammaṇa)而了知、除五识以外、名为意界(manodhātu)与意识界(manoviññāṇadhātu)的诸心路心(vīthicitta)所依止而生起之处的依处色(vatthurūpa)。
@@ -1385,7 +1391,7 @@ tassa nissayabhāvato hadayavatthuṁ sandhāya nissitavohārena "**manodvāre**
 
 **【文件：[1]无色摄受章/[33]b 门与所缘.md】**
 
-### 门(dvāra)与所缘(ārammaṇa)
+#### 门(dvāra)与所缘(ārammaṇa)
 
 tattha ekekaṃ ārammaṇaṃ dvīsu dvīsu dvāresu āpāthamāgacchati.
 rūpārammaṇañhi cakkhupasādaṃ ghaṭṭetvā taṃkhaṇaññeva manodvāre āpāthamāgacchati, bhavaṅgacalanassa paccayo hotīti attho.
@@ -1415,7 +1421,7 @@ tato bhavaṅgaṃ vicchinditvā cakkhudvārādīsu uppannānaṃ āvajjanādīn
 
 **【文件：[1]无色摄受章/[34] 两门中的显现方式——速行生起的方式.md】**
 
-### 两门中的显现方式——速行(javana)生起的方式
+#### 两门中的显现方式——速行(javana)生起的方式
 
 evaṃ ekekārammaṇaṃ javanaṃ dvīsu dvīsu dvāresu uppajjatīti veditabbaṃ.
 rūpārammaṇañhi javanaṃ cakkhudvārepi uppajjati manodvārepi.
@@ -1441,7 +1447,7 @@ Cha vatthūni, cha dvārāni, cha ārammaṇāni, cha viññāṇāni, cha vīth
 
 **【文件：[1]无色摄受章/[35]b 所缘六种.md】**
 
-### 所缘（ārammaṇa）（六）种
+#### 所缘（ārammaṇa）（六）种
 
 １。 **色所缘（rūpārammaṇa）** = 颜色 = 色泽 = 颜色界（vaṇṇadhātu）
 ２。 **声所缘（saddārammaṇa）** = 声音
@@ -1457,7 +1463,7 @@ Cha vatthūni, cha dvārāni, cha ārammaṇāni, cha viññāṇāni, cha vīth
 
 **【文件：[1]无色摄受章/[35]c 法所缘六种.md】**
 
-### 法所缘（dhammārammaṇa）（六）种
+#### 法所缘（dhammārammaṇa）（六）种
 
 dhammārammaṇaṃ pana pasāda-sukhumarūpa-citta-cetasika-nibbāna-paññattivasena chadhā saṅgayhati.(Abhidhammatthasaṅgaha.)
 
@@ -1474,7 +1480,7 @@ dhammārammaṇaṃ pana pasāda-sukhumarūpa-citta-cetasika-nibbāna-paññatti
 
 **【文件：[1]无色摄受章/[36] 识界六种.md】**
 
-### 识界（viññāṇadhātu）（六）种
+#### 识界（viññāṇadhātu）（六）种
 
 在观（vipassanā）的领域中，简略而言，有识界（六）种。
 
@@ -1496,7 +1502,7 @@ dhammārammaṇaṃ pana pasāda-sukhumarūpa-citta-cetasika-nibbāna-paññatti
 
 **【文件：[1]无色摄受章/[37] 心路六种.md】**
 
-### 六种心路(vīthi)
+#### 六种心路(vīthi)
 
 所谓心路，就是心之转起(cittappavatti)。
 所谓心之转起，是指依照固定不变的心之定律(cittaniyama)之轨道、按次第而生起的众多心；把依照心之定律的轨道、按次第井然有序地生起的众多心，称为心路。
@@ -1538,7 +1544,7 @@ dhammārammaṇaṃ pana pasāda-sukhumarūpa-citta-cetasika-nibbāna-paññatti
 
 **【文件：[1]无色摄受章/[38] 五门转向审察.md】**
 
-### 五门转向(pañcadvārāvajjana)审察
+#### 五门转向(pañcadvārāvajjana)审察
 
 以眼门(cakkhudvāra)等五门(pañcadvāra，=五个门)中显现出来的所缘为审察对象的那个转向(āvajjana)心，为了与意门转向(manodvārāvajjana，=审察在意门中显现之所缘的心)相区别，便命名为五门转向。
 并非五种所缘在全部五门中同时显现、同时被审察。
@@ -1562,7 +1568,7 @@ dhammārammaṇaṃ pana pasāda-sukhumarūpa-citta-cetasika-nibbāna-paññatti
 
 **【文件：[1]无色摄受章/[39]a 应预先知悉记住.md】**
 
-### 应预先知悉记住
+#### 应预先知悉记住
 
 一般而言，在这些心路心(vīthi citta)中，速行(javana)通常生起(7)次，彼所缘(tadārammaṇa)则生起(=2)次。
 其余的心路心则各只生起一次。
@@ -1587,9 +1593,11 @@ dhammārammaṇaṃ pana pasāda-sukhumarūpa-citta-cetasika-nibbāna-paññatti
 
 总合起来，就是指这（六）种，请如此记住。
 
+
+
 **【文件：[1]无色摄受章/[40] 极大所缘.md】**
 
-### 极大所缘(atimahantārammaṇa)
+#### 极大所缘(atimahantārammaṇa)
 
 以色所缘(rūpārammaṇa)为首的五所缘(pañcārammaṇa)＝这五种所缘(ārammaṇa)，在各自的门(dvāra)中显现时，由于这些所缘的色法(rūpa)生起极为迅速，因此在生起的当下、眼前这一刻还无法在各自的门中显现，而是要在生起之后、到达住(ṭhiti)时才能显现。
 应当记住：这一判定也只是就各自所缘在五门(pañcadvāra)中显现一事而言的说法。
@@ -1662,7 +1670,7 @@ dhammārammaṇaṃ pana pasāda-sukhumarūpa-citta-cetasika-nibbāna-paññatti
 
 **【文件：[1]无色摄受章/[42] 所谓速行.md】**
 
-### 所谓速行(javana)
+#### 所谓速行(javana)
 
 由于以强大的势头生起，故名速行；因此，无论生起的次数少还是多，凡以强猛炽烈的势头生起的心，都称为速行心(javanacitta)。道速行(maggajavana)、神通速行(abhiññāṇajavana)虽然只生起一次，却也具有强到堪以「一次」相称的势头。
 至于有分心(bhavaṅgacitta)，虽然接连不断地多次生起，却没有这样的势头；而那些速行心的作用，正是充分而自如地领受所缘(ārammaṇa)之味。
@@ -1685,7 +1693,7 @@ maraṇakālādīsu pana pañcavārameva. (Abhidhammatthasaṅgaha.)
 
 **【文件：[1]无色摄受章/[43]a 所谓彼所缘.md】**
 
-### 所谓彼所缘(tadārammaṇa)
+#### 所谓彼所缘(tadārammaṇa)
 
 tadetaṃ javanāvasāne bhavaṅgassa ārammaṇe pavattanārahaṃ samānaṃ tassa javanassa ārammaṇaṃ ārammaṇaṃ katvā pavattattā tadārammaṇanti vuccati.
 evaṃ ekādasannaṃ vipākaviññāṇānaṃ **tadārammaṇavasena** pavatti veditabbā. (Vs-2-90.)
@@ -1702,7 +1710,7 @@ evaṃ ekādasannaṃ vipākaviññāṇānaṃ **tadārammaṇavasena** pavatti
 
 **【文件：[1]无色摄受章/[43]b 两次——一次.md】**
 
-### 两次——一次
+#### 两次——一次
 
 **dvikkhattuṃ sakiṃ vā**ti vacanasiliṭṭhavasena vuttaṃ “aṭṭha vā dasa vā”ti-ādīsu viya。 
 dvikkhattuṃyeva pana vaṇṇentī. (Mahāṭī, 2, 134.)
@@ -1719,7 +1727,7 @@ idaṃ dve nāmāni labhati paṭisandhicittasadisattā mūlabhavaṅganti ca, y
 
 **【文件：[1]无色摄受章/[44] 如理作意.md】**
 
-### 如理作意（yonisomanasikāra）
+#### 如理作意（yonisomanasikāra）
 
 在该极大所缘心路（atimahantārammaṇa vīthi）中——确定心（voṭṭho）灭去之后，当速行（javana）运行时，由于色所缘（rūpārammaṇa）是欲所缘（kāmārammaṇa），故只有诸欲界速行（kāmajavana）才有运行的机会。
 广大速行（mahaggata javana）与出世间速行（lokuttara javana）则不能以欲法（kāma法）为所缘。
@@ -1747,7 +1755,7 @@ so hi aviparītamanasikāratāya “yoniso manasikāro”ti vutto, tadābhogatā
 
 **【文件：[1]无色摄受章/[45]a 不如理作意.md】**
 
-### 不如理作意（ayonisomanasikāra）
+#### 不如理作意（ayonisomanasikāra）
 
 **ayoniso manasikāro**ti anupāyamanasikāro uppathamanasikāro, anicce ‘nicca’nti vā dukkhe ‘sukha’nti vā anattani ‘attā’ti vā asubhe ‘subha’nti vā manasikāro. (Sam-ṭṭha, 3, 177. Ma-ṭṭha, 1, 285-286.)
 
@@ -1756,7 +1764,7 @@ so hi aviparītamanasikāratāya “yoniso manasikāro”ti vutto, tadābhogatā
 
 **【文件：[1]无色摄受章/[45]b 转向.md】**
 
-### 转向（āvajjana）
+#### 转向（āvajjana）
 
 tadābhogatāya āvajjanāpi taggatikāva. (Ma-ṭī, 1, 381.)
 
@@ -1770,7 +1778,7 @@ tadābhogatāya āvajjanāpi taggatikāva. (Ma-ṭī, 1, 381.)
 
 **【文件：[1]无色摄受章/[46]a 三种作意.md】**
 
-### 三种作意(manasikāra)
+#### 三种作意(manasikāra)
 
 作意有三种：引生心路(vīthi)的作意、引生速行(javana)的作意、令所缘(ārammaṇa)显现的作意。其中——
 
@@ -1785,7 +1793,7 @@ tadābhogatāya āvajjanāpi taggatikāva. (Ma-ṭī, 1, 381.)
 
 **【文件：[1]无色摄受章/[46]b 成就轮的效能.md】**
 
-### 诸成就轮(sampatticakka)的效能
+#### 诸成就轮(sampatticakka)的效能
 
 那如理作意(yonisomanasikāra)得以生起或不生起的一连串接续原因，即是 ----
 
@@ -1836,7 +1844,7 @@ tadābhogatāya āvajjanāpi taggatikāva. (Ma-ṭī, 1, 381.)
 
 **【文件：[1]无色摄受章/[48]a 心生起的方式.md】**
 
-### 心(citta)生起的方式
+#### 心(citta)生起的方式
 
 上面所示的这些心,既不是为了在有机缘时便能从适当处生起而聚集停留在身体内部,外部也没有任何人能把它们聚集收藏在某个地方。
 唯有当依处(vatthu)、所缘(ārammaṇa)、作意(manasikāra)等相关的因缘诸法会合之时,它们才骤然生起。
@@ -1848,7 +1856,7 @@ tadābhogatāya āvajjanāpi taggatikāva. (Ma-ṭī, 1, 381.)
 
 **【文件：[1]无色摄受章/[48]b 大所缘心路.md】**
 
-### 大所缘(mahantārammaṇa)心路(vīthi)
+#### 大所缘(mahantārammaṇa)心路(vīthi)
 
 色所缘(rūpārammaṇa)在生起之后，还不能在眼门(cakkhudvāra)、意门(manodvāra)中显现，就已经过了大约两个、大约三个心剎那(cittakkhaṇa)。
 若是过了大约两个、大约三个心剎那之后才显现，那个色所缘便无法在住(ṭhiti)时维持存续以至于成为彼所缘(tadārammaṇa)，在尚未成为彼所缘之前，其（17）个心剎那的寿限便已届满，因而消逝、灭尽。
@@ -1874,7 +1882,7 @@ Ayaṃ tatiyo moghavāro. (Abhi-ṭṭha-1-310.)
 
 **【文件：[1]无色摄受章/[49]a 小所缘心路.md】**
 
-### 小所缘(parittārammaṇa)心路(vīthi)
+#### 小所缘(parittārammaṇa)心路(vīthi)
 
 色所缘(rūpārammaṇa)由于具有软弱、羸弱(dubbala)的自性，生起(uppāda)之后虽已到达住时(ṭhī)，却仍不能立即在眼门(cakkhudvāra)、意门(manodvāra)中显现，而要等到经过四、五、六、七个心刹那(cittakkhaṇa)等之后，才能在那些门中显现出来。
 像这样的色所缘，不仅无法在住位中维持到成为彼所缘(tadārammaṇa)，就连维持到速行(javana)生起也做不到。
@@ -1892,7 +1900,7 @@ tattha javanampi anuppajjitvā dvittikkhattum voṭṭhabbanameva pavattati, tat
 
 **【文件：[1]无色摄受章/[49]b 第二无效之节.md】**
 
-### 第二无效之节（dutiya moghavāra）
+#### 第二无效之节（dutiya moghavāra）
 
 sace pana bhavaṅgaṃ āvaṭṭeti, kiriyamanodhātuyā bhavaṅge āvaṭṭite voṭṭhabbanaṃ apāpetvāva antarā cakkhuviññāṇe vā sampaṭicchane vā santīraṇe vā nivattissatīti netaṃ ṭhānaṃ vijjati।
 voṭṭhabbanavasena pana ṭhatvā ekaṃ vā dve vā cittāni pavattanti।
@@ -1917,7 +1925,7 @@ ayampi dutiyo moghavāro। (Abhi-ṭṭha, 1, 309-310।)
 
 **【文件：[1]无色摄受章/[50]a 根本复注与再复注的说法.md】**
 
-### 根本复注(Mūlaṭīkā)与再复注(anuṭīkā)的说法
+#### 根本复注(Mūlaṭīkā)与再复注(anuṭīkā)的说法
 
 『āsevanaṃ labhitvā』——若〔有人〕理解为：在确定(vuṭṭho)发生两次之处，后一个确定受前一个确定以重复缘(āsevana)所作的助益；又〔理解为〕这两次确定即安立于速行(javana)之处——那么，由于在《众缘》巴利圣典(Paṭṭhāna)中并无这样的教说，故这一说法应经审察后方可接受；根本复注的尊者在(Mūlaṭī,1,129-130)中如此审察并陈述。至于再复注的尊者，则如此解说。
 
@@ -1927,7 +1935,7 @@ javanaṭṭhāne ṭhatvāti javanassa uppajjanaṭṭhāne dvikkhattuṃ pavat
 
 **【文件：[1]无色摄受章/[50]b 有分断.md】**
 
-### 有分断（bhavaṅgupaccheda）
+#### 有分断（bhavaṅgupaccheda）
 
 tato dvikkhattuṃ bhavaṅge calite bhavaṅgasotaṃ vocchinditvā tameva rūpārammaṇaṃ āvajjantaṃ pañcadvārāvajjanacittaṃ uppajjitvā nirujjhati. (Abhidhammatthasaṅgaha.)
 
@@ -1944,7 +1952,7 @@ tato dvikkhattuṃ bhavaṅge calite bhavaṅgasotaṃ vocchinditvā tameva rūp
 
 **【文件：[1]无色摄受章/[51] 见仅是见.md】**
 
-### 见仅是见（diṭṭhe diṭṭhamattaṁ）
+#### 见仅是见（diṭṭhe diṭṭhamattaṁ）
 
 上面已经陈述过的 ---- 「当唯作意界（kiriyāmanodhātu）令有分（bhavaṅga）转动之后 = 令〔有分〕止住之后，[心路]不曾到达那把所缘确定为可喜（iṭṭha）、不可喜（aniṭṭha）等的确定（voṭṭhabbana）心，唯有如此——于被称为五门转向（pañcadvārāvajjana）的唯作意界与确定之间，无论是于眼识（cakkhuviññāṇa），无论是于领受（sampaṭicchana），无论是于推度（santīraṇa），心路心（vīthicitta）之相续会停顿下来而退没 = 会落入有分——这样的道理是绝不存在的。」（Abhi-ṭṭha, 1, 309-310。）---- 这样的说法，对于想要修习「见仅是见（diṭṭhe diṭṭhamattaṁ）」这一行道的、诸位尊贵的瑜伽行者（yogāvacara）而言，也正是一句应当特别铭记于心的话语。
 
@@ -1963,7 +1971,7 @@ ekantena pana cakkhuviññāṇameva dassanakiccaṃ sādheti. (Abhi-ṭṭha, 1
 
 **【文件：[1]无色摄受章/[52]a 极小所缘心路.md】**
 
-### 极小所缘(atiparittārammaṇa)心路(vīthi)
+#### 极小所缘(atiparittārammaṇa)心路(vīthi)
 
 色所缘(rūpārammaṇa)虽然在生起(uppāda)之后到达住(ṭhiti)之时，却不仅无法维持[存续]直到成为彼所缘(tadārammaṇa)、速行(javana)，甚至连维持到成为出起(vuṭṭho)——[即]在住的当下住立存续——也不能；[这样的色所缘]虽然迎面落入眼门(cakkhudvāra)、意门(manodvāra)之中，却在名为唯作意界(kiriyamanodhātu)的五门转向(pañcadvārāvajjana)心尚未能令有分(bhavaṅga)之流、有分之相续转动、尚未能令[它]止住之前，便已在内里就消逝、灭尽而去；由于所缘(ārammaṇa)极其软弱，直到临近灭尽时才显现，故若从显现之时起算，其心剎那(cittakkhaṇa)寿限极其稀少的色所缘，就称为**极小所缘**。
 在这个极小所缘心路中，只有有分波动(bhavaṅgacalana)在波动而已，心路心的生起(vīthicittuppāda)已不复存在。
@@ -2012,7 +2020,7 @@ ekantena pana cakkhuviññāṇameva dassanakiccaṃ sādheti. (Abhi-ṭṭha, 1
 
 **【文件：[1]无色摄受章/[53]b 《清净道论》义注开显——观照非色转生之相.md】**
 
-### 《清净道论(Visuddhimagga)》义注(aṭṭhakathā)开显 —— 观照非色转生之相(arūpanibbattipassanākāra)
+#### 《清净道论(Visuddhimagga)》义注(aṭṭhakathā)开显 —— 观照非色转生之相(arūpanibbattipassanākāra)
 
 yathā ca rūpaṃ sammasantena rūpassa, evaṃ arūpaṃ sammasantenapi arūpassa nibbatti passitabbā.
 sā ca kho ekāsīti lokiyacittuppādavaseneva.
@@ -2101,7 +2109,7 @@ evaṃ chasu dvāresu **arūpassa nibbatti** passitabbā. (Visuddhi-2-252, 253.)
 
 **【文件：[1]无色摄受章/[56] 速行与所缘.md】**
 
-### 速行(javana)与所缘(ārammaṇa)
+#### 速行(javana)与所缘(ārammaṇa)
 
 [**javanārammaṇānurūpa**nti "tihetukaṃ ce javanaṃ, tihetukaṃ, dvihetukaṃ vā"ti ādinā "iṭṭhaṃ ce ārammaṇaṃ, somanassasahagata"nti ādinā ca javanassa, ārammaṇassa ca anurūpaṃ. (Mahāṭī,2,405。)
 
@@ -2131,7 +2139,7 @@ evaṃ chasu dvāresu **arūpassa nibbatti** passitabbā. (Visuddhi-2-252, 253.)
 
 **【文件：[1]无色摄受章/[57] 根遍知.md】**
 
-### 根遍知（mūlapariññā）
+#### 根遍知（mūlapariññā）
 
 mūlapariññāvasena tāva ----
 
@@ -2187,7 +2195,7 @@ evaṃ manodvārajavanassa mūlavasena mūlapariññā vuttā. (Ma-ṭī-1-360.)
 
 **【文件：[1]无色摄受章/[59] 另一种解说方式.md】**
 
-### 另一种解说方式
+#### 另一种解说方式
 
 Ettha hi cakkhu ceva rūpañca rūpakkhandho, dassanaṃ viññāṇakkhandho, taṃsampayuttā vedanā vedanākkhandho, saññā saññākkhandho, phassādikā saṅkhārakkhandho.
 Evametesaṃ pañcannaṃ khandhānaṃ samavāye ālokanavilokanaṃ paññāyati.
@@ -2239,7 +2247,7 @@ Tattha ko eko āloketi, ko viloketi. (M-A-1-267-268；Dī-A-1-175；Sam-A-3-227�
 
 **【文件：[1]无色摄受章/[61] 极为艰难的工作.md】**
 
-### 极为艰难的工作
+#### 极为艰难的工作
 
 依循心之定律(cittaniyama)的轨道而生起的心(citta)＋心所(cetasika)＝名法(nāma)诸法，要以智(ñāṇa)把名密集(nāmaghana)所称的名之团块、名之硬块破碎瓦解、加以摧毁，使智见抵达究竟法(paramattha)——这样地摄持修观，并不是一件容易的工作。
 然而，声闻弟子(sāvaka)们通过摄持修观，是能够做到的。
@@ -10681,7 +10689,7 @@ Sacittapariyodapanaṃ, etaṃ buddhānasāsanaṃ. (长部2、42。)
 
 **【文件：[347]威仪章与正知章/[347]b 威仪与正知部分的观察区.md】**
 
-### 威仪(iriyāpatha)与正知(sampajañña)部分的观察区
+## 威仪(iriyāpatha)与正知(sampajañña)部分的观察区
 
 在色业处(rūpa kammaṭṭhāna)部分中，已经阐述了属于色部分的威仪部分观察区与正知部分观察区。
 如今在这名业处(nāma kammaṭṭhāna)部分中，则将要阐述五蕴(khandha)的观察区。
@@ -10929,7 +10937,7 @@ Yassa viññāṇaṃ pākaṭaṃ hoti, so "na kevalaṃ viññāṇameva uppaj
 
 **【文件：[347]威仪章与正知章/[355] 正知部分.md】**
 
-### sampajānapabba = 正知部分
+## sampajānapabba = 正知部分
 
 puna caparaṃ bhikkhave bhikkhu ---
 - 1. abhikkante paṭikkante sampajānakārī hoti.
@@ -13718,7 +13726,7 @@ aṭṭhatiṃsāya ārammaṇesu cittaruciyaṃ kammaṭṭhānaṃ gahetvā ni
 
 **【文件：[448]四念处法章/[448]b 身随观念处(一)入出息部分.md】**
 
-### 身随观（kāyānupassanā）念处（satipaṭṭhāna）（一）入出息部分（ānāpānapabba） = 入出息部分 第一阶段
+## 身随观（kāyānupassanā）念处（satipaṭṭhāna）（一）入出息部分（ānāpānapabba） = 入出息部分 第一阶段
 
 so satova assasati, satova passasati.
 
@@ -13938,7 +13946,7 @@ idaṃ dhātuvasena abhiniviṭṭhassa bhikkhuno yāva arahattā nigamanaṃ. (
 
 **【文件：[448]四念处法章/[456]a 受随观念处 第一阶段.md】**
 
-### 受随观(vedanānupassanā)念处(satipaṭṭhāna) 第一阶段
+## 受随观(vedanānupassanā)念处(satipaṭṭhāna) 第一阶段
 
 Kathañca bhikkhave bhikkhu vedanāsu vedanānupassī viharati.
 Idha bhikkhave bhikkhu sukhaṃ vā vedanaṃ vedayamāno "sukhaṃ vedanaṃ vedayāmī"ti pajānāti.
@@ -15274,7 +15282,7 @@ yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ 
 
 **【文件：[448]四念处法章/[506] 心随观念处 第一阶.md】**
 
-### 心随观念处(Cittānupassanā satipaṭṭhāna) 第一阶
+## 心随观念处(Cittānupassanā satipaṭṭhāna) 第一阶
 
 Kathañca bhikkhave bhikkhu citte cittānupassī viharati. Idha bhikkhave bhikkhu ---
 
@@ -15344,7 +15352,7 @@ Kathañca bhikkhave bhikkhu citte cittānupassī viharati. Idha bhikkhave bhikkh
 
 **【文件：[448]四念处法章/[509] 法随观念处 第一阶段.md】**
 
-### 法随观(dhammānupassanā)念处(satipaṭṭhāna) 第一阶段
+## 法随观(dhammānupassanā)念处(satipaṭṭhāna) 第一阶段
 
 Evaṃ soḷasavidhena cittānupassanāsatipaṭṭhānaṃ kathetvā idāni pañcavidhena dhammānupassanaṃ kathetuṃ**kathañca bhikkhave**ti ādimāha. (Ma-ṭṭha-1-285.)
 
@@ -15425,7 +15433,7 @@ Idha bhikkhave bhikkhu santaṃ vā ajjhattaṃ kāmacchandaṃ "atthi me ajjhat
 
 **【文件：[448]四念处法章/[511] 现前 - 非现前 = 显现存在 - 不存在.md】**
 
-### 现前(santa) - 非现前(asanta) = 显现存在 - 不存在
+#### 现前(santa) - 非现前(asanta) = 显现存在 - 不存在
 
 tattha **santa**nti abhiṇhasamudācāravasena saṃvijjamānaṃ. **asanta**nti asamudācāravasena vā pahīnattā vā avijjamānaṃ. (abhi,ṭṭha,2,257. ma,ṭṭha,1,285.)
 
@@ -15443,7 +15451,7 @@ kaṇhasukkānaṃ yuganaddhatā natthīti pajānanakāle abhāvā "**abhiṇhas
 
 **【文件：[448]四念处法章/[512]a 应当留意的一点.md】**
 
-### 应当留意的一点
+#### 应当留意的一点
 
 以上这些巴利圣典（pāli）、义注（aṭṭhakathā）、复注（ṭīkā）中所宣说的开示，愿你善人留意地重新审察。
 在此，被观照的名（nāma）法们，是感官之欲盖（kāmacchandanīvaraṇa）等不善（akusala）法。
@@ -15458,7 +15466,7 @@ kaṇhasukkānaṃ yuganaddhatā natthīti pajānanakāle abhāvā "**abhiṇhas
 
 **【文件：[448]四念处法章/[512]b 感官之欲盖生起之因法.md】**
 
-### 感官之欲(kāmacchanda)盖(nīvaraṇa)生起之因法
+#### 感官之欲(kāmacchanda)盖(nīvaraṇa)生起之因法
 
 Tattha subhanimitte ayonisomanasikārena kāmacchandassa uppādo hoti.
 **Subhanimittaṃ** nāma subhampi subhanimittaṃ, subhārammaṇampi subhanimittaṃ.
@@ -15489,7 +15497,7 @@ So hi attano gahaṇākārena "subha"nti vuccati, tenākārena pavattamānakassa
 
 **【文件：[448]四念处法章/[514] 感官之欲盖断除之因法.md】**
 
-### 感官之欲(kāmacchanda)盖(nīvaraṇa)断除之因法
+#### 感官之欲(kāmacchanda)盖(nīvaraṇa)断除之因法
 
 Asubhanimitte pana yonisomanasikārenassa pahānaṃ hoti.
 **Asubhanimittaṃ** nāma asubhampi asubhanimittaṃ, asubhārammaṇampi asubhanimittaṃ.
@@ -15550,7 +15558,7 @@ Tesu pana asubhe subhanti asubhanti ca manasikāro idhādhippeto, tadanukulattā
 
 **【文件：[448]四念处法章/[516] 另一法门 断除感官之欲盖之法.md】**
 
-### 另一法门 断除感官之欲(kāmacchanda)盖(nīvaraṇa)之法(六)种
+#### 另一法门 断除感官之欲(kāmacchanda)盖(nīvaraṇa)之法(六)种
 
 - ၁။ 学取不净(asubha)相(nimitta)＝学取不净所缘(ārammaṇa)，
 - ၂။ 一次又一次、重重叠叠地培育、精勤修习不净修习(asubhabhāvanā)，
@@ -15594,7 +15602,7 @@ Tesu pana asubhe subhanti asubhanti ca manasikāro idhādhippeto, tadanukulattā
 
 **【文件：[448]四念处法章/[518]a 瞋恚盖生起之因法.md】**
 
-### 瞋恚(byāpāda)盖(nīvaraṇa)生起之因法
+#### 瞋恚(byāpāda)盖(nīvaraṇa)生起之因法
 
 由于对厌恶相(paṭighanimitta)，以并非获得道智(maggañāṇa)、果智、涅槃(nibbāna)等利益安乐之因的错误方式、错误道路来作意 = 因不如理作意(ayonisomanasikāra)，瞋恚盖法便生起了。
 
@@ -15611,7 +15619,7 @@ Tesu pana asubhe subhanti asubhanti ca manasikāro idhādhippeto, tadanukulattā
 
 **【文件：[448]四念处法章/[518]b 瞋恚盖断除之因法.md】**
 
-### 瞋恚(byāpāda)盖(nīvaraṇa)断除之因法
+#### 瞋恚(byāpāda)盖(nīvaraṇa)断除之因法
 
 由于对『与慈爱(mettā)相应之心的、成为从相反诸盖中解脱之因的、名为慈禅那(jhāna)等至(samāpatti)的慈心解脱(mettācetovimutti)法』，以能获得道智(maggañāṇa)、果智、涅槃(nibbāna)等利益安乐之因的恰当方式、正确方法正确道路来作意(manasikāra) = 因如理作意(yonisomanasikāra)，那个瞋恚盖的断除便生起了。
 在那句『**mettāya cetovimuttiya**』的话中，被称为**慈爱**的慈安止禅那(appanā)与慈近行禅那(upacāra)两者都适合；而在说到**心解脱(cetovimutti)**（＝慈心解脱）之处，则只有慈安止禅那才适合[推知]。
@@ -15624,7 +15632,7 @@ Tesu pana asubhe subhanti asubhanti ca manasikāro idhādhippeto, tadanukulattā
 
 **【文件：[448]四念处法章/[519] 另一法门 断除瞋恚盖之因法.md】**
 
-### 另一法门 断除瞋恚(byāpāda)盖(nīvaraṇa)之因法(六)种
+#### 另一法门 断除瞋恚(byāpāda)盖(nīvaraṇa)之因法(六)种
 
 - 一、学习作为慈爱(mettā)之所缘的业处(kammaṭṭhāna)，
 - 二、一再地反复努力修习(bhāvanā)慈爱，
@@ -15674,7 +15682,7 @@ Tesu pana asubhe subhanti asubhanti ca manasikāro idhādhippeto, tadanukulattā
 
 **【文件：[448]四念处法章/[521]a 昏沉睡眠盖生起之因法.md】**
 
-### 昏沉睡眠(thinamiddha)盖(nīvaraṇa)生起之因法
+#### 昏沉睡眠(thinamiddha)盖(nīvaraṇa)生起之因法
 
 诸比库(bhikkhu)……于业处法(kammaṭṭhāna)中不喜乐，是存在的；身(kāya)的懒惰，是存在的；身手的伸展，是存在的；因食物而昏沉撑饱，是存在的；心(citta)的退缩之状态，是存在的。
 在那个“于业处法中不喜乐”等等之上，以并非获得道智(maggañāṇa)、果智、涅槃(nibbāna)等利益安乐之因的错误方式、错误道路来作意 = 一再地反复修习不如理作意(ayonisomanasikāra)，是存在的。
@@ -15682,7 +15690,7 @@ Tesu pana asubhe subhanti asubhanti ca manasikāro idhādhippeto, tadanukulattā
 
 **【文件：[448]四念处法章/[521]b 昏沉睡眠盖断除之因法.md】**
 
-### 断除昏沉睡眠(thinamiddha)盖(nīvaraṇa)之因法
+#### 断除昏沉睡眠(thinamiddha)盖(nīvaraṇa)之因法
 
 由于对发勤界(ārambhadhātu)等作为获得道智(maggañāṇa)、果智(phalañāṇa)、涅槃(nibbāna)等利益安乐之因，以正确的方法、正确的道路作意 = 如理作意(yonisomanasikāra)，那断除昏沉睡眠盖法的能力便得以生起。
 
@@ -15697,7 +15705,7 @@ Tesu pana asubhe subhanti asubhanti ca manasikāro idhādhippeto, tadanukulattā
 
 **【文件：[448]四念处法章/[522] 一种方式 断除昏沉睡眠盖之因法.md】**
 
-### 一种方式 断除昏沉睡眠(thinamiddha)盖(nīvaraṇa)之因法(六)种
+#### 一种方式 断除昏沉睡眠(thinamiddha)盖(nīvaraṇa)之因法(六)种
 
 - 一、把过度饮食视为昏沉睡眠的原因，
 - 二、成为能变换威仪(iriyāpatha)的人，
@@ -15736,7 +15744,7 @@ Tesu pana asubhe subhanti asubhanti ca manasikāro idhādhippeto, tadanukulattā
 
 **【文件：[448]四念处法章/[523] 掉举恶作盖生起之因.md】**
 
-### 掉举恶作(uddhacca-kukkucca)盖(nīvaraṇa)生起之因法
+#### 掉举恶作(uddhacca-kukkucca)盖(nīvaraṇa)生起之因法
 
 追悔(kukkucca)法也是如此：当它以追随已作的恶行(ducarita)、未作的善行(sucarita)而懊悔的力量生起时，由于具有与掉举(uddhacca)相同的性质特相(lakkhaṇa)，便只有心不寂静的性质；因此——注释书(aṭṭhakathā)正是把心的不寂静称作掉举恶作。(Mūlaṭī-2-159。)
 
@@ -15751,7 +15759,7 @@ Tesu pana asubhe subhanti asubhanti ca manasikāro idhādhippeto, tadanukulattā
 
 **【文件：[448]四念处法章/[524]a 断除掉举恶作盖之因法.md】**
 
-### 断除掉举恶作(uddhacca-kukkucca)盖(nīvaraṇa)之因法
+#### 断除掉举恶作(uddhacca-kukkucca)盖(nīvaraṇa)之因法
 
 由于对被称为定(samādhi)的心的宁静、换言之对能使心宁静之因法——以获得道智(magga ñāṇa)、果智(phala ñāṇa)、涅槃(nibbāna)等利益安乐为原因的——正确、如法的作意=如理作意(yonisomanasikāra)，断除那掉举恶作的能力便产生了。
 因此，世尊如此开示道：
@@ -15760,7 +15768,7 @@ Tesu pana asubhe subhanti asubhanti ca manasikāro idhādhippeto, tadanukulattā
 
 **【文件：[448]四念处法章/[524]b 另一种方式 断除掉举恶作盖之因法.md】**
 
-### 另一种方式 断除掉举恶作(uddhacca-kukkucca)盖(nīvaraṇa)之因法(六)种
+#### 另一种方式 断除掉举恶作(uddhacca-kukkucca)盖(nīvaraṇa)之因法(六)种
 
 - 一、成为多闻博学、见识广博之人，
 - 二、成为常常反复请教询问之人，
@@ -15790,7 +15798,7 @@ Tesu pana asubhe subhanti asubhanti ca manasikāro idhādhippeto, tadanukulattā
 
 **【文件：[448]四念处法章/[526]a 疑盖生起之因法.md】**
 
-### 疑(vicikicchā)盖(nīvaraṇa)生起之因法
+#### 疑(vicikicchā)盖(nīvaraṇa)生起之因法
 
 由于对作为疑之依处因的诸法、换一种说法即对具有能够存在之疑的诸法，以不能成为获得道智(magga ñāṇa)、果智(phala ñāṇa)、涅槃(nibbāna)等利益安乐之因的方式，作错误途径、错误道路的作意 = 不如理作意(ayonisomanasikāra)，疑盖法便明显地生起了。
 疑依处法(vicikicchāṭṭhānīyadhamma) = 所谓作为疑之依处的诸因法，由于是一再重复地生起的、后后之疑的因法，所以正是前前之疑。
@@ -15802,7 +15810,7 @@ Tesu pana asubhe subhanti asubhanti ca manasikāro idhādhippeto, tadanukulattā
 
 **【文件：[448]四念处法章/[526]b 疑盖断除之因法.md】**
 
-### 疑(vicikicchā)盖(nīvaraṇa)断除之因法
+#### 疑(vicikicchā)盖(nīvaraṇa)断除之因法
 
 由于对善(kusala)等诸法，以能成为获得道智(magga ñāṇa)、果智(phala ñāṇa)、涅槃(nibbāna)等利益安乐之因的方式，作正确途径、正确道路的作意 = 如理作意(yonisomanasikāra)，能够断除那疑盖法这一点便生起了。
 因此，世尊如此开示。
@@ -15814,7 +15822,7 @@ Tesu pana asubhe subhanti asubhanti ca manasikāro idhādhippeto, tadanukulattā
 
 **【文件：[448]四念处法章/[527] 另一法门 断除疑盖之法.md】**
 
-### 另一法门 断除疑(vicikicchā)盖(nīvaraṇa)之法(六)种
+#### 另一法门 断除疑(vicikicchā)盖(nīvaraṇa)之法(六)种
 
 另一法门是——这(六)种法是为了断除疑盖法而存在的。
 - 一、成为具有广博见闻、多闻者，
@@ -15856,7 +15864,7 @@ Tesu pana asubhe subhanti asubhanti ca manasikāro idhādhippeto, tadanukulattā
 
 **【文件：[448]四念处法章/[528] 所要表达的实义 观照范式.md】**
 
-### 所要表达的实义 观照范式
+#### 所要表达的实义 观照范式
 
 请重新审视以上这些盖(nīvaraṇa)部分的观照范式。所要表达的实义归纳如下 ---
 
@@ -15917,7 +15925,7 @@ Idha bhikkhave bhikkhu ---
 
 **【文件：[448]四念处法章/[531] 如是色 - 如是受.md】**
 
-### iti rūpaṃ - iti vedanā
+#### iti rūpaṃ - iti vedanā
 
 **iti rūpa**nti "idaṃ rūpaṃ, ettakaṃ rūpaṃ, na ito paraṃ rūpaṃ atthī"ti sabhāvato rūpaṃ pajānāti.
 vedanādīsupi eseva nayo. (Dī-A, 2, 373. M-A, 1, 291.)
@@ -15950,7 +15958,7 @@ idaṃ viññāṇaṃ, ettakaṃ viññāṇaṃ, ito uddhaṃ viññāṇaṃ 
 
 **【文件：[448]四念处法章/[532] 如是色之集，如是色之灭没.md】**
 
-### iti rūpassa samudayo, iti rūpassa atthaṅgamo
+#### iti rūpassa samudayo, iti rūpassa atthaṅgamo
 
 **iti rūpassa samudayo**ti evaṃ avijjāsamudayādivasena pañcahākārehi rūpassa samudayo.
 **iti rūpassa atthaṅgamo**ti evaṃ avijjānirodhādivasena pañcahākārehi rūpassa atthaṅgamo. 
@@ -15974,7 +15982,7 @@ vedanādīsupi eseva nayo. (Dī-A, 2, 373. M-A, 1, 291.)
 
 **【文件：[448]四念处法章/[533]a 值得提问的问题.md】**
 
-### 值得提问的问题
+#### 值得提问的问题
 
 你这位善人，或许曾努力修习过止(samatha)、观(vipassanā)之修习(bhāvanā)。
 如果你是曾修习过的人——请自己向自己试问以下这些问题。
@@ -16011,7 +16019,7 @@ Idha bhikkhave bhikkhu cakkhuñca pajānāti, rūpe ca pajānāti, yañca tadubh
 
 **【文件：[448]四念处法章/[534]a 了知 = 清清楚楚地了知的方式.md】**
 
-### 了知(pajānāti) = 清清楚楚地了知的方式
+#### 了知(pajānāti) = 清清楚楚地了知的方式
 
 **Cakkhuṃ pajānātī**ti cakkhupasādaṃ yāthāvasarasalakkhaṇavasena pajānāti.
 **Rūpe ca pajānātī**ti bahiddhā catusamuṭṭhānikarūpañca yāthāvasarasalakkhaṇavasena pajānāti. (M-A-1-292)
@@ -16030,7 +16038,7 @@ Idha bhikkhave bhikkhu cakkhuñca pajānāti, rūpe ca pajānāti, yañca tadubh
 
 **【文件：[448]四念处法章/[534]b 生起之因法与舍除之因法.md】**
 
-### 生起之因法与舍除之因法
+#### 生起之因法与舍除之因法
 
 **tañca kāraṇa**nti subhanimittapaṭighanimittādivibhāvaṃ iṭṭhāniṭṭhādirūpārammaṇañceva tajjāyonisomanasikārañcāti tassa tassa saṃyojanassa kāraṇaṃ. pa . **yena kāraṇenā**ti yena vipassanāsamathabhāvanāsaṅkhātena kāraṇena. (M-ṭī-1-379.)
 
@@ -16043,7 +16051,7 @@ Idha bhikkhave bhikkhu cakkhuñca pajānāti, rūpe ca pajānāti, yañca tadubh
 
 **【文件：[448]四念处法章/[535]a 不生灭尽.md】**
 
-### 不生灭尽(anuppādanirodha)
+#### 不生灭尽(anuppādanirodha)
 
 - 1. 有身见(sakkāyadiṭṭhi)、疑(vicikicchā)、戒禁取(sīlabbataparāmāsa)、嫉(issā)、悭(macchariya)——这五种结缚(saṃyojana)由入流道智(sotāpatti magga ñāṇa)无余地断除。 
 那五种结缚由于入流道智，以不再生起之灭而寂灭。
@@ -16122,7 +16130,7 @@ idha bhikkhave bhikkhu santaṃ vā ajjhattaṃ satisambojjhaṅgaṃ "atthi me 
 
 **【文件：[448]四念处法章/[539] 觉支 = 觉支.md】**
 
-### 觉支(bojjhaṅga)= 觉支
+#### 觉支(bojjhaṅga)= 觉支
 
 在圣道智(ariyamaggañāṇa)之际，那尊贵的七种觉支之法无不足、无过分的和合一致，便称为**法和合(dhammasāmaggī)**。
 其中，以择法(dhammavicaya)、精进(vīriya)、喜(pīti)为主导的法和合〔= 和合一致的七种觉支之法〕---
@@ -16189,7 +16197,7 @@ Idha bhikkhave bhikkhu “idaṃ dukkha”nti yathābhūtaṃ pajānāti, “aya
 
 **【文件：[448]四念处法章/[541]b 苦圣谛.md】**
 
-### 苦圣谛（dukkha ariyasacca）
+#### 苦圣谛（dukkha ariyasacca）
 
 saṃkhittena pañcupādānakkhandhā dukkhā. (Abhi-2-104, M-1-82)
 
@@ -16197,7 +16205,7 @@ saṃkhittena pañcupādānakkhandhā dukkhā. (Abhi-2-104, M-1-82)
 
 **【文件：[448]四念处法章/[542] 苦集圣谛.md】**
 
-### dukkhasamudaya ariyasacca
+##### dukkhasamudaya ariyasacca
 
 katamañca bhikkhave dukkhasamudayaṃ ariyasaccaṃ. 
 yāyaṃ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī. 
@@ -16233,7 +16241,7 @@ rūpārūpabhavarāgo visuṃ vakkhatīti kāmabhave eva bhavapatthanā uppatti 
 
 **【文件：[448]四念处法章/[543]a 阿毗达摩分别法.md】**
 
-### 阿毗达摩分别法（abhidhammabhājanīya naya）
+##### 阿毗达摩分别法（abhidhammabhājanīya naya）
 
 - 1. tattha katamo dukkhasamudayo, taṇhā. 
 ayaṃ vuccati dukkhasamudayo. (Abhi-2-112.)
@@ -16260,7 +16268,7 @@ tattha yasmā kusalākusalakammaṃ avisesena samudayasaccanti saccavibhaṅge v
 
 **【文件：[448]四念处法章/[543]b 观智所观照的谛法.md】**
 
-### 观智(vipassanāñāṇa)所观照的谛法
+##### 观智(vipassanāñāṇa)所观照的谛法
 
 - 一、名为五取蕴(upādānakkhandhā)的苦谛(dukkhasacca)法，
 - 二、名为善业、不善业的集谛(samudayasacca)法，<br>另一种说法 ---- 依照佛陀在增支部(Anguttara)三集(tikanipāta)帝提亚亚他那经(Tiṭṭhāyatana Sutta)中所开示的那样，即因—果的关联＝名为缘起(paṭiccasamuppāda)之理的集谛法 ---- 这两种谛，称为轮回谛(vaṭṭasacca)。
@@ -16279,7 +16287,7 @@ tesu bhikkhuno vaṭṭe kammaṭṭhānābhiniveso hoti, vivaṭṭe natthi abh
 
 **【文件：[448]四念处法章/[544]a 灭谛.md】**
 
-### 灭谛（nirodhasacca）
+#### 灭谛（nirodhasacca）
 
 Katamañca bhikkhave dukkhanirodhaṃ ariyasaccaṃ. 
 Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo. (M-1-86.)
@@ -16289,7 +16297,7 @@ Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo
 
 **【文件：[448]四念处法章/[544]b 两种灭.md】**
 
-### 两种灭(nirodha)
+##### 两种灭(nirodha)
 
 **Virāgānupassī**ti ettha pana dve virāgā khayavirāgo ca accantavirāgo ca.
 Tattha **khayavirāgo**ti saṅkhārānaṃ khaṇabhaṅgo.
@@ -16354,9 +16362,25 @@ Yañcassa udayabbayadassanaṃ, maggo vāyaṃ lokikoti **maggasaccaṃ** pāka�
 
 对于这世间苦谛、集谛，善男子也务必努力去了知。
 
+
+
+**【文件：[448]四念处法章/[547] 道谛.md】**
+
+#### 道谛(maggasacca)
+
+正见(sammādiṭṭhi)、正思惟(sammāsaṅkappa)、正语(sammāvācā)、正业(sammākammanta)、正命(sammāājīva)、正精进(sammāvāyāma)、正念(sammāsati)、正定(sammāsamādhi)，这纯净而崇高的八支道(maggaṅga)殊胜修行之法，被称为通往苦息灭之涅槃(nibbāna)的行道，即名为道圣谛(maggaariyasacca)。
+
+在这八支道之中 ---
+
+- 一、正语、正业、正命 --- 这三支道即是戒道支(sīlamaggaṅga)、戒学(sīlasikkhā)、戒的行道。
+- 二、正精进、正念、正定 --- 这三支即是定道支、定学、定的行道。
+- 三、正见、正思惟 --- 这两支道即是慧道支(paññāmaggaṅga)、慧学、慧的行道。
+
+渴望向往涅槃的你这位善人，应当谨记：要依照次第修习、精勤努力地培育这戒、定、慧三学的殊胜修行。
+
 **【文件：[448]四念处法章/[547] 一、正见.md】**
 
-### 一、正见(sammādiṭṭhi)
+##### 一、正见(sammādiṭṭhi)
 
 katamā ca bhikkhave sammādiṭṭhi, yaṃ kho bhikkhave dukkhe ñāṇaṃ, dukkhasamudaye ñāṇaṃ, dukkhanirodhe ñāṇaṃ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṃ, ayaṃ vuccati bhikkhave sammādiṭṭhi. (M-1-88.)
 
@@ -16421,23 +16445,9 @@ Evaṃ duddasattā gambhīresu gambhīrattā ca duddasesu catūsu saccesu uggah�
 因此，在那圣道之刹那，唯一的正见于苦谛、集谛、道谛上以作用成就(kiccasiddhi)的方式贯通了知。
 于灭谛上则以作为所缘的方式，现前所缘、直接贯通地了知。
 
-**【文件：[448]四念处法章/[547] 道谛.md】**
-
-### 道谛(maggasacca)
-
-正见(sammādiṭṭhi)、正思惟(sammāsaṅkappa)、正语(sammāvācā)、正业(sammākammanta)、正命(sammāājīva)、正精进(sammāvāyāma)、正念(sammāsati)、正定(sammāsamādhi)，这纯净而崇高的八支道(maggaṅga)殊胜修行之法，被称为通往苦息灭之涅槃(nibbāna)的行道，即名为道圣谛(maggaariyasacca)。
-
-在这八支道之中 ---
-
-- 一、正语、正业、正命 --- 这三支道即是戒道支(sīlamaggaṅga)、戒学(sīlasikkhā)、戒的行道。
-- 二、正精进、正念、正定 --- 这三支即是定道支、定学、定的行道。
-- 三、正见、正思惟 --- 这两支道即是慧道支(paññāmaggaṅga)、慧学、慧的行道。
-
-渴望向往涅槃的你这位善人，应当谨记：要依照次第修习、精勤努力地培育这戒、定、慧三学的殊胜修行。
-
 **【文件：[448]四念处法章/[549] 二、正思惟.md】**
 
-### 二、正思惟(sammāsaṅkappa)
+##### 二、正思惟(sammāsaṅkappa)
 
 - 一、出离思惟(nekkhammasaṅkappa) = 从欲(kāma)所缘(ārammaṇa)中解脱出来的思惟，
 - 二、无瞋思惟(avyāpādasaṅkappa) = 远离毁坏的思惟，
@@ -16479,7 +16489,7 @@ vitakke pana ākoṭetvā ākoṭetvā dente sakkoti. (Vs-2-146)
 
 **【文件：[448]四念处法章/[551]a 三、正语.md】**
 
-### 三、正语(sammāvācā)
+##### 三、正语(sammāvācā)
 
 - 一、musāvādā veramaṇi = 远离妄语，
 - 二、pisuṇavācā veramaṇi = 远离离间语，
@@ -16493,7 +16503,7 @@ vitakke pana ākoṭetvā ākoṭetvā dente sakkoti. (Vs-2-146)
 
 **【文件：[448]四念处法章/[551]b 四、正业.md】**
 
-### 四、正业(sammākammanta)
+##### 四、正业(sammākammanta)
 
 - 一、pāṇātipātā veramaṇi = 远离杀害他人的生命，
 - 二、adinnādānā veramaṇi = 远离拿取物主未给予之物，
@@ -16507,7 +16517,7 @@ vitakke pana ākoṭetvā ākoṭetvā dente sakkoti. (Vs-2-146)
 
 **【文件：[448]四念处法章/[552] 五、正命.md】**
 
-### 五、正命(sammā ājīva)
+##### 五、正命(sammā ājīva)
 
 诸比库(bhikkhave)……什么是正命呢？诸比库……在这教法中，作为圣者(ariya)的弟子声闻，舍弃那与谋生相关、为了嚼食、餐食等而以身恶行(kāya duccarita)、语恶行(vacī duccarita)维持生命的邪谋生，转而以正确的方式维持生命。
 诸比库……这种维持生命的方式，即称为正确地维持生命——正命。（M-1-89。）
@@ -16529,7 +16539,7 @@ vitakke pana ākoṭetvā ākoṭetvā dente sakkoti. (Vs-2-146)
 
 **【文件：[448]四念处法章/[553]a 六、正精进.md】**
 
-### 六、正精进(sammāvāyāma)
+##### 六、正精进(sammāvāyāma)
 
 katamo ca bhikkhave sammāvāyāmo.
 idha bhikkhave bhikkhu anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati.
@@ -16544,7 +16554,7 @@ ayaṃ vuccati bhikkhave sammāvāyāmo. (M-1-89)
 
 **【文件：[448]四念处法章/[553]b 一、未生不善.md】**
 
-### 一、未生(anuppanna)不善(akusala)
+###### 一、未生(anuppanna)不善(akusala)
 
 **anuppannāna**nti ekasmiṃ vā bhave tathārūpe vā ārammaṇe attano na uppannānaṃ.
 parassa pana uppajjamāne disvā "ahovata me evarūpā pāpakā akusalādhammā na uppajjeyyu"nti evaṃ anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya. pa. **padahatī**ti kāmaṃ taco ca nhāru ca aṭṭhi ca avasissatūti padahanaṃ pavatteti. (Dī-a, 2, 392-393.)
@@ -16569,7 +16579,7 @@ tenāha "**ekasmiṃ bhave**"tiādi. (Dī-ṭī, 2, 346.)
 
 **【文件：[448]四念处法章/[554]a 二、已生不善.md】**
 
-### 二、已生不善(uppanna akusala)
+###### 二、已生不善(uppanna akusala)
 
 **uppannāna**nti samudācāravasena attano uppannapubbānaṃ. 
 idāni tādise na uppādessāmīti tesaṃ pahānāya chandaṃ janeti. (Dī-A-2-393.)
@@ -16585,7 +16595,7 @@ idāni tādise na uppādessāmīti tesaṃ pahānāya chandaṃ janeti. (Dī-A-2
 
 **【文件：[448]四念处法章/[555]a 三、未生善.md】**
 
-### 三、未生(anuppanna)善(kusala)
+###### 三、未生(anuppanna)善(kusala)
 
 **anuppannānaṃ kusalāna**nti appaṭiladdhānaṃ paṭhamajjhānādīnaṃ. (Dī-a, 2, 393.)
 
@@ -16600,7 +16610,7 @@ idāni tādise na uppādessāmīti tesaṃ pahānāya chandaṃ janeti. (Dī-A-2
 
 **【文件：[448]四念处法章/[555]b 四、已生善.md】**
 
-### 四、已生善(uppanna kusala)
+###### 四、已生善(uppanna kusala)
 
 **uppannāna**nti tesaṃyeva paṭiladdhānaṃ. (Dī-A-2-393)
 
@@ -16627,7 +16637,7 @@ idāni tādise na uppādessāmīti tesaṃ pahānāya chandaṃ janeti. (Dī-A-2
 
 **【文件：[448]四念处法章/[556] 七、正念.md】**
 
-### 七、正念(sammāsati)
+##### 七、正念(sammāsati)
 
 Katamā ca bhikkhave sammāsati.
 Idha bhikkhave bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ, vedanāsu vedanānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ, citte cittānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ, dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ.
@@ -16644,7 +16654,7 @@ Ayaṃ vuccati bhikkhave sammāsati. (M-1-89)
 
 **【文件：[448]四念处法章/[557]a 应当具足的三种法.md】**
 
-### 应当具足的三种法
+###### 应当具足的三种法
 
 在修习这四种念处（satipaṭṭhāna）法时，有应当具足的相应支（sampayoga aṅga）三种。
 它们是修习念处行道时，必须一同相应参与的三种法。
@@ -16656,7 +16666,7 @@ Ayaṃ vuccati bhikkhave sammāsati. (M-1-89)
 
 **【文件：[448]四念处法章/[557]b 一、热勤 = 精进.md】**
 
-### 一、热勤(ātāpī) = 精进(vīriya)
+**一、热勤(ātāpī) = 精进(vīriya)**
 
 在断除烦恼(kilesa)——无论是以彼分(tadaṅga)方式，还是以镇伏(vikkhambhana=较长久地使其离开)方式——之时，那种能使[烦恼]苦恼、烧灼的[作用]，对于正见(sammādiṭṭhi)等其他种种法而言，同样也是具有能力的。
 然而，由于精进的这种断除之力更为明显，因此依其显著之势，[世尊]便把精进本身宣说为热勤=能使烦恼苦恼、烧灼的法。
@@ -16664,7 +16674,7 @@ Ayaṃ vuccati bhikkhave sammāsati. (M-1-89)
 
 **【文件：[448]四念处法章/[557]c 二、正知 = 正知智.md】**
 
-### 二、正知(sampajāna) = 正知智(sampajaññañāṇa)
+**二、正知(sampajāna) = 正知智(sampajaññañāṇa)**
 
 sammā samantato sāmañca (samañca) pajānanto **sampajāno,** asammissato vavatthāne aññadhammānupassitābhāvena sammā aviparītaṃ, sabbākārapajānanena samantato, uparūpari visesāvahabhāvena pavattiyā sāmaṃ (samaṃ) pajānantoti attho. (Dī, Ṭī, 2, 294.)
 
@@ -16694,7 +16704,7 @@ sammā samantato sāmañca (samañca) pajānanto **sampajāno,** asammissato vav
 
 **【文件：[448]四念处法章/[558] 三、具念 - 念的具足.md】**
 
-### 三、具念(satimā)——念的圆满具足
+**三、具念(satimā)——念的圆满具足**
 
 **satimā**ti kāyapariggāhikāya satiyā samannāgato. 
 ayaṃ pana yasmā satiyā ārammaṇaṃ pariggahetvā paññāya anupassati, na hi sativirahitassa anupassanā nāma atthi, tenevāha “satiñca khvāhaṃ bhikkhave sabbatthikaṃ vadāmī”ti. (Dī-A-2-349.)
@@ -16713,7 +16723,7 @@ ayaṃ pana yasmā satiyā ārammaṇaṃ pariggahetvā paññāya anupassati, n
 
 **【文件：[448]四念处法章/[559] 念与慧.md】**
 
-### 念(sati)与慧(paññā)
+###### 念(sati)与慧(paññā)
 
 satiyā ārammaṇam pariggahetvā paññāya anupassati --- (Dī-A-2-349)
 依照如上所述的义注(aṭṭhakathā),应当如此记取念与慧。
@@ -16730,7 +16740,7 @@ satiyā ārammaṇam pariggahetvā paññāya anupassati --- (Dī-A-2-349)
 
 **【文件：[448]四念处法章/[560]a 世间部分-出世间部分.md】**
 
-### 世间(lokiya)部分-出世间(lokuttara)部分
+###### 世间(lokiya)部分-出世间(lokuttara)部分
 
 - 1。身(kāya) = 色身(rūpakāya) = 能摄持色法(rūpa)之聚集的心(citta)，
 - 2。能摄持受(vedanā)的心，
@@ -16743,7 +16753,7 @@ satiyā ārammaṇam pariggahetvā paññāya anupassati --- (Dī-A-2-349)
 
 **【文件：[448]四念处法章/[560]b 什么是念处.md】**
 
-### 什么是念处(satipaṭṭhāna)？
+###### 什么是念处(satipaṭṭhāna)？
 
 如今，善男子你应当提出「念处究竟是什么」这个问题了，也应当知道其答案了。
 
@@ -16806,7 +16816,7 @@ satiyā ārammaṇam pariggahetvā paññāya anupassati --- (Dī-A-2-349)
 
 **【文件：[448]四念处法章/[562] 唯一之道 = 唯一的一条道路.md】**
 
-### 唯一之道（ekāyana）＝唯一的一条道路
+###### 唯一之道（ekāyana）＝唯一的一条道路
 
 Ekāyano ayaṃ bhikkhave maggo sattānaṃ visuddhiyā sokaparidevānaṃ samatikkamāya dukkhadomanassānaṃ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṃ cattāro satipaṭṭhānā. (M-1-70.)
 
@@ -16862,7 +16872,7 @@ Ekāyano ayaṃ bhikkhave maggo sattānaṃ visuddhiyā sokaparidevānaṃ samat
 
 **【文件：[448]四念处法章/[564] 八、正定.md】**
 
-### 八、正定(sammāsamādhi)
+##### 八、正定(sammāsamādhi)
 
 Katamo ca bhikkhave sammāsamādhi.
 Idha bhikkhave bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati.
@@ -17086,7 +17096,7 @@ Tasmātaṃ rūpaṃ ārammaṇaṃ katvā uppannaṃ vedanaṃ saññaṃ, sa�
 
 **【文件：[448]四念处法章/[572] 四念处 - 第二阶.md】**
 
-### 四念处(satipaṭṭhāna) - 第二阶
+## 四念处(satipaṭṭhāna) - 第二阶
 
 Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati. (M.1.71.)
 
@@ -17713,7 +17723,7 @@ Anuppannānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti …(M-1
 
 **【文件：[448]四念处法章/[594] 念处修行次第 第三阶.md】**
 
-### 念处(satipaṭṭhāna)修行次第 第三阶
+## 念处(satipaṭṭhāna)修行次第 第三阶
 
 如今，我将接着向你这位善人，呈示在应当继续向前修习的全部四种念处中的第三阶。
 
@@ -17832,7 +17842,7 @@ samudayavayā panettha "avijjāsamudayā rūpasamudayo"tiādīnaṃ pañcasu kha
 
 **【文件：[448]四念处法章/[598] 念处修行次第 第四阶.md】**
 
-### 念处(satipaṭṭhāna)修行次第 第四阶
+## 念处(satipaṭṭhāna)修行次第 第四阶
 
 "atthi kāyo"ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya.
 anissito ca viharati, na ca kiñci loke upādiyati.
