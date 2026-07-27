@@ -29,7 +29,8 @@ def sort_key(path):
     """Reading order: by [page] number, then by basename (letter suffix), then path."""
     base = os.path.basename(path)
     m = PAGE_RE.search(base)
-    page = int(m.group(1)) if m else 10**9
+    # 无 [页码] 的卷首文件(如 前言1.md)排在最前(page=-1), 而非最后
+    page = int(m.group(1)) if m else -1
     return (page, base, path)
 
 
