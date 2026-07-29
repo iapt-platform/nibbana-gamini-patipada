@@ -288,7 +288,7 @@ tasmā "tathāgato"ti vuccati. (长部 3,111；增支部 1,332)
 
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[1]c 聚思惟即理观.md】**
 
-### 聚思惟（kalāpasammasana），又称理法观（nayavipassanā）
+## 聚思惟（kalāpasammasana），又称理法观（nayavipassanā）
 
 Taṃ sampādetukāmena **kalāpasammasana**saṅkhātāya **nayavipassanāya** tāva yogo karaṇīyo. (清净道论 2,241。)
 
@@ -480,7 +480,7 @@ Rūpapariggaho arūpapariggahassa upāyo, upatthambho ca.（Mahāṭī，2，355
 
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[9]a 依名色二法的观照法.md】**
 
-### 依色、名二法观照的方法
+## 依色、名二法观照的方法
 
 依据以上这些规定，当下的色（rūpa）与名（nāma）在精进的瑜伽行者、善人的智慧中更容易显现、更容易看见、更容易把握，因此下面先把这些当下的色法与名法分作色一组、名一组，开始讲述修习观（vipassanā）的方法体系。
 这样修观时，既可以从内在（ajjhatta）开始，也可以从外（bahiddhā）开始，可以随自己的喜好选择起点来观照。
@@ -945,7 +945,7 @@ So kālena ajjhattaṃ sammasati, kālena bahiddhā. pe. So kālena rūpaṃ sam
 
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[25]五蕴的观法.md】**
 
-### 五蕴（khandha）的观法
+## 五蕴（khandha）的观法
 
 现在接着要继续写出、介绍属于法随观念处（dhammānupassanāsatipaṭṭhāna）所含摄的五蕴观法。
 如前所述，把作为观（vipassanā）智（ñāṇa）所观对象（所缘）的心（citta）、心所（cetasika）、色（rūpa）等究竟法（paramattha），归为色一组、名一组，依名色（rūpa-nāma）二法之法观修之后，若想转用五蕴之法来观照，也可以这样观。
@@ -1765,7 +1765,7 @@ rūpaṃ atītānāgatapaccuppannaṃ aniccaṃ saṅkhataṃ paṭiccasamuppann
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[52]b 十二入处法、十八界法.md】**
 
 
-### 十二入处（āyatana）法、十八界（dhātu）法
+## 十二入处（āyatana）法、十八界（dhātu）法
 
 正如名业处（nāmakammaṭṭhāna）篇中所述，对于每一个心识刹那（cittakkhaṇa）之内的各四种入处、各四种界，也可以将它们划分开来，依十二入处法、十八界法，由想要修观（vipassanā）的人继续观照。
 
@@ -1955,7 +1955,7 @@ Yampidaṃ cakkhusamphassapaccayā uppajjati vedanāgataṃ saññāgataṃ sa�
 
 **【文件：[1]b 道非道智见清净释 - 思惟智章/[58]b 不净修习.md】**
 
-### 不净修习（asubhabhāvanā）
+## 不净修习（asubhabhāvanā）
 
 Asubhā bhāvetabbā rāgassa pahānāya. (Udāna 120.)
 
@@ -5236,7 +5236,7 @@ tena "ahosiṃ nu kho ahamatītamaddhāna"nti eva mādikaṃ, "issarato loko sam
 
 **【文件：[167]生灭智章/[167]b 在《无碍解道》巴利圣典中开示的方式.md】**
 
-### 在《无碍解道(Paṭisambhidā Magga)》巴利圣典中开示的方式
+## 在《无碍解道(Paṭisambhidā Magga)》巴利圣典中开示的方式
 
 Kathaṃ paccuppannānaṃ dhammānaṃ vipariṇāmānupassane paññā udayabbayānupassane ñāṇaṃ? Jātaṃ rūpaṃ paccuppannaṃ, tassa nibbattilakkhaṇaṃ udayo, vipariṇāmalakkhaṇaṃ vayo, anupassanā ñāṇaṃ. Jātā vedanā, saññā, saṅkhārā, viññāṇaṃ. Jātaṃ cakkhu. pe. jāto bhavo paccuppanno, tassa nibbattilakkhaṇaṃ udayo, vipariṇāmalakkhaṇaṃ vayo, anupassanā ñāṇaṃ. (Paṭisaṃ 52. Visuddhi 2, 265.)
 
@@ -8245,7 +8245,7 @@ Ayaṃ maggo, ayaṃ na maggo.
 
 **【文件：[267]行道智见清净释/[269] 三种特相的不显现与显现.md】**
 
-## 三种特相的不显现与显现
+### 三种特相的不显现与显现
 
 三种特相，是因不作意(manasikāra)哪种法、因被哪种法所覆盖，而不显现于瑜伽行者(yogāvacara)的了知之智(ñāṇa)中呢？若问此 -----
 
@@ -8482,11 +8482,11 @@ Aniccatā dukkhatā anattatāti hi visuṃ gayhamānaṃ lakkhaṇaṃ **pañña
 
 **【文件：[278]坏灭随观智章/[278] 坏灭随观智章.md】**
 
-# 坏灭随观智(bhaṅgānupassanāñāṇa)章
+## 坏灭随观智(bhaṅgānupassanāñāṇa)章
 
 **【文件：[278]坏灭随观智章/[278]b 所谓坏灭随观智.md】**
 
-## 所谓坏灭随观智（bhaṅgānupassanāñāṇa）
+### 所谓坏灭随观智（bhaṅgānupassanāñāṇa）
 Tassevaṃ sallakkhetvā punappunaṃ “aniccaṃ dukkhamanattā”ti rūpārūpadhamme tulayato tīrayato taṃ ñāṇaṃ tikkhaṃ hutvā vahati, saṅkhārā lahuṃ upaṭṭhahanti, ñāṇe tikkhe vahante saṅkhāresu lahuṃ upaṭṭhahantesu uppādaṃ vā ṭhitiṃ vā pavattaṃ vā nimittaṃ vā na sampāpuṇāti.
 Khayavayabhedanirodheyeva sati santiṭṭhati.
 Tassa “evaṃ uppajjitvā evaṃ nāma saṅkhāragataṃ nirujjhatī”ti passato etasmiṃ ṭhāne bhaṅgānupassanaṃ nāma vipassanāñāṇaṃ uppajjati. (Visuddhi-2-277)
@@ -9969,7 +9969,7 @@ tasmā tāya bhaṅgānupassako yogāvacaro cittamukhena sabbasaṅkhāragataṃ
 
 **【文件：[330]怖畏现起智章/[330]a 怖畏现起智章.md】**
 
-# 怖畏现起智（bhayatupaṭṭhāna ñāṇa）章
+## 怖畏现起智（bhayatupaṭṭhāna ñāṇa）章
 
 **【文件：[330]怖畏现起智章/[330]b 所谓怖畏智.md】**
 
@@ -10082,7 +10082,7 @@ aniccato manasikaroto nimittaṃ bhayato upaṭṭhāti. dukkhato manasikaroto p
 
 **【文件：[334]过患随观智章/[334] 过患随观智章.md】**
 
-# 过患随观智（ādīnavānupassanā ñāṇa）章
+## 过患随观智（ādīnavānupassanā ñāṇa）章
 
 对于恭敬、郑重、慎重地依止、修习、培育、再三反复练习那怖畏现起智（bhayatupaṭṭhāna ñāṇa）的那位修行者（yogāvacara）来说，在一切三十一地之中，那种能够防护、使之免于以行（saṅkhāra）为因的生（jāti）-老（jarā）-死（maraṇa）=生起-存续-坏灭等无益之害的法，已不再于智（ñāṇa）中显现。
 这是因为：一切生成之有（bhava）、凡所有者，都同样具有无常（anicca）、变易（vipariṇāma）等变坏毁灭之过患的缘故。
@@ -10240,7 +10240,7 @@ Dvinnaṃ ñāṇānaṃ kusalatā, nānādiṭṭhīsu na kampati. (Paṭisaṃ
 
 **【文件：[340]厌离随观智章/[340] 厌离随观智章.md】**
 
-# 厌离随观智(nibbidānupassanāñāṇa)章
+## 厌离随观智(nibbidānupassanāñāṇa)章
 
 **【文件：[340]厌离随观智章/[340]b 厌离随观智 = 倦厌智.md】**
 
@@ -10275,7 +10275,7 @@ Dvinnaṃ ñāṇānaṃ kusalatā, nānādiṭṭhīsu na kampati. (Paṭisaṃ
 
 **【文件：[342]欲解脱智章 .md/[342] 欲解脱智章 = 行法.md】**
 
-# 欲解脱智(muñcitukamyatā ñāṇa)章 = 想从诸行法(saṅkhāra dhamma)中解脱出来的智
+## 欲解脱智(muñcitukamyatā ñāṇa)章 = 想从诸行法(saṅkhāra dhamma)中解脱出来的智
 
 以此厌离随观智(nibbidānupassanā ñāṇa),对诸行法厌倦、对诸行法违逆、对一切称为行法者皆不喜乐的、名为 ācārakulaputta(有德行的善男子)的这位善男子善女人,对于在一切界地、诸有(bhava)中生起的、具有剎那不断、连绵坏灭之性的诸行法,即使对其中任何一个行法,也不再黏着、不再被系缚了。
 只渴望从一切诸行法的总集中脱离,只渴望出离。
@@ -10298,7 +10298,7 @@ Dvinnaṃ ñāṇānaṃ kusalatā, nānādiṭṭhīsu na kampati. (Paṭisaṃ
 
 **【文件：[343]省察随观智章/[343]a 省察随观智章.md】**
 
-# 省察随观智（paṭisaṅkhānupassanāñāṇa）章
+## 省察随观智（paṭisaṅkhānupassanāñāṇa）章
 
 **【文件：[343]省察随观智章/[343]b 省察随观智.md】**
 
@@ -10457,7 +10457,7 @@ tāvakālika＝一时、仅一期寿命之久」——如此以无常相(anicca 
 
 **【文件：[349]行舍智章/[349]a 行舍智章.md】**
 
-# 行舍智章
+## 行舍智章
 
 **【文件：[349]行舍智章/[349]b 二分空随观.md】**
 
@@ -12589,7 +12589,7 @@ puthujjano hi muṭṭhassati kālaṃ karoti nāma. (增支部注2,364。) ----
 
 **【文件：[433]随顺智章/[433] 随顺智章.md】**
 
-# 随顺智（anulomañāṇa）章
+## 随顺智（anulomañāṇa）章
 
 **【文件：[433]随顺智章/[433]b 谛随顺智.md】**
 
