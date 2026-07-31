@@ -7713,7 +7713,7 @@ ettāvatā kho aggivessana bhikkhu arahaṃ hoti khīṇāsavo vusitavā katakar
 
 **【文件：[167]生灭智章/[221]集灭法随观篇/[249] 十种观随烦恼.md】**
 
-### 观随烦恼(vipassanupakkilesa)(10)种
+## 观随烦恼(vipassanupakkilesa)(10)种
 
 此后，唯有在以被称为生灭随观(udayabbayānupassanā)的这种不成熟观(taruṇa vipassanā)之力而正在勤修观(vipassanā)的瑜伽行者(yogāvacara)之相续(santāna)中，那些能令观染污的随烦恼(upakkilesa)法(10)种才会生起。
 反过来说，观随烦恼法不会生起于以下诸人的相续中：在已经到达道智(magga ñāṇa)、果智(phala ñāṇa)、通达(paṭivedha)的圣弟子(ariyasāvaka)的相续中；在戒(sīla)败坏等某种行持已破损的人的相续中；在虽修习观修习(vipassanā bhāvanā)、却在修习作业的间歇期、半途某处心志退缩而将观业处(kammaṭṭhāna)弃置一旁的人的相续中；以及在戒等虽已具足、却因懒惰而不修习观修习的人的相续中——都不会生起。
@@ -7840,7 +7840,7 @@ obhāsādīsu "ariyadhammo"ti pavattaṃ uddhaccaṃ vikkhepo dhammuddhaccaṃ, 
 
 **【文件：[167]生灭智章/[221]集灭法随观篇/[254] 大龙长老.md】**
 
-### 大龙(mahānāga)长老(thera)
+#### 大龙(mahānāga)长老(thera)
 
 在名为塔兰嘎拉(talaṅgara)地方安住、已证得四种辨析(paṭisambhidā)智(ñāṇa)、名为法授(dhammadinna)的一位阿拉汉(arahant)大长老,对众多的比库(bhikkhu)僧团施以教诫,如此安住修行。
 那位法授长老住在自己的日间清净修行处,这样思惟:"如何呢……身为我们老师的、安住在高沙(uccavālika)地方的大龙长老,那成就比库身分的比库本分,究竟是已经圆满完成了呢,还是尚未圆满完成呢?"——他这样思惟时=便入于神通(abhiññā)而观察,看见那位大龙长老竟还只是凡夫(puthujjana),便知道:"我若不去,我的老师便将只以凡夫的身分而命终"——他这样了知后,以神通力飞升上空,降落在安住于日间清净处的大龙长老近旁,向老师礼敬,行大小义务后,坐在合宜适当的地方,便住了下来。
@@ -8018,7 +8018,7 @@ Yadaggena hi sati ārammaṇaṃ okkhanditvā upatiṭṭhati, tadaggena āramma
 
 **【文件：[167]生灭智章/[221]集灭法随观篇/[261]a 转向的锐利.md】**
 
-### 转向的锐利
+#### 转向的锐利
 
 应当记住：与意门转向(manodvārāvajjana)相应的、称为转向舍(āvajjanupekkhā)的「思(cetanā)」，其有如帝释(sakka)的金刚杵(vajira)武器之状、有如炽热赤亮的箭锋之状、以及勇猛锐利之状，乃是因为：正如作为至尊一切知智(sabbaññutañāṇa)之先导的意门转向那样，紧随该意门转向、并在该意门转向之后接续生起的观智(vipassanāñāṇa)，是以犹如帝释所掷出的金刚杵武器、犹如炽热赤亮的箭锋那般勇猛锐利的方式而生起的缘故。 
 (由于观智锐利尖锐，所以在观智之前生起的、与意门转向相应的、称为转向舍的「思」也是锐利尖锐的。)(大义疏(Mahāṭī)2、432。)
