@@ -219,7 +219,7 @@ for src in "${PENDING[@]}"; do
   while :; do
     tmpout=$(mktemp)
     if timeout "$PER_FILE_TIMEOUT" claude -p "$prompt" --dangerously-skip-permissions >"$tmpout" 2>&1; then rc=0; else rc=$?; fi
-    if grep -qiE 'session limit|usage limit|hit your .*limit|rate.?limit' "$tmpout"; then
+    if grep -qiE 'session limit|usage limit|hit your .*limit|reached your .*limit|rate.?limit|usage-credits|switch models' "$tmpout"; then
       rm -f "$tmpout"
       if [ "$WAIT_ON_LIMIT" = "1" ]; then
         log "[$done_cnt/$total] ⏳ $(date '+%T') 撞配额/限流, 等待 ${LIMIT_WAIT}s 后重试同一文件…"
