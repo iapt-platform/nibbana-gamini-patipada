@@ -39,7 +39,7 @@ visuddhinanda@gmail.com
 
 # 序论（nidānakathā）＝ 阐明缘起的论述
 
-## dukkhapaṭipadaṃ dandhābhiññaṃ
+## 苦行道迟通达dukkhapaṭipadaṃ dandhābhiññaṃ
 
 佛陀（Buddha）在《法集论》（dhammasaṅganī）巴利圣典（阿毗达摩 1,72。）等处，开示了 **dukkhapaṭipadaṃ dandhābhiññaṃ** 等种种行道（paṭipadā）。
 义注（aṭṭhakathā）也就世尊的这一开示，如下作了解说。
@@ -239,7 +239,7 @@ aparo lakkhaṇānipi paṭivijjhitvā vipassanāñāṇe tikkhe sūre pasanne v
 若不以智慧之眼观照自性力，见地便无法抵达究竟法；智见不抵达究竟法，密集就不会瓦解；密集不瓦解，就无法获得无我之智。因此智者们说：「无我相（anattalakkhaṇā）被密集所覆盖。」
  （《大佛史》第四册，页323-325。）
 
-## 《三藏巴利语-缅甸语辞典》的解说
+### 《三藏巴利语-缅甸语辞典》的解说
 
 **ghanavinibbhoga ---（阳）----** [ghana + vinibbhoga. vinibhuñjanaṃ vinibbhogassa karaṇaṃ vinibbhogo, ñāṇaṃ. dhammānaṃ ghanassa ekattassa vinibbhogo ghanavinibbhogo. Aṭṭhasā, yo. 76. vinibhujjanaṃ puthakkaraṇaṃ vinibbhogo, ghanassa samūhassa vinibbhogo ghanavinibbhogo. Sammo, yo. 147.]
 
@@ -563,7 +563,7 @@ Lakkhaṇādīsu hi tesaṃ tesaṃ dhammānaṃ sabhāvo vā sāmaññaṃ vā 
 
 **【文件：[00A]特相 - 作用 - 现起 - 足处 应如何观察/[010a]预先应知的事项.md】**
 
-### 预先应知的事项
+## 预先应知的事项
 
 由于色法(rūpa)、名法(nāma)必须以**特相(lakkhaṇa)-作用(rasa)-现起(paccupaṭṭhāna)-足处(padaṭṭhāna)**的效力、以智(ñāṇa)毫无遗漏、彻底穷尽地加以辨别、把握、观修，而所谓色法、名法本身也并不具备能够单独一个一个生起的能力，而是依其只以色聚(rūpa kalāpa)、名聚(nāma kalāpa)这样成组生起的自然法则，唯有能够以智把诸色聚、名聚一个一个地分别、剖析而观照，唯有能够分解直至到达究竟(paramattha)，才能够对这特相-作用-现起-足处的观察范围圆满、周全、以正确的方式领会、观照。
 
@@ -580,14 +580,12 @@ Lakkhaṇādīsu hi tesaṃ tesaṃ dhammānaṃ sabhāvo vā sāmaññaṃ vā 
 
 **【文件：[010]色（28）法 = 色蕴论章/[010b]1. 地界.md】**
 
-### 1. 地界(pathavīdhātu)
+## 1. 地界(pathavīdhātu)
 
 - 1. Kakkhaḷatta lakkhaṇā pathavī dhātu,
 - 2. Paṭiṭṭhāna rasā,
 - 3. Sammaṭicchana paccupaṭṭhānā,
 - 4. Avasesadhātuttaya padaṭṭhānā. (Abhi-ṭṭha-1-368. Visuddhi-1-362. Visuddhi-2-73.)
-
-#### 1. 地界
 
 - 1. 有坚硬（＝坚挺，坚固）之本质、特相(lakkhaṇa)。
 - 2. 有作为自身以外、同一色聚(kalāpa)中其余诸色法之立足处（作用(kicca)）的作用(rasa)。
@@ -600,7 +598,7 @@ Lakkhaṇādīsu hi tesaṃ tesaṃ dhammānaṃ sabhāvo vā sāmaññaṃ vā 
 但就其含义而言，务必只按上面的译文来记。 
 其余的特相—作用等处，也请以同样方式记忆。
 
-#### 1. 地界
+### 1. 地界
 
 - 1. 坚硬（＝坚挺，坚固）之本质——特相；
 - 2. 自身以外、同一色聚中其余诸色法之立足处（作用）——作用；
@@ -609,7 +607,7 @@ Lakkhaṇādīsu hi tesaṃ tesaṃ dhammānaṃ sabhāvo vā sāmaññaṃ vā 
 
 **【文件：[010]色（28）法 = 色蕴论章/[011]观照方法.md】**
 
-#### 观照方法
+### 观照方法
 
 在(6)门（dvāra）、(42)身分（koṭṭhāsa）中存在的每一个色聚（kalāpa）里，以及在含有次生色的每一个心生色聚（cittaja kalāpa）、时节生色聚（utuja kalāpa）、食生色聚（āhāraja kalāpa）里，地界（pathavīdhātu）都始终存在着。
 在蕴之屋（身体）内，那重约四分之一维斯（约408克）的每一个色聚、以及每一个色聚中所有的地界，弟子（sāvaka）们是无法把它们观照到毫无遗漏的。
@@ -677,14 +675,14 @@ Cattāro mahābhūtā aññamaññaṁ sahajātapaccayena paccayo.
 
 **【文件：[010]色（28）法 = 色蕴论章/[013]2. 水界.md】**
 
-### 2. 水界(āpodhātu)
+## 2. 水界(āpodhātu)
 
 - 1. **Āpodhātu** paggharaṇalakkhaṇā,
 - 2. Brūhanarasā,
 - 3. Saṅgahapaccupaṭṭhānā,
 - 4. Avasesadhātuttayapadaṭṭhānā. (Abhi-ṭṭha-1-368. Visuddhi-1-362. Visuddhi-2-73.)
 
-#### 2. 水界
+### 2. 水界
 
 - 1. 流动之本质 <r>特相(lakkhaṇa)；</r>
 - 2. 使一同生起的诸色(rūpa)法增长 <r>（作用(kicca)）作用(rasa)；</r>
@@ -755,7 +753,7 @@ Sopi hi sahajāta-aññamañña-nissayādipaccayatāya sesabhūtattaya-saṅkhā
 
 **【文件：[010]色（28）法 = 色蕴论章/[016]3. 火界.md】**
 
-#### 3. 火界(tejodhātu)
+## 3. 火界(tejodhātu)
 
 - 1. **Tejodhātu** uṇhattalakkhaṇā,
 - 2. Paripācanarasā,
@@ -763,7 +761,7 @@ Sopi hi sahajāta-aññamañña-nissayādipaccayatāya sesabhūtattaya-saṅkhā
 - 4. Avasesadhātuttayapadaṭṭhānā.
  (Abhi-ṭṭha-1-368. Visuddhi-1-362. Visuddhi-2-73.)
 
-#### 3. 火界
+### 3. 火界
 
 - 1. 热之本质（凉之本质）特相(lakkhaṇa)，
 - 2. 使同一色聚(kalāpa)的诸色(rūpa)法成熟（作用(kicca)）作用(rasa)，
@@ -822,7 +820,7 @@ Tejodhātuvasena labbhamānā imasmiṃ kāye jarāpavatti, pākatajarāvasena v
 即当某种疾病恒常缠附之时，或在年岁衰退之际，于此蕴(khandha)之屋内某些色聚中所具有的、由本有体温变异而来之火。
 然而，年岁却是恒常在衰退着的。
 
-#### 消化之火(pācakatejo)
+### 消化之火(pācakatejo)
 
 **Yena ca asitapītakhāyitasāyitaṃ sammā pariṇāmaṃ gacchatī**ti yenetaṃ asitaṃ vā odanādi, pītaṃ vā pānakādi, khāyitaṃ vā piṭṭhakhajjakādi, sāyitaṃ vā ambapakkamadhuphāṇitādi sammā paripākaṃ gacchati, rasādibhāvena vivekaṃ gacchatīti attho. (Visuddhi-1-345.)
 
@@ -876,7 +874,7 @@ Evaṃ “rasassa pariṇāme rudhira”ntiādinā sabbaṃ netabbaṃ. (Mahā�
 
 **【文件：[010]色（28）法 = 色蕴论章/[020]4. 风界.md】**
 
-### 4. 风界(vāyodhātu)
+## 4. 风界(vāyodhātu)
 
 1. **Vāyodhātu** vitthambhanalakkhaṇā,
 2. Samudīraṇarasā,
@@ -970,7 +968,7 @@ Sopi tatheva calati, taṃgatiko tadanuvattakova hoti. (Abhi-ṭṭha-1-126.)
 
 **【文件：[010]色（28）法 = 色蕴论章/[024].md】**
 
-### 5. 眼净色(cakkhupasāda)
+## 5. 眼净色(cakkhupasāda)
 
 - 1. (a) Rūpābhighātārahabhūtappasādalakkhaṇaṃ,<br>(b) Daṭṭhukāmatānidānakammasamuṭṭhānabhūtappasādalakkhaṇaṃ vā **cakkhu**.
 - 2. Rūpesu āviñcharasaṃ,
@@ -990,7 +988,7 @@ Sopi tatheva calati, taṃgatiko tadanuvattakova hoti. (Abhi-ṭṭha-1-126.)
 
 **【文件：[010]色（28）法 = 色蕴论章/[025].md】**
 
-#### 撞击(abhighāta) = 迎面击打 = 触击
+### 撞击(abhighāta) = 迎面击打 = 触击
 
 Abhighāto ca visaya visayīnaṃ aññamaññaṃ abhimukhībhāvo yogyadesāvaṭṭhānaṃ abhighāto viyāti katvā. So rūpe cakkhussa, rūpassa vā cakkhumhi hoti. (Mahāṭī-2-89.)
 
@@ -1088,7 +1086,7 @@ Cakkhuviññāṇassa **vatthubhāvaṃ** nissayabhāvato āvajjanasampaṭiccha
 
 **【文件：[010]色（28）法 = 色蕴论章/[029]眼识依止哪一种眼净界.md】**
 
-#### 眼识（cakkhuviññāṇa）依止哪一种眼净界
+### 眼识（cakkhuviññāṇa）依止哪一种眼净界
 
 在前面的色业处（rūpakammaṭṭhāna）部分，已从究竟谛（paramatthasacca）的角度，把含成分眼（sasambhāracakkhu）、净色眼（pasādacakkhu）的诸般因由阐明陈述过了。
 在此，再稍作一些阐明陈述。
@@ -1138,7 +1136,7 @@ Sattaakkhipaṭalabyāpanavacaneneva cakkhussa anekakalāpagatabhāvaṃ dasseti
 
 **【文件：[010]色（28）法 = 色蕴论章/[031]应当亲身实地试验查看.md】**
 
-#### 应当亲身实地试验查看
+### 应当亲身实地试验查看
 
 你这位善人，对于这位大义疏（Mahāṭī）论师的见解与论说，应当真正亲身去试验查看，应当真正亲身去研究考察。
 有些尊贵的论师并不愿意接受这位大义疏论师的见解。
@@ -1182,7 +1180,7 @@ Nāmarūpaparicchedo, tassa ca paccayapariggaho na paṭhamābhinivesamattena ho
 
 **【文件：[010]色（28）法 = 色蕴论章/[033] 6. 耳净色.md】**
 
-### 6. 耳净色(sotapasāda)
+## 6. 耳净色(sotapasāda)
 
 - 1. (a) Saddābhighātārahabhūtappasādalakkhaṇaṃ,<br>(b) Sotukāmatānidānakammasamuṭṭhānabhūtappasādalakkhaṇaṃ vā **sotaṃ**,
 - 2. Saddesu āviñchanarasaṃ,
@@ -1202,7 +1200,7 @@ Nāmarūpaparicchedo, tassa ca paccayapariggaho na paṭhamābhinivesamattena ho
 
 **【文件：[010]色（28）法 = 色蕴论章/[034] 7. 鼻净色.md】**
 
-### 7. 鼻净色(ghānapasāda)
+## 7. 鼻净色(ghānapasāda)
 
 - 1. (a) Gandhābhighātārahabhūtappasādalakkhaṇaṃ,<br>(b) Ghāyitukāmatānidānakammasamuṭṭhānabhūtappasādalakkhaṇaṃ vā **ghānaṃ**.
 - 2. Gandhesu āviñchanarasaṃ,
@@ -1220,7 +1218,7 @@ Nāmarūpaparicchedo, tassa ca paccayapariggaho na paṭhamābhinivesamattena ho
 
 **【文件：[010]色（28）法 = 色蕴论章/[035] 8. 舌净色.md】**
 
-### 8. 舌净色(jivhāpasāda)
+## 8. 舌净色(jivhāpasāda)
 
 - 1. (a) Rasābhighātārahabhūtappasādalakkhaṇā,<br>(b) Sāyitukāmatānidānabhūtappasādalakkhaṇā vā **jivhā**,
 - 2. Rasesu āviñchanarasā,
@@ -1236,7 +1234,7 @@ Nāmarūpaparicchedo, tassa ca paccayapariggaho na paṭhamābhinivesamattena ho
 
 **【文件：[010]色（28）法 = 色蕴论章/[035] 9. 身净色.md】**
 
-### 9. 身净色(kāyapasāda)
+## 9. 身净色(kāyapasāda)
 
 - 1. (a) Phoṭṭhabbābhighātārahabhūtappasādalakkhaṇo,<br>(b) Phusitukāmatānidānakammasamuṭṭhānabhūtappasādalakkhaṇo vā **kāyo**.
 - 2. Phoṭṭhabbesu āviñchanaraso,
@@ -1253,7 +1251,7 @@ Nāmarūpaparicchedo, tassa ca paccayapariggaho na paṭhamābhinivesamattena ho
 
 **【文件：[010]色（28）法 = 色蕴论章/[036]一个值得提问的要点.md】**
 
-#### 一个值得提问的要点
+### 一个值得提问的要点
 
 身处(kāyāyatana) = 身净色(kāyapasāda)，在被称为「执受(upādinnaka)」的诸业生色(kammajarūpa)所存在的整个色身当中，犹如渗透遍布并安住于棉絮薄层中的油脂那样遍布安住时，也必定会安住于眼球内部、耳内、鼻内、舌中央等处，因此[身处]与诸门(dvāra)彼此接连、彼此相连，从而与包含在不同的、各别的眼十法色聚(cakkhudasakakalāpa)等等那些诸色聚(kalāpa)当中的诸色法(rūpadhamma)，岂不是会在特相(lakkhaṇa)上相互混杂而行了吗？[再者，]身处若在执受=业生色所存在的整个色身当中遍布，由于身处势必会穿透进入眼净色(cakkhupasāda)内部，所以在眼净色当中也就包含着身处的自性；如此包含着的话，那么在眼净色当中也就有着触所缘(phoṭṭhabbārammaṇa)所显现的影像，在身处当中也就有着色所缘(rūpārammaṇa)所显现的影像，如此一来，眼净色与身净色=身处，岂不是会在特相上相互混杂了吗——有这样的问题可提。
 
@@ -1286,7 +1284,7 @@ Nāmarūpaparicchedo, tassa ca paccayapariggaho na paṭhamābhinivesamattena ho
 
 **【文件：[010]色（28）法 = 色蕴论章/[037].md】**
 
-### 10. 色所缘(rūpārammaṇa)
+## 10. 色所缘(rūpārammaṇa)
 
 - 1. Cakkhupaṭihananalakkhaṇaṃ rūpaṃ,
 - 2. Cakkhuviññāṇassa visayabhāvarasaṃ,
@@ -1344,7 +1342,7 @@ tattha yasmā dīghādīni phusitvā sakkā jānituṃ, nīlādīni panevaṃ na
 
 **【文件：[010]色（28）法 = 色蕴论章/[039].md】**
 
-### 11. 声所缘(saddārammaṇa)
+## 11. 声所缘(saddārammaṇa)
 
 - 1. Sotapaṭihananalakkhaṇo **saddo**,
 - 2. Sotaviññāṇassa visayabhāvaraso,
@@ -1365,7 +1363,7 @@ Sappatīti **saddo**, udāhariyati, sakehi vā paccayehi sappīyati sotaviññey
 
 **【文件：[010]色（28）法 = 色蕴论章/[040].md】**
 
-### 12. 香所缘(gandhārammaṇa)
+## 12. 香所缘(gandhārammaṇa)
 
 - 1. Ghānapaṭihananalakkhaṇo **gandho**,
 - 2. Ghānaviññāṇassa visayabhāvaraso,
@@ -1387,7 +1385,7 @@ Gandhayatīti **gandho**, attano vatthuṃ sūcayati apākaṭaṃ "idaṃ sugan
 
 **【文件：[010]色（28）法 = 色蕴论章/[041a].md】**
 
-### 13. 味所缘(rasārammaṇa)
+## 13. 味所缘(rasārammaṇa)
 
 - 1. Jivhāpaṭihananalakkhaṇo **raso**,
 - 2. Jivhāviññāṇassa visayabhāvaraso,
@@ -1644,7 +1642,7 @@ Ekappahāreneva tāni ārammaṇaṃ katvā kāyaviññāṇaṃ uppajjati nuppa
 
 **【文件：[010]色（28）法 = 色蕴论章/[050].md】**
 
-## 心（citta）转取种种所缘（ārammaṇa）的方式
+### 心（citta）转取种种所缘（ārammaṇa）的方式
 
     在此，作为与名业处（nāma-kammaṭṭhāna）收摄观修之方式相衔接、应当了知的一点，即是能知之心从某一所缘转移到另一所缘。
     心究竟以何种样貌、依何种方法从某一所缘转移到另一所缘呢？--- 关于这一点，阿达萨利尼（Aṭṭhasālinī）注释如下解说。
@@ -1849,7 +1847,7 @@ Ayañhettha attho --- ānanda kakkhaḷattalakkhaṇā pathavīdhātu parivattit
 
 **【文件：[010]色（28）法 = 色蕴论章/[058]14. 女性根 = 女性色.md】**
 
-### 14. 女性根(itthindriya) = 女性色(itthibhāvarūpa)
+## 14. 女性根(itthindriya) = 女性色(itthibhāvarūpa)
 
 - 1. Itthibhāvalakkhaṇaṃ **itthindriyaṃ**,
 - 2. Itthīti pakāsanarasaṃ,
@@ -1977,7 +1975,7 @@ liṅgādiākāresu rūpesu rūpāyatanassa cakkhuviññeyyattā liṅgādīna�
 
 **【文件：[010]色（28）法 = 色蕴论章/[061b]15. 男性色.md】**
 
-### 15. 男性色(purisabhāvarūpa)
+## 15. 男性色(purisabhāvarūpa)
 
 - 1. Purisabhāvalakkhaṇaṃ **purisindriyaṃ**,
 - 2. “Puriso”ti pakāsanarasaṃ,
@@ -2131,7 +2129,7 @@ Yassa itthindriyaṁ uppajjati, tassa purisindriyaṁ uppajjatīti? no. (Abhi-7-
 
 **【文件：[010]色（28）法 = 色蕴论章/[067] 16. 色命根.md】**
 
-### 16. 色命根(rūpajīvita)
+## 16. 色命根(rūpajīvita)
 
 - 1. sahajātarūpānupālanalakkhaṇaṃ **jīvitindriyaṃ**,
 - 2. tesaṃ pavattanarasaṃ,
@@ -2201,7 +2199,7 @@ Rūpaṃ bhikkhave aniccaṃ, yopi hetu yopi paccayo rūpassa uppādāya, sopi a
 
 **【文件：[010]色（28）法 = 色蕴论章/[070] 17. 心所依处色.md】**
 
-### 17. 心所依处色（hadaya vatthu）
+## 17. 心所依处色（hadaya vatthu）
 
 - 1. manodhātumanoviññāṇadhātūnaṃ nissayalakkhaṇaṃ hadayavatthu.
 - 2. tāsaññeva dhātūnaṃ ādhāraṇarasaṃ,
@@ -2437,7 +2435,7 @@ Atha vā yasmiṃ rūpakalāpe hadayavatthu, tampi lohitagatikameva hutvā tiṭ
 
 **【文件：[010]色（28）法 = 色蕴论章/[078].md】**
 
-## 血(lohita) = 两种血
+### 血(lohita) = 两种血
 
 **Lohita**nti dve lohitāni sannicitalohitañca saṃsaraṇalohitañca. Tattha sannicitalohitaṃ vaṇṇato nipakkabahalalākhārasavaṇṇaṃ, saṃsaraṇalohitaṃ acchalākhārasavaṇṇaṃ. Saṇṭhānato ubhayampi okāsasaṇṭhānaṃ. Disato sannicitalohitaṃ uparimāya disāya jātaṃ, itaraṃ dvīsu disāsu jātaṃ. Okāsato saṃsaraṇalohitaṃ ṭhapetvā kesalomadantanakhānaṃ maṃsavinimuttaṭṭhānañceva thaddhasukkhacammañca dhamanijālānusārena sabbaṃ upādinnakasarīraṃ pharitvā ṭhitaṃ, sannicitalohitaṃ yakanaṭṭhānassa heṭṭhābhāgaṃ pūretvā ekapatthapūramattaṃ hadayavakkapapphāsānaṃ upari thokaṃ thokaṃ paggharantaṃ vakkahadayayakanapapphāse temayamānaṃ ṭhitaṃ. Tasmiñhi vakkahadayādīni atemente sattā pipāsitā honti. (Abhi-ṭṭha-2-233. Visuddhi-1-253.)
 
@@ -2660,7 +2658,7 @@ Gaṅgāyaṃ sassaṃ tiṭṭhati ＝ 稻禾生长在恒河(Gaṅgā)中——
 
 **【文件：[010]色（28）法 = 色蕴论章/[086]18. 段食.md】**
 
-### 18. 段食（kabaḷīkāra āhāra）
+## 18. 段食（kabaḷīkāra āhāra）
 
 - 1. ojālakkhaṇo **kabaḷīkāro āhāro**,
 - 2. rūpāharaṇaraso,
@@ -2776,7 +2774,7 @@ kabaḷaṃ karitvā ajjhoharitabbavatthukattā vā kabaḷīkāroti nāmameta�
 
 **【文件：[010]色（28）法 = 色蕴论章/[086]段食.md】**
 
-## 18. 段食（kabaḷīkāra āhāra）
+### 18. 段食（kabaḷīkāra āhāra）
 
 - 1. ojālakkhaṇo **kabaḷīkāro āhāro**,
 - 2. rūpāharaṇaraso,
@@ -3109,7 +3107,7 @@ Tassevaṃ āvibhāvatthaṃ, taṃ pakāsesi nāyako. (Ma-ṭṭha-3-97.)
 
 **【文件：[010]色（28）法 = 色蕴论章/[094] 空界.md】**
 
-## 19. 空界(ākāsadhātu)
+### 19. 空界(ākāsadhātu)
 
 - 1. rūpaparicchedalakkhaṇā **ākāsadhātu**,
 - 2. rūpapariyantappakāsanarasā,
@@ -3226,7 +3224,7 @@ Tassevaṃ āvibhāvatthaṃ, taṃ pakāsesi nāyako. (Ma-ṭṭha-3-97.)
 
 **【文件：[010]色（28）法 = 色蕴论章/[099] 20. 身表.md】**
 
-### 20. 身表（kāyaviññatti）
+## 20. 身表（kāyaviññatti）
 
 - 1. Abhikkamādipavattaka-cittasamuṭṭhāna-vāyodhātuyā sahajarūpakāya-thambhana-sandhāraṇa-calanassa paccayo (vāyodhātu-adhikānaṃ cittajamahābhūtānaṃ) ākāravikāro kāyaviññatti,
 -  2. Adhippāya-pakāsanarasā,
@@ -3373,7 +3371,7 @@ Kāyena viññatti kāyaviññatti.
 
 **【文件：[010]色（28）法 = 色蕴论章/[105] 21. 语表.md】**
 
-### 21. 语表（vacīviññatti）
+## 21. 语表（vacīviññatti）
 
 - 1. vacībhedapavattakacittasamuṭṭhānapathavīdhātuyā upādiṇṇaghaṭṭanassa paccayo (pathavīdhātuadhikānaṃ <br> cittajamahābhūtānaṃ) ākāravikāro vacīviññatti,
 - 2. adhippāyappakāsanarasā,
@@ -3621,7 +3619,7 @@ Ekassapi akkharassa anekehi javanehi nibbattetabbattā tathā nibbattiyamānatā
 
 **【文件：[010]色（28）法 = 色蕴论章/[116]色轻快性.md】**
 
-### 22. rūpassa lahutā
+## 22. rūpassa lahutā
 
 - 1. adandhatālakkhaṇā **rūpassa lahutā**,
 - 2. rūpānaṃ garubhāvavinodanarasā,
@@ -3637,7 +3635,7 @@ Ekassapi akkharassa anekehi javanehi nibbattetabbattā tathā nibbattiyamānatā
 
 **【文件：[010]色（28）法 = 色蕴论章/[116b]23. 色的柔软.md】**
 
-### 23. 色的柔软（rūpassa mudutā）
+## 23. 色的柔软（rūpassa mudutā）
 
 - 1. athaddhatālakkhaṇā rūpassa mudutā,
 - 2. rūpānaṃ thaddhabhāvinodanarasā,
@@ -3653,7 +3651,7 @@ Ekassapi akkharassa anekehi javanehi nibbattetabbattā tathā nibbattiyamānatā
 
 **【文件：[010]色（28）法 = 色蕴论章/[116c]24. 色的适业性.md】**
 
-### 24. 色的适业性（rūpassa kammaññatā）
+## 24. 色的适业性（rūpassa kammaññatā）
 
 - 1. sarīrakiriyānukūlakammaññabhāvalakkhaṇā **rūpassa kammaññatā**,
 - 2. akammaññatāvinodanarasā,
@@ -3715,7 +3713,7 @@ Ekassapi akkharassa anekehi javanehi nibbattetabbattā tathā nibbattiyamānatā
 
 **【文件：[010]色（28）法 = 色蕴论章/[119a]无生命世间与业生色世间.md】**
 
-## 无生命世间与业生色（kammaja rūpa）世间
+### 无生命世间与业生色（kammaja rūpa）世间
 
 轻快性（lahutā）、柔软性（muduta）、适业性（kammaññatā）这些色，虽然只存在于「属于根缚（indriyabaddha）、与眼（cakkhu）等诸根（indriya）相连的有生命的色世间」之中，但若有人问：木棉、棉花等物之中难道就没有轻快性等吗——那么，在那木棉、棉花等物之中，就究竟法（paramattha）而言，是没有轻快性等的。
 不过，由于作为沉重等之因的大种（mahābhūta）并不具足，所以在那木棉、棉花等物之中，只是有「轻盈之类的概念（paññatti）」而已。
@@ -3734,7 +3732,7 @@ Kasmā pana kammajarūpesu lahutādayo na hontīti? Paccuppannapaccayāpekkhatt�
 
 **【文件：[010]色（28）法 = 色蕴论章/[119b]25. 色之积聚.md】**
 
-### 25. 色(rūpa)之积聚(upacaya)
+## 25. 色(rūpa)之积聚(upacaya)
 
 - 1. Ācaya lakkhaṇo **rūpassa upacayo**,
 - 2. Pubbantato rūpānaṃ ummujjāpana raso,
@@ -3750,7 +3748,7 @@ Kasmā pana kammajarūpesu lahutādayo na hontīti? Paccuppannapaccayāpekkhatt�
 
 **【文件：[010]色（28）法 = 色蕴论章/[120]26. 色的相续.md】**
 
-### 26. 色的相续（rūpassa santati）
+## 26. 色的相续（rūpassa santati）
 
 - 1. pavattilakkhaṇā **rūpassa santati**,
 - 2. anuppabandhanarasā,
@@ -3987,7 +3985,7 @@ Tasmā yā rūpānaṃ paṭhamābhinibbatti, sā ācayo. Yā tesaṃ upari añ�
 
 **【文件：[010]色（28）法 = 色蕴论章/[128]27. 色的老性.md】**
 
-### 27. 色的老性（rūpassa jaratā）
+## 27. 色的老性（rūpassa jaratā）
 
 - 1. rūpaparipākalakkhaṇā **rūpassa jaratā**,
 - 2. upanayanarasā,
@@ -4131,7 +4129,7 @@ Tasmā yā rūpānaṃ paṭhamābhinibbatti, sā ācayo. Yā tesaṃ upari añ�
 
 **【文件：[010]色（28）法 = 色蕴论章/[133]28. 色的无常性.md】**
 
-### 28. 色的无常性（rūpassa aniccatā）
+## 28. 色的无常性（rūpassa aniccatā）
 
 - 1. paribhedalakkhaṇā **rūpassa aniccatā**,
 - 2. saṃsīdanarasā,
@@ -4154,7 +4152,7 @@ Tasmā yā rūpānaṃ paṭhamābhinibbatti, sā ācayo. Yā tesaṃ upari añ�
 
 **【文件：[010]色（28）法 = 色蕴论章/[134]观照方式方法.md】**
 
-### 观照方式方法
+## 观照方式方法
 
 色（rūpa）（28）法的相（lakkhaṇa）、作用（rasa）等，至此已经讲完了。
 
@@ -4248,7 +4246,7 @@ sotādinampi cakkhuno viya pasannasabhāvattā eva yathāsakaṃ visayaggahaṇa
 
 **【文件：[010]色（28）法 = 色蕴论章/[137]请特别留意并牢记.md】**
 
-### 请特别留意并牢记
+#### 请特别留意并牢记
 
 在上面这段话中，**--- ādāsatalaṃ viya vippasannattā** = 净色（pasādarūpa）如镜面般清澈——请特别留意并牢记这一解释。 
 在摄持、观修色业处（rūpakammaṭṭhāna）时，这是一根极其重要的大标柱。 
@@ -4361,7 +4359,7 @@ Rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāy
 正如以智见到那些由相应因法而生起的色法一样，当以智见到那些色法时，也必定会见到那些色法的生起、即生（jāti）。 
 正是由于这个道理，佛陀才作了如此的开许。(Mahāṭī-2-111 - 参见。) 
 
-### 色蕴论章 结束。
+**色蕴论章 结束。**
 
 **【文件：[142]识蕴论章/[142]识蕴论章.md】**
 
@@ -4378,7 +4376,7 @@ Rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāy
 
 **【文件：[142]识蕴论章/[142b]了别特相.md】**
 
-### 了别特相(vijānanalakkhaṇa)
+## 了别特相(vijānanalakkhaṇa)
 
 “vijānāti vijānātī”ti kho āvuso tasmā “viññāṇa”nti vuccati. (M-1-366。)
 
@@ -4402,7 +4400,7 @@ viññāṇaṃ cittaṃ manoti atthato ekaṃ. (Visuddhi-2-82。)
 
 **【文件：[142]识蕴论章/[143]三种释词.md】**
 
-### 三种语法分解(viggaha)
+## 三种语法分解(viggaha)
 
 在宣说究竟法(paramattha)诸法的触(phassa)、受(vedanā)、想(saññā)、思(cetanā)、识(viññāṇa)——等等语词上, 大多可以作施动者成分(kattusādhana)、工具成分(karaṇasādhana)、体性成分(bhāvasādhana)这三种语法分解。
 其中, 施动者成分与工具成分并不是触及究竟法自性(sabhava)的分解, 而是为了破除执著于我(atta)者的见解, 施设方便(pariyāya)、假借比喻而作出的分解。
@@ -4424,7 +4422,7 @@ viññāṇaṃ cittaṃ manoti atthato ekaṃ. (Visuddhi-2-82。)
 
 **【文件：[142]识蕴论章/[144]识的种类与善的种类.md】**
 
-### 识（viññāṇa）的种类与善（kusala）的种类
+## 识（viññāṇa）的种类与善（kusala）的种类
 
 那个识，以了知所缘（ārammaṇa）、执取所缘的了别相（vijānana-lakkhaṇa）而言，只有一种。
 而就生（jāti）的力量而言，则有善、不善（akusala）、无记（avyākata）三种。
@@ -4601,7 +4599,7 @@ Sampayuttadhammānañca visese asatipi ādāsatalādīsu mukhanimittaṃ viya ni
 
 **【文件：[142]识蕴论章/[151]无奋勉——有奋勉.md】**
 
-### 无奋勉(nirussāha)——有奋勉(saussāha)
+#### 无奋勉(nirussāha)——有奋勉(saussāha)
 
 在大善(mahākusala)与大果报(mahāvipāka)当中，相应的心所(cetasika)的数量并无差别，是完全相同的。
 尽管如此并无特别的差异，但果报识(vipākaviññāṇa)就如同镜面等之上的面影一般，是无奋勉的，即没有奋勉(ussāha)、没有努力(byāpāra)。
@@ -4671,7 +4669,7 @@ Lābhino eva pana mahaggatacittāni supākaṭāni honti. (大义疏-2-353。)
 
 **【文件：[142]识蕴论章/[153]诸识的作用（14）种.md】**
 
-### 诸识（viññāṇa）的作用（kicca）（14）种
+## 诸识（viññāṇa）的作用（kicca）（14）种
 
 这些识的作用，就其类别而言，有结生作用（paṭisandhi）、有分作用（bhavaṅga）、转向作用（āvajjana）、照见作用（dassana）、闻作用（savana）、嗅作用（ghāyana）、尝作用（sāyana）、碰触作用（phusana）、领受作用（sampaṭicchana）、推度作用（santīraṇa）、确定作用（voṭṭhabbana）、速行作用（javana）、彼所缘作用（tadārammaṇa）、死作用（cuti）这样（14）种。
 以这（14）种方式，那些心（citta）便生起了。（《清净道论》-2-87。）
@@ -4827,7 +4825,7 @@ tayidaṃ ārammaṇena vedanāparivattidassanatthaṃ vuttaṃ. (Mahāṭī-2-1
 
 **【文件：[142]识蕴论章/[158]某些尊者的见解.md】**
 
-### 某些尊者的见解
+#### 某些尊者的见解
 
 Ettha ca keci "Paṭṭhāne kusalākusale niruddhe vipāko tadārammaṇatā uppajjatī'ti vipākadhammadhammānaṃ eva anantaraṃ tadārammaṇaṃ vutta"nti kiriyajavanānantaraṃ na icchanti. (Mahāṭī-2-134.)
 
@@ -4851,7 +4849,7 @@ Ettha ca keci "Paṭṭhāne kusalākusale niruddhe vipāko tadārammaṇatā up
 
 **【文件：[142]识蕴论章/[159]根本义疏论师的说法.md】**
 
-### 根本义疏（Mūlaṭīkā）论师的说法
+#### 根本义疏（Mūlaṭīkā）论师的说法
 
 Tassa kusalato cattāri somanassasahagatāni, akusalato cattāri, kiriyato pañcāti imesaṃ terasannaṃ cittānaṃ aññatarena javitapariyosāne tadārammaṇaṃ patiṭṭhahamānaṃ somanassasahagata-asaṅkhārika-tihetukacittampi duhetukacittampi patiṭṭhāti. (Abhi-ṭṭha-1-323.)
 
@@ -4891,7 +4889,7 @@ Tassa kusalato cattāri somanassasahagatāni, akusalato cattāri, kiriyato pañc
 
 **【文件：[142]识蕴论章/[161]六支舍.md】**
 
-### 六支舍（chaḷaṅgupekkhā）
+#### 六支舍（chaḷaṅgupekkhā）
 
 tattha yā “idha bhikkhave bhikkhu cakkhunā rūpaṃ disvā neva sumano hoti, na dummano, upekkhako ca viharati sato sampajāno”ti evamāgatā khīṇāsavassa chasu dvāresu iṭṭhāniṭṭhachaḷārammaṇāpāthe parisuddhapakatibhāvāvijahanākārabhūtā upekkhā, ayaṃ **chaḷaṅgupekkhā** nāma. (Visuddhi-1-155.)
 
@@ -4906,7 +4904,7 @@ tattha yā “idha bhikkhave bhikkhu cakkhunā rūpaṃ disvā neva sumano hoti,
 
 **【文件：[142]识蕴论章/[161b]14.死殁作用.md】**
 
-### 14. 死殁作用(cuti kicca)
+### 十四. 死殁作用(cuti kicca)
 
 在彼所缘(tadārammaṇa)的末尾，则又只有有分(bhavaṅga)重新生起。 
 （这只是就生命期间(pavatti)而言；并不是说彼所缘之后一定不会落入死殁、而只会落入有分。——大义疏(Mahāṭī)-2-134。） 
@@ -4925,7 +4923,7 @@ tattha yā “idha bhikkhave bhikkhu cakkhunā rūpaṃ disvā neva sumano hoti,
 
 **【文件：[142]识蕴论章/[162]一、识蕴.md】**
 
-### 一、识蕴（viññāṇakkhandha）
+## 一、识蕴（viññāṇakkhandha）
 
 Ārammaṇaṃ cintetīti cittaṃ, vijānātīti attho. (Abhi-ṭṭha-1-106.)
 
@@ -5148,7 +5146,7 @@ Saññāpaññākiccaṃ saññāṇakaraṇapaṭivijjhanāni, tadubhayavidhur�
 
 **【文件：[142]识蕴论章/[169]眼识得名之因.md】**
 
-### 眼识（cakkhuviññāṇa）得名之因
+#### 眼识（cakkhuviññāṇa）得名之因
 
 **Cakkhuviññāṇanti** kāraṇabhūtassa cakkhussa viññāṇaṃ, cakkhuto vā pavattaṃ, cakkhusmiṃ vā nissitaṃ viññāṇanti cakkhuviññāṇaṃ. Parato **sotaviññāṇā**dīsupi eseva nayo. (Abhi-ṭṭha-1-303.)
 
@@ -5257,7 +5255,7 @@ Yā panāyaṃ pāḷi "pañcahi viññāṇehi na kañci dhammaṃ paṭivijān
 
 **【文件：[142]识蕴论章/[173]洁白.md】**
 
-### paṇḍara ＝ 是洁白的
+#### paṇḍara ＝ 是洁白的
 
 Niddesavāre cakkhuviññāṇaṃ **“paṇḍara”**nti vatthuto vuttaṃ. Kusalañhi attano parisuddhatāya paṇḍaraṃ nāma, akusalaṃ bhavaṅganissandena, vipākaṃ vatthupaṇḍarattā. (Abhi-ṭṭha-1-303.)
 
@@ -5402,7 +5400,7 @@ Tattha **pathavisannissita**nti kāyapasādapaccayaṃ pathavisannissayaṃ ladd
 
 **【文件：[142]识蕴论章/[177]五识中的受.md】**
 
-### 五识（pañcaviññāṇa）中的受（vedanā）
+#### 五识（pañcaviññāṇa）中的受（vedanā）
 
 Kevalañhi cakkhuviññāṇādīsu upekkhā bhājitā, kāyaviññāṇe sukhanti ayamettha viseso. Sopi ca ghaṭṭanavasena hotīti veditabbo. Cakkhudvārādīsu hi catūsu upādārūpameva upādārūpaṃ ghaṭṭeti, upādārūpeyeva upādārūpaṃ ghaṭṭente paṭighaṭṭanānighaṃso balavā na hoti, catunnaṃ adhikaraṇīnaṃ upari cattāro kappāsapicupiṇḍe ṭhapetvā picupiṇḍeheva pahatakālo viya phuṭṭhamattameva hoti, vedanā majjhattaṭṭhāne tiṭṭhati. Kāyadvāre pana bahiddhā mahābhūtārammaṇaṃ ajjhattikakāyapasādaṃ ghaṭṭetvā pasādapaccayesu mahābhūtesu paṭihaññati, yathā adhikaraṇīmatthake kappāsapicupiṇḍaṃ ṭhapetvā kūṭena paharantassa kappāsapicupiṇḍaṃ chinditvā kūṭaṃ adhikaraṇiṃ gaṇhātīti nighaṃso balavā hoti, evameva paṭighaṭṭanānighaṃso balavā hoti. Iṭṭhe ārammaṇe sukhasahagataṃ kāyaviññāṇaṃ uppajjati, aniṭṭhe dukkhasahagataṃ. (Abhi-ṭṭha-1-304.)
 
@@ -5430,7 +5428,7 @@ Ettha ca **bahiddhā**ti etaṃ nidassanamattaṃ. Ajjhattampi hi ārammaṇaṃ
 
 **【文件：[142]识蕴论章/[178]受长时间生起的情形.md】**
 
-### 受(vedanā)长时间生起的情形
+#### 受(vedanā)长时间生起的情形
 
 身净色(kāyapasāda)与所触所缘(phoṭṭhabbārammaṇa)相撞击的这种摩擦是有力的；正因为如此有力，所以当以触及美好的接触等方式、与可意所触所缘(iṭṭhaphoṭṭhabbārammaṇa)会合撞击之时，作为乐受(sukhavedanā)之根本原因的——(一)身净色，(二)可意所触所缘，(三)触(phassa)等相应(sampayutta)诸法——如此这般的所依之依止界(nissayadhātu)便成为乐受连续不断地生起的诸原因法。
 由于那些所依的依止界持续地资助、支持、抬举，乐受便得以长时间地生起。
@@ -5443,7 +5441,7 @@ Ettha ca **bahiddhā**ti etaṃ nidassanamattaṃ. Ajjhattampi hi ārammaṇaṃ
 
 **【文件：[142]识蕴论章/[179]撞击.md】**
 
-### 撞击(ghaṭṭana)＝撞击
+#### 撞击(ghaṭṭana)＝撞击
 
 色所缘(rūpārammaṇa)撞击眼净色(cakkhupasāda)，声所缘(saddārammaṇa)撞击耳净色(sotapasāda)，香所缘(gandhārammaṇa)撞击鼻净色(ghānapasāda)，味所缘(rasārammaṇa)撞击舌净色(jivhāpasāda)，触所缘(phoṭṭhabbārammaṇa)撞击身净色(kāyapasāda)——所谓这些「撞击」，是指作为境(visaya)的所缘(ārammaṇa)，与作为有境(visayī)的净色(pasāda)，在适宜相称的处所面对面对峙而立之意。
 「触所缘撞击身净色之后，也撞击身净色所依止的诸大种(mahābhūta)」这样的说法，若依究竟法言说(paramatthavohāra)而言，触所缘本身并非真去撞击某个法，也并非有其他某个法使之撞击、令之撞击；这是因为在触所缘以外的其他某个法中并无触之自性(phoṭṭhabba sabhāva)＝因为只有那无法被触及的非触之自性(aphoṭṭhabba sabhāva)。
@@ -5471,7 +5469,7 @@ Ettha ca **bahiddhā**ti etaṃ nidassanamattaṃ. Ajjhattampi hi ārammaṇaṃ
 
 **【文件：[142]识蕴论章/[180]意识名法组的现在之因.md】**
 
-### 意识（manoviññāṇa）名法组的现在之因
+#### 意识（manoviññāṇa）名法组的现在之因
 
 在名为意识的果报（vipāka）名法组中，过去因（atīta）与现在因两者都存在。
 而在善（kusala）、不善（akusala）、唯作（kiriya）名法组中，则没有过去因，只有现在因。
@@ -5707,7 +5705,7 @@ Ahetukavipākā santīraṇakiccā **manoviññāṇadhātu** ---
 
 **【文件：[142]识蕴论章/[187]进一步的一个问题.md】**
 
-### 进一步的一个问题
+#### 进一步的一个问题
 
 在这里，某些善人又进一步地提问了。
 在断定（vuṭṭho）中，相应的心（citta）、心所（cetasika）这一相应（sampayutta）法组，连同精进（vīriya）在内共有（12）个；其中，在把所缘（ārammaṇa）判定为可喜（iṭṭha）或不可喜（aniṭṭha）等时，是断定心在作判定呢，还是身为相应法的胜解（adhimokkha）心所在作判定呢？他们如此再度提问。
@@ -5762,7 +5760,7 @@ Catubhūmakacittasmiṃ no vijānanalakkhaṇaṃ nāma natthi, sabbaṃ vijāna
 
 **【文件：[142]识蕴论章/[189]所谓善.md】**
 
-### 所谓善(kusala)
+#### 所谓善(kusala)
 
 由于能动摇、能摧毁那些卑劣的不善(akusala)法，所以称为善。
 （这是指与善心一同的一切相应(sampayutta)法。）
@@ -5796,7 +5794,7 @@ Catubhūmakacittasmiṃ no vijānanalakkhaṇaṃ nāma natthi, sabbaṃ vijāna
 
 **【文件：[142]识蕴论章/[190]另一种解释法.md】**
 
-### 另一种解释法
+#### 另一种解释法
 
 Apica ārogyaṭṭhena, anavajjaṭṭhena, kosallasambhūtaṭṭhena ca kusalaṃ. (Abhi-ṭṭha-1-105.)
 
@@ -5839,7 +5837,7 @@ cheka = 也宣说「成为熟练通达者的原由——智慧(paññā)」之�
 
 **【文件：[142]识蕴论章/[192]应以确定方式记住.md】**
 
-### 应以确定方式记住
+#### 应以确定方式记住
 
 若不采用方便说、单就纯粹确定而言，智相应（ñāṇasampayutta）善（kusala）——
 
@@ -5916,7 +5914,7 @@ sukhavipāka这一语句，则是就「在善心的生起（cittuppāda）之时
 
 **【文件：[142]识蕴论章/[195]十三、速行 - 不善速行.md】**
 
-### 十三、速行（javana） - 不善（akusala）速行
+#### 十三、速行（javana） - 不善（akusala）速行
 
 “kilesāturatāya anārogyaṭṭhena kilesavajjasabbhāvato sāvajjaṭṭhena avijjāsambhūtatāya akosallasambhūtaṭṭhena akusala”nti ca ---
 
@@ -5976,7 +5974,7 @@ sati saṃsārappavattiyā ahosi kammaṃ nāma na hoti. (Visuddhi-2-236.)
 
 **【文件：[142]识蕴论章/[197]词义对照与义释方式.md】**
 
-### 词义对照与义释方式
+#### 词义对照与义释方式
 
 在「有过苦果报特相(sāvajjadukkhavipākalakkhaṇa)」这一语句中，以「有过(sāvajja)」这个在前的语句，指示出诸不善(akusala)法在正生起的当下便具有苦(dukkha)之性质。
 以「苦果报(dukkhavipāka)」这个在后的语句，指示出：当那不善给予果报时，会给出身苦(kāyikadukkha)、心苦(cetasikadukkha)这样痛苦的恶果——这一意义之性质。
@@ -6000,7 +5998,7 @@ sati saṃsārappavattiyā ahosi kammaṃ nāma na hoti. (Visuddhi-2-236.)
 
 **【文件：[142]识蕴论章/[198]作用 - 现起 - 足处.md】**
 
-### 作用（rasa） - 现起（paccupaṭṭhāna） - 足处（padaṭṭhāna）
+#### 作用（rasa） - 现起（paccupaṭṭhāna） - 足处（padaṭṭhāna）
 
 换一种说法 --- 以名为「有过(sāvajja)」的在前语句，由于显明地表示出诸不善(akusala)法之烦恼(kilesa)过失瑕疵的存在，故依具有「作用(kicca)」这一义涵的作用，显明地表示出令无益生起之**（作用义之）作用**的存在。
 以名为「苦果报(dukkhavipāka)」的在后语句，依具有「成就(sampatti)」这一义涵的作用，表示出与名为「不可意果报(aniṭṭhavipāka)」的、不被希求、不被喜爱的恶果、苦果相具足之**成就作用**的存在。(Anuṭī-1-32.)
@@ -6016,7 +6014,7 @@ sati saṃsārappavattiyā ahosi kammaṃ nāma na hoti. (Visuddhi-2-236.)
 
 **【文件：[142]识蕴论章/[198b]现起观照角度.md】**
 
-### 现起（paccupaṭṭhāna）的观照角度
+#### 现起（paccupaṭṭhāna）的观照角度
 
 上述这些不善（akusala）法的**可喜果报现起（iṭṭhavipāka paccupaṭṭhāna）**＝具有所欲求的、美善的果报之情状——即果现起（phalapaccupaṭṭhāna）；这些不善法的**不可喜果报现起（aniṭṭhavipāka paccupaṭṭhāna）**＝具有不欲求的、苦的果报之情状——即果现起——为了以正见（sammādiṭṭhi）智慧亲自现见、洞穿了知这些现起的观照角度，你这位善男子必须已在某种程度上获得缘摄受智（paccayapariggaha ñāṇa）。
 在过去、未来、现在三时之中，因由无明（avijjā）、渴爱（taṇhā）、取（upādāna）所环绕的善（kusala）业（kamma）而获得美善果报的情形，以及因不善业而在那些过去世里获得以苦界（apāya）结生（paṭisandhi）等为首的不善果报的情形——唯有以正见智慧亲自现见、洞穿了知，才是能够信服、能够满意接受的那一类事项。
@@ -6025,7 +6023,7 @@ sati saṃsārappavattiyā ahosi kammaṃ nāma na hoti. (Visuddhi-2-236.)
 
 **【文件：[142]识蕴论章/[199]特相与作用.md】**
 
-### 特相(lakkhaṇa)与作用(rasa)
+#### 特相(lakkhaṇa)与作用(rasa)
 
 一切心(citta)都只具有了知所缘(ārammaṇa)、执取所缘，即了别(vijānana)的自性(sabhāva)特相而已。
 善(kusala)速行(javana)心、不善(akusala)速行心也同样只具有了知所缘、执取所缘的自性特相。
@@ -6059,7 +6057,7 @@ Ekantena pana ārammaṇarasaṃ javanameva anubhavati. (Abhi-ṭṭha-1-312。)
 
 **【文件：[142]识蕴论章/[200]五门速行.md】**
 
-### 五门速行(pañcadvārikajavana)
+#### 五门速行(pañcadvārikajavana)
 
 在诸五门心路(pañcadvāravīthi)中，把确定(votthō)名法这一组称为如理作意(yoniso-manasikāra)或不如理作意(ayoniso-manasikāra)，乃是主导(padhāna)的说法。
 在诸五门心路中，五门转向(pañcadvārāvajjana)名法这一组，也正是使速行(javana)成为善(kusala)速行、或成为不善(akusala)速行的诸因法。
@@ -6119,7 +6117,7 @@ Idaṃ pana javanaṃ kusalatthāya vā akusalatthāya vā ko niyāmetīti? Āva
 
 ### 十五、意门转向(manodvārāvajjana)
 
-### （舍俱(upekkhāsahagata)无因(ahetuka)唯作(kiriya)意识界(manoviññāṇadhātu)）
+#### （舍俱(upekkhāsahagata)无因(ahetuka)唯作(kiriya)意识界(manoviññāṇadhātu)）
 
 - 1. Upekkhāsahagatāhetukakiriyā **manoviññāṇadhātu** saḷārammaṇavijānanalakkhaṇā,
 - 2. Manodvāre āvajjanarasā,
@@ -6171,7 +6169,7 @@ Upekkhāsahagatāhetukakiriyā  **manoviññāṇadhātu ---**
 
 **【文件：[142]识蕴论章/[204]大象心 = 与巨大公象相似的心.md】**
 
-### 大象心(mahāgaja citta) = 与巨大公象相似的心
+#### 大象心(mahāgaja citta) = 与巨大公象相似的心
 
  **Upekkhāsahagatā**ti idaṃ cittaṃ tīsu bhavesu sabbesaṃ sacittakasattānaṃ sādhāraṇaṃ, na kassaci sacittakassa nuppajjati nāma. Uppajjamānaṃ pana pañcadvāre voṭṭhabbanaṃ hoti, manodvāre āvajjanaṃ. Cha asādhāraṇañāṇānipi iminā gahitārammaṇameva gaṇhanti. **Mahāgajaṃ** nāmetaṃ cittaṃ. Imassa anārammaṇaṃ nāma natthi. "Asabbaññutañāṇaṃ sabbaññutañāṇagatikaṃ nāma katama"nti vutte "ida"nti vattabbaṃ. (Abhi-ṭṭha-1-333.)
 
@@ -6226,7 +6224,7 @@ Somanassasahagatāhetukakiriyā ---
 
 **【文件：[142]识蕴论章/[206]根本复注的解释.md】**
 
-### 根本复注（Mūlaṭīkā）的解释
+#### 根本复注（Mūlaṭīkā）的解释
 
 于过去分位中没有任何阻碍遮蔽的智（ñāṇa），于未来分位中没有任何阻碍遮蔽的智，于现在分位中没有任何阻碍遮蔽的智——具足这三种殊胜之智的佛陀，其一切真实的身业（kāya-kamma）（一切真实的语业（vacī-kamma），一切真实的意业（mano-kamma）），全都只是随着智之后依次生起——由于像这样等等地宣说——所以“对于‘与智不相应的这个生笑心（hasituppāda）能在佛陀的相续（santāna）中生起’这句话，应当加以思考”，根本复注的长老如此解释道。（Mūlaṭī-1-137。）
 
@@ -6237,7 +6235,7 @@ Somanassasahagatāhetukakiriyā ---
 
 **【文件：[142]识蕴论章/[206b]随复注论师的评析.md】**
 
-### 随复注(Anuṭīkā)论师的评析
+#### 随复注(Anuṭīkā)论师的评析
 
 随复注论师这样说道——阿拉汉(arahat)圣尊在五门(pañcadvāra)中见到作为主导(padhāna)、值得净信喜爱的处所，便凭这生笑心(hasituppāda citta)而只能生起心中欢喜、成为悦(somanassa)而已，还不能微笑；这是因为微笑的表色(viññatti rūpa)是五门诸心(pañcadvārika citta)所不能生起的缘故。
 因此，在义注(aṭṭhakathā)中(Abhi-ṭṭha-1-332。)就五门而言——只这样解说：「somanassito hoti = 满意欢畅、心生欢喜」。
@@ -6255,7 +6253,7 @@ Somanassasahagatāhetukakiriyā ---
 
 **【文件：[142]识蕴论章/[207]能引生微笑喜悦的诸心.md】**
 
-### 能引生微笑喜悦的诸心
+#### 能引生微笑喜悦的诸心
 
 - 1. 凡夫(puthujjana)们 --- <br>(甲) 大善(mahākusala)悦俱(somanassasahagata)心 (4)种 <br>(乙) 贪根(lobhamūla)悦俱心 (4)种
 
@@ -6272,7 +6270,7 @@ Somanassasahagatāhetukakiriyā ---
 
 **【文件：[142]识蕴论章/[207b]17.死心.md】**
 
-## 17.死心（cuti citta）
+### 十七、死心（cuti citta）
 
 - 1. Kamma-kammanimitta-gatinimittānaṃ aññatarārammaṇavijānanalakkhaṇaṃ **cuticittaṃ**,
 - 2. Cavanarasaṃ,
@@ -6291,7 +6289,7 @@ Somanassasahagatāhetukakiriyā ---
 
     从死心的名法组中挑选出识知之心，观照上述特相-作用等诸观照要点。
 
-## 识蕴论章一章至此结束。
+**识蕴论章一章至此结束。**
 
 **【文件：[209]受蕴论章/[209a]受蕴论章.md】**
 
@@ -6340,7 +6338,7 @@ Yaṃ bhikkhave pañcupādānakkhandhe paṭicca uppajjati sukhaṃ somanassaṃ
 
 **【文件：[209]受蕴论章/[210]三、悦受.md】**
 
-### 三、悦受（somanassavedanā）
+## 二、悦受（somanassavedanā）
 
 - 1. Iṭṭhārammaṇānubhavana lakkhaṇaṃ **somanassaṃ**,
 - 2. Yathā tathā vā iṭṭhākārasambhoga rasaṃ,
@@ -6395,7 +6393,7 @@ Vedayatīti **vedanā**,
 
 **【文件：[209]受蕴论章/[210]二、苦受.md】**
 
-### 二、苦受（dukkhavedanā）
+## 三、苦受（dukkhavedanā）
 
 - 1. Anitthaphotthabbanubhavana lakkhanam **dukkham**,
 - 2. Sampayuttanam milapana rasam,
@@ -6412,7 +6410,7 @@ Vedayatīti **vedanā**,
 
 **【文件：[209]受蕴论章/[212]以譬喻显示.md】**
 
-## 以譬喻显示
+### 以譬喻显示
 
 受(vedanā)如同国王,除受之外其余的相应(sampayutta)诸法则如同厨师。
 
@@ -6516,7 +6514,7 @@ kāyacittābādhanti **sukhaṃ**, somanassavedanāyetaṃ nāmaṃ.（Abhi-A-1-
 
 **【文件：[209]受蕴论章/[216]五、舍受.md】**
 
-### 五、舍受（upekkhāvedanā）
+## 四、舍受（upekkhāvedanā）
 
 - 1. Majjhattavedayitalakkhaṇā upekkhā,
 - 2. Sampayuttānaṃ nātiupabrūhanamilāpanarasā,
@@ -6540,7 +6538,7 @@ kāyacittābādhanti **sukhaṃ**, somanassavedanāyetaṃ nāmaṃ.（Abhi-A-1-
 
 **【文件：[209]受蕴论章/[216]四、忧受.md】**
 
-### 四、忧受（domanassavedanā）
+## 五、忧受（domanassavedanā）
 
 - 1. Aniṭṭhārammaṇānubhavana lakkhaṇaṃ domanassaṃ,
 - 2. Yathā tathā vā aniṭṭhākārasambhoga rasaṃ,
@@ -6691,23 +6689,20 @@ kāyacittābādhanti **sukhaṃ**, somanassavedanāyetaṃ nāmaṃ.（Abhi-A-1-
 - 4. Yathāupaṭṭhitavisaya padaṭṭhānā. <br> (Tiṇapurisakesu migapotakānaṃ purisāti uppannasaññā viya.) （殊胜义注 1-153-154）
 
 - 1. 对褐、金等种种所缘（ārammaṇa）作标记而识知 ＝ 记而识知的体性 <r>特相（lakkhaṇa）、</r>
-
 - 2. (a) 藉先前的标记而再度识知 <r>（作事kicca）作用（rasa）、</r> 
 (b) 造作那作为「那就是那个」这般再度记而识知之因的标记 <r>（作事）作用、</r>
 （就像木匠等人在木材等物上做记号那样。）
-
 - 3. (a) 依照心所执取的记相（nimitta）（＝标记）<br> 惯于对所缘作意的体性法 <r>现起（paccupaṭṭhāna）、</r>
     （请记住，就像摸象的盲人们那样。）
 (b) 由于对所缘没有契入其中的状态 ＝ 由于不能深深地缘取所缘的状态，故不能长久住立的体性法 <r>现起、</r>
     （请记住，就像闪电那样。）
-
 - 4. 每一显现而来的所缘 <r>足处（padaṭṭhāna）。</r>
 
 （就像那用草做成的人形偶，被鹿群认作「是人」而生起的想那样。）
 
 **【文件：[221]想蕴论章/[222]智相应想.md】**
 
-### 与智相应之想（ñāṇasampayutta saññā）
+## 与智相应之想（ñāṇasampayutta saññā）
 
 Yā panettha ñāṇasampayuttā hoti, sā saññā ñāṇameva anuvattati, sasambhārapathavī-ādīsu sesadhammā pathavī-ādīni viyāti veditabbā. (Abhi-ṭṭha-1-154.)
 
@@ -6841,8 +6836,7 @@ Yā panettha ñāṇasampayuttā hoti, sā saññā ñāṇameva anuvattati, sas
 - 3. vipphārapaccupaṭṭhānā,
 - 4. sesakhandhattayapadaṭṭhānā. (Visuddhi-2-92.)
 
-- 1. 聚合＝为使聚集而造作，
-    努力、达至操劳作业（byāpāra）之性状 <r>特相（lakkhaṇa），</r>
+- 1. 聚合＝为使聚集而造作，努力、达至操劳作业（byāpāra）之性状 <r>特相（lakkhaṇa），</r>
 - 2. 聚集汇合 <r>（作用kicca）作用（rasa），</r>
 - 3. 对果加以造作、令其成就、具有操劳作业之法 <r>现起（paccupaṭṭhāna），</r>
 - 4. 自身余下的名蕴（nāmakhandha）（3）种 <r>足处（padaṭṭhāna）。</r>
@@ -6887,7 +6881,7 @@ Yaṃ kiñci abhisaṅkharaṇalakkhaṇaṃ, sabbaṃ taṃ ekato katvā saṅk
 
 **【文件：[227]行蕴论章/[229]具足=具足(五)种.md】**
 
-### 具足(samaṅgitā) = 具足(samaṅgī)（五）种
+## 具足(samaṅgitā) = 具足(samaṅgī)（五）种
 
 与趣(gati)、再生的基质(upadhi)、时(kāla)、精勤(payoga)会合的业(kamma)，在使其所到达的果报生起之时，也应当预先了知具足（五）种的相关道理，因此这里将依照《迷惑冰消》(Sammohavinodanī)注（阿毗-ṭṭha-2-419-420。）、《后五十》(Uparipaṇṇāsa)注（马-ṭṭha-4-87。）、《增支部》(Aṅguttara)注（安-ṭṭha-1-364。）中所载，简要地再次加以陈述。（在缘起(paṭiccasamuppāda)部分已作详细解说。）
 
@@ -6919,7 +6913,7 @@ Yaṃ kiñci abhisaṅkharaṇalakkhaṇaṃ, sabbaṃ taṃ ekato katvā saṅk
 
 **【文件：[227]行蕴论章/[230]第二力智.md】**
 
-### 第二力智(dutiya bala ñāṇa)
+## 第二力智(dutiya bala ñāṇa)
 
 (甲) tattha katamaṃ tathāgatassa atītānāgatapaccuppannānaṃ kammasamādānānaṃ ṭhānaso hetuso vipākaṃ yathābhūtaṃ ñāṇaṃ, idha tathāgato pajānāti, atthekaccāni pāpakāni kammasamādānāni gatisampatti paṭibāḷhāni na vipaccanti, atthekaccāni pāpakāni kammasamādānāni upadhisampatti paṭibāḷhāni na vipaccanti, atthekaccāni pāpakāni kammasamādānāni kālasampatti paṭibāḷhāni na vipaccanti, atthekaccāni pāpakāni kammasamādānāni payogasampatti paṭibāḷhāni na vipaccanti. (abhi-2-351.)
 
@@ -7076,7 +7070,7 @@ Yaṃ kiñci abhisaṅkharaṇalakkhaṇaṃ, sabbaṃ taṃ ekato katvā saṅk
 
 **【文件：[227]行蕴论章/[237]暂且停下来思考一下.md】**
 
-### 暂且停下来思考一下
+#### 暂且停下来思考一下
 
 在过去各种生世中所造作、积累的种种不善(akusala)业(kamma)，可以说在每一个有情身上都或多或少地存在着。
 在你这位善男子的相续(santāna)中，也必定或多或少地存在着。
@@ -7122,7 +7116,7 @@ Yaṃ kiñci abhisaṅkharaṇalakkhaṇaṃ, sabbaṃ taṃ ekato katvā saṅk
 
 **【文件：[227]行蕴论章/[238]以譬喻说明.md】**
 
-### 以譬喻说明
+#### 以譬喻说明
 
 有一个男子，为国家承办了一件有益的事务，因而使国王欢喜。
 那时，国王赐给那男子一个官职，并把一处地方（janapada）作为享有城镇乡村赋税的食邑赐给他。
@@ -7144,7 +7138,7 @@ Yaṃ kiñci abhisaṅkharaṇalakkhaṇaṃ, sabbaṃ taṃ ekato katvā saṅk
 
 **【文件：[227]行蕴论章/[239]交织能喻与所喻而说明的方式.md】**
 
-### 交织能喻(upamāna)与所喻(upameyya)而说明的方式
+#### 交织能喻(upamāna)与所喻(upameyya)而说明的方式
 
 如同那男子因替国家做了某项事业、令国王欢喜而获得官阶地位那样，凡夫(puthujjana)也因某种善业(kusala)而生于神界、神境(deva)之时——应当记住。
 如同那男子破坏乡邑(janapada)、夺取住在乡邑的人们的财物时，某个财物主人连一句话也不敢、也无力对他说那样；这个男子生于神界、神境之时，不善业(akusala kamma)也得不到给予果报的机会之时——应当记住。
@@ -7244,7 +7238,7 @@ Yaṃ kiñci abhisaṅkharaṇalakkhaṇaṃ, sabbaṃ taṃ ekato katvā saṅk
 
 **【文件：[227]行蕴论章/[243]大索那长老的故事.md】**
 
-### 大索那(Mahāsoṇa)长老(thera)的故事
+#### 大索那(Mahāsoṇa)长老(thera)的故事
 
 (Abhi-ṭṭha-2-426。)
 
@@ -7378,7 +7372,7 @@ Yaṃ kiñci abhisaṅkharaṇalakkhaṇaṃ, sabbaṃ taṃ ekato katvā saṅk
 
 **【文件：[227]行蕴论章/[248]瓦答跋卡尼拘陀大长老的事迹.md】**
 
-### 瓦答跋卡尼拘陀(Vattabbakanigrodha)大长老的事迹(vatthu)
+#### 瓦答跋卡尼拘陀(Vattabbakanigrodha)大长老的事迹(vatthu)
 
 **尊者瓦答跋卡尼拘陀大长老**的事迹，义注(aṭṭhakathā)也在此处作了宣说——尊者瓦答跋卡尼拘陀大长老还是沙弥(sāmaṇera)的时候，婆罗门帝思(Brāhmaṇatissa)叛贼的大灾难明显地爆发了。
 瓦答跋卡尼拘陀沙弥，以及那位沙弥的戒师(upajjhāya)导师，都没有前往大海(samudda)的对岸=印度(India)那一边。
@@ -7522,7 +7516,7 @@ Anāyatanenaṭṭhānaṃ attabhāvānaṃ pamāṇaṃ natthi, Buddhānaṃ up
 
 **【文件：[227]行蕴论章/[253]朱拉苏达摩长老.md】**
 
-### "Cūḷasudhammatthera"
+#### 小善法长老"Cūḷasudhammatthera"
 
 库嗒甘纳王(Kūṭakaṇṇa)崇敬那位常住在吉利伽马甘纳(Girigāmakaṇṇa)之地的朱拉苏达摩大长老(Cūḷasudhamma Thera)。
 他把大长老当作自己的私有财物一般对待，极为虔敬崇仰。
@@ -7542,7 +7536,7 @@ Anāyatanenaṭṭhānaṃ attabhāvānaṃ pamāṇaṃ natthi, Buddhānaṃ up
 
 **【文件：[227]行蕴论章/[254]a-持三藏小龙长老.md】**
 
-### "持三藏(Tipiṭakadhara)小龙(Culanāga)长老(Thera)"
+#### "持三藏(Tipiṭakadhara)小龙(Culanāga)长老(Thera)"
 
 古德甘那王(Kūṭakaṇṇa)也珍爱持三藏小龙大长老。
 十分崇敬爱戴。
@@ -7572,7 +7566,7 @@ Anāyatanenaṭṭhānaṃ attabhāvānaṃ pamāṇaṃ natthi, Buddhānaṃ up
 
 **【文件：[227]行蕴论章/[254]b-未曾有的譬喻.md】**
 
-### 未曾有的譬喻（abbhūtopama）
+#### 未曾有的譬喻（abbhūtopama）
 
 过去的诸注释书阿阇梨，依据到达那四种成就（sampatti）之后、在给予果报时能够成立的意义，讲说了这个未曾有的譬喻。
 
@@ -7590,17 +7584,19 @@ Anāyatanenaṭṭhānaṃ attabhāvānaṃ pamāṇaṃ natthi, Buddhānaṃ up
 
 **【文件：[227]行蕴论章/[255]依《无碍解道》圣典的方式.md】**
 
-### 依《无碍解道(Paṭisambhidāmagga)》圣典的方式
+## 依《无碍解道(Paṭisambhidāmagga)》圣典的方式
 
 如此，首先已依《分别(Vibhaṅga)》圣典的方式，展示了佛陀的**第二力智之威力(dutiya-bala-ñāṇa)**，此外也应当依《无碍解道》圣典(Khu-9-271.)的方式来展示。
 
-#### (1) ahosi kammaṃ ahosi kammavipāko
+### 过去所培育的(6)种业
+
+#### (1) 过去有业过去有业果ahosi kammaṃ ahosi kammavipāko
 
 在过去世中造作过的业(kamma)，就在过去世中已经生起了；而那业则已在过去世中给出了果报。
 那种就在过去世中已经生起、并已在某一过去世中给出了果报的业，称为——ahosi kammaṃ ahosi kammavipāko——。
 即在某一过去世中已生起、并在某一过去世中已给出果报的业。(Abhi-ṭṭha-2-434.)
 
-#### (2) ahosi kammaṃ nāhosi kammavipāko
+#### (2) 过去有业过去没有业果ahosi kammaṃ nāhosi kammavipāko
 
 某一个体(puggala)造作了以现法受业(diṭṭhadhammavedanīya kamma)为首的许多业。
 在造作一个业时，(7)个速行(javana)当中，第一速行是能在现世中给出果报的现法受业。
@@ -7625,21 +7621,21 @@ Anāyatanenaṭṭhānaṃ attabhāvānaṃ pamāṇaṃ natthi, Buddhānaṃ up
 在那个体的相续(santati)中，于般涅槃死心(parinibbāna-cuti)之后，任何一种业的果报法都不再生起了。
 这样的业也称为——ahosi kammaṃ nāhosi kammavipāko = 业只是已经生起、却不给出果报的业——。(Abhi-ṭṭha-2-434.)
 
-#### (3) ahosi kammaṃ atthi kammavipāko
+#### (3) 过去有业现在有业果ahosi kammaṃ atthi kammavipāko
 
 某个业在过去世中已造作，而在此世中给出果报。那业称为——ahosi kammaṃ atthi kammavipāko = 已经生起、并在此世中正给出果报的业。(Abhi-ṭṭha-2-434.)
 
-#### (4) ahosi kammaṃ natthi kammavipāko
+#### (4) 过去有业现在无业果ahosi kammaṃ natthi kammavipāko
 
 某个业已经造作过了。
 就如上面第(2)项**ahosi kammaṃ nāhosi kammavipāko**——中所说的方式一样，达到了没有果报的状态。(即：众多现法受业当中不给出果报的那类现法受业，众多生受业当中不给出果报的那类生受业，众多无间业当中不能给出结生果报的那类无间业，众多等至业(samāpatti kamma)当中不给出果报的那类等至业。)
 那种业即是 ahosi kammaṃ natthi kammavipāko = 只是已经生起、却没有果报的那类业。(Abhi-ṭṭha-2-434.)
 
-#### (5) ahosi kammaṃ bhavissati kammavipāko
+#### (5) 过去有业未来有业果ahosi kammaṃ bhavissati kammavipāko
 
 某个业在过去世的种种时候曾被造作、积累，而在未来时中果报将会生起；那种业——ahosi kammaṃ bhavissati kammavipāko = 业已经生起、而果报法将会生起的业。(即后后受业。)(Abhi-ṭṭha-2-434.)
 
-#### (6) ahosi kammaṃ na bhavissati kammavipāko
+#### (6) 过去有业未来无业果ahosi kammaṃ na bhavissati kammavipāko
 
 某个业曾在某一过去世中被培育。
 那业将如前述方式一样，在未来时中达到没有果报的状态、达到不能给出果报的状态；那种业——ahosi kammaṃ na bhavissati kammavipāko = 业已经生起、而业的果报法将不会生起的业。(即那些在未来般涅槃死心之后已无力给出果报、于过去世种种时候曾被培育的后后受业。)(Abhi-ṭṭha-2-434.)
@@ -7647,23 +7643,25 @@ Anāyatanenaṭṭhānaṃ attabhāvānaṃ pamāṇaṃ natthi, Buddhānaṃ up
 这些便是过去所培育的(6)种业。
 佛陀在《无碍解道》圣典中继续开示了如今于现在(paccuppanna)所培育的(4)种业。
 
-#### (1) atthi kammaṃ atthi kammavipāko
+### 现在(paccuppanna)所培育的(4)种业
+
+#### (1) 现在有业现在有业果atthi kammaṃ atthi kammavipāko
 
 某个业就在此世中造作，并就在此世中给出果报。
 那业称为——atthi kammaṃ atthi kammavipāko = 业也现存、业的果报法也现存的业。(Abhi-ṭṭha-2-435.)(即现法受业。)
 
-#### (2) atthi kammaṃ natthi kammavipāko
+#### (2) 现在有业现在无业果atthi kammaṃ natthi kammavipāko
 
 某个业就在此世中造作，就在此世中培育。
 在那些业当中，包含许多具有应于现今现世中领受之果报的现法受业。
 那具有应就在现世中领受之果报的业，达到了没有给出果报之性质的状态。
 那业称为——atthi kammaṃ natthi kammavipāko = 业现存、而果报却没有的那类业。(即众多现法受业当中，若一个现法受业已给出果报，其余得不到给出果报机会的其他业。)
 
-#### (3) atthi kammaṃ bhavissati kammavipāko
+#### (3) 现在有业未来有业果atthi kammaṃ bhavissati kammavipāko
 
 某个业就在此现在世中造作，而在未来时中将给出果报；那种业——atthi kammaṃ bhavissati kammavipāko = 业也现存、果报也将会生起的那类业。(Abhi-ṭṭha-2-435.)
 
-#### (4) atthi kammaṃ na bhavissati kammavipāko
+#### (4) 现在有业未来无业果atthi kammaṃ na bhavissati kammavipāko
 
 某个业就在此现在世中造作、积累，因此业现在正现存着。
 然而那业在未来将达到没有给出果报之性质的状态。
@@ -7675,12 +7673,14 @@ Anāyatanenaṭṭhānaṃ attabhāvānaṃ pamāṇaṃ natthi, Buddhānaṃ up
 这(4)种业便是现在业的(4)种。
 佛陀也继续开示了未来业的(2)种。
 
-#### (1) bhavissati kammaṃ bhavissati kammavipāko
+### 未来业的(2)种
+
+#### (1) 未来有业未来有业果bhavissati kammaṃ bhavissati kammavipāko
 
 某个业，作为业的其自身也是未来的；那业的果报也是未来的。
 那种业——bhavissati kammaṃ bhavissati kammavipāko = 业将会生起、业的果报法也将会生起的业。(Abhi-ṭṭha-2-435.)
 
-#### (2) bhavissati kammaṃ na bhavissati kammavipāko
+#### (2) 未来有业未来无业果bhavissati kammaṃ na bhavissati kammavipāko
 
 某个业，作为业的其自身也是未来的。
 如前述方式一样，将在未来达到没有给出果报之性质的状态。
@@ -7698,7 +7698,7 @@ Anāyatanenaṭṭhānaṃ attabhāvānaṃ pamāṇaṃ natthi, Buddhānaṃ up
 
 **【文件：[227]行蕴论章/[259]种子与果实.md】**
 
-### 种子与果实
+## 种子与果实
 
 - Yādisaṃ vapate bījaṃ, tādisaṃ harate phalaṃ.
 - Kalyāṇakārī kalyāṇaṃ, pāpakārī ca pāpakaṃ. (Saṃ-1-229.)
@@ -7859,7 +7859,7 @@ Kammassakā māṇava sattā kammadāyādā kammayonī kammabandhū kammappaṭi
 
 **【文件：[227]行蕴论章/[265]编号(1)答案 - 寿命短.md】**
 
-### 编号(1)答案 - 寿命短
+#### 编号(1)答案 - 寿命短
 
 1。苏跋(Subha)少年……在这世间(loka)，无论是女人还是男人，某些人惯于杀害他人的性命，凶残暴戾，双手沾满鲜血，热衷于打杀折磨。
 对于一切有情(satta)毫无悲悯之心。
@@ -7948,7 +7948,7 @@ Kammassakā māṇava sattā kammadāyādā kammayonī kammabandhū kammappaṭi
 在因某个善业而生起结生之时，那杀生业已在这结生之中埋藏了令寿命短促的种种势力。
 意思是说，由于那种力用，结生者便寿命短促。
 
-### 另一种解说方式
+##### 另一种解说方式
 
 在犯下杀生业之时 ---
 
@@ -7964,7 +7964,7 @@ Kammassakā māṇava sattā kammadāyādā kammayonī kammabandhū kammappaṭi
 
 **【文件：[227]行蕴论章/[269]编号(2)答案 - 寿命长.md】**
 
-### 编号(2)答案 - 寿命长
+#### 编号(2)答案 - 寿命长
 
 苏跋(Subha)少年……在这世间(loka)，无论是女人还是男人，某些人舍弃杀害他人的性命、戒离杀害他人的性命，已放下棍杖，已放下武器，心怀惭愧，心怀悲悯，时时希望一切有情(satta)得享福利安乐。
 那戒离杀害他人性命的人，由于如此圆满地践行、如此善妙地确立的那种业(kamma)，在身体败坏、死亡之后的后世，投生到造善业者、善行(sucarita)之人的去处——天界。
@@ -8019,7 +8019,7 @@ Kammassakā māṇava sattā kammadāyādā kammayonī kammabandhū kammappaṭi
 
 **【文件：[227]行蕴论章/[270]编号(3)答案 - 疾病众多.md】**
 
-### 编号(3)答案 - 疾病众多
+#### 编号(3)答案 - 疾病众多
 
 苏跋(Subha)少年……在这世间，无论是女人还是男人，某些人惯于用手、用石块、用棍棒、用刀剑武器来折磨伤害有情(satta)；那惯于折磨伤害那些有情的人，由于如此圆满地践行、如此错谬地确立的那种业(kamma)，在身体败坏、死亡之后的后世，靠近堕入那没有安乐、造恶者与行恶行之人所去往、毫无自主意愿而杂乱崩解败坏地坠落其中的地狱(niraya)。
 在身体败坏、死亡之后的后世，倘若没有靠近堕入那没有安乐、造恶者与行恶行之人所去往、毫无自主意愿而杂乱崩解败坏地坠落其中的地狱，而是投生为人，那么无论生在哪一种族类之中，都会疾病众多。
@@ -8044,7 +8044,7 @@ Yaṃ yadevābhippatthenti, sabbametena labbhati. (Khu-1-10。)
 
 **【文件：[227]行蕴论章/[272]编号(4)答案 - 远离疾病.md】**
 
-### 编号(4)答案 - 远离疾病
+#### 编号(4)答案 - 远离疾病
 
 苏跋(Subha)少年……在这世间，无论是女人还是男人，某些人不惯于用手、用棍棒、用刀剑武器来折磨伤害有情(satta)；那不惯于折磨伤害那些有情的人，由于如此圆满地践行、如此善加确立的那种业(kamma)，在身体败坏、死亡之后的后世，得以往生到造善业者、行善行(sucarita)之人所去往的天界。
 在身体败坏、死亡之后的后世，倘若没有往生到造善业者、行善行之人所去往的天界，而是投生为人，那么无论生在哪一种族类之中，都远离疾病。
@@ -8067,7 +8067,7 @@ Yaṃ yadevābhippatthenti, sabbametena labbhati. (Khu-1-10。)
 
 **【文件：[227]行蕴论章/[273]编号(5)答案 - 相貌丑陋.md】**
 
-### 编号(5)答案 - 相貌丑陋
+#### 编号(5)答案 - 相貌丑陋
 
 苏跋(Subha)少年……在这世间，无论是女人还是男人，某些人容易生起忿怒瞋(dosa)恚，常常剧烈地恼怒＝常常心怀怨恨；一旦听到哪怕只是些许令人不快的话，便极其执着、黏滞不放＝（心想「竟敢对我这样说话吗」而极其执着、黏滞不放。）于是发怒，想要毁灭对方的种种心态不断涌现，处处与人作对、迎面相抗而立＝正面对抗＝惯于顶撞抗拒；他把发怒、想要毁灭对方、以及心中的不满，都明显地表现出来。
 那个瞋心炽盛的人，由于如此圆满地造作、如此错谬地确立的那种业(kamma)，在身体败坏、死亡之后的后世，堕入没有安乐、造恶者所去往、毫无意愿欲求而支离破碎、崩解坏灭、坠陷其中的地狱(niraya)。
@@ -8088,7 +8088,7 @@ Yaṃ yadevābhippatthenti, sabbametena labbhati. (Khu-1-10。)
 
 **【文件：[227]行蕴论章/[274]a-第(六)个答案 - 色相美丽端庄.md】**
 
-### 第(六)个答案 - 色相美丽端庄
+#### 第(6)个答案 - 色相美丽端庄
 
 苏跋(Subha)青年……在这世间，无论是女人还是男人，某些人不惯于生起忿怒瞋(dosa)、不惯于剧烈地烦恼＝不惯于结怨，即使被人说了不悦耳的话，也不会极其执著地黏着、不生气、没有想要毁坏对方的心态、不作对抗而与人相向＝不正面对抗，无论是生气、还是想要毁坏、还是不满，都不明显地表现出来。
 那位瞋不大的人，因这样圆满地修行、这样善加建立的那业(kamma)，在身体败坏、死亡之后的时期，往生到造善业者所往之天神界。
@@ -8103,7 +8103,7 @@ Yaṃ yadevābhippatthenti, sabbametena labbhati. (Khu-1-10。)
 
 **【文件：[227]行蕴论章/[274]b-编号(7)答案 - 没有随从.md】**
 
-### 编号(7)答案 - 没有随从
+#### 编号(7)答案 - 没有随从
 
 苏跋(Subha)少年……在这世间(loka)，无论是女人还是男人，某些人具有与嫉妒(issa)相应的心态 ＝ 具有见不得别人胜过自己的心态，对他人利养丰厚、获得利养、受人恭敬、受人尊重、受人珍视、受人礼拜、受人供养，心生嫉妒；凭嫉妒之力咒骂、伤害（他人）；把心系缚于嫉妒。那具有嫉妒、见不得别人胜过自己心态的人，由于如此圆满地践行、如此错谬地确立的那种业(kamma)，在身体败坏、死亡之后的后世，堕入毫无安乐、造恶业者所趣往、非自己所愿、支离破碎地崩解败坏而堕落之处的地狱(niraya)。
 若在身体败坏、死亡之后的后世，没有堕入毫无安乐、造恶业者所趣往、非自己所愿、支离破碎地崩解败坏而堕落之处的地狱，而是投生为人，那么无论生在哪一种族类之中，都会随从稀少。
@@ -8124,7 +8124,7 @@ Yaṃ yadevābhippatthenti, sabbametena labbhati. (Khu-1-10。)
 
 **【文件：[227]行蕴论章/[274]第(7)答 - 无有随从.md】**
 
-### 第(7)答 —— 没有随从
+#### 第(7)答 —— 没有随从
 
 苏跋(Subha)少年……在此世间(loka)，无论是女人还是男人，某些人怀有与嫉妒(issa)相应的心态 ＝ 怀有见不得别人胜过自己的心态，对他人利养丰厚、他人获得利养、受人恭敬礼遇、受人珍视、受人礼拜、受人供养，都心生嫉妒；凭嫉妒之力咒骂、伤害；把心系缚于嫉妒。那怀有嫉妒、见不得别人胜过自己心态的人，因如此圆满地践行、如此错谬地确立的那种业(kamma)，在身体败坏、命终之后的后世，堕入毫无安乐、造恶业者所趣往、无有意欲愿望而支离破碎地崩解败坏坠落之处的地狱(niraya)。
 若在身体败坏、命终之后的后世，没有堕入毫无安乐、造恶业者所趣往、无有意欲愿望而支离破碎地崩解败坏坠落之处的地狱，反而投生为人，那么无论生在哪一种族类之中，都会随从稀少。
@@ -8145,7 +8145,7 @@ Yaṃ yadevābhippatthenti, sabbametena labbhati. (Khu-1-10。)
 
 **【文件：[227]行蕴论章/[275]编号(8)答案 - 随从众多.md】**
 
-### 编号(8)答案 - 随从众多
+#### 编号(8)答案 - 随从众多
 
 苏跋(Subha)青年……在这世间，无论是女人还是男人，某些人具有不与嫉妒相应的心态（没有那种见不得别人胜过自己的心态），对于他人的利养丰厚、获得利养、受人恭敬、受人尊重、受人珍视、受人礼拜、受人供养，不生嫉妒；不因嫉妒之力而辱骂、伤害；不把心系缚于嫉妒；那远离嫉妒、远离嫉恨的人，因这样圆满修习、这样善加建立的那业(kamma)，在身体败坏、死亡之后的时期，往生到造善业者所往之天神界。
 在身体败坏、死亡之后的时期，若没有往生到造善业者所往之天神界，而投生为人，那么无论生在哪一种族类中，都会随从众多。
@@ -8166,7 +8166,7 @@ Yaṃ yadevābhippatthenti, sabbametena labbhati. (Khu-1-10。)
 
 **【文件：[227]行蕴论章/[276]编号(9)答案 - 财富微少.md】**
 
-### 编号(9)答案 - 财富微少
+#### 编号(9)答案 - 财富微少
 
 苏跋(Subha)少年……在这世间，无论是女人还是男人，某些人对沙门、对婆罗门，都不布施饭食、饮料、衣服、车乘、花、香、涂香、卧具住处、灯火；那个人由于如此圆满地践行、如此错谬地确立的、以那悭吝(macchariya)为主导的不善业(akusala kamma)，在身体败坏、死亡之后的后世，靠近堕入那没有安乐、造恶者所去往、毫无自主意愿而杂乱崩解败坏地坠落其中的地狱(niraya)。
 在身体败坏、死亡之后的后世，倘若没有靠近堕入那没有安乐、造恶者所去往、毫无自主意愿而杂乱崩解败坏地坠落其中的地狱，而是投生为人，那么无论生在哪一种族类之中，都会财富微少。
@@ -8192,7 +8192,7 @@ Yaṃ yadevābhippatthenti, sabbametena labbhati. (Khu-1-10。)
 
 **【文件：[227]行蕴论章/[277]编号(10)答案 - 财富丰足.md】**
 
-### 编号(10)答案 - 财富丰足
+#### 编号(10)答案 - 财富丰足
 
 苏跋(Subha)少年……在这世间，无论是女人还是男人，某些人对沙门(samaṇa)、对婆罗门(brāhmaṇa)，都布施饭食、饮料、衣服、车乘、花、香、涂香、卧具住处、灯火；那个人由于如此圆满地践行、如此善加确立的那业(kamma)，在身体败坏、死亡之后的后世，上生到造善者所去往的天界(devaloka)。
 在身体败坏、死亡之后的后世，倘若没有上生到造善者所去往的天界，而是投生为人，那么无论生在哪一种族类之中，都会财富丰足。
@@ -8214,7 +8214,7 @@ Tañca kho sīlavato vadāmi, no dussīlassa. Ijjhati bhikkhave sīlavato cetopa
 
 **【文件：[227]行蕴论章/[278]编号(11)答案 - 出身低劣.md】**
 
-### 编号(11)答案 - 出身低劣
+#### 编号(11)答案 - 出身低劣
 
 苏跋(Subha)少年……在这世间(loka)，无论是女人还是男人，某些人心性刚硬顽固强横，极其傲慢自大，对应当礼敬的人不礼敬，对应当出迎的人不出迎，对应当让座的人不让座，对应当让路的人不让路，对应当恭敬的人不恭敬，对应当敬重的人不敬重，对应当爱重的人不爱重，对应当供养的人不供养。
 那个人由于如此圆满地践行、如此错谬地确立的那种业(kamma)，在身体败坏、死亡之后的后世，堕入毫无安乐、造恶业者所趣往、非自己所愿、支离破碎地崩解败坏而堕落之处的地狱(niraya)。
@@ -8252,7 +8252,7 @@ Tañca kho sīlavato vadāmi, no dussīlassa. Ijjhati bhikkhave sīlavato cetopa
 
 **【文件：[227]行蕴论章/[279]编号(12)答案 - 出身高贵.md】**
 
-### 编号(12)答案 - 出身高贵
+#### 编号(12)答案 - 出身高贵
 
 苏跋少年(Subha)……在此世间,无论是女人还是男人,某些人的性情不粗暴刚硬,没有极大的我慢(māna)=没有高傲自大的傲慢,对值得礼敬的人礼敬,对值得迎接的人出门迎接,对值得让座的人让座,对值得让路的人让路,对值得恭敬的人恭敬,对值得敬重的人敬重,对值得爱重的人爱重,对值得供养的人供养。
 那个人,由于如此圆满地实行、如此善加建立的那个业(kamma),在身体败坏、命终之后的来世,便往生到行善者所趣往的天界世间。
@@ -8280,7 +8280,7 @@ Tañca kho sīlavato vadāmi, no dussīlassa. Ijjhati bhikkhave sīlavato cetopa
 
 **【文件：[227]行蕴论章/[281]编号(13)答案 - 缺乏智慧.md】**
 
-### 编号(13)答案 - 缺乏智慧
+#### 编号(13)答案 - 缺乏智慧
 
 苏跋少年(Subha)……在此世间，无论是女人还是男人，某些人在亲近沙门(samaṇa)、也亲近婆罗门(brāhmaṇa)之后，「尊者……」
 
@@ -8305,7 +8305,7 @@ Na paripucchitā hotīti ettha pana aparipucchanena niraye na nibbattati. Aparip
 
 **【文件：[227]行蕴论章/[282]编号(14)答案 - 智慧广大.md】**
 
-### 编号(14)答案 - 智慧广大
+#### 编号(14)答案 - 智慧广大
 
 苏跋少年(Subha)……在此世间，无论生为女人还是生为男人，某些人既亲近沙门(samaṇa)、也
 亲近婆罗门(brāhmaṇa)之后，「尊者……」
@@ -8621,7 +8621,7 @@ phassassa sampajjanamuppajjanameva = phassassa sampajjanaṃ uppajjanameva. (Anu
 
 **【文件：[227]行蕴论章/[292]遍一切心心所篇/[294]五门与意门.md】**
 
-### 五门(pañcadvārika)与意门(manodvārika)
+#### 五门(pañcadvārika)与意门(manodvārika)
 
 Vuttañhetaṃ aṭṭhakathāyaṃ --- "Catubhūmakaphasso hi no phusanalakkhaṇo nāma natthi. Saṅghaṭṭanaraso pana pañcadvārikova hoti, pañcadvārikassa hi phusanalakkhaṇotipi saṅghaṭṭanarasotipi nāmaṃ. Manodvārikassa phusanalakkhaṇotveva nāmaṃ, na saṅghaṭṭanaraso"ti. Idañca vatvā idaṃ suttaṃ ābhataṃ "Yathā mahārāja dve meṇḍā yujjheyyuṃ, tesu yathā eko meṇḍo, evaṃ cakkhu daṭṭhabbaṃ. Yathā dutiyo meṇḍo, evaṃ rūpaṃ daṭṭhabbaṃ. Yathā tesaṃ sannipāto, evaṃ phasso daṭṭhabbo. Evaṃ phusanalakkhaṇo ca phasso saṅghaṭṭanaraso ca. pa .
 
@@ -8898,7 +8898,7 @@ rūpāyatanaṃ cakkhuviññāṇadhātuyā taṃsampayuttakānañca dhammāna�
 在布施(dāna)善、持戒(sīla)善这方面，名为一境性(ekaggatā)的定心所(cetasika)也是相应参与其中的；然而在布施一事上由思(cetanā)主导，在持戒一事上由信(saddhā)主导。
 因此，应当记住：在上述定的上首特相这一说法中，特别所指的是止修习(samatha-bhāvanā)善、观修习(vipassanā-bhāvanā)善。
 
-### (乙) 不散逸特相(avisāra-lakkhaṇa), (丙) 不散乱特相(avikkhepa-lakkhaṇa)
+#### (乙) 不散逸特相(avisāra-lakkhaṇa), (丙) 不散乱特相(avikkhepa-lakkhaṇa)
 
 **avisāro** attano eva avisaraṇasabhāvo, **avikkhepo** sampayuttānaṃ dhammānaṃ avikkhittatā, yena sampayuttā avikkhittā honti, so dhammo avikkhepoti. (Mūlaṭī-1-88。 Mahāṭī-2-142。)
 
@@ -9062,7 +9062,7 @@ jīvanti tena taṃsampayuttakā dhammāti **jīvitaṃ**, anupālanalakkhaṇe 
 由于此命，相应诸法（即共生为伴的俱生诸法）得以存活、得以长寿，因此，那使相应诸法得以存活、得以长寿之因的体性法，即名为**命**。 
 因为在守护相应诸法使之存活、使之长寿的维持特相(anupālana-lakkhaṇa)上，相应诸法令其发挥自身的主宰作用，故名为**根(indriya)**。
 
-### anupālanalakkhaṇe indaṭṭhaṃ kāreti
+##### anupālanalakkhaṇe indaṭṭhaṃ kāreti
 
 命心所(cetasika)在守护相应诸法使之存活 = 维持特相这一事上，犹如令自身被拥立为王一般，使相应诸法赋予它「主宰者」这一职位，而相应诸法必须予以担当。 
 若没有命，相应诸法便不具备维持的体性，那维持的作业唯有命才能完成。 
@@ -9165,7 +9165,7 @@ saṅkhārakkhandhapariyāpanno, ārammaṇapaṭipādakattena sampayuttānaṃ 
 
 这个作意心所被包含于行蕴之中；由于它能整治所缘、令所缘显现、令[心]切实趋达所缘，故应如此忆持：犹如驾驭良种马(ājānīya)们的御者一般，它是能将相应诸法朝向所缘驱赶、使之奔向所缘的法（＝能将心＝将相应诸法朝向所缘掉转、推送出去的法）。
 
-### 作意（三）种
+#### 作意（三）种
 
 - 1、能整治所缘、令所缘显现、令所缘生起的**令所缘显现作意**，
 - 2、能整治心路心(vīthicitta)、令其显现、令其生起的**令心路显现作意(vīthipaṭipādakamanasikāra)**，
@@ -9188,7 +9188,7 @@ purimamanato visadisamanaṃ karotītipi **manasikāro**. (Abhi-ṭṭha-1-177�
 以上这些特相-作用等，并非那两种作意的特相-作用等。
 它们只是名为令所缘显现作意的作意心所的特相-作用等。
 
-### 令所缘显现作意 = 作意心所
+#### 令所缘显现作意 = 作意心所
 
 kiriyā kāro. manasmiṃ kāro **manasikāro**. (Abhi-ṭṭha-1-177。)
 
@@ -9220,7 +9220,7 @@ manamhi kāro **manasikāro**. (Visuddhi-2-96。)
 
 **【文件：[227]行蕴论章/[292]遍一切心心所篇/[316]彼因大长老的批注.md】**
 
-### 彼因大长老(Pyi Sayādaw)的批注
+#### 彼因大长老(Pyi Sayādaw)的批注
 
 唯以作意(manasikāra)心所(cetasika)作意，所缘(ārammaṇa)才显现；唯有以五门转向(pañcadvārāvajjana)、由前一心(citta)造作出后心的差别时（即：五门转向从先前的有分(bhavaṅga)心造作出有别于它的心路(vīthi)心相续时），才形成五门心路。
 同样，唯有以意门转向(manodvārāvajjana)、由前心造作出后心的差别时（即：意门转向从先前的有分心相续造作出有别于它的速行(javana)心相续时），才形成意门心路的速行，此即其义。
@@ -9245,7 +9245,7 @@ manamhi kāro **manasikāro**. (Visuddhi-2-96。)
 
 **【文件：[227]行蕴论章/[317]杂心所篇/[317b]一、寻.md】**
 
-### 1. 寻(vitakka)
+### 一、寻(vitakka)
 
 Vitakketīti **vitakko**, vitakkanaṃ vā vitakko, ūhananti vuttaṃ hoti.
 
@@ -9268,7 +9268,7 @@ Vitakketīti **vitakko**, vitakkanaṃ vā vitakko, ūhananti vuttaṃ hoti.
 
 **【文件：[227]行蕴论章/[317]杂心所篇/[318](甲)《弥林达问》巴利圣典.md】**
 
-### 《弥林达问(milindapañha)》巴利圣典
+#### 《弥林达问(milindapañha)》巴利圣典
 
 尊者龙军(nāgasena)大长老这样说道 --- 「寻(vitakka)具有起初敲击所缘的**敲击(ākoṭana)**特相。
 施主大王……如同起初敲击鼓那样，敲击之后在其后的时段里连续不断地鸣响那样、连续不断地发声那样；施主大王……正如这个譬喻一样，就像记住那起初的敲击那样，同样地，请记住那能起初敲击所缘的寻。
@@ -9288,7 +9288,7 @@ Vitakketīti **vitakko**, vitakkanaṃ vā vitakko, ūhananti vuttaṃ hoti.
 因此，就把所缘本身说为近因。
 换一种说法，应当记住：(1)依处(vatthu)、(2)所缘、(3)以触(phassa)为首的相应(sampayutta)诸法，正是近因。
 
-### 施动者成就(kattusādhana)——状态成就(bhāvasādhana)
+#### 施动者成就(kattusādhana)——状态成就(bhāvasādhana)
 
 **Vitakketī**ti dhammato aññassa kattunivattanatthaṃ dhammameva kattāraṃ niddisati. Tassa pana vasavattibhāvanivāraṇatthaṃ **"vitakkanaṃ vā"**ti bhāvaniddeso. (Mūlaṭī-1-88.)
 
@@ -9313,7 +9313,7 @@ Vitakketīti **vitakko**, vitakkanaṃ vā vitakko, ūhananti vuttaṃ hoti.
 
 **【文件：[227]行蕴论章/[317]杂心所篇/[319]不与寻相应的诸心取所缘的方式.md】**
 
-### 不与寻(vitakka)相应的诸心取所缘的方式
+#### 不与寻(vitakka)相应的诸心取所缘的方式
 
 双五识(dvepañcaviññāṇa)虽然不与那把心送上所缘的寻相应，但因为在眼依处(cakkhuvatthu)等处，色所缘(rūpārammaṇa)等五所缘的撞击十分显著，所以凭自身的力量便能登上所缘。
 意思是说：对于极为显著的所缘，寻无须再把相应法(sampayutta)（即与五识相应的诸法）送上去。
@@ -9337,7 +9337,7 @@ Vitakketīti **vitakko**, vitakkanaṃ vā vitakko, ūhananti vuttaṃ hoti.
 
 在下面接着陈述的大复注(Mahāṭīkā)尊师的裁定中，**paricayenā**ti santāne pavattavitakka bhāvanā saṅkhātena paricayena --- 这样的语句，正是可以为上述诸主张作依据的例证。
 
-### 大复注尊师的裁定
+#### 大复注尊师的裁定
 
 Yadi evaṃ kathaṃ avitakkaṃ cittaṃ ārammaṇaṃ ārohatīti? Vitakkabaleneva. Yathā hi so puriso paricayena tena vināpi nirāsaṅko rājagehaṃ pavisati, evaṃ paricayena vitakkena vināpi avitakkaṃ cittaṃ ārammaṇaṃ ārohati. **Paricayenā**ti ca santāne pavattavitakkabhāvanāsaṅkhātena paricayena. Vitakkassa hi santāne abhiṇhaṃ pavattassa vasena cittassa ārammaṇābhiruhaṇaṃ ciraparicitaṃ. Tena taṃ kadāci vitakkena vināpi tattha pavattateva. Yathā taṃ ñāṇasahitaṃ hutvā sammasanavasena ciraparicitaṃ kadāci ñāṇavirahitampi sammasanavasena pavattati, yathā vā kilesasahitaṃ hutvā pavattaṃ sabbaso kilesarahitampi paricayena kilesavāsanāvasena pavattati. Evaṃ sampadamidaṃ daṭṭhabbaṃ. <r>(mahāṭī-1-166.)</r>
 
@@ -9368,7 +9368,7 @@ Yadi evaṃ kathaṃ avitakkaṃ cittaṃ ārammaṇaṃ ārohatīti? Vitakkabal
 
 **【文件：[227]行蕴论章/[317]杂心所篇/[322]所谓安止.md】**
 
-### 所谓安止(appanā)
+#### 所谓安止(appanā)
 
 Tattha heṭṭhā vuttalakkhaṇādi vibhāgena appanā sampayogato rūpāvacarabhāvappattena vitakkena ceva vicārena ca saha vattati, rukkho viya pupphena ca phalena cāti idaṃ jhānaṃ "savitakkaṃ savicāra"nti vuccati. (abhi-ṭṭha-1-210.)
 
@@ -9412,7 +9412,7 @@ Vitakkassa kiccavisesena thirabhāvappatte paṭhamajjhānasamādhimhi paccanīk
 
 **【文件：[227]行蕴论章/[317]杂心所篇/[323]b-寻与伺.md】**
 
-### 寻(vitakka)与伺(vicāra) (abhi-ṭṭha-1-158.)
+#### 寻(vitakka)与伺(vicāra) (abhi-ṭṭha-1-158.)
 
 这寻、伺二者，虽在与寻相应的(55)种某些心中不离不弃地相应生起，但因在取所缘时具有粗的性质，又因是先行者，故如同敲击铜锣（钟）所最先发出的声音一般，能把相应(sampayutta)诸法朝所缘先行安置上去；因此，心在所缘上最先落下的这种性质，即是**寻**。
 
@@ -9559,7 +9559,7 @@ Tattha **ārambhadhātū**ti paṭhamavīriyaṃ vuccati. **Nikkamadhātū**ti k
 《大复注(mahāṭīkā)》中仅解释策励精进界与勇猛精进界，应知这是首示、末示(ādidīpaka, antadīpaka)的方式。
 另一种说法，应知这是鹿迹寻踪(migapadavalañjana)的方式。
 
-### 《摄义解语复注(saṅgahabhāsāṭīkā)》的解释
+#### 《摄义解语复注(saṅgahabhāsāṭīkā)》的解释
 
 Vīrassa ＝ 勇者的、bhāvo ＝ 成为、作为之因的性质法、vīriyaṃ ＝ 名为精进、etaṃ ＝ 此精进、ussāhalakkhaṇaṃ ＝ 具有对所受之苦咬牙忍受、恒常忍耐的特相——具足精勤精进者，对这般那般的事勇敢无畏；因此，成为勇者之因的正是精进。
 具足精进者，对于因做某件事务而将招致的苦(dukkha)，不惧不畏，具有堪忍之力。
@@ -9578,7 +9578,7 @@ Ussāho ＝ 名为奋励。**]** (saṅgahabhāsāṭīkā-100.)
 因此，精进即是沉没的对治法(paṭipakkhadhamma)＝相对立的性质法，名为不沉没(asaṃsīdana)。
 精进制伏、压迫、折服那名为懈怠＝沉没之法的种种懒惰积习，在布施、持戒、修习等这般那般的事务中遇事临头而不退缩——精进的这一性质，会现前显现在观察精进的禅修者个体之智中。（意即：仅仅是沉没的不存在这一性质，并非精进。）(mahāṭī-2-141.)
 
-### 悚惧近因(saṃvegapadaṭṭhāna) - 悚惧智
+#### 悚惧近因(saṃvegapadaṭṭhāna) - 悚惧智
 
 - 1. 生难(jātibhaya)＝须投生、住于结生(paṭisandhi)的大灾祸
 - 2. 老难(jarābhaya)＝须衰老的大灾祸
@@ -9622,7 +9622,7 @@ Ussāho ＝ 名为奋励。**]** (saṅgahabhāsāṭīkā-100.)
 
 **【文件：[227]行蕴论章/[317]杂心所篇/[331]懈怠依处经.md】**
 
-### 懈怠依处经(kusītārambhavatthusutta)
+#### 懈怠依处经(kusītārambhavatthusutta)
 
 诸比丘(bhikkhu) ……懈怠之因有此(8)种。
 若问是哪(8)种呢 ---
@@ -9791,7 +9791,7 @@ Pīṇayatīti **pīti**, sā ---
 
 **【文件：[227]行蕴论章/[317]杂心所篇/[338]踊跃喜.md】**
 
-### 踊跃喜(ubbegāpīti)
+#### 踊跃喜(ubbegāpīti)
 
 这踊跃喜由于力量强盛，能使这喜(pīti)所安住的色身向上腾飞，就像被风吹拂、飘浮在空中的棉团那样，具有令身体跳跃、飞升上空的力量。
 住在布纳瓦利卡(puṇṇavallika)地方的马哈帝思(mahātissa)大长老(mahāthera)，在满月之日的傍晚时分，走到坐落于布纳瓦利卡寺院内的塔(cetiya)院前，望着月光、面朝大塔，心想：“唉，在这样的时刻、从前的那时候，比库(bhikkhu)众、比库尼(bhikkhunī)众、近事男(upāsaka，优婆塞)众、近事女(upāsikā，优婆夷)众这四众，想必正在礼敬这大塔吧！”于是，凭着从前以自身本然亲眼所见过的所缘(ārammaṇa)之力，生起了以佛陀(buddha)为所缘的踊跃喜；就像抛落在硬地面上的天鹅绒球借着地面反弹而向上跃起那样，他飞升到空中，最终就落在大塔的塔院之上了。(阿毗-注-1-159。)
@@ -9829,7 +9829,7 @@ Pīṇayatīti **pīti**, sā ---
 
 **【文件：[227]行蕴论章/[317]杂心所篇/[340]喜与乐.md】**
 
-### 喜（pīti）与乐（sukha）
+#### 喜（pīti）与乐（sukha）
 
 Pīṇanarasāti paribrūhanarasā. Pharaṇarasāti paṇītarūpehi kāyassa byāpanarasā. <r>(Mahāṭī-1-168。)</r>
 
@@ -10028,11 +10028,11 @@ sabhāvapaṭicchādanavasena pakati-attādi-asantaggahaṇassa aniccādīnaṁ 
 sabhāvapaṭicchādavasena (sabhāvapaṭicchādanavasena) pakati-attādi-asantaggahaṇassa nissayattā nimittattā **asantaṁ bujjhati**, niccādivisamaggahaṇassa saññādivipariyesassa nissayattā **asamaṁ bujjhatī**ti moho vutto nimittassa kattubhāvena upacāritattā, ayañca attho diṭṭhisahitamohavasena daṭṭhabbo. ettha **pakatī**ti kāpilānaṁ padhānaṁ。 (anuṭī-1-127。)
 
 
-### (1) asantaṁ bujjhati = 了知实无显现存在之物。
+#### (1) asantaṁ bujjhati = 了知实无显现存在之物。
 
 由于痴凭借遮蔽、护藏究竟法所缘真实自性的力量，成为执取原初论（pakativāda）、我论（attavāda）等实无显现存在之诸论的所依原因，所以说 **asantaṁ bujjhati** = 就究竟义而言实无显现存在的原初（pakati）、我、有情（satta）、个体（puggala）等，它也会去了知。
 
-### (2) asamaṁ bujjhati = 不合齐、不平等地了知。
+#### (2) asamaṁ bujjhati = 不合齐、不平等地了知。
 
 痴把真实确然为无常（anicca）、苦（dukkha）、无我（anatta）、不净（asubha）的五蕴（khandhā）= 色（rūpa）名（nāma）诸法，不齐一地执取为常、乐、我、净——
 
@@ -10094,7 +10094,7 @@ sabhāvapaṭicchādavasena (sabhāvapaṭicchādanavasena) pakati-attādi-asant
 把对的也当作错的，而将背弃、掉头不顾。
 因此，才说这个痴是一切不善法的根基之因、根本法（mūla）。
 
-### 痴的（3）种
+#### 痴的（3）种
 
 那个痴有三种：潜伏痴（anusayamoha）、缠痴（pariyuṭṭhānamoha）、违犯痴（vītikkamamoha）。
 由于全部十种烦恼（kilesa）中都分为潜伏烦恼、缠烦恼、违犯烦恼三种，因此作为这十种烦恼之一部分的痴，也同样分为三种。
@@ -10124,7 +10124,7 @@ sabhāvapaṭicchādavasena (sabhāvapaṭicchādanavasena) pakati-attādi-asant
 这世间凡是一切愚昧，都唯独扎根在这个痴之中。
 
 
-### 大智者遭痴压制的情形
+#### 大智者遭痴压制的情形
 
 由于肤色如金般光泽，而得名金肤（haritaca）的菩萨（bodhisatta）大士，在父母双亲去世之时，舍弃了多达八十俱胝的庞大财富，前往雪山（himavanta）出家，做了仙人沙门；此后勤修圆满诸波罗蜜（pāramī），仅仅七日之内，便在禅那（jhāna）、神通（abhiññā）的境地上修得上乘、成就圆满。
 在雪山中，他以森林的树根、块茎、块根、野果为食，长久居住、修行；此后，为了摄取酸味与盐分，他从雪山下山，来到巴拉纳西（bārāṇasī）城，住在国王的御园中修行。
@@ -10166,7 +10166,7 @@ sabhāvapaṭicchādavasena (sabhāvapaṭicchādanavasena) pakati-attādi-asant
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[351]金肤本生（431）.md】**
 
-### 金肤（haritaca）本生（jātaka）（431）
+#### 金肤（haritaca）本生（jātaka）（431）
 
 身为天人与人类之师的佛陀，在祇陀林（jetavana）寺院安居期间，因见到一位装扮华丽的女子而想还俗的一位比丘为缘由，如此开示。
 
@@ -10174,7 +10174,7 @@ sabhāvapaṭicchādavasena (sabhāvapaṭicchādanavasena) pakati-attādi-asant
 确实如此——纵然是那些依凭此烦恼、紧随于正等正觉（sammāsambodhi）妙智之后不离不弃地追随、圆满修习积集一切妙波罗蜜（pāramī），从而证得五种世间神通（abhiññā）与八种等至（samāpatti）、持戒极其清净的伟大男子们，也曾因无法使正念现前安住，而使已证得的禅那（jhāna）消失隐没。
 ——如此开示之后，佛陀便回溯过去的本生因缘而加以讲说。
 
-### 放逸（pamāda）法
+#### 放逸（pamāda）法
 
 nāhaṃ bhikkhave aññaṃ ekadhammampi samanupassāmi, yo evaṃ mahato anatthāya saṃvattati, yathayidaṃ bhikkhave pamādo. pamādo bhikkhave mahato anatthāya saṃvattati. (aṃ-1-14.)
 
@@ -10186,7 +10186,7 @@ nāhaṃ bhikkhave aññaṃ ekadhammampi samanupassāmi, yo evaṃ mahato anatt
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[353]扛炭的大智者.md】**
 
-### 扛炭的大智者
+#### 扛炭的大智者
 
 为数三十的比丘们，在礼敬供养了咖利亚尼（kalyāṇī）大塔之后，沿着位于一片树林之内的林间道路、朝着大路方向下行走来时，在路途中间的一处地方，看见了一位在被火烧过的田地里干完活回来的施主（dāyaka）。
 那个人的全身都被木炭沾污，因而像木炭的颜色一样黑漆漆的。
@@ -10223,7 +10223,7 @@ nāhaṃ bhikkhave aññaṃ ekadhammampi samanupassāmi, yo evaṃ mahato anatt
 pamattassa ca nāma cattāro apāyā sakagehasadisā。 (dhammapada-ṭṭha-1-6。)
 对于那些在诸善法上惯常忘失懈怠、马虎随便地生活、被痴压制之人而言，四恶趣（apāya）之界，就如同自家的锅、自家的房一般。 (dhammapada-ṭṭha-1-6。)
 
-### 并非凡不知都是痴
+#### 并非凡不知都是痴
 
 虽然把“不知道”的性质称为痴，但对于未曾学过的技艺、未曾到过的地方、未曾记住的名字等等的那种不知道，只是单纯的不知道而已，并不是痴。
 那只是自己没有曾经记忆过的想（saññā）罢了。
@@ -10238,7 +10238,7 @@ pamattassa ca nāma cattāro apāyā sakagehasadisā。 (dhammapada-ṭṭha-1-6
 像这样，声闻们不能把世间、出世间的一切法彻底了知无余，并不是无明的遮盖，而只是自己智力薄弱而已。
 譬如——正如在正午的大白天里看不见远处的色所缘（rūpārammaṇa），并不是因为黑暗的遮蔽，而只是自己眼（cakkhu）力薄弱一样。
 
-### 厚 - 薄
+#### 厚 - 薄
 
 这无明经过层层推究，有厚薄之别；把“这是善、这是不善”这样连善不善都无法辨知都遮蔽起来的痴＝无明，是极其厚重的无明。
 如果能辨知善与不善，遇到不善之处便能回避，并且凡是善的都能去做，那么无明就已经相当薄了；然而，仅凭这一点，距离断尽无明还差得很远。
@@ -10334,14 +10334,14 @@ gāmasūkarassa viya asucito kilesāsucito ajigucchanaṁ ahirikena hoti, salabh
 由于痴一生起，无惭、无愧的性质也随之参与，因此就连大智者也会有时不知羞、不知惧地造作恶行。
 这番话是否属实，应当借某些以智者自居的善人们亲身经历之事来思量、审察一番。
 
-### 金肤（haritaca）仙人的事例
+#### 金肤（haritaca）仙人的事例
 
 在金肤仙人犯下欲邪行（kāmesumicchācāra）一事的经过里，痴的性质、无惭的性质、无愧的性质都昭然显露、十分明显。
 那位仙人本是证得禅那（jhāna）与神通（abhiññā）的第一流大善人；而他几乎日日都在犯的那桩事，正是在大王宫内、于众嫔妃之中、光天化日之下拉起帷幕遮蔽而僭越所犯的、真正可耻可畏的欲邪行大罪。
 即便如此不成体统之事，也因痴的遮蔽、无惭的不知羞、无愧的不知惧，令他彻底失手铸错，落得满城传闻不堪入耳、令人难堪的下场。
 然而，菩萨（bodhisatta）仙人有一处令人敬仰之点，是这样的。
 
-### 令人敬仰之处
+#### 令人敬仰之处
 
 so cintesi “ayaṁ rājā 'nāhaṁ paribhuñjāmī'ti vuttepi mama saddahissateva, imasmiṁ loke saccasadisī patiṭṭhā nāma natthi. ujjhitasaccā hi bodhimūle nisīditvā bodhiṁ pāpuṇituṁ na sakkonti, mayā saccameva kathetuṁ vaṭṭatī”ti. bodhisattassa hi ekaccesu ṭhānesu pāṇātipātopi adinnādānampi kāmesumicchācāropi surāmerayamajjapānampi hotiyeva, atthabhedakavisaṁvādanaṁ purakkhatvā musāvādo nāma na hoti, tasmā so saccameva kathento dutiyaṁ gāthamāha ---
 
@@ -10526,7 +10526,7 @@ so taṇhānadībhāvena vaḍḍhamāno sīghasotā nadī viya mahāsamuddaṃ 
 要记住，它是一种能提升人去获得极为高尚的生命（bhava）、极为殊胜的一种生命的、力量极其强大锐利的自性。
 想要涅槃（nibbāna）、想要观智（vipassanā）、道智（magga）、果智（phala）等殊胜妙法，想要精通三藏（piṭaka）典籍，想要行布施（dāna）而想要财物等等，这些在善事上的种种想要，也都是善欲。
 
-### 贪常用的其他名称
+#### 贪常用的其他名称
 
 佛陀曾以情感（pema）、渴爱、贪染（rāga）、集（samudaya）等种种名称来称说这个贪而作开示。(阿毗-1-215。)
 
@@ -10558,14 +10558,14 @@ so taṇhānadībhāvena vaḍḍhamāno sīghasotā nadī viya mahāsamuddaṃ 
 
 「盐水在后，逢渴便喝，越喝越喝，渴犹不解；情感一事，渴爱缠缚，那份爱恋，不见其过，不加思量，一爱便觉欢喜，初萌之爱，爱之常轨、爱之常情，正是爱的路数。 <r>（古贤诗）</r>
 
-### 能将人抛入恶趣的力量
+#### 能将人抛入恶趣的力量
 
 贪若得不到善的助力、单就其自身而言，那么纵使是极微小的贪，也具有能将人抛入恶趣的力量；譬如——只要是石头，哪怕是最小的一块小石子，一旦扔进水里，也必定会沉没下去。
 因此，在临命终之际，由于对配偶（夫妻）的贪着、对儿女以及某种财产事业的贪着，当贪的速行（javana）占据了临死速行的位置时，便可能堕入四恶趣——关于这一点，佛陀在下面的《燃烧方便经（Ādittapariyāya sutta）》中亲自作了开示。
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[367]燃烧方便经摘录.md】**
 
-### 燃烧方便（Ādittapariyāya）经摘录
+#### 燃烧方便（Ādittapariyāya）经摘录
 
 比丘们……我佛将为你们宣说名为燃烧方便的法的开示，你们要谛听那法的开示；比丘们……名为燃烧方便的这法的开示，指的是什么呢？
 
@@ -10664,7 +10664,7 @@ so taṇhānadībhāvena vaḍḍhamāno sīghasotā nadī viya mahāsamuddaṃ 
 **[**如同前面名业处（kammaṭṭhāna）部分所解说的那样：就依处（vatthu）而言，把大种色（bhūta-rūpa）、所造色（upādā-rūpa）也涵摄进来；就所缘而言，把色所缘、名所缘也全部涵摄进来；就识、触、受而言，把以识、触、受为首的一切名法也都涵摄进来，一并统摄而把握其要义。**]**
 
 
-### 次相执取（anubyañjanaggāha）、相执取（nimittaggāha）
+#### 次相执取（anubyañjanaggāha）、相执取（nimittaggāha）
 
 **anubyañjanaso nimittaggāho**ti “hatthā sobhanā pādā sobhanā”ti evaṃ anubyañjanavasena nimittaggāho. nimittaggāhoti saṃsandetvā gahaṇaṃ, anubyañjanaggāhoti vibhattigahaṇaṃ. nimittaggāho kumbhīlasadiso sabbameva gaṇhāti, anubyañjanaggāho rattapāsadiso vibhajitvā hatthapādādīsu taṃ taṃ koṭṭhāsaṃ. ime pana dve gāhā ekajavanavārepi labbhanti, nānājavanavāre vattabbameva natthi. <r>(saṃ-ṭṭha-3-50-51。)</r>
 
@@ -10672,7 +10672,7 @@ so taṇhānadībhāvena vaḍḍhamāno sīghasotā nadī viya mahāsamuddaṃ 
 以“是男人、是女人、是妻子、是丈夫、是儿子、是女儿、是孙儿”等等方式，执取男人、女人、妻子、丈夫、儿子、女儿、孙儿等人的整个身躯，并依所执取的那样、对整个身躯以喜爱、乐著缠绕系缚而安住、如此生起的心相续，就叫做**相执取**。 
 这名为次相执取、相执取的两种执著，即便在同一个速行（javana）之节的范围内也都能获得；至于在各别不同的速行之节当中，那就更不用说了。<r>(saṃ-ṭṭha-3-50-51。)</r>
 
-### 倘若就在那种时刻竟然死去
+#### 倘若就在那种时刻竟然死去
 
 **tasmiṃ ce samaye kālaṃ kareyyā**ti na koci saṃkiliṭṭhena cittena kālaṃ karonto nāma atthi. sabbasattānaṃ hi bhavaṅgeneva kālakiriyā hoti. kilesabhayaṃ pana dassento evamāha. samayavasena vā evaṃ vuttaṃ. cakkhudvārasmiñhi āpāthagate ārammaṇe rattacittaṃ vā duṭṭhacittaṃ vā mūḷhacittaṃ vā ārammaṇarasaṃ anubhavitvā bhavaṅgaṃ otarati, bhavaṅge ṭhatvā kālakiriyaṃ karoti. tasmiṃ samaye kālaṃ karontassa dveva gatiyo pāṭikaṅkhā, imassa samayassa vasenetaṃ vuttaṃ. (saṃ-ṭṭha-3-51.)
 
@@ -10690,7 +10690,7 @@ so taṇhānadībhāvena vaḍḍhamāno sīghasotā nadī viya mahāsamuddaṃ 
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[372]果咖离格尊者的贪.md】**
 
-### 果咖离格(kokālika)尊者的贪(lobha)
+#### 果咖离格(kokālika)尊者的贪(lobha)
 
 从前有一次，具足大威德的佛陀(buddha)住在沙瓦提(sāvatthi)国南端的祇陀林(jetavana)金寺、安住愉悦之时，果咖离格尊者来到世尊面前。
 
@@ -10810,7 +10810,7 @@ Pāpicchā bhante sāriputtamoggallānā, pāpikānaṃ icchānaṃ vasaṃ gat�
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[377]果咖离格尊者往昔前生的追忆.md】**
 
-### 果咖离格（kokālika）尊者往昔前生的追忆
+#### 果咖离格（kokālika）尊者往昔前生的追忆
 
 果咖离格尊者不只是在今生才因依仗口舌而招致毁灭，早在往昔的诸生里，也曾因依仗口舌而遭受过毁灭。
 
@@ -10831,7 +10831,7 @@ Pāpicchā bhante sāriputtamoggallānā, pāpikānaṃ icchānaṃ vasaṃ gat�
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[378]释迦族王子伍巴难达的贪.md】**
 
-### 释迦族(Sākya)王子伍巴难达(Upananda)的贪(lobha)
+#### 释迦族(Sākya)王子伍巴难达(Upananda)的贪(lobha)
 
 伍巴难达长老既是释迦族的一位王子，也具足美好的身相(upadhisampatti)，在说法讲经方面也善巧娴熟。
 因这位伍巴难达之故而制定的训练要素(sikkhāpada)也很多。
@@ -10885,7 +10885,7 @@ Pāpicchā bhante sāriputtamoggallānā, pāpikānaṃ icchānaṃ vasaṃ gat�
 当那两只水獭再三请求时，它便问道：「你们能遵从我的话吗」，两只水獭回答说能够遵从，它便把鱼分成三段，给一只水獭尾段、给另一只水獭头段，说道：「这中间一段嘛，属于在审判裁决(vinicchaya)机关中主持公道的我这位法官」，说完便叼起中段逃走了。
 那两只水獭也只得心中不悦、心里不快地望着那只豺，怔怔地站在原地。
 
-### 习气(vāsanā)的余习
+#### 习气(vāsanā)的余习
 
 那两位年轻比丘，在水獭之世也曾为分配不均的鱼肉而争夺过；如今又因毛料袈裟分配不均而争夺起来。
 再者，那位伍巴难达在豺之世也曾巧取豪夺过鱼肉。
@@ -10907,7 +10907,7 @@ Pāpicchā bhante sāriputtamoggallānā, pāpikānaṃ icchānaṃ vasaṃ gat�
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[380]（乙）旃遮摩那毗迦 = 旃遮摩那.md】**
 
-### 旃遮摩那毗迦（Ciñcamānavikā）= 旃遮摩那（Ciñcamāna）
+#### 旃遮摩那毗迦（Ciñcamānavikā）= 旃遮摩那（Ciñcamāna）
 
 旃遮摩那谎称怀孕、把肚子伪装鼓起，对佛陀（Buddha）作出无理不实的诬蔑指控。
 旃遮摩那的这种种心态，正是由于从过去的生死轮回（saṃsāra）中相续不断跟随而来、曾反复串习的潜伏（anusaya）界之气息的势力与威力所致。
@@ -10954,7 +10954,7 @@ Tassa mando alobho lobhaṃ pariyādātuṃ na sakkoti. (Abhi-ṭṭha-1-308.)
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[382]图勒难达比库尼的贪.md】**
 
-### 图勒难达(thullanandā)比库尼(bhikkhunī)的贪(lobha)
+#### 图勒难达(thullanandā)比库尼(bhikkhunī)的贪(lobha)
 
 正如因伍巴难达(upananda)尊者之故而制定了许多训练要素(sikkhāpada)一样，同样地，因图勒难达比库尼之故而制定的那些训练要素，也有很多。
 在那许多训练要素当中，有一条训练要素，就是因图勒难达比库尼的贪心过重而制定的**蒜训练要素(lasuṇasikkhāpada)**。
@@ -10990,7 +10990,7 @@ Tassa mando alobho lobhaṃ pariyādātuṃ na sakkoti. (Abhi-ṭṭha-1-308.)
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[383]味渴爱的力量.md】**
 
-### 喜爱味道(rasataṇhā)的力量
+#### 喜爱味道(rasataṇhā)的力量
 
 佛陀(Buddha)依止王舍城(rājagaha)、住在竹林(Veluvana)精舍安居时，一位财富丰盈、极为富有安乐的大富翁的独生子——名叫帝思(Tissa)的富家子——前往竹林精舍，聆听了佛陀的教法之后，想要出家为比库(bhikkhu)的心念便一再地生起；他虽向父母请求许可，却得不到出家的允许，于是就像护国(Raṭṭhapāla)那位良家子一样，接连绝食七天以示抗议，父母这才允许他出家为比库。
 
@@ -11025,7 +11025,7 @@ Tassa mando alobho lobhaṃ pariyādātuṃ na sakkoti. (Abhi-ṭṭha-1-308.)
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[385]涂蜜草.md】**
 
-### 涂蜜草
+#### 涂蜜草
 
 在很久以前的某一过去世，巴拉纳西（Bārāṇasī）城的君主梵授王（Brahmadatta）身边，有一位名叫山吒亚（Sañjaya，＝Siñjaya）的园丁。
 那时，有一头因能像风一样迅疾奔跑而得名瓦达弥嘎（Vātamiga）的鹿，来到那座王家园林时，看见山吒亚便逃走了。
@@ -11075,7 +11075,7 @@ Tassa mando alobho lobhaṃ pariyādātuṃ na sakkoti. (Abhi-ṭṭha-1-308.)
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[387]（乙）善慧仙人.md】**
 
-### 善慧（sumedha）仙人
+#### 善慧（sumedha）仙人
 
 距今四阿僧祇又十万大劫以前，名叫善慧的智者善士登上华美的宫殿，结跏趺坐，如此思惟道：---
 
@@ -11121,7 +11121,7 @@ Tassa mando alobho lobhaṃ pariyādātuṃ na sakkoti. (Abhi-ṭṭha-1-308.)
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[387]（甲）得善助力便不能坠入恶趣的情形.md】**
 
-### 得到善（kusala）的助力便不能被抛入恶趣（apāya）的情形
+#### 得到善（kusala）的助力便不能被抛入恶趣（apāya）的情形
 
 尽管彼此之间相亲相爱、贪爱亲昵之法（taṇhā-pema）显现分明，但如果得到善行善业的助力，那种贪爱亲昵便再没有足以把人抛入恶趣的力量了。
 譬如——一块石头，若单单只有它自己，抛入水中便会沉没；然而若得到船的助力，便不再沉入水中，而是随顺着船、载在船上（漂行），正如此理。
@@ -11130,7 +11130,7 @@ Tassa mando alobho lobhaṃ pariyādātuṃ na sakkoti. (Abhi-ṭṭha-1-308.)
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[389]苏蜜妲良家女的贪.md】**
 
-### 苏蜜妲（Sumittā）良家女的贪（lobha）
+#### 苏蜜妲（Sumittā）良家女的贪（lobha）
 
 苏蜜妲良家女也在燃灯佛（Dīpaṅkara）的足下俯身伏地，为了协助善慧（Sumedha）苦行者获得一切知智（sabbaññutañāṇa）＝正自觉智（sammāsambodhiñāṇa），而发愿祈求要帮他圆满波罗蜜（pāramī）。
 想要成为善慧苦行者之妻、贪恋执著于妻室身分之存在的渴爱（taṇhā）贪法，虽然确实曾明显存在于苏蜜妲良家女＝亚寿塔拉长老尼（Yasodharā Therī）这位候补菩萨（bodhisatta）的相续（santāna）之中，但那样的渴爱贪，并没有强到足以把她抛入恶趣（apāya）。
@@ -11188,7 +11188,7 @@ Ijjhati bhikkhave sīlavato cetopaṇidhi visuddhattā. (Aṅ-3-71.)
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[392]那拘罗父与那拘罗母.md】**
 
-### 那拘罗父（Nakulapitā）与那拘罗母（Nakulamātā）
+#### 那拘罗父（Nakulapitā）与那拘罗母（Nakulamātā）
 
 在佛陀（Buddha）在世的时代，于跋伽（Bhagga）地方的鳄鱼城（Susumāra），有一位名叫那拘罗父的著名富翁，以及名叫那拘罗母的富翁夫人；他们从过去许多世以来便不曾分离，直到今生初次得见佛陀的那一刻，就都已成为须陀洹（Sotāpanna）了。
 这对夫妻二人，在过去许多世里，曾以菩萨（Bodhisatta）父母的身份、以伯父伯母的身份、以叔父姨母的身份与他共同生活，因此把佛陀当作亲生儿子般疼爱，极为熟稔亲近，凡是想向佛陀禀白的事，都毫无保留地禀白。
@@ -11229,7 +11229,7 @@ Yatohaṃ bhante Nakulapituno gahapatissa daharasseva daharā ānītā, nābhij�
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[393]强依止缘的力量.md】**
 
-### 强依止缘（upanissaya paccaya）的力量
+#### 强依止缘（upanissaya paccaya）的力量
 
 akusalo dhammo kusalassa dhammassa upanissayapaccayena paccayo. pakatūpanissayo --- rāgaṃ upanissāya dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti, jhānaṃ uppādeti, vipassanaṃ uppādeti, maggaṃ uppādeti, abhiññaṃ uppādeti, samāpattiṃ uppādeti. pa. rāgo saddhāya, sīlassa, sutassa, cāgassa, paññāya upanissayapaccayena paccayo. (paṭṭhāna-1-149.)
 
@@ -11250,11 +11250,11 @@ akusalo dhammo kusalassa dhammassa upanissayapaccayena paccayo. pakatūpanissayo
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[394]昂格布大长老的《孔雀经》诠释.md】**
 
-### 昂格布大长老的《孔雀经(Mora Sutta)》诠释
+#### 昂格布大长老的《孔雀经(Mora Sutta)》诠释
 
 如同《本生(jātaka)义注》第二册第(29)页等处所记载的那样，为了鲜明地显示贪(rāga)之罗网如何折磨、逼迫众生、使之染污困苦，(作者)以富于文采的庄严辞藻缀写而成——这是从根本大门派(Mūla-Mahādvāra-nikāya)第五代教主昂格布大长老所著的**《昂格布诗歌精华论 第一册》**——第(8-20)页中摘录、书写呈献的。
 
-### namo buddhassa.
+#### namo buddhassa.
 
 1。至上的牟尼(muni)、释迦族(sākiya)的不死甘露、超越一切羁束的转轮王顶冠、光焰炽盛、头顶威光高悬、犹如无数金刚宝珠般璀璨夺目、形貌庄严圆满、威德巍巍令人瞻仰不尽、无可比拟而独一无二、不假宝冠即自成(sayambhū)、名声如雷般轰响震动整个铁围山(cakkavāḷa)世界、遍传十方的世间怙主(lokanātha)——至尊世尊……
 
@@ -11348,7 +11348,7 @@ akusalo dhammo kusalassa dhammassa upanissayapaccayena paccayo. pakatūpanissayo
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[402]难词释义.md】**
 
-### 难词释义
+#### 难词释义
 
 至此，安噶普（Aṅgapū）大长老尊者的《孔雀经（Mora sutta）》护卫诗颂便告结束。为便于记诵，在撰写难词释义时，把这篇护卫诗颂分成（38）段来列示。
 第（1）段整段之内所含各字词的难词释义，都汇集在第（1）号之下，按（甲-乙-丙）等分列写出。
@@ -11386,7 +11386,7 @@ akusalo dhammo kusalassa dhammassa upanissayapaccayena paccayo. pakatūpanissayo
   - (丁) sūriya = 太阳。（犹如烈日照拂着芦苇墙的房舍一般。）
   - (戊) 领受八愿者 = 从世尊处领受（8）项恩赐的阿难德（Ānanda）尊者，
 
-### 领受八愿的阿难德尊者
+#### 领受八愿的阿难德尊者
 
 - 1。 bahussuta etadagga = 在多闻博识方面居首位、名列第一（etadagga）的殊胜称号，
 - 2。 satimanta etadagga = 在念力优良方面居首位的殊胜称号，
@@ -11457,7 +11457,7 @@ akusalo dhammo kusalassa dhammassa upanissayapaccayena paccayo. pakatūpanissayo
   - (丁) nāyaka 六德 = （6）种领导者德行（nāyaka-guṇa），
   - (戊) 七组不退法 = 使诸王不衰退、不败坏之（7）种不退法（aparihāniya），
 
-### (乙) 四种摄事之法
+#### (乙) 四种摄事之法
 
 诸比库……能摄受提携世间的「摄事（saṅgaha-vatthu）」便是这四种。是哪四种呢——
 
@@ -11475,14 +11475,14 @@ akusalo dhammo kusalassa dhammassa upanissayapaccayena paccayo. pakatūpanissayo
 
 由于智者们善加观察思择这四种摄事，因而臻于尊贵；那些智者便成为值得称赞的人。（增支部-1-341。）
 
-### 摄事之四种法
+##### 摄事之四种法
 
 - 1。 sassamedha = 按十分抽一征收赋税，
 - 2。 purisamedha = 向官吏属员发放薪俸口粮，
 - 3。 sammāpāsa = 拨发资财给贫苦百姓，供其在三年之内无息作本钱周转，
 - 4。 vācāpeyya = 说可亲可爱之言，（增支部-3-2。增支部注-3-193-194。《慈爱经》。）
 
-### (丙) dasa rājadhamma = （10）种治国之法
+#### (丙) dasa rājadhamma = （10）种治国之法
 
 dānaṃ sīlaṃ pariccāgaṃ, ajjavaṃ maddavaṃ tapaṃ.
 akkodhaṃ avihiṃsañca, khantiñca avirodhanaṃ.（小部-6-97。）
@@ -11500,7 +11500,7 @@ akkodhaṃ avihiṃsañca, khantiñca avirodhanaṃ.（小部-6-97。）
 
 这便是（10）种治国之法。（本生注-5-403。）
 
-### (丁) 领导者德行（6）种
+#### (丁) 领导者德行（6）种
 
 - 1。 khamā = 忍耐 = 具足忍耐（khanti）之法，
 - 2。 jāgariyānuyoga = 与警寤相应 = 保持警醒觉寤 = 最低限度也在夜晚三时之中仅睡一时，其余时间唯精勤修习以止（samatha）、观（vipassanā）为首的沙门修行诸法，
@@ -11511,7 +11511,7 @@ akkodhaṃ avihiṃsañca, khantiñca avirodhanaṃ.（小部-6-97。）
 
 奋发、警醒；慈悯、忍耐；辨施、审察；这六者，便是为尊长者应行之法。
 
-### (戊) 七组不退法 = 使诸王不衰退之（7）种法
+#### (戊) 七组不退法 = 使诸王不衰退之（7）种法
 
 那时，阿难德尊者正为世尊打扇送风，侍立在世尊身后；那时，世尊便对阿难德尊者说道——
 
@@ -11539,7 +11539,7 @@ akkodhaṃ avihiṃsañca, khantiñca avirodhanaṃ.（小部-6-97。）
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[408]阿萨咖本生的摘录.md】**
 
-### 阿萨咖（assaka）本生（jātaka）的摘录
+#### 阿萨咖（assaka）本生（jātaka）的摘录
 
 就如同当今这难得的时节里，那些出家人被家中的妻子劝逼还俗的情形一样，在佛陀住世之时，也曾有一位比库（bhikkhu）被昔日的旧妻以将要还俗为由加以诱哄，因此（佛陀）便讲说了这则阿萨咖本生。
 
@@ -11619,7 +11619,7 @@ Sā kho mahārāja rūpasmiṃ yeva mattā pamādamāgamma kalyāṇakammaṃ ak
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[411]前世曾经共同生活.md】**
 
-### 前世曾经共同生活
+#### 前世曾经共同生活
 
 名为善贤（bhaddā）·衮达喇给萨（kuṇḍalakesā）长老尼（therī）的这位即将成为阿拉汉（arahat）长老尼者，其在人间的生平经历，也委实是一桩值得引生悚惧（saṃvega）之感的事。
 善贤是拥有约四十倶胝（koṭi）、即约合四亿这等巨额财富的富裕父母的独生女，是他们唯一的宝贝女儿。
@@ -11640,7 +11640,7 @@ Sā kho mahārāja rūpasmiṃ yeva mattā pamādamāgamma kalyāṇakammaṃ ak
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[413]诳 - 谄.md】**
 
-### 诳（māyā） - 谄（sāṭheyya）
+#### 诳（māyā） - 谄（sāṭheyya）
 
 santadosapaṭicchādanalakkhaṇā **māyā**, asantaguṇasambhāvanalakkhaṇaṃ **sāṭheyyaṃ**. (Mahāṭī-1-84.)
 
@@ -11702,7 +11702,7 @@ santadosapaṭicchādanalakkhaṇā **māyā**, asantaguṇasambhāvanalakkhaṇ
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[415]猫誓本生.md】**
 
-### 猫誓（Bilāravata）本生
+#### 猫誓（Bilāravata）本生
 
 高居三界之顶的一切知正等觉佛陀（Buddha），在揭德林（Jetavana）金寺安住、欢喜自在地居住之时，缘于一位比库（bhikkhu）而宣说了这则猫誓本生——这位比库自身相续中其实并不真正具备戒（sīla）、定（samādhi）、慧（paññā）三学的殊胜修行，却装作具备的模样，惯常在施主（dāyaka）与女施主（dāyikā）们的心相续中制造出令人惊奇的景象。
 
@@ -11775,7 +11775,7 @@ santadosapaṭicchādanalakkhaṇā **māyā**, asantaguṇasambhāvanalakkhaṇ
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[418]相 - 作用 - 现起.md】**
 
-### 相 - 作用 - 现起
+#### 相 - 作用 - 现起
 
 - 1、把本是无常（anicca）的五蕴当作常（nicca），
 - 2、把本是苦（dukkha）的五蕴当作乐（sukha），
@@ -11814,7 +11814,7 @@ santadosapaṭicchādanalakkhaṇā **māyā**, asantaguṇasambhāvanalakkhaṇ
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[419]不会偏差的行道.md】**
 
-### 不会偏差的行道
+#### 不会偏差的行道
 
 在此，趁着时机合适，请让我接着介绍佛陀(Buddha)的一套教育方法：有一次，佛陀与众多比库(bhikkhu)僧团一起，在考瑟勒(kosala)地方巡游游行时，到达了一个名叫娑罗(sāla)的婆罗门村庄。
 那娑罗村坐落在考瑟勒地方中心枢纽的大道旁，位于一片大森林的入口处。
@@ -11941,7 +11941,7 @@ atthi pana vo gahapatayo koci manāpo satthā, yasmiṃ vo ākāravatī saddhā 
 如此一来，那人善加执取受持的、这个名为不偏之法、不会偏差的、必定有果报的行道，遍布于两个方面而存立，回避了不善的层面、使其荡然无存。(ma-2-62-66.)
 
 
-### 于两方面都不落败的情形
+#### 于两方面都不落败的情形
 
 这个以正见为主导的有论，便是自宗 = 教育(sāsana)之内的言论。
 以邪见为主导、否弃业与业之果报的虚无论，便是他宗 = 教育之外的言论。
@@ -11954,7 +11954,7 @@ atthi pana vo gahapatayo koci manāpo satthā, yasmiṃ vo ākāravatī saddhā 
 对于其余的邪见言论，也请依此方法而领会。(ma-ṭṭha-3-82.)
 
 
-### 决定邪见(niyatamicchādiṭṭhi)者
+#### 决定邪见(niyatamicchādiṭṭhi)者
 
 大邪见有三种：虚无见、未做见(akiriyadiṭṭhi)、无因见(ahetukadiṭṭhi) ---
 
@@ -11990,7 +11990,7 @@ atthi pana vo gahapatayo koci manāpo satthā, yasmiṃ vo ākāravatī saddhā 
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[426]虚无见大信徒南达咖.md】**
 
-### 虚无见（natthikadiṭṭhi）大信徒南达咖（Nandaka）
+#### 虚无见（natthikadiṭṭhi）大信徒南达咖（Nandaka）
 
 统治苏拉塔（Suraṭṭha）地方的宾嘎喇王（Piṅgala）手下，有一位名叫南达咖的大将军。
 宾嘎喇王与南达咖大将军二人，是彻底不接受业（kamma）与业的果报之法的决定邪见（niyatamicchādiṭṭhi）＝虚无见的大信徒。
@@ -12080,7 +12080,7 @@ ime nava vidhā mānā. (阿毗-2-404。)
 
 在那（3）种个体当中，每一种个体的相续中各有（3）种慢。
 
-### 胜个体的（3）种慢
+#### 胜个体的（3）种慢
 
 在胜个体的相续中 ---
 
@@ -12091,13 +12091,13 @@ ime nava vidhā mānā. (阿毗-2-404。)
 如此便有（3）种。
 同样地，在等个体的相续中也有（3）种慢。
 
-### 等个体的（3）种慢
+#### 等个体的（3）种慢
 
 - 1。以在财物荣华、慧德望等方面低于自己者为所缘，认为「我胜过你们、更尊胜」，如此认定、起慢，即胜慢，
 - 2。以与自己相等者为所缘，认为「我与你们相同 = 都一样」，如此认定 = 起慢，即等慢，
 - 3。以在任何方面都胜过自己、居于上位者为所缘 -「我低于你们、居于其下 = 纵然卑下又有什么好在意的」--- 如此认定 = 起慢，即劣慢，如此便有（3）种。
 
-### 劣个体的（3）种慢
+#### 劣个体的（3）种慢
 
 在劣个体的相续中也是 ---
 
@@ -12121,13 +12121,13 @@ ime nava vidhā mānā. (阿毗-2-404。)
 
 即使在地位德望、财富财物等方面落于下风，具慢性者也 --- 「他们纵然胜过我，我又何必在意；我有才吃得着，我做才得得到，凭什么要对谁低声下气」，虽无法与人抗衡，却依然照样起慢。
 
-### 常见的种种慢
+#### 常见的种种慢
 
 **生慢（jātimāna） ---** 因出身种姓高贵而生起的慢，称为「生慢」。
 当今之世，出身相当良好的人是有的；然而，出身高贵到足以生慢、足以摆出大架子、足以把对方踩在脚掌之下的人，却实在罕见。
 即便生于大族大姓、大血统而出身高贵，那出身高贵者若能不起慢，而把真实的慈爱（mettā）之法、纯净正直的悲悯（karuṇā）之法置于前头，以温和圆融、柔软细腻、婉转甜美的言语，凡事随顺融洽地行持，那么下层的人们岂不更加喜爱、敬信、尊重而爱戴他吗？
 
-### 值得效法的佛陀（Buddha）的大悲
+#### 值得效法的佛陀（Buddha）的大悲
 
 **苏尼德长老（Sunīta Thera）**的前身、那位良家子，在某一生中，依《小业分别经（Cūḷakammavibhaṅgasutta）》的开示看来，似乎慢心极重。
 而在这最后一生中，他却成了以掏粪清污为业谋生、出身卑贱的人。
@@ -12195,7 +12195,7 @@ ehi bhikkhu ...svākkhāto dhammo, cara brahmacariyaṃ sammā dukkhassa antakir
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[434]捕蛇喻学习法.md】**
 
-### 捕蛇喻学习法
+#### 捕蛇喻学习法
 
 学习教理（pariyatti）法义的方法有三种。
 
@@ -12205,7 +12205,7 @@ ehi bhikkhu ...svākkhāto dhammo, cara brahmacariyaṃ sammā dukkhassa antakir
 
 如是，教导教理法义的方法有三种。
 
-### 1。捕蛇喻教理学习法
+##### 一、捕蛇喻教理学习法
 
 seyyathāpi bhikkhave puriso alagaddatthiko alagaddagavesī alagaddapariyesanaṃ caramāno, so passeyya mahantaṃ alagaddaṃ, tamenaṃ bhoge vā naṅguṭṭhe vā gaṇheyya, tassa so alagaddo paṭiparivattitvā hatthe vā bāhāya vā aññatarasmiṃ vā aṅgapaccaṅge ḍaṃseyya, so tatonidānaṃ maraṇaṃ vā nigaccheyya maraṇamattaṃ vā dukkhaṃ. taṃ kissa hetu, duggahitattā bhikkhave alagaddassa. evameva kho bhikkhave idhekacce moghapurisā dhammaṃ pariyāpuṇanti suttaṃ geyyaṃ veyyākaraṇaṃ gāthaṃ udānaṃ itivuttakaṃ jātakaṃ abbhutadhammaṃ vedallaṃ. te taṃ dhammaṃ pariyāpuṇitvā tesaṃ dhammānaṃ paññāya atthaṃ na upaparikkhanti, tesaṃ te dhammā paññāya atthaṃ anupaparikkhataṃ na nijjhānaṃ khamanti, te upārambhānisaṃsā ceva dhammaṃ pariyāpuṇanti itivādappamokkhānisaṃsā ca, yassa catthāya dhammaṃ pariyāpuṇanti. tañcassa atthaṃ nānubhonti, tesaṃ te dhammā duggahitā dīgharattaṃ ahitāya dukkhāya saṃvattanti. taṃ kissa hetu, duggahitattā bhikkhave dhammānaṃ. <r>(ma-1-186。)</r>
 
@@ -12241,7 +12241,7 @@ seyyathāpi bhikkhave puriso alagaddatthiko alagaddagavesī alagaddapariyesana�
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[436]具足九支的教理法.md】**
 
-### 具足九个支分的教理法（pariyatti）
+###### 具足九个支分的教理法（pariyatti）
 
 此处，为了教理基础薄弱的人们，再稍加解释并陈述具足九个支分的教理法的内容。
 
@@ -12266,7 +12266,7 @@ seyyathāpi bhikkhave puriso alagaddatthiko alagaddagavesī alagaddapariyesana�
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[437]2。以出离为目的的教理学习法.md】**
 
-### 二、以出离为目的（nissaraṇatthā）的教理（pariyatti）学习法
+##### 二、以出离为目的（nissaraṇatthā）的教理（pariyatti）学习法
 
 yā pana suggahitā, sīlakkhandhādipāripūriṃ yeva ākaṅkhamānena pariyāputā, na upārambhādihetu, ayaṃ **nissaraṇatthā**. yaṃ sandhāya vuttaṃ --- “tesaṃ te dhammā suggahitā dīgharattaṃ hitāya sukhāya saṃvattanti. taṃ kissa hetu? suggahitattā bhikkhave dhammāna”nti. (abhi-ṭṭha-1-24。)
 
@@ -12311,7 +12311,7 @@ yā pana suggahitā, sīlakkhandhādipāripūriṃ yeva ākaṅkhamānena pariy�
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[439]连诸法也应舍弃.md】**
 
-### dhammāpi vo pahātabbā
+###### dhammāpi vo pahātabbā
 
 **dhammāpi vo pahātabbā**ti ettha **dhammā**ti samathavipassanā. bhagavā hi samathepi chandarāgaṃ pajahāpesi, vipassanāyapi. samathe chandarāgaṃ kattha pajahāpesi? “iti kho udāyi nevasaññānāsaññāyatanassapi pahānaṃ vadāmi, passasino tvaṃ udāyi taṃ saṃyojanaṃ aṇuṃ vā thūlaṃ vā, yassāhaṃ no pahānaṃ vadāmī”ti ettha samathe chandarāgaṃ pajahāpesi. “imaṃ ce tumhe bhikkhave diṭṭhiṃ evaṃ parisuddhaṃ evaṃ pariyodātaṃ na allīyetha na kelāyetha na dhanāyethā”ti ettha vipassanāya chandarāgaṃ pajahāpesi. idha pana ubhayattha pajahāpento” dhammāpi vo pahātabbā, pageva adhammā”ti āha.
 
@@ -12350,7 +12350,7 @@ yo pana buddhavacanaṃ uggaṇhitvā sīlassa āgataṭṭhāne sīlaṃ pūret
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[441]库藏教理学习法.md】**
 
-### 库藏教理（bhaṇḍāgārika pariyatti）学习法
+##### 三、库藏教理（bhaṇḍāgārika pariyatti）学习法
 
 yaṃ pana pariññātakkhandho pahīnakileso bhāvitamaggo paṭividdhākuppo sacchikatanirodho khīṇāsavo kevalaṃ paveṇipālanatthāya vaṃsānurakkhaṇatthāya pariyāpuṇāti, ayaṃ **bhaṇḍāgārikapariyattī**ti. <r>(abhi-ṭṭha-1-24。)</r>
 
@@ -12490,7 +12490,7 @@ ketu vuccati accuggatadhajo, idha pana ketu viyāti ketu, uḷāratamādibhāvo.
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[447]教理慢牙.md】**
 
-### 教理（pariyatti）慢（māna）牙
+#### 教理（pariyatti）慢（māna）牙
 
 如同前面已经清楚解说过的那样，在种种慢当中，无论哪一种慢，只要还不能舍弃，就可能成为「禅那（jhāna）、道（magga）、果（phala）」的障难。
 在《根本（mūla）五十篇（mūlapaṇṇāsa）》巴利圣典所收的《根本方便（pariyāya）经》（ma-1-1。）中所记载的那五百位比丘，本是把三部吠陀学到通达彼岸的婆罗门（brāhmaṇa）青年，是从婆罗门青年之身跨入教育（sāsana）之门而来的善男子，都是处于最后一生的最后有者（pacchimabhavika）。
@@ -12510,7 +12510,7 @@ abhabbā ime imaṃ mānakhilaṃ anupahacca maggaṃ vā phalaṃ vā sacchikā
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[448]遭受梵罚.md】**
 
-### 遭受梵罚（brahmadaṇḍa）
+#### 遭受梵罚（brahmadaṇḍa）
 
 与佛陀同日诞生、原是（佛陀）亲近少仆的阐那（channa）长老，也以「自己与佛陀同日出生、曾一同玩泥土游戏、曾是自己真正的主人、乃至（佛陀）出家时一路随行护送」等等为理由，「我们主人的儿子，我们的佛陀，我们的法」地自夸自傲，竟认为沙利子（sāriputta）等诸位尊贵的大长老不过是后来才冒出的金莲花，言语也十分粗暴。
 由于佛陀知道：以这种慢（māna）为因，（阐那）不可能证得殊胜圣妙之法，于是在将般涅槃（parinibbāna）的那一夜，佛陀吩咐阿难德（Ānanda）尊者对阐那长老施以梵罚。
@@ -12620,7 +12620,7 @@ dussanti tena, sayaṃ vā dussati, dussanamattameva vā tanti **doso**.
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[452]近因——结怨事（9）项、（10）项.md】**
 
-### 近因（padaṭṭhāna）——结怨事（āghātavatthu）（9）项、（10）项
+#### 近因（padaṭṭhāna）——结怨事（āghātavatthu）（9）项、（10）项
 
 - 1．心想「他从前曾做过对我不利的事」而发怒、结怨，
 - 2．心想「他如今正做着对我不利的事」而发怒、结怨，
@@ -12691,7 +12691,7 @@ upabhogaphalakālesu aniṭṭhattā **visaṃsaṭṭhapūtimuttaṃ viya daṭ
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[454]天赐尊者的瞋.md】**
 
-### 天赐(devadatta)尊者的瞋(dosa)
+#### 天赐(devadatta)尊者的瞋(dosa)
 
 天赐尊者，为了证得至尊广大的独觉菩提(paccekabodhi)智，曾在长达两阿僧祇(asaṅkhyeyya)之久的诸劫里圆满修习、积集诸波罗蜜(pāramī)，是一位伟大的善人。
 然而，早在五劫之前，当他身为名叫谢利瓦(seriva)的琉璃珠商人时，因为没有得到一只价值十万的金碗，便对同样身为琉璃珠商人的菩萨(bodhisatta)开始结起了怨恨。
@@ -12713,7 +12713,7 @@ idaṃ paṭhamaṃ devadattassa bodhisatte āghātabandhanaṃ. (jātaka-ṭṭ
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[455]小难帝亚本生.md】**
 
-### 小难帝亚（cūḷanandiya）本生（jātaka）（本生注-2-183。）
+#### 小难帝亚（cūḷanandiya）本生（jātaka）（本生注-2-183。）
 
 在某一生中，菩萨是住在雪山（himavanta）林地、名叫大难帝亚（mahānandiya）的猴子，而阿难德（Ānanda）尊者的前身则是名叫小难帝亚（cūḷanandiya）的弟弟小猴。
 由于想要奉养双目失明的老母猴，兄弟俩便舍下八万只随从猴子，带着母亲从雪山下来，住在边地（paccantarissa）偏远处的一棵大榕树上，奉养着母亲。
@@ -12808,7 +12808,7 @@ idaṃ paṭhamaṃ devadattassa bodhisatte āghātabandhanaṃ. (jātaka-ṭṭ
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[459]一位女子的瞋.md】**
 
-### 一位女子的瞋(dosa)
+#### 一位女子的瞋(dosa)
 
 当谬（Taung-myo）马哈甘达勇（Mahāgandhāyone）寺长老，在他自己的《修身阿毗达摩(abhidhamma)》一书中，把在印度曾经发生过的一则小故事，按如下方式作了陈述。
 
@@ -12833,7 +12833,7 @@ idaṃ paṭhamaṃ devadattassa bodhisatte āghātabandhanaṃ. (jātaka-ṭṭ
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[460]锯喻经.md】**
 
-### 锯喻（Kakacūpama）经（中部-1-173-181。）
+#### 锯喻（Kakacūpama）经（中部-1-173-181。）
 
 有一次，世尊正在沙瓦提（sāvatthi）国美好的揭德林（jetavana）精舍中安居。
 那时，摩离亚·帕古纳（phagguna）尊者与诸比库尼（bhikkhunī）无拘无束地长期混杂相处而住。
@@ -13043,7 +13043,7 @@ idaṃ paṭhamaṃ devadattassa bodhisatte āghātabandhanaṃ. (jātaka-ṭṭ
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[469]覆藏 - 恼恨.md】**
 
-### 覆藏(makkha) - 恼恨(palāsa)
+#### 覆藏(makkha) - 恼恨(palāsa)
 
 与瞋(dosa)相关而常常生起的覆藏、恼恨的道理，也应当了知。
 其中，「覆藏」是指惯于抹煞他人恩德、忘恩负义的一类瞋。
@@ -13083,7 +13083,7 @@ idaṃ paṭhamaṃ devadattassa bodhisatte āghātabandhanaṃ. (jātaka-ṭṭ
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[470]老师的恩德.md】**
 
-### 老师的恩德
+#### 老师的恩德
 
 姨母果德弥（gotamī）把她亲自主持、安排缝制的一套袈裟布料供养给佛陀（buddha）。
 佛陀让（这套袈裟）供养给僧团（saṅgha）。
@@ -13127,7 +13127,7 @@ catūhi paṇītapaccayehi cakkavāḷantaraṃ pūretvā sinerupabbatena kūṭ
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[472]恼恨.md】**
 
-### 恼恨(palāsa) -
+#### 恼恨(palāsa) -
 
 所谓恼恨，就是那种爱与人争比高下的一种瞋(dosa)。
 对于持戒、有定、有慧者，财富丰厚者，相貌俊美者，出身高贵者，聪明伶俐者，力量强大者，能力充沛者，(恼恨者)不肯示弱，却说"他和我又有什么两样"，明明知道对方在各方面确实胜过自己，自己心里也明白对方确实如此，却硬要装作与对方力量相当、能力相当、德行相当，与之争比高下——这一类(便是恼恨)。
@@ -13212,7 +13212,7 @@ issatīti **issā**, issāyanā **issā**.
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[475]嫉妒翡翠洞窟的野猪们.md】**
 
-### 嫉妒翡翠洞窟的野猪们
+#### 嫉妒翡翠洞窟的野猪们
 
 在喜马拉雅山(Himavanta)的一座翡翠洞窟里，住着一头狮子；离那洞窟不远处，也住着许多野猪。那些野猪因为总看见翡翠洞窟里的那头狮子，便时时惊惧畏怕，甚至连翡翠洞窟的光彩也看作过失。
 有一次，那些野猪聚在一起商量，先在泥沼里把自己的身体打滚沾满泥浆，然后用那泥浆去涂抹擦拭翡翠洞窟，想让它的光彩黯淡下去；结果翡翠洞窟的光彩非但没有黯淡，反而更加光亮了。
@@ -13222,7 +13222,7 @@ issatīti **issā**, issāyanā **issā**.
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[476]自赞—毁他.md】**
 
-### 自赞（attukkaṃsana）—毁他（paravambhana）
+#### 自赞（attukkaṃsana）—毁他（paravambhana）
 
 无论是说话的时候，还是书写的时候，一再抬高自己、一再宣扬自己功德而作的言说与书写，称为自赞。
 一再贬低他人、一再指责他人而作的言说与书写，称为毁他。
@@ -13235,9 +13235,32 @@ issatīti **issā**, issāyanā **issā**.
 一个愚人的呵责与赞叹，既可能是错的，也可能是对的；唯有以佛陀为首、具足智慧的善人们的呵责与赞叹，才是真正紧要的。
 避开善人们所呵责的一切恶行，只随顺奉行善人们所赞叹的善业、善（kusala），这对身为善人的你而言，正是一项利益最大的伟大事业。
 
+
+
+**【文件：[227]行蕴论章/[346]不善心所（14）个篇/[477]（甲）10。悭吝.md】**
+
+### 10。悭吝（macchariya）
+
+maccharabhāvo **macchariyaṃ**.
+
+- 1。**macchariyaṃ** laddhānaṃ vā labhitabbānaṃ vā attano sampattīnaṃ nigūhanalakkhaṇaṃ,
+- 2。tāsaṃyeva parehi sādhāraṇabhāvaakkhamanarasaṃ,
+- 3。saṅkocanapaccupaṭṭhānaṃ, kaṭukañcukatāpaccupaṭṭhānaṃ vā,
+- 4。attasampattipadaṭṭhānaṃ. cetaso virūpabhāvoti daṭṭhabbaṃ. (阿毗-注-1-299。清净道-2-100。)
+
+作为吝啬者之成因、依处的自性法，名为悭吝。
+
+- 1。隐藏已得、正得、将得之自己财富的性质 <r>特相（lakkhaṇa），</r>
+- 2。不能忍受那些财富本身与他人发生关联＝是忍耐的对立面 <r>（职责义(kicca)）作用（rasa），</r>
+- 3。（就不喜欢自己的财富与他人发生关联这一情形而言）
+  - （甲）退缩畏缩的自性法 <r>现起（paccupaṭṭhāna），</r>
+  - （乙）苦涩辛辣的自性法 现起，
+  - （丙）另一种说法——能产生「以不悦意、不喜欢的情形以及痛苦的情形而生起」这样的结果 <r>（果(phala)）现起。</r>
+- 4。自己的财富资财 <r>足处（padaṭṭhāna）。</r>
+
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[477]（乙）悭吝（5）种.md】**
 
-### 悭吝（macchariya）（5）种（Abhi-ṭṭha-1-405-407。）
+#### 悭吝（macchariya）（5）种（Abhi-ṭṭha-1-405-407。）
 
 **1、住所悭（āvāsamacchariya）——** 对于寺院、僧舍、住处坐卧之所起吝惜之心，就是住所悭。
 所谓「住所」（āvāsa）——既指整座大寺院，也指大寺院内各自有围墙护院的一栋僧舍即所谓的院落，也指一座寺院＝一栋僧舍之内的某一个房间，还指夜间修习业处（kammaṭṭhāna）之法的夜间净修之处、白天修习业处之法的白昼净修之处等等，这些都称为「住所」。
@@ -13290,7 +13313,7 @@ issatīti **issā**, issāyanā **issā**.
 
 **3、法悭者（dhammamacchari）——** 另有一种，是某个体想着：「这个个体如果学了这个法，这样学去以后，就会有能力破坏我们的宗义学说」，因而不教授教理圣法。唯有这类个体，才算是于法吝惜＝有法悭的人。
 
-### 悭吝（5）种的利与弊
+#### 悭吝（5）种的利与弊
 
 由于**利得悭**：无论是属于僧团的财物即僧团共有的利养，还是属于两三位比库等所组成的团体、以及诵持经（suttanta）的团体、诵持律的团体等团体的财物即团体共有的（gaṇika）利养，他都吝惜别的僧众、别的团体的个体来使用，就像使用个人（puggalika）自有的资具一样，只由自己一个人独自享用（意思是说，像那种把僧团共有的寺院当作「我的寺院」、把团体共有的寺院当作「我的寺院」，从而阻止、不接纳别的个体居住的个体所有的那种吝惜）。
 这样的个体，死后会投生为恶鬼，或是饿鬼（peta），或是大蟒巨蛇。
@@ -13393,30 +13416,9 @@ kaṭukasaddo hettha asātattho, dukkhattho vā, añcukasaddo gatyattho. (Madhus
 上述这嫉妒与悭吝之法，虽然不能在同一个心刹那（cittakkhaṇa）之内、同一个心路（vīthi）过程之内一同并存，但在不同的心刹那、不同的心路中，却是可以生起的。
 关于这嫉妒、悭吝之法给予果报、染污人的情形，接下来要陈述那个极其令人悚惧（saṃvega）的、未来将成为瞻部格大长老（Jambuka mahāthera）者的故事。
 
-**【文件：[227]行蕴论章/[346]不善心所（14）个篇/[477]（甲）10。悭吝.md】**
-
-### 10。悭吝（macchariya）
-
-maccharabhāvo **macchariyaṃ**.
-
-- 1。**macchariyaṃ** laddhānaṃ vā labhitabbānaṃ vā attano sampattīnaṃ nigūhanalakkhaṇaṃ,
-- 2。tāsaṃyeva parehi sādhāraṇabhāvaakkhamanarasaṃ,
-- 3。saṅkocanapaccupaṭṭhānaṃ, kaṭukañcukatāpaccupaṭṭhānaṃ vā,
-- 4。attasampattipadaṭṭhānaṃ. cetaso virūpabhāvoti daṭṭhabbaṃ. (阿毗-注-1-299。清净道-2-100。)
-
-作为吝啬者之成因、依处的自性法，名为悭吝。
-
-- 1。隐藏已得、正得、将得之自己财富的性质 <r>特相（lakkhaṇa），</r>
-- 2。不能忍受那些财富本身与他人发生关联＝是忍耐的对立面 <r>（职责义(kicca)）作用（rasa），</r>
-- 3。（就不喜欢自己的财富与他人发生关联这一情形而言）
-  - （甲）退缩畏缩的自性法 <r>现起（paccupaṭṭhāna），</r>
-  - （乙）苦涩辛辣的自性法 现起，
-  - （丙）另一种说法——能产生「以不悦意、不喜欢的情形以及痛苦的情形而生起」这样的结果 <r>（果(phala)）现起。</r>
-- 4。自己的财富资财 <r>足处（padaṭṭhāna）。</r>
-
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[484]瞻部格长老的前身.md】**
 
-### 瞻部格（Jambuka）长老的前身 -
+#### 瞻部格（Jambuka）长老的前身 -
 
 在咖沙巴佛（Kassapa）的教化时代，住在一个乡村里的一位富翁，为一位身为瞻部格长老前身的长老（thera）建造并布施了一座寺院；此后，他以四种资具供养、照料那位住在该寺院中修行的长老。
 那位长老每天都不间断地在这位富翁的家中受用斋饭。
@@ -13482,7 +13484,7 @@ maccharabhāvo **macchariyaṃ**.
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[487]青年查塔帕尼.md】**
 
-### 青年查塔帕尼
+#### 青年查塔帕尼
 
 为了把上面写述过的「贪(lobha)」「瞋(dosa)」「痴(moha)」「慢(māna)」「嫉妒(issā)」「悭吝(macchariya)」等等恶法连一点根都不留地推翻、摧毁，最好的武器，就是以「戒(sīla)」「定(samādhi)」「慧(paññā)」三学(sikkhā)统摄计数而立的「八(8)支道(magga)」这一崇高的修行之法。
 纵然努力修习被称为「戒」「定」「慧」的「止(samatha)」「观(vipassanā)」，却尚未修到路的尽头、还未获得成功，以致轮回(saṃsāra)的旅程仍有待继续的话，那么，未来的沙利子(Sāriputta)尊者这位善人所奉行过的一则古老传统，正是一则堪为效法的伟大古老教示(upadesa)。
@@ -13528,7 +13530,7 @@ maccharabhāvo **macchariyaṃ**.
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[488]差答巴尼青年具足的四支品德.md】**
 
-### 差答巴尼（Chattapāṇi）青年身上具足的四支品德
+##### 差答巴尼（Chattapāṇi）青年身上具足的四支品德
 
 - Anussūyako ahaṃ deva, amajjapāyako ahaṃ.
 - Nisenahako ahaṃ deva, akkodhanaṃ adhiṭṭhiko.
@@ -13544,7 +13546,7 @@ maccharabhāvo **macchariyaṃ**.
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[489]一、没有嫉羡、嫉妒之法的缘由.md】**
 
-### 一、没有嫉羡、嫉妒（issā）之法的缘由
+##### 一、没有嫉羡、嫉妒（issā）之法的缘由
 
 - Itthiyā kāraṇā rāja, bandhāpesiṃ purohitaṃ.
 - So maṃ atthe nivedesi, tasmāhaṃ anusūyako. (jātaka-ṭṭha-2-176。)
@@ -13607,7 +13609,7 @@ tadā pana sohaṃ cintesiṃ --- "ahaṃ soḷasasahassa itthiyo pahāya etaṃ
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[491]二、不饮酒的原因.md】**
 
-### 二、不饮酒的原因
+##### 二、不饮酒的原因
 
 亚萨巴尼（Yasapāṇi）王又向那位差答巴尼（Chattapāṇi）青年问道——「差答巴尼贤友……你是见到了什么样的所缘，才成为不饮酒的人呢？」
 
@@ -13647,7 +13649,7 @@ Paṃsuṃ gahetvā mukhaṃ puñchitvā adhiṭṭhāsi. Tato paṭṭhāya maj
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[492]三、不爱任何人的原因.md】**
 
-### ၃။ 三、不爱任何人的原因
+##### ၃။ 三、不爱任何人的原因
 
 那时，亚萨帕尼(Yasapāni)大王又问那位少年查塔帕尼(Chattapāni)——「查塔帕尼贤者……你是见到了什么样的所缘(ārammaṇa)，才对任何有情都没有爱染之法呢?」——如此再次问道。
 
@@ -13696,7 +13698,7 @@ Paṃsuṃ gahetvā mukhaṃ puñchitvā adhiṭṭhāsi. Tato paṭṭhāya maj
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[494]四、对任何人都不发怒、不憎恨的原因.md】**
 
-### 四、对任何人都不发怒、不憎恨的原因
+##### 四、对任何人都不发怒、不憎恨的原因
 
 那时，亚色巴尼(Yasapāṇi)王又问那位查答巴尼(Chattapāṇi)青年——"查答巴尼贤友啊……你究竟是见到了什么样的所缘(ārammaṇa)，才对任何有情(satta)、行(saṅkhāra)都不发怒、不憎恨的呢？"如此询问。
 那时，查答巴尼青年这样回答。
@@ -13790,7 +13792,7 @@ dāsabyaṃ viya daṭṭhabbaṃ. (阿毗-注-1-299。清净道-2-100。)
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[498]如同奴隶.md】**
 
-### 如同奴隶
+#### 如同奴隶
 
 义注（aṭṭhakathā）解释说：应把这追悔（kukkucca）视为如同奴隶的状态。 
 正如当了奴隶时，那奴隶在任何事情上都不再由自己做主，只能按主人的意愿而行；同样，当追悔生起时，那有追悔者在造善的工作事务上也不能按自己的意愿而成，因此，具足追悔者由于系缚于名为追悔的这另一个人，故说与奴隶之状态 = 与奴隶的存在方式相似，此即其义。
@@ -13803,7 +13805,7 @@ dāsabyaṃ viya daṭṭhabbaṃ. (阿毗-注-1-299。清净道-2-100。)
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[499]追悔生起的一种情形.md】**
 
-### 追悔（kukkucca）生起的一种情形
+#### 追悔（kukkucca）生起的一种情形
 
 Anavajjaṃ pana kiñcideva vajjasaññitāya, vajjañca anavajjasaññitāya karonto anavajje vajjasaññāya，vajje ca anavajjasaññāya vītikkamaṃ karoti nāma. Yasmā panetaṃ “akataṃ vata me kalyāṇaṃ, akataṃ kusalaṃ, akataṃ bhīruttāṇaṃ, kataṃ pāpaṃ kataṃ luddhaṃ, kataṃ kibbisa”nti evaṃ anavajje vajjasaññitāyapi (vajjeanavajjasaññitāyapi) kate vītikkame uppajjati. (Abhi-ṭṭha-1-414.)
 
@@ -13816,7 +13818,7 @@ Anavajjaṃ pana kiñcideva vajjasaññitāya, vajjañca anavajjasaññitāya ka
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[500]a 后来追悔的情形.md】**
 
-### 后来追悔的情形
+#### 后来追悔的情形
 
 被众人称为「Du-Sa-Na-So」的四位长者子，在人间明明拥有足够行善（kusala）积福的财物资具，本应造作善的功德，却反而只错误地造作了邪淫（micchācāra）这类不善（akusala）业。
 他们命终之时，堕入「熔铁镬（Lohakumbhi）」这滚烫熔铁液地狱（niraya），经过六万年才浮上地狱镬上方一次。
@@ -13845,7 +13847,7 @@ Anavajjaṃ pana kiñcideva vajjasaññitāya, vajjañca anavajjasaññitāya ka
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[500]a 追悔（3）种.md】**
 
-### 追悔（kukkucca）（3）种
+#### 追悔（kukkucca）（3）种
 
 **1. 盖追悔（nīvaraṇakukkucca）---** 现在所书写呈述的追悔，就是包含在（5）种盖（nīvaraṇa）法之中的追悔，是不善（akusala）法。
 
@@ -13860,7 +13862,7 @@ Anavajjaṃ pana kiñcideva vajjasaññitāya, vajjañca anavajjasaññitāya ka
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[501]趁有时之际努力精进吧.md】**
 
-### 趁有时之际，努力精进吧
+#### 趁有时之际，努力精进吧
 
 年少之时，正是可凭自己的智慧、随自己所愿去追求智慧、财富、善（kusala）这三者的时候，也是有机会去追求的时候。
 若是「雨季结束才下犁耕地」，收益不仅微薄，甚至有时会完全一无所得。（《法句》义疏-2-81-84。）
@@ -14027,7 +14029,7 @@ paṭipattiantarāyakarāti daṭṭhabbā. (abhi-ṭṭha-1-300. visuddhi-2-101
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[508]疑惑特相.md】**
 
-### 疑惑（saṃsaya）的特相（lakkhaṇa）
+#### 疑惑（saṃsaya）的特相（lakkhaṇa）
 
 - 1. 那位彻底、无余地知见一切法的一切知正等正觉（sabbaññu sammāsambuddha）佛陀，究竟是不是真的存在呢？
 - 2. 按照那被称为八支道（maggaṅga）的法去修行，就能证得天界涅槃（nibbāna）——这是不是真的呢？道智（magga ñāṇa）、果智（phala ñāṇa）、涅槃，究竟是不是真的明明白白地存在呢？还有那些教理（pariyatti）圣法，究竟是不是真的正确呢？
@@ -14127,7 +14129,7 @@ paṭipattiantarāyakarāti daṭṭhabbā. (abhi-ṭṭha-1-300. visuddhi-2-101
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[512]微不足道的烦恼.md】**
 
-### 微不足道的烦恼（kilesa）
+#### 微不足道的烦恼（kilesa）
 
 不善（akusala）法即使再微小琐碎，也具有能造成道果（magga、phala）之危险的本性。 
 尤其是，要用戒（sīla）之净水、止（samatha）之净水、观（vipassanā）之净水、道之净水、果之净水，把存在于自己心相续中的烦恼污垢洗涤清净，在这清洗擦拭之处，好老师、好医师们的帮助其实是大有需要的。
@@ -14161,7 +14163,7 @@ paṭipattiantarāyakarāti daṭṭhabbā. (abhi-ṭṭha-1-300. visuddhi-2-101
 
 **【文件：[227]行蕴论章/[346]不善心所（14）个篇/[514]菴婆罗提咖教诫罗睺罗经.md】**
 
-### Ambalaṭṭhika Rāhulovāda Sutta (Ma-2-77-83.)
+#### Ambalaṭṭhika Rāhulovāda Sutta (Ma-2-77-83.)
 
 有一次，世尊住在王舍城(Rājagaha)那专门喂养黑松鼠的竹林(Veluvana)寺院里安居度日。
 那时，罗睺罗(Rāhula)尊者也住在菴婆罗提咖(Ambalaṭṭhika)寺院里。
@@ -14276,7 +14278,7 @@ paṭipattiantarāyakarāti daṭṭhabbā. (abhi-ṭṭha-1-300. visuddhi-2-101
 
 世尊就这样宣说了这篇法，罗睺罗尊者对世尊的法语心生欢喜、满怀愉悦。(Ma-2-77-83.)
 
-### 以智慧省思
+#### 以智慧省思
 
 Tasmātiha bhikkhave abhikkhaṇaṃ sakaṃ cittaṃ paccavekkhitabbaṃ "dīgharattamidaṃ cittaṃ saṃkiliṭṭhaṃ rāgena dosena mohenā"ti. Cittasaṃkilesā bhikkhave sattā saṃkilissanti, cittavodānā sattā visujjhanti. <r>(Saṃ-2-123.)</r>
 
@@ -14828,7 +14830,7 @@ So attānaṁyeva adhipatiṁ jeṭṭhakaṁ karitvā akusalaṁ pajahati, kusa
 
 **【文件：[227]行蕴论章/[522]美心所（25）个/[545]三、(甲)自重以羞耻之性而安立、(乙)愧以畏惧之性而安立.md】**
 
-### 3. (ka) Lajjāsabhāvasaṇṭhitā hirī, (kha) bhayasabhāvasaṇṭhitaṁ ottappaṁ.
+#### 3. (ka) Lajjāsabhāvasaṇṭhitā hirī, (kha) bhayasabhāvasaṇṭhitaṁ ottappaṁ.
 
 自重(hiri)以羞耻的状态而善为安立；愧(ottappa)以对恶趣之险的畏惧之性而善为安立。
 这自重、愧二法，也在远离恶行之时显现。
@@ -14843,7 +14845,7 @@ So attānaṁyeva adhipatiṁ jeṭṭhakaṁ karitvā akusalaṁ pajahati, kusa
 
 **【文件：[227]行蕴论章/[522]美心所（25）个/[546]四、(甲)以顺从恭敬为特相的自重、(乙)以畏罪视罪为畏为特相的愧.md】**
 
-### 四、(甲)以顺从恭敬为特相的自重（hiri）、(乙)以畏罪、视罪为畏为特相的愧（ottappa）。
+#### 四、(甲)以顺从恭敬为特相的自重（hiri）、(乙)以畏罪、视罪为畏为特相的愧（ottappa）。
 
 所谓自重，具有以伴随着专注恭听而生起的恭敬（gārava）之法作为标记的特相；所谓愧，具有以畏罪者之性、视罪为畏者之性作为标记的特相——这两种特相的合集也正是在远离恶行之中显现。
 显现的样子——某些善士——
@@ -16120,7 +16122,7 @@ aññāṇasampayuttāpi vā upekkhāvedanā **aññāṇupekkhā**. (Anuṭī-1
 
 **【文件：[227]行蕴论章/[587]梵住心所/[596] 色所缘线 名法的收摄方式 略说.md】**
 
-### 色所缘（rūpārammaṇa）线 名法（nāma）的收摄方式 略说
+## 色所缘（rūpārammaṇa）线 名法（nāma）的收摄方式 略说
 
 在色所缘线上，取色所缘为所缘而生起的善（kusala）速行（javana）的眼门心路（cakkhudvāra vīthi）与意门心路（manodvāra vīthi），将会有如下情形。
 
@@ -16148,7 +16150,7 @@ aññāṇasampayuttāpi vā upekkhāvedanā **aññāṇupekkhā**. (Anuṭī-1
 在这样收摄时，之所以指示连诸心路心之间所存在的有分名法，也要以特相、作用、现起、足处的方法偶尔加以收摄，正是为了破除各个密集（ghana）。
 然而，那些有分名法并不取现在（paccuppanna）的（6）种所缘（ārammaṇa）为所缘，而是只取过去世临死时临死速行（maraṇāsanna javana）所取的业（kamma）、业相（kammanimitta）、趣相（gatinimitta）这三种所缘中某一种适当的所缘为所缘；因此，只有在收摄完过去的诸因法、到了此时，才能够按正确的样式圆满周全地观，所以这是在观完缘起（paṭiccasamuppāda）部分之后、于此时再次要求去观的。
 
-### 转向外在（bahiddha）
+## 转向外在（bahiddha）
 Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati. (Ma-1-71.)
 
 依据如此等等的《大念处经（Mahāsatipaṭṭhāna sutta）》诸教示，你这位善人 ——
