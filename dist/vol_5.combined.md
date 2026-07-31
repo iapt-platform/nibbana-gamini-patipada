@@ -7713,7 +7713,7 @@ ettāvatā kho aggivessana bhikkhu arahaṃ hoti khīṇāsavo vusitavā katakar
 
 **【文件：[167]生灭智章/[221]集灭法随观篇/[249] 十种观随烦恼.md】**
 
-### 观随烦恼(vipassanupakkilesa)(10)种
+## 观随烦恼(vipassanupakkilesa)(10)种
 
 此后，唯有在以被称为生灭随观(udayabbayānupassanā)的这种不成熟观(taruṇa vipassanā)之力而正在勤修观(vipassanā)的瑜伽行者(yogāvacara)之相续(santāna)中，那些能令观染污的随烦恼(upakkilesa)法(10)种才会生起。
 反过来说，观随烦恼法不会生起于以下诸人的相续中：在已经到达道智(magga ñāṇa)、果智(phala ñāṇa)、通达(paṭivedha)的圣弟子(ariyasāvaka)的相续中；在戒(sīla)败坏等某种行持已破损的人的相续中；在虽修习观修习(vipassanā bhāvanā)、却在修习作业的间歇期、半途某处心志退缩而将观业处(kammaṭṭhāna)弃置一旁的人的相续中；以及在戒等虽已具足、却因懒惰而不修习观修习的人的相续中——都不会生起。
@@ -7840,7 +7840,7 @@ obhāsādīsu "ariyadhammo"ti pavattaṃ uddhaccaṃ vikkhepo dhammuddhaccaṃ, 
 
 **【文件：[167]生灭智章/[221]集灭法随观篇/[254] 大龙长老.md】**
 
-### 大龙(mahānāga)长老(thera)
+#### 大龙(mahānāga)长老(thera)
 
 在名为塔兰嘎拉(talaṅgara)地方安住、已证得四种辨析(paṭisambhidā)智(ñāṇa)、名为法授(dhammadinna)的一位阿拉汉(arahant)大长老,对众多的比库(bhikkhu)僧团施以教诫,如此安住修行。
 那位法授长老住在自己的日间清净修行处,这样思惟:"如何呢……身为我们老师的、安住在高沙(uccavālika)地方的大龙长老,那成就比库身分的比库本分,究竟是已经圆满完成了呢,还是尚未圆满完成呢?"——他这样思惟时=便入于神通(abhiññā)而观察,看见那位大龙长老竟还只是凡夫(puthujjana),便知道:"我若不去,我的老师便将只以凡夫的身分而命终"——他这样了知后,以神通力飞升上空,降落在安住于日间清净处的大龙长老近旁,向老师礼敬,行大小义务后,坐在合宜适当的地方,便住了下来。
@@ -8018,7 +8018,7 @@ Yadaggena hi sati ārammaṇaṃ okkhanditvā upatiṭṭhati, tadaggena āramma
 
 **【文件：[167]生灭智章/[221]集灭法随观篇/[261]a 转向的锐利.md】**
 
-### 转向的锐利
+#### 转向的锐利
 
 应当记住：与意门转向(manodvārāvajjana)相应的、称为转向舍(āvajjanupekkhā)的「思(cetanā)」，其有如帝释(sakka)的金刚杵(vajira)武器之状、有如炽热赤亮的箭锋之状、以及勇猛锐利之状，乃是因为：正如作为至尊一切知智(sabbaññutañāṇa)之先导的意门转向那样，紧随该意门转向、并在该意门转向之后接续生起的观智(vipassanāñāṇa)，是以犹如帝释所掷出的金刚杵武器、犹如炽热赤亮的箭锋那般勇猛锐利的方式而生起的缘故。 
 (由于观智锐利尖锐，所以在观智之前生起的、与意门转向相应的、称为转向舍的「思」也是锐利尖锐的。)(大义疏(Mahāṭī)2、432。)
@@ -13329,7 +13329,7 @@ Phassādiekekadhammagahaṇavasena pavattā **anupadadhammavipassanā.** (Mūla�
 
 **【文件：[463]智见清净释/[463]b 第一道智 = 入流道智.md】**
 
-### 第一道智(paṭhamamaggañāṇa) = 入流道智(sotāpattimaggañāṇa)
+## 第一道智(paṭhamamaggañāṇa) = 入流道智(sotāpattimaggañāṇa)
 
 从属于至出起观(vuṭṭhānagāminī vipassanā)所摄的这一**随顺智(anulomañāṇa)**之上，种姓智(gotrabhuñāṇa)生起；由于那**种姓**智安立于圣道(ariyamagga)的转向(āvajjana)之处，所以它也不归入行道智见清净(paṭipadāñāṇadassanavisuddhi)——这是因为它不以无常(anicca)等[三相]的力量去执取诸行法(saṅkhāra dhamma)之故，也就是不把行的所缘作为所缘、不作意行的所缘之故。
 虽然它有以涅槃(nibbāna)为所缘的性质，但由于不能灭尽诸烦恼(kilesa)，所以它也不归入智见清净(ñāṇadassanavisuddhi)。
@@ -13480,7 +13480,7 @@ Iti yassa paccavekkhaṇā na paripuṇṇā, tassa maggavajjhakilesapaññattiy
 
 **【文件：[463]智见清净释/[469]a 第二道智部分.md】**
 
-### 第二道智(dutiyamaggañāṇa)部分
+## 第二道智(dutiyamaggañāṇa)部分
 
 再者，如此以省察智(paccavekkhaṇāñāṇa)审察完毕之后，已成为须陀洹(sotāpanna)的那位圣弟子(ariyasāvaka)，有时就住在那个地方，有时也住在别的某一处，为了使强盛有力的欲贪(kāmarāga)与瞋恚(byāpāda)变得薄弱，也为了到达、证得第二的一来果(sakadāgāmiphala)，而在观修习(vipassanābhāvanā)中付出努力、作精勤加行(payoga)。
 那个体(puggala)把根(indriya)、力(bala)、觉支(bojjhaṅga)聚合起来，使那些根、力、觉支达到敏锐的状态，就依色(rūpa)、受(vedanā)、想(saññā)、行(saṅkhāra)、识(viññāṇa)这五蕴(khandha)之法而分为五类的那一切行法(saṅkhāra dhamma)的聚合，以观智(vipassanāñāṇa)按无常(anicca)、苦(dukkha)、无我(anatta)去探究三种相(lakkhaṇa)的力量，反反复复、交替往返地审察；一层又一层、一次又一次地令观智生起；趣入观的相续。
@@ -13534,7 +13534,7 @@ Iti yassa paccavekkhaṇā na paripuṇṇā, tassa maggavajjhakilesapaññattiy
 
 **【文件：[463]智见清净释/[471] 第三道智部分.md】**
 
-### 第三道智部分
+## 第三道智部分
 
 在此一来果(sakadāgāmiphala)之后，省察速行心路(paccavekkhaṇājavanavīthi)生起，如理省察了道(magga)、果(phala)、涅槃(nibbāna)等之后，已成为一来者(sakadāgāmi)的那位圣弟子(ariyasāvaka)，或住于原处，或在另一时住于原处、或住于别处，为了无余断除已被一来道(sakadāgāmimagga)减弱的欲贪结(kāmarāgasaṃyojana)与厌恶结(paṭighasaṃyojana)，为了证得第三个之不来果(anāgāmiphala)，而在观(vipassanā)上勤作精进努力。
 那个体(puggala)聚集根(indriya)、力(bala)、觉支(bojjhaṅga)，使之达到锐利的状态，把那名色法(rūpanāmadhamma)、三地行法(tebhūmakasaṅkhāradhamma)的整个聚合，作为无常(anicca)、苦(dukkha)、无我(anatta)，以观智(vipassanāñāṇa)反复审察、揉炼。
@@ -13551,7 +13551,7 @@ Iti yassa paccavekkhaṇā na paripuṇṇā, tassa maggavajjhakilesapaññattiy
 
 **【文件：[463]智见清净释/[472] 第四道果 = 阿拉汉道果.md】**
 
-### 第四道（magga）果（phala） = 阿拉汉（arahatta）道果
+## 第四道（magga）果（phala） = 阿拉汉（arahatta）道果
 
 如是，那位已成为不来者（anāgāmi）的圣（ariya）弟子（sāvaka），以诸省察速行（javana）心路（vīthi）适当地省察了道、果、涅槃（nibbāna）等之后，无论是住于那个地方，还是在别的时候住于那个地方或其他地方，为了无余地舍断对色地（bhūmi）贪着的色贪染（rūparāga）、对非色（arūpa）地贪着的非色贪染（arūparāga）、慢（māna）、掉举（uddhacca）、以及称为无明（avijjā）的这上分的五种上分结（uddhambhāgiya saṃyojana），为了到达第四的阿拉汉果，便精勤地作观（vipassanā）的努力；那个个体（puggala）使根（indriya）、力（bala）、觉支（bojjhaṅga）聚集而达到锐利的状态，就以观智（ñāṇa）审察、揉炼那些属于三地（tebhūmaka）的名色（nāmarūpa）行法（saṅkhāra dhamma）之全体，一再地令观智生起。
 进入观的相续。（意思是：从生灭智（udayabbaya ñāṇa）起，直到行舍智（saṅkhārupekkhā ñāṇa）为止，依照次第修习。）
@@ -13572,7 +13572,7 @@ Iti yassa paccavekkhaṇā na paripuṇṇā, tassa maggavajjhakilesapaññattiy
 
 **【文件：[463]智见清净释/[473] 四念处已圆满.md】**
 
-### 四念处（satipaṭṭhāna）已圆满
+## 四念处（satipaṭṭhāna）已圆满
 
 直到详细修习生灭智（udayabbayañāṇa）的部分为止 -----
 
@@ -13605,7 +13605,7 @@ Iti yassa paccavekkhaṇā na paripuṇṇā, tassa maggavajjhakilesapaññattiy
 
 **【文件：[463]智见清净释/[474] 三十七种菩提分法.md】**
 
-### 三十七(37)种菩提分(bodhipakkhiya)法
+## 三十七(37)种菩提分(bodhipakkhiya)法
 
 四种念处(satipaṭṭhāna)、四种正勤(sammappadhāna)、四种成就的基础(iddhipāda)、五种根(indriya)、五种力(bala)、七种觉支(bojjhaṅga)、清净殊胜的八圣道支(ariya magganga)——把这一切合起来，这三十七种法由于能了知四谛(sacca)，因而在值得称为「**bodha**」（觉悟）名号的圣道(ariya magga)之助伴、随从中生起，又因于此而立于能作利益的随从地位，故这些法便名为「**菩提分法**」。
 
@@ -13805,7 +13805,7 @@ Satta bojjhaṅgā bhāvitā bahulīkatā vijjāvimuttiṃ paripūrenti. (M.3.12
 
 **【文件：[463]智见清净释/[483] 从相与生命期间出起的方式——出起部分.md】**
 
-### 从相(nimitta)与生命期间(pavatta)出起的方式——出起(vuṭṭhāna)部分
+## 从相(nimitta)与生命期间(pavatta)出起的方式——出起(vuṭṭhāna)部分
 
 观(vipassanā)有世间观(lokiyavipassanā)与出世间观(lokuttaravipassanā)两种。
 其中，圣道慧(ariyamaggapañña)——
@@ -13845,7 +13845,7 @@ tenāha "**samudayassa asamucchindanato pavattā na vuṭṭhātī**"ti. (Mahā�
 
 **【文件：[463]智见清净释/[484] 种姓智.md】**
 
-### 种姓智(gotrabhuñāṇa)
+## 种姓智(gotrabhuñāṇa)
 
 种姓智，是从外在(bahiddha)的行相(saṅkhāranimitta)出起、退缩离脱之中生起的慧(paññā)。
 外在行相的含义，在《无碍解道》注疏（Paṭisambhidāmagga-aṭṭhakathā）中如此解释。
@@ -13878,7 +13878,7 @@ Lokiyasaṅkhārā hi kilesānaṃ nimittattā, nimittākārena upaṭṭhānato
 
 **【文件：[463]智见清净释/[485] 从两侧出起 - 道智.md】**
 
-### 从两侧出起(ubhato vuṭṭhāna) — 道智(magga ñāṇa)
+## 从两侧出起(ubhato vuṭṭhāna) — 道智(magga ñāṇa)
 
 从「相(nimitta)、生命期间(pavatta)」两者出起 = 于退没脱离之中所生起的慧(paññā)被称为道智，这究竟是如何生起的呢？—————
 
@@ -13990,7 +13990,7 @@ Lokiyasaṅkhārā hi kilesānaṃ nimittattā, nimittākārena upaṭṭhānato
 
 **【文件：[463]智见清净释/[489]b 在《无碍解道》圣典中的宣说.md】**
 
-#### 在《无碍解道》圣典中的宣说方式
+## 在《无碍解道》圣典中的宣说方式
 
 “Uddhaccasahagatakilesehi ca khandhehi ca vuṭṭhahato cittassa ekaggatā avikkhepo samādhi nirodhagocaro, avijjāsahagatakilesehi ca khandhehi ca vuṭṭhahato anupassanaṭṭhena vipassanā nirodhagocaro. 
 Iti vuṭṭhānaṭṭhena samathavipassanā ekarasā honti, yuganaddhā honti, aññamaññaṃ nātivattantīti. 
@@ -14008,7 +14008,7 @@ Tena vuccati vuṭṭhānaṭṭhena samathavipassanaṃ yuganaddhaṃ bhāvetī
 
 **【文件：[463]智见清净释/[490] 圣道法所舍断的烦恼.md】**
 
-### 圣道（ariya magga）法所舍断的烦恼（kilesa）
+## 圣道（ariya magga）法所舍断的烦恼（kilesa）
 
 一、假如圣道舍断过去（atīta）的诸烦恼，那么这圣道便叫作使已尽的烦恼再尽，叫作使已灭的烦恼再灭，叫作使已离的烦恼再离。
 叫作使已到达灭的烦恼再一次到达灭。
@@ -14046,7 +14046,7 @@ Tena vuccati vuṭṭhānaṭṭhena samathavipassanaṃ yuganaddhaṃ bhāvetī
 
 **【文件：[463]智见清净释/[492] 得地已生的烦恼.md】**
 
-### 得地已生的烦恼（bhūmiladdhuppanna kilesā）
+## 得地已生的烦恼（bhūmiladdhuppanna kilesā）
 
 Etena kiṃ dīpitaṃ hoti, bhūmiladdhānaṃ kilesānaṃ pahānaṃ dīpitaṃ hoti. 
 Bhūmiladdhā pana kiṃ atītānāgatā udāhu paccuppannāti. 
@@ -14153,7 +14153,7 @@ Apariññātā hi khandhā kilesānaṃ bhūmīti adhippetā. (Mahāṭī 2, 500
 
 **【文件：[463]智见清净释/[497] 同时了知四谛的方式.md】**
 
-### 同时了知四谛的方式
+## 同时了知四谛的方式
 
 油灯在不先不后、同一个刹那里完成四种作用。
 - 一、烧灯芯 = 使之耗尽。
@@ -14257,7 +14257,7 @@ Yo bhikkhave dukkhaṃ passati, dukkhasamudayampi so passati, dukkhanirodhampi p
 
 **【文件：[463]智见清净释/[501]a 谛的十六种意义.md】**
 
-### 谛(sacca)的十六种意义
+## 谛(sacca)的十六种意义
 
 Kathaṃ tathaṭṭhena cattāri saccāni ekapaṭivedhāni.
 Soḷasahi ākārehi tathaṭṭhena cattāri saccāni ekapaṭivedhāni.
@@ -14329,7 +14329,7 @@ puggalahiṃsanaṃ vā **pīḷanaṃ.**（Mūlaṭī 2, 50）
 
 **【文件：[463]智见清净释/[504]a 应当记住的特别之处.md】**
 
-### 应当记住的特别之处
+#### 应当记住的特别之处
 
 在苦圣谛（dukkha sacca）所具有的四种意义之中，**逼迫之义（pīḷanaṭṭha）**是不依赖其他诸谛、
 而是依苦圣谛自身的根本本性所显现出来的意义。
@@ -14426,7 +14426,7 @@ nirodhassa **nissaraṇaṭṭho** sabbūpadhīnaṃ paṭinissaggasabhāvattā 
 
 **【文件：[463]智见清净释/[507] 值得提问的要点.md】**
 
-### 值得提问的要点
+#### 值得提问的要点
 
 在苦（dukkha）、集（samudaya）等的『逼迫（pīḷana）』、『有为（saṅkhata）』等意义之外，尚有诸如与疾病相同、与疮疡相同等等、另属一类的种种相状与意义存在着；那么，为什么却唯独宣说了四种意义呢？——这样的疑问是有的；而回答如下。-----
 
@@ -14553,6 +14553,8 @@ Tattha palibodhupacchedavasena nibbānādhigamova nibbānanimittatā **hetvaṭ�
 那真确的究竟之义之性质，是由于摧毁了那覆蔽此究竟之义之性质的痴(moha)，从而以无痴通达(asammoha paṭivedha)、不颠倒、如实地洞穿而了知，并唯有借由现证才得以了知的。
 （意谓：由于已摧毁了那使人无法了知谛义、加以覆蔽的痴，故那些谛义已被亲见智(paccakkha ñāṇa)洞穿了知。）
 由于如此现证而洞穿了知的存在，在圣道智生起之后的后续时期里，这（16）种谛义，在圣者(ariyapuggala)的智慧洞见中，也如同置于掌上、洁净无垢的红宝石一般，又如置于手中的木橘果(Aegle marmelos)一般，如实清晰地显现出来。（Mahāṭī 2, 505.）
+
+## 四种现观（*abhisamaya*）-[增加]
 
 **【文件：[463]智见清净释/[513] 遍知现观.md】**
 
@@ -14758,7 +14760,7 @@ vikkhambhanappahānañca nīvaraṇānaṃ paṭhamaṃ jhānaṃ bhāvayato. (P
 
 **【文件：[463]智见清净释/[522]a 慧修习的利益功德.md】**
 
-### 慧修习(paññābhāvanā)的利益功德
+## 慧修习(paññābhāvanā)的利益功德
 
 这个所谓的慧修习，由于能够成办普通弟子菩提(pakatisāvakabodhi)、大弟子菩提(mahāsāvakabodhi)、上首弟子菩提(aggasāvakabodhi)、独觉(paccekabodhi)菩提、正自觉(sammāsambodhi)菩提等广大、崇高、广博、清净的殊胜利益功德，因此具有无量众多的利益功德。
 那个慧修习的利益功德，即使用漫长的时间来广泛地明白展示，也由于其利益之法极其众多，因而并不容易。
@@ -14906,7 +14908,7 @@ Jhānato sarikkhatādassaneneva cettha bojjhaṅga-maggaṅgavasenāpi sarikkhat
 
 **【文件：[463]智见清净释/[528] 了知心不灭.md】**
 
-### 了知心不灭
+#### 了知心不灭
 
 或许有人会问：这果定(phalasamāpatti)是了知心止息的等至(samāpatti)吗？而佛陀亲自宣说过：它并非了知心止息的等至。
 尊者阿难陀(Ānanda)曾如此向佛陀请问：
@@ -14995,7 +14997,7 @@ Aṭṭha samāpattilābhino pana anāgāmino, khīṇāsavā ca samāpajjanti. 
 
 **【文件：[463]智见清净释/[531] 使之长久维持的三种原因.md】**
 
-### 使之长久维持的三种原因
+#### 使之长久维持的三种原因
 
 tayo kho āvuso paccayā animittāya cetovimuttiyā ṭhitiyā sabbanimittānañca amanasikāro, animittāya ca dhātuyā manasikāro, pubbe ca abhisaṅkhāro.（中部1,371。）
 
@@ -15013,7 +15015,7 @@ tayo kho āvuso paccayā animittāya cetovimuttiyā ṭhitiyā sabbanimittānañ
 
 **【文件：[463]智见清净释/[532] 能从果定出起的原因两种.md】**
 
-### 能从果定(phalasamāpatti)出起的原因两种
+#### 能从果定(phalasamāpatti)出起的原因两种
 
 Dve kho āvuso paccayā animittāya cetovimuttiyā vuṭṭhānāya sabbanimittānañca manasikāro, animittāya ca dhātuyā amanasikāro. (中部,1,371。)
 
