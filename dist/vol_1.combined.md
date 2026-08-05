@@ -5206,7 +5206,7 @@ Anujānāmi bhikkhave aṭṭha pānāni ambapānaṃ jambupānaṃ cocapānaṃ
 
 **【文件：[186]应当如何建立定篇/[186b]建立起定.md】**
 
-### 建立起定（samādhi）
+## 建立起定（samādhi）
 
 唯有以正见（sammādiṭṭhi）之智慧亲身现证、透彻知见四圣谛（ariyasacca），才能灭尽轮回（saṃsāra）之苦（dukkha），因此凡是想要灭尽轮回之苦的善男子、善女人，都必须努力去以正见之智慧亲身现证、透彻知见四圣谛。
 为了以正见之智慧如实地、亲身现证、透彻知见四圣谛，首先应当如何修行呢？这是需要提出的问题。
@@ -5315,7 +5315,7 @@ samādhiṃ bhikkhave bhāvetha, samāhito bhikkhave bhikkhu yathābhūtaṃ paj
 
 **【文件：[186]应当如何建立定篇/[189]大牧牛者经 - 一项论说.md】**
 
-### 《大牧牛者经》(Mahāgopālaka Sutta) - 一项论说
+## 《大牧牛者经》(Mahāgopālaka Sutta) - 一项论说
 
 在《根本五十(Mūlapaṇṇāsa)》巴利圣典的《大牧牛者经》(中部,1,281-286。)中——"若对大种色(bhūtarūpa)——四大种(mahābhūta),以及依止那四大种而生起的、称为所造色(upādārūpa)的一切色(rūpa)法,未能清晰分明地了知,便称为不了知色法。 
 放牧牛群的牧牛人,若不能如实正确地了知——自己所放牧的牛群共有多少头(即从数目上),以及白牛有几头、红牛有几头等等(即从颜色上),那么正如这位牧牛人不配去放牧牛群、纵然放牧也无力使牛群兴旺增长一样——依这个譬喻,在这教法(sāsanā)之中,瑜伽行者(yogāvacara)比库(bhikkhu)对于有大种色、所造色之别的一切色法——
@@ -5403,7 +5403,7 @@ lakkhaṇa-rasa-paccupaṭṭhāna-padaṭṭhānavasena nāmarūpapariggaho **d
 
 **【文件：[186]应当如何建立定篇/[192a]刹那定.md】**
 
-### 刹那定(khaṇika samādhi)
+## 刹那定(khaṇika samādhi)
 
 有些身为殊胜、贤善的瑜伽行(yogāvacara)者的尊贵导师们认为：纯观乘者(suddha vipassanā yānika)不需要建立定(samādhi)，只凭刹那定趣向观(vipassanā)也能证得。
 这是引用《清净之道(Visuddhi Magga)》大复注(mahāṭīkā)尊者之语而作出的开示。
@@ -5466,7 +5466,7 @@ tenāha **"samādhiñceva vipassanañca bhāvayamāno"**ti. (Mahāṭī, 1, 15.)
 
 **【文件：[186]应当如何建立定篇/[194]止行者之道.md】**
 
-### 止行者(samatha yānika)之道
+## 止行者(samatha yānika)之道
 
 Taṃ sampādetukāmena **samathayānikena** tāva ṭhapetvā nevasaññānāsaññāyatanaṃ avasesa-rūpārūpāvacarajjhānānaṃ aññatarato vuṭṭhāya vitakkādīni jhānaṅgāni taṃsampayuttā ca dhammā **lakkhaṇarasādi**-**vasena** pariggahetabbā.
 Pariggahetvā sabbampetaṃ ārammaṇābhimukhaṃ namanato namanaṭṭhena nāmanti vavatthapetabbaṃ.
@@ -5498,7 +5498,7 @@ Tato namanalakkhaṇaṃ nāmaṃ, ruppanalakkhaṇaṃ rūpanti **saṅkhepato 
 
 **【文件：[186]应当如何建立定篇/[195]纯观乘者之道.md】**
 
-### 纯观乘者（suddhavipassanāyānika）之道
+## 纯观乘者（suddhavipassanāyānika）之道
 
 **suddhavipassanāyāniko** pana ayameva vā **samathayāniko** catudhātuvavatthāne vuttānaṃ tesaṃ tesaṃ dhātupariggahamukhānaṃ aññataramukhavasena saṅkhepato vā vitthārato vā catasso dhātuyo pariggaṇhāti. (Visuddhi 2.222)
 
@@ -5971,7 +5971,7 @@ Ekaccharakkhaṇe koṭisatasahassasaṅkhā uppajjitvā nirujjhati. （相应�
 
 **【文件：[186]应当如何建立定篇/[213]色密集 = 三种色团色块.md】**
 
-### 色密集(rūpaghana) = 三种色团色块
+## 色密集(rūpaghana) = 三种色团色块
 
 为了让智见(ñāṇa)到达究竟色(paramattha)的境地而观照诸色法时，需要破除称为色密集的三种色团色块。
 在色的部分，诸复注(ṭīkā)中解说了：存在称为色密集的三种色团色块。
@@ -6090,7 +6090,7 @@ tathā sārammaṇadhammānaṃ satipi ārammaṇakaraṇabhede ekato gayhamān�
 
 **【文件：[186]应当如何建立定篇/[217c]名密集(四)种.md】**
 
-### 名密集(nāma ghana)的四种
+## 名密集(nāma ghana)的四种
 
 再者，在诸名法当中同样 ----
 
@@ -6230,7 +6230,7 @@ santatighanādīnaṃ ayaṃ viseso -- purimapacchimānaṃ nirantaratāya ekīb
 
 **【文件：[186]应当如何建立定篇/[223]三种思惟行境.md】**
 
-### 三种思惟行境(sammasanacāra)
+## 三种思惟行境(sammasanacāra)
 
 于此 ----
 
