@@ -29,9 +29,329 @@ visuddhinanda@gmail.com
 
 ---
 
-**【文件：[1]大礼敬-礼佛/[1].md】**
+**【文件：[A]大礼敬 - 礼佛/[A]大礼敬 - 礼佛.md】**
+
+Namo tassa Bhagavato Arahato Sammāsambuddhassa.
+
+**《去向涅槃之道》- 第一册**
+
+# 序论(nidānakathā)
+
+**缘由说明书**
+
+**Yaṃ passati na taṃ diṭṭhaṃ, yaṃ diṭṭhaṃ taṃ na passati.**
+
+**Apassaṃ bajjhate mūḷho, bajjhamāno na muccati.**
+
+(阿毗达摩义注2，207。长部义注2，347。中部义注1，247。)
+
+Loko = 究竟法(paramattha)智慧之眼已然盲瞎的一切人类。
+Yaṃ = 对于任何男人、女人。
+Passati = 以邪见(micchādassana)错误地（认作是男人、女人）而认知见到。
+
+Taṃ = 那被究竟法智慧之眼已然盲瞎的一切人类错误地认知见到的男人、女人。
+Diṭṭhaṃ = 以究竟法智慧之眼真正应当见到、值得见到的法。
+Na = 并不是。
+
+Yaṃ = (甲) 任何色所缘(rūpārammaṇa)， (乙) 任何以头发为首的身分(koṭṭhāsa)之聚， (丙) 任何种色(bhūtarūpa)、所造色(upādārūpa)之聚。
+Diṭṭhaṃ = 有智慧的诸善人以究竟法智慧之眼真正应当见到、值得见到。
+
+Taṃ = 有智慧的诸善人以究竟法智慧之眼真正应当见到、值得见到的 (甲) 那色所缘， (乙) 那以头发为首的身分之聚， (丙) 那种色、所造色之聚。
+Loko = 究竟法智慧之眼已然盲瞎的一切人类。
+Paññācakkhunā = 以究竟法的慧眼(paññācakkhu)。
+Bhūtato = 如实地。
+Na passati = 不知、不见。
+
+Apassaṃ = 以究竟法慧眼不能如实知见的。
+Mūḷho = 对于认知错误而愚痴迷惑的人。
+Bajjhate = 被贪(rāga)所系缚。
+Bajjhamāno = 那被贪所系缚的人。
+Na muccati = 不能从烦恼轮转(kilesavaṭṭa)之苦、轮回流转(saṃsāravaṭṭa)之苦中解脱出来。
+
+(阿毗达摩义注2，207。长部义注2，347。中部义注1，247。根本复注2，148。)
+
+究竟法智慧之眼已然盲瞎的一个人，不能以究竟法慧眼如实地把色所缘知为色所缘，把以头发为首的身分之聚知为以头发为首的身分之总聚，把作为种色、所造色之总聚的色身(rūpakāya) = 色法之聚知为种色、所造色之总聚，把名身(nāmakāya) = 名法之聚也知为名法之聚，把因法、果法之聚也知为因法、果法之聚，把无常(anicca)法、苦(dukkha)法、无我(anatta)法、不净(asubha)法之聚也知为无常法之聚、苦法之聚、无我法之聚、不净法之聚，反而以男人、女人等等错误地、愚痴迷惑地认知见到。
+对于这样错误地、愚痴迷惑地认知有误的人，在男人、女人等等那些所缘(ārammaṇa)之上生起的贪着爱染之贪法便把他缠绕系缚住了。
+那遭受贪的缠绕系缚的人，无法从烦恼轮转、业轮转(kammavaṭṭa)、果报轮转(vipākavaṭṭa)这三种轮转不断旋转之处的此轮回(saṃsāra)中解脱出来。
+
+而具足名为究竟法慧眼的正见(sammādiṭṭhi)智慧的善人，
+
+- 1. 把色所缘知为色所缘，
+- 2. 把以头发为首的身分之总聚知为以头发为首的身分之总聚，
+- 3. 把作为种色、所造色之总聚的色身 = 色法之聚知为种色、所造色之总聚，
+- 4. 把名身 = 名法之总聚也知为名身 = 名法之总聚，
+- 5. 把因法、果法之聚也知为因法、果法之聚，
+- 6. 把无常法之聚、苦法之聚、无我法之聚、不净法之聚也知为无常法之聚、苦法之聚、无我法之聚、不净法之聚
+
+以名为究竟法慧眼的正见智慧亲自现前地洞穿而知见。
+对于这样不迷惑而洞穿知见的善人，贪不能系缚、无法系缚。
+不受贪缠绕系缚的那位善人，能够从诸烦恼(kilesa)中解脱出来，能够从轮回流转的苦难中解脱出来。
+
+这就是上述偈颂(gāthā)的本意。
+
+不能以智见触及究竟法、慧眼盲瞎的一个人的见解，与已以智见触及究竟法、具足名为慧眼的正见智见的一位善人的见解，二者的见解是不相同的。
+慧眼盲瞎的人不能见到触及究竟法的地步；而具足慧眼的善人则能见到触及究竟法的地步。
+
+以此偈颂为缘由，古时的诸善人也这样说 ---
+
+- 1. 只是看见，看是看见了，却不曾见到，
+- 2. 只是听见，听是听见了，却不曾听到，
+- 3. 只是嗅到，嗅是嗅到了，却不曾嗅到，
+- 4. 对于味道只是享受，享受是享受了，却不知道味道，
+- 5. 只是触到，触是触到了，却不知道，
+- 6. 只是知道，知是知道了，却不曾知道 --- 他们如此宣说了在全部(6)种所缘上都陷于错误的情形。(《迷惑冰消》缅译复注，第二册，286。)
+
+这些都是古德们针对不能触及究竟法而知见、慧眼盲瞎的一个人所作的开示。
+
+倘若你这位善人也想要从轮回流转的苦难中好好地解脱出离，那么就必须依照佛陀所说的诸大巴利语(pāli)圣典与义注(aṭṭhakathā)、复注(ṭīkā)中所指示教诫的那样，有系统地精勤修习、培育那以能洞穿触及究竟法的、名为慧眼的正见为首的(8)道支(maggaṅga)殊胜修行之法。
+
+与佛陀所说的巴利圣典相符、有次第而圆满地解说撰写(8)道支修行次第之法的论典，正是**《清净道论》义注**。
+
+**《清净道论》义注的誓约承诺**
+
+Sudullabhaṃ labhitvāna, pabbajjaṃ jinasāsane.
+
+Sīlādisaṅgahaṃ khemaṃ, ujuṃ maggaṃ visuddhiyā.
+
+Yathābhūtaṃ ajānantā, suddhikāmāpi ye idha.
+
+Visuddhiṃ nādhigacchanti, vāyamantāpi yogino.
+
+Tesaṃ pāmojjakaraṇaṃ, suvisuddhavinicchayaṃ.
+
+Mahāvihāravāsīnaṃ, desanānayanissitaṃ.
+
+**Visuddhimaggaṃ** bhāsissaṃ, taṃ me sakkacca bhāsato.
+
+Visuddhikāmā sabbepi, nisāmayatha sādhavo. (清净道论1，2。)
+
+在世尊的殊胜教法之中获得了极难获得的出家沙门身分，而对于以戒(sīla)、定(samādhi)、慧(paññā)三学(sikkhā)之殊胜修行所统摄计数的，远离烦恼盗贼强盗之阻碍扰乱这一危难的，由于舍离回避自我疲惫行(attakilamathānuyoga)、沉迷欲乐行(kāmasukhallikānuyoga)、常见(sassatadiṭṭhi)、断灭见(ucchedadiṭṭhi)、诳(māyā)、诈(sāṭheyya)等等种种迂曲，因而没有歧路、唯是一条(= 唯是一道)笔直的，作为证得阿拉汉果(arahattaphala)涅槃(nibbāna)之因、到达涅槃之因的清白殊胜的(8)道支殊胜修行之法 --
+
+由于不能如实了知，那些即使就在此果德玛(Gotama)佛陀的殊胜教法之中，也正渴望希求阿拉汉果涅槃，并且由于在止(samatha)、观(vipassanā)二种修习(bhāvanā)上有着毫不间断的勤奋与精进(vīriya)而被称为「贤善的瑜伽行者(yogī)」的善男子、善女人们，虽然为了到达阿拉汉果涅槃而立志修习沙门之法，却仍旧不能进入、不能到达自己本来发愿心中所期望的阿拉汉果涅槃之宫殿而安住其中。
+
+那能令那些瑜伽行者诸善人生起欢喜的，因不与他派宗义相混杂而具有善妙、特别清净之抉择的，依止于常住在**大寺(Mahāvihāra)**大寺院的**大寺住者(Mahāvihāravāsī)**诸尊者们解说法义之方式即法之注释(dhammasaṃvaṇṇanā)等等开示方法的 ---
+
+我将撰写陈述**《清净道论》**。
+愿一切渴求阿拉汉果涅槃、身为善人的诸位尊者、诸位大德，都恭恭敬敬、郑重珍重地听闻我这弟子怀着恭敬尊重之心所解说撰写的那部《清净道论》吧。(清净道论1，2。)
+
+与上述这份誓约承诺相符地，在作为全世界真实依怙归投之处、极为伟大的一切知正自觉者佛陀般涅槃之后约教历(973)年时，尊者大佛音(Mahābuddhaghosa)大长老住在狮子洲斯里兰卡国阿努拉塔(Anurādha)城的大寺大寺院中，依止**大寺住者**诸尊者解说巴利圣典之方式、名为法之注释的**大义注(Mahā-aṭṭhakathā)**，撰写编
+纂了**《清净道论》义注**。
+
+在尊者大佛音的诸论典中，找不到像属于北方教派的**尊者阿萨葛萨(Assaghosa)、尊者那葛准那(Nāgajjuna)、尊者瓦苏班度(Vasubandhu)**等诸位法师的论典那样，不依止诸大巴利圣典与古代诸义注论籍、仅凭自己的智慧构思而写出的新奇特异的法语。
+他只是把诸巴利圣典与大义注等古代诸义注中所传的旧路旧道、旧制度、诸旧修行次第写入自己的论典而已，并不曾创制新方法、
+新制度、诸新道路而加以编入宣说。为了使这一说法显豁分明，现在摘录《清净道论》义注中所陈述的一些修行次第来加以陈明。
+
+- 1. 在名为**《去向涅槃之道》**的本论中，于建立定的部分里陈述了安那般那念定(ānāpānassatisamādhi)的部分。而在《清净道论》义注中，那**安那般那念定阐释部分**是从题名为**《普端严》(Samantapāsādikā)义注**、由他自己亲自翻译的律义注中
+取来而解说撰写的。
+- 2. 名为厌恶作意(paṭikūlamanasikāra)的**身至念业处(kāyagatāsatikammaṭṭhāna)**，以及名为**四界差别修习(catudhātuvavatthānabhāvanā)**的**界业处**的简略修习法与详细修习法，则是从题名为《迷惑冰消》义注、由他自己亲自翻译的阿毗达摩义注中取出而撰写的。
+- 3. 在近行定(upacārasamādhi)与安止定(appanāsamādhi)这两种定当中，凡是想要以某一种定作为观的基础(pādaka)，进而向上攀登见清净(diṭṭhivisuddhi)等更高清净阶位的修行者(yogāvacara)诸善人，首先必须把色、名摄取起来修观，直到智见触及究竟法。那些色、名究竟法的自性法，是依照世尊在《法集》(Dhammasaṅgaṇī)巴利圣典、《分别》(Vibhaṅga)巴利圣典等诸大巴利圣典中所宣说的那样撰写陈述的。而在这样撰写陈述解说之处，
+**蕴阐释部分**既从题名为**《胜义说》(Atthasālinī)义注**、由他自己亲自翻译的阿毗达摩义注中，也从题名为**《迷惑冰消》(Sammohavinodanī)义注**、由他自己亲自翻译的《分别》义注中取出而撰写。
+- 4. 那些色、名究竟法的相(lakkhaṇa)-作用(rasa)-现起(paccupaṭṭhāna)-足处(padaṭṭhāna)诸观照项目，则是从《胜义说》义注与《分别》义注中取出而撰写陈述的。
+- 5. 同样地，**处阐释部分**取自**《处分别》义注**，
+- 6. **界阐释部分**取自**《界分别》义注**，
+- 7. **根阐释部分**取自**《根分别》义注**，
+- 8. **谛阐释部分**取自**《谛分别》义注**——各各摘取出来而撰写陈述。
+- 9. 特别是，作为宣示修行者们亲自为证得缘摄受智(paccayapariggahañāṇa)所应修习之次第部分的**缘起论部分**，是从**《缘起分别》义注**中取出而撰写陈述的。**发趣缘论部分**也是从**《阿毗达摩发趣论》义注**中取出而撰写陈述的。
+- 10. 在《清净道论》义注第二册第(300-301)页中，陈述了种种出起观(vuṭṭhānagāminīvipassanā)。
+  - (甲) 仅仅以观照纯粹的内在(ajjhatta)五蕴，
+  - ( 乙 ) 仅仅以观照纯粹的外(bahiddhā)五蕴，
+  - ( 丙 ) 仅仅以观照纯粹的种色、所造色这些色法，
+  - (丁) 仅仅以观照纯粹的四名蕴 ---
+
+——判定出起观不可能生起 = 不可能触及圣道(ariyamagga)。其中，关于(9)种出起观的诸项判定，是从题名为《胜义说》义注、由他自己亲自翻译的阿毗达摩义注(阿毗达摩义注1，270-271。)中摘录出来而宣示的。
+对于那些渴求涅槃、敬爱真法正法，愿意依照具知具见的一切知正自觉者佛陀亲自行走过、亲自制定过的、作为唯一一条道路的通往涅槃的旧路古道、依照古老大制度而精勤修习培育的一切善人来说，这正是一部应当恭敬、郑重听闻牢记的古老传承的大教示。
+
+尊者大佛音大长老确实编纂撰写了许多义注，这是真的；但那并不是他凭自己的智力智慧创制构思而写成的，而只是把以狮子洲语存在的诸义注翻译成巴利语而已。
+现在再稍加一些解释说明。
+
+尊者大佛音大长老之所以编纂名为**《普端严》**的律义注，是因为**尊者布德西利(Buddhasiri)大长老**的启请恳求；他住在大寺大寺院南面主殿院区中、名为**马哈尼葛马萨米(Mahānigamasāmi)**的施主所建的楼阁里编纂而成。
+撰写编纂那部律义注的尊者大佛音大长老，是以**尊者马哈马兴达(Mahāmahinda)**阿拉汉大长老亲自带往狮子洲的、以狮子洲语编成的**大义注**作为那部新义注的主体，并且从《大筏注》(Mahāpaccarī)、《古伦帝》(Kurundī)、《僧结波》(Saṅkhepa)、《安达格》(Andhaka)诸义注中也取用应当取用的部分，还把在狮子洲直到**瓦萨婆(Vasabha)王**在位时期为止都著名的古代诸持律大长老们的判定即长老说(theravāda)也编入其中，如此撰写编纂而成。
+因此，在律义注中说了以下这些话。 ---
+
+努力编纂那部新义注的我(= 大佛音长老)，以大义注作为那部新义注的主体根本；在《大筏注》义注中，以及在著名的《古伦帝》义注等诸旧义注中，凡有所说的判定，
+我也不舍弃那些判定中恰当的义理，此外还将把三藏持者(tipiṭakadhara)尊者朱腊那葛(Cūḷanāga)等诸大长老的判定即诸长老说也包含进去，好好努力地编纂出这部新义注。(律义注1，2。)
+
+- 1. 名为**《善吉祥光》(Sumaṅgalavilāsinī)**的**《长部》义注，**
+- 2. 名为**《破斥犹疑》(Papañcasūdanī)**的**《中部》义注，**
+- 3. 名为**《阐明心义》(Sāratthappakāsinī)**的**《相应部》义注，**
+- 4. 名为**《满足希求》(Manorathapūraṇī)**的**《增支部》义注，**
+- 5. 名为**《胜义说》、****《迷惑冰消》、****《五论》(Pañcapakaraṇa)**的**阿毗达摩义注** ---
+
+这些各种各样的义注他也都编纂了。
+至于编纂的方式，则是：马哈马兴达大长老以口诵背诵的方式带往狮子洲、以狮子洲语书写在贝叶上、翻译成狮子洲语的那部称为根本义注的大义注——他只是把它翻译成巴利语，并把重复叠述的语句加以精简，如此撰写编纂而成的。
+因此，在那些义注的序论之处，如下这样说道。 ---
+
+「如此举行第三次结集之后的时代里，名为马哈马兴达的阿拉汉大长老以口诵背诵的方式把那部根本义注带往狮子洲，并为了狮子洲人的利益而以狮子洲语记录了下来。
+
+我将从那部旧义注中除去狮子洲语，转写成与巴利圣典体例相符的、无过失的、令人心生喜悦的巴利语。乃至。舍去重复叠述的义理，
+而解说显示巴利圣典的义理(= 义注)。」(长部义注1，1-2。阿毗达摩义注1，2。)
+
+其次，尊者大佛音大长老在诸义注的序论开头也如下这样嘱咐说道。 ---
+
+- 1. 解说戒之因由的言说，
+- 2. 诸头陀支(dhutaṅga)修行之法，
+- 3. 一切业处(kammaṭṭhāna)，
+- 4. 性行(carita)的差别安排，
+- 5. 禅那(jhāna)与等至(samāpatti)的详说，
+- 6. 一切神通(abhiññā)，
+- 7. 关于慧的总摄抉择，
+- 8. 蕴、处、界、根、圣谛(ariyasacca)，
+- 9. 善加周遍清净而方法微细的缘起(paṭiccasamuppāda)教说，
+- 10. 具足无缺的巴利次第的观修习 ---
+
+以上所说的这一切，我已在《清净道论》中完整而清晰地说过了；因此，这一切在本义注中就不再多余重复地加以详审了。(长部义注1，2。阿毗达摩义注1，2。)
+
+与这些誓约承诺相符，《清净道论》义注中所载的、以戒、定、慧三学所统摄计数而陈述的止观各种修行次第，都只是依照巴利圣典的次第而解说撰写的、诸旧义注中所载的诸解说而已。
+由于在《清净道论》义注中已经解说过了，因此在那些义注里，某些条目就不再重复解说，而是回过头来指示读者按照《清净道论》义注中所解说的那样去理解，藉此把解说注释(= 义注)加以精简。
+
+其次，尊者大佛音大长老在律义注的序论开头也说了以下这些话。 ---
+
+「 世尊宣说了某种法，也宣说了某种律。
+那法与那律，作为世尊真正之子的尊者沙利子(Sāriputta)等诸大长老，唯有依照世尊所宣说的那个样子
+而了知理解。 
+如此了知理解的尊者沙利子等诸大长老的意趣主张，狮子洲的诸位大长老们不曾舍弃，而在古代编
+纂了诸义注。
+
+因此，诸义注中所说的一切言说，除了因失念而抄写错误的笔误之外，全部都是本教法中对三学怀有恭敬的诸智者们如同标准一般的准量。
+
+从那部旧义注中只除去狮子洲的语言，并把冗长的语句次第加以精简。乃至。这部新义注也将如此形成；因此，这部新义注也应当恭敬地学习。」(律义注1，3。)
+
+正因如此，尊者大佛音大长老不曾撰写编纂任何一部不依止世尊的经法、阿毗达摩法或律法、也不依止古代义注，而仅凭自己的智慧构思创制，或从世间典籍中取材而成的论典。
+
+因此应当恭敬地铭记听闻：《清净道论》义注中所撰述的诸修行次第，都只是佛陀所说的诸巴利圣典中所载的修行次第；并且，为了让想要修行的人能够理解、能够修习，才依照诸旧义注中所载的那样，把佛陀所说巴利圣典的义理解说撰写出来，它们都只是这样的行仪修行法而已。
+
+说到这里，你这位善人应当已经能够领会：在今日当代的修行界中被轻视冷落的《清净道论》义注究竟是一部什么样的论典，以及那部论典中所载的诸修行次第究竟是什么样的修行次第了。
+
+《清净道论》义注中所撰述的止方面、观方面极其重要的诸修行次第，虽然在其他种种义注中也能轻易查找到，但某些关于修行次第的解说却只能在《清净道论》义注中见到、在其他种种义注中见不到——当知这是因为在《清净道论》义注中已经解说过的那些解说，在那些义注中就不再重复解说了。
+凡是嘱咐说「已在《清净道论》中解说过」的一切语句，都只是那些义注中已经解说过的诸解说语句。那些解说被称为重复出现的诸解说。 
+对于那样重复出现的诸解说，他都指示读者去《清净道论》中查看，藉此把论书加以精简。
+因此，在《清净道论》义注的结语中，义注师大长老留下了以下这些语句。 ---
+
+Tesaṃ sīlādibhedānaṃ, atthānaṃ yo vinicchayo.
+
+Pañcannampi nikāyānaṃ, vutto aṭṭhakathānaye.
+
+Samāharitvā taṃ sabbaṃ, yebhuyyena sanicchayo.
+
+Sabbasaṅkaradosehi, mutto yasmā pakāsito. (清净道论2，354。)
+
+戒的种类、定的种类、慧的种类的义理意涵之判定，已在解说**五部(nikāya)**之义理的义注方法中说过了。
+把那些已说过、已解说过的**义注判定**全部大体上收集取来，从而把远离诸宗义相混杂这一过失的义理连同判定一并显示出来了。(清净道论2，354。)
+
+藉着上述这些话 --- 「编纂《清净道论》义注的尊者大佛音大长老，依止被称为大寺住者诸大长老宣说教授之方法的
+五部之诸旧义注，把那些旧义注中所说的、与以戒、定、慧三学之殊胜修行所统摄计数的八道支殊胜修行之法相关的、应当取用的一切判定收集取来而编纂完成」——这一意旨已然显豁分明地呈现出来了。
+
+因此，在名为**《去向涅槃之道》**的本论中，在撰述通往涅槃的各种修行次第时，也是依照《清净道论》义注中所载的(7)清净(visuddhi)修行次第来撰述陈明的。
+
+有次第地解说撰写(8)道支修行次第之法的《清净道论》义注，对于当时出生的学法诸善人来说似乎已经足够圆满，但随着时代变迁、后世来临，不但出现了难以了知的艰深奥义之处，还出现了极其简略以致无法理解修行次第的地方；因此，名为阿闍梨达摩巴拉(Ācariya Dhammapāla)的**尊者达摩巴拉大长老**又重新编纂了**《大复注》(= 《清净道论大复注》)**这部论书。
+
+那些论书对于精通巴利文献的诸善人来说是可资依靠的论书，但对于不精通巴利文献的诸善人来说，却又产生了许多困难。
+名为《去向涅槃之道》的这部论书，只不过是一部为解决那些困难的论书罢了。其次 ---
+
+- 1. 于教理(pariyatti)法方面，
+- 2. 于行道(paṭipatti)法方面，
+- 3. 于教理、行道两方面 ---
+
+对于精通娴熟的诸善人来说，《清净道论》义注中所载的诸修行次第固然是容易的；但对于在教理法方面、在行道法方面、在教理与行道两方面都不精通不娴熟的诸善人来说，要想有系统地精勤修习、培育《清净道论》义注中所载的诸修行次第，恐怕就会有许多许多的困难了。
+
+为了使那些面临如此困难的诸善人能够不费力、安稳舒适、轻轻松松地精勤修习、培育《清净道论》义注中所载的诸修行次第，怀着这样的志愿与期望，并且应诸位瑜伽行者善人的启请恳求，才撰写陈述了名为《去向涅槃之道》的这部论书。
+
+名为**《去向涅槃之道》**的这部论书，只不过是在教理法方面、在行道法方面、在教理与行道两方面都不精通不娴熟的诸善人与《清净道论》义注中所载的诸修行次第之间所架设的一座**「桥梁」**而已。它绝不是创制新方法、新制度的什么新奇论书。
+
+然而，《清净道论》义注中所载的诸修行次第是广博的、深奥的、艰难的；对于在教理法方面、在行道法方面、在教理与行道两方面都不精通不娴熟的诸善人来说，要能够精勤修习、培育它们并不容易。
+为了使面临如此众多困难的诸善人们能够毫无困难地、有次第地一级接一级、越来越高地精勤修习、培育，怀着这样的志愿与期望，本论书中如下分为(9)大部分而撰写陈述。
+
+- 1. 贤善的一夜(《贤善一夜经》(Bhaddekarattasutta))篇，
+- 2. 应当如何建立定篇，
+- 3. 安那般那念定篇，
+- 4. 色业处篇，
+- 5. 名业处篇，
+- 6. 缘起篇，
+- 7. 相等四法(lakkhaṇādicatukka)篇，
+- 8. 观篇，
+- 9. 止业处篇 ---
+
+如此，在名为**《去向涅槃之道》**的本论中分为这(9)大部分而撰写陈述。若在本论中发现有丝毫错误之处，恳请诸位按照自己论典的样式加以修正后阅读。
+
+在本论书的第一册中 ---
+
+- 1. 在**戒清净(sīlavisuddhi)篇**中，仅仅陈述了使戒清净无瑕地圆满修习的方法之要略，
+- 2. 在**心清净(cittavisuddhi)篇**中，陈述了**安那般那念定篇**，
+- 3. 在**见清净篇**中，有色业处篇与**名业处篇**两种，其中陈述了色业处篇--
+
+如此撰写陈述。
+正如《清净道论》义注依照**佛陀所说的诸大巴利圣典与古代** **诸大义注**中所载的那样，逐级地撰述了戒的修行次第、定的修行次第、慧的修行次第；同样地，在名为**《去向涅槃之道》**的本论中也 ---
+
+- 1. 佛陀所说的巴利圣典，
+- 2. 《清净道论》义注，
+- 3. 《清净道论》义注师所翻译的诸旧义注，
+- 4. 义注中所载的诸长老说判例，
+- 5. 解说义注的诸复注，
+- 6. 诸依词释(nissaya)论书，
+- 7. 诸缅译论书，
+- 8. 古代诸位大师的诸判例 ----
+
+就这样，依照上述种种论籍中所载的那样，撰述陈明了三学的殊胜修行之法。
+正如《清净道论》义注并不是尊者大佛音大长老所创立创造的新方法、新制度、新修行次第，而只是从佛陀在世时代传承下来的旧方法、旧制度、旧修行次第一样；同样地，特别恭敬重视佛陀所说的诸大巴利圣典与《清净道论》义注而撰写编纂的、名为**《去向涅槃之道》**的本论中所撰述的各种修行次第，也不是新方法、新制度、新修行次第，而只是旧方法、旧制度、旧修行次第而已。
+
+愿一切喜爱敬重从佛陀在世时代直到今日传承下来的、通往涅槃的古老传承修行次第之大教示的诸善人，都能够精勤修习、培育它。
+
+帕奥禅林西亚多
+
+吉答拉山寺
+
+帕奥禅林
+
+教历 - 2537 - 年，
+
+缅历 - 1355 - 年，
+
+德丁久特月上弦(1)日。
+
+**【文件：[1]大礼敬-礼佛/[1]大礼敬-礼佛.md】**
+
+**Nibbānagāminipaṭipadā**
+
+**《去向涅槃之道》- 第一册**
+
+Namo tassa Bhagavato Arahato Sammāsambuddhassa.
+
+# 大礼敬(mahānamakkāra) - 礼佛(buddhapaṇāma)
+
+Munindakko yeko dayudayaruṇo ñāṇavitthiṇṇabimbo,
+
+Vineyyappāṇoghaṃ kamalakathitaṃ dhammaraṃsivarehi.
+
+Subodhesi suddhe tibhavakuhare byāpitakkittinañca,
+
+Tilokekaccakkhuṃ dukhamasahanaṃ taṃ mahesiṃ namāmi.
+
+Dayudayaruṇo = 也具有名为大悲(mahākaruṇā)等至(samāpatti)的、初升朝阳的。
+Ñāṇavitthiṇṇabimbo = 也具有名为殊胜一切知智(sabbaññutañāṇa)的、广大日轮的。
+Eko = 在万重世界(lokadhātu)的整个范围之内无有匹敌，唯独一尊绽放光明、出现于世的。
+Yo munindakko = 那位名为佛陀(buddha)的太阳。
+Suddhe = 洁净纯白、清凉澄澈而美丽的。
+Tibhavakuhare = 在名为欲(kāma)、色(rūpa)、非色(arūpa)的三重有(bhava)、三种界地这一莲花池中。
+Nibbattaṃ = 由于巴拉密(pāramī)业(kamma)的安排推动，已然现成地生起、出现而存在着的。
+Kamalakathitaṃ = 被称呼、被称名为莲花的。
+Vineyyappāṇoghaṃ = 把应当得度的人、天神(deva)、梵天(brahmā)等应受教化者(veneyya)这些莲花、有情(satta)的总聚。
+Dhammaraṃsivarehi = 以那名为能令人见知道(magga)的通达、果(phala)的证入与涅槃(nibbāna)的善人之法的、殊胜的开示(desanā)光芒。
+Subodhesi = 已令他们洞穿知见四谛(sacca)殊胜之法，从而美好地绽放开来了。
+
+Byāpitakkittinañca = 由于在万重世界的整个范围之内无人能比的戒(sīla)、定(samādhi)、慧(paññā)之功德威望，直到梵天界都广泛传扬、声名远播、显赫昭著的。
+Tilokekaccakkhuṃ = 有如梵天、天神、人类这三界众生唯一的一只眼(cakkhu)一般的。
+Dukhamasahanaṃ = 如同大地(mahāpathavī)一般，对于难以忍受之事也能够忍受的。
+Mahesiṃ = 已经积集寻求、修习熟练了名为戒蕴(sīlakkhandha)、定蕴(samādhikkhandha)、慧蕴(paññākkhandha)、解脱蕴(vimuttikkhandha)、解脱知见蕴(vimuttiñāṇadassanakkhandha)的种种殊胜功德的。
+Taṃ munindakkaṃ = 把那位名为佛陀的太阳。
+Ahaṃ = 弟子我。
+Namāmi = 以身(kāya)、语(vacī)、意(mano)三种思(cetanā)、经由三门(dvāra)的礼敬，怀着信(saddhā)恭敬顺从、折断我慢(māna)之牙，向您顶礼膜拜，世尊。
 
 
+**【文件：[2].贤善一夜篇/[2].贤善一夜篇.md】**
+
+# 贤善一夜（Bhaddekarattasuttan）篇
+
+在讲述贤善一夜（Bhaddekarattasuttan）篇之前，先就与过去、未来的观察对象相关、修行者（yogāvacara）们应当预先知道的亲见智（paccakkha-ñāṇa）与随类智（anvaya-ñāṇa）作一前置说明。
 
 **【文件：[2].贤善一夜篇/[2]关于现见智与比量智/[002a]关于现见智与比量智.md】**
 
@@ -199,11 +519,6 @@ Paccakkhakaraṇatthena ñātapariññā tīraṇapariññā ca gahitā hoti. (s
 
 乃是**以亲见智(paccakkha ñāṇa)**亲自现见而知见——为了彰显这样的义理，佛陀(Buddha)才宣说**Passato ＝对于见的人**；在此处也应如此记取这一义理。 (saṃ, ṭī, 2, 63.)
 
-**【文件：[2].贤善一夜篇/[2].贤善一夜篇.md】**
-
-# 贤善一夜（Bhaddekarattasuttan）篇
-
-在讲述贤善一夜（Bhaddekarattasuttan）篇之前，先就与过去、未来的观察对象相关、修行者（yogāvacara）们应当预先知道的亲见智（paccakkha-ñāṇa）与随类智（anvaya-ñāṇa）作一前置说明。
 
 **【文件：[2].贤善一夜篇/[2]关于现见智与比量智/[006]随闻与行相思量.md】**
 
@@ -223,6 +538,9 @@ Paramparāgatassa atthassa evaṃ kirassāti** anussavanaṃ**. (Saṃ, Ṭī, 2
 将对原由、现成之理则加以构想—思量—审察，称为**行相思量**。
 仅凭那种行相思量之力而生的了知，在此**《近依经》**中**jānato** ＝ **了知者，** **passato** ＝ **见者**，也并不是指此意。
 （佛陀的诸法教乃是 atakkāvacara＝并非那些不切实修、唯惯于纯粹构想空想的思辨者＝逻辑论者(takkī)们所游履的境域。Ma, 2, 291.） 
+
+
+
 
 **【文件：[2].贤善一夜篇/[2]关于现见智与比量智/[007]现见智.md】**
 
@@ -306,7 +624,7 @@ Yaṃ kiñci bhikkhave rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bah
 
 **【文件：[2].贤善一夜篇/[2]关于现见智与比量智/[009]此即是色 - 此即是受.md】**
 
-# Iti rūpaṃ - Iti vedanā . . .
+### Iti rūpaṃ - Iti vedanā . . .
 
 Tattha **iti rūpa**nti idaṃ rūpaṃ, ettakaṃ rūpaṃ, ito uddhaṃ rūpaṃ natthīti ruppanasabhāvañceva bhūtupādāya-bhedañca ādiṃ katvā lakkhaṇa rasa paccupaṭṭhāna padaṭṭhānavasena anavasesarūpapariggaho vutto. pa.
 
@@ -4888,7 +5206,7 @@ Anujānāmi bhikkhave aṭṭha pānāni ambapānaṃ jambupānaṃ cocapānaṃ
 
 **【文件：[186]应当如何建立定篇/[186b]建立起定.md】**
 
-### 建立起定（samādhi）
+## 建立起定（samādhi）
 
 唯有以正见（sammādiṭṭhi）之智慧亲身现证、透彻知见四圣谛（ariyasacca），才能灭尽轮回（saṃsāra）之苦（dukkha），因此凡是想要灭尽轮回之苦的善男子、善女人，都必须努力去以正见之智慧亲身现证、透彻知见四圣谛。
 为了以正见之智慧如实地、亲身现证、透彻知见四圣谛，首先应当如何修行呢？这是需要提出的问题。
@@ -4997,7 +5315,7 @@ samādhiṃ bhikkhave bhāvetha, samāhito bhikkhave bhikkhu yathābhūtaṃ paj
 
 **【文件：[186]应当如何建立定篇/[189]大牧牛者经 - 一项论说.md】**
 
-### 《大牧牛者经》(Mahāgopālaka Sutta) - 一项论说
+## 《大牧牛者经》(Mahāgopālaka Sutta) - 一项论说
 
 在《根本五十(Mūlapaṇṇāsa)》巴利圣典的《大牧牛者经》(中部,1,281-286。)中——"若对大种色(bhūtarūpa)——四大种(mahābhūta),以及依止那四大种而生起的、称为所造色(upādārūpa)的一切色(rūpa)法,未能清晰分明地了知,便称为不了知色法。 
 放牧牛群的牧牛人,若不能如实正确地了知——自己所放牧的牛群共有多少头(即从数目上),以及白牛有几头、红牛有几头等等(即从颜色上),那么正如这位牧牛人不配去放牧牛群、纵然放牧也无力使牛群兴旺增长一样——依这个譬喻,在这教法(sāsanā)之中,瑜伽行者(yogāvacara)比库(bhikkhu)对于有大种色、所造色之别的一切色法——
@@ -5085,7 +5403,7 @@ lakkhaṇa-rasa-paccupaṭṭhāna-padaṭṭhānavasena nāmarūpapariggaho **d
 
 **【文件：[186]应当如何建立定篇/[192a]刹那定.md】**
 
-### 刹那定(khaṇika samādhi)
+## 刹那定(khaṇika samādhi)
 
 有些身为殊胜、贤善的瑜伽行(yogāvacara)者的尊贵导师们认为：纯观乘者(suddha vipassanā yānika)不需要建立定(samādhi)，只凭刹那定趣向观(vipassanā)也能证得。
 这是引用《清净之道(Visuddhi Magga)》大复注(mahāṭīkā)尊者之语而作出的开示。
@@ -5148,7 +5466,7 @@ tenāha **"samādhiñceva vipassanañca bhāvayamāno"**ti. (Mahāṭī, 1, 15.)
 
 **【文件：[186]应当如何建立定篇/[194]止行者之道.md】**
 
-### 止行者(samatha yānika)之道
+## 止行者(samatha yānika)之道
 
 Taṃ sampādetukāmena **samathayānikena** tāva ṭhapetvā nevasaññānāsaññāyatanaṃ avasesa-rūpārūpāvacarajjhānānaṃ aññatarato vuṭṭhāya vitakkādīni jhānaṅgāni taṃsampayuttā ca dhammā **lakkhaṇarasādi**-**vasena** pariggahetabbā.
 Pariggahetvā sabbampetaṃ ārammaṇābhimukhaṃ namanato namanaṭṭhena nāmanti vavatthapetabbaṃ.
@@ -5180,7 +5498,7 @@ Tato namanalakkhaṇaṃ nāmaṃ, ruppanalakkhaṇaṃ rūpanti **saṅkhepato 
 
 **【文件：[186]应当如何建立定篇/[195]纯观乘者之道.md】**
 
-### 纯观乘者（suddhavipassanāyānika）之道
+## 纯观乘者（suddhavipassanāyānika）之道
 
 **suddhavipassanāyāniko** pana ayameva vā **samathayāniko** catudhātuvavatthāne vuttānaṃ tesaṃ tesaṃ dhātupariggahamukhānaṃ aññataramukhavasena saṅkhepato vā vitthārato vā catasso dhātuyo pariggaṇhāti. (Visuddhi 2.222)
 
@@ -5653,7 +5971,7 @@ Ekaccharakkhaṇe koṭisatasahassasaṅkhā uppajjitvā nirujjhati. （相应�
 
 **【文件：[186]应当如何建立定篇/[213]色密集 = 三种色团色块.md】**
 
-### 色密集(rūpaghana) = 三种色团色块
+## 色密集(rūpaghana) = 三种色团色块
 
 为了让智见(ñāṇa)到达究竟色(paramattha)的境地而观照诸色法时，需要破除称为色密集的三种色团色块。
 在色的部分，诸复注(ṭīkā)中解说了：存在称为色密集的三种色团色块。
@@ -5772,7 +6090,7 @@ tathā sārammaṇadhammānaṃ satipi ārammaṇakaraṇabhede ekato gayhamān�
 
 **【文件：[186]应当如何建立定篇/[217c]名密集(四)种.md】**
 
-### 名密集(nāma ghana)的四种
+## 名密集(nāma ghana)的四种
 
 再者，在诸名法当中同样 ----
 
@@ -5912,7 +6230,7 @@ santatighanādīnaṃ ayaṃ viseso -- purimapacchimānaṃ nirantaratāya ekīb
 
 **【文件：[186]应当如何建立定篇/[223]三种思惟行境.md】**
 
-### 三种思惟行境(sammasanacāra)
+## 三种思惟行境(sammasanacāra)
 
 于此 ----
 
@@ -6374,9 +6692,7 @@ ko cādi kusalānaṃ dhammānaṃ, sīlañca suvisuddhaṃ diṭṭhi ca ujukā
 
 # 入出息念定（ānāpānassatisamādhi）篇
 
-**【文件：[240]安那般那念定篇/[240]身随观 安那般那节 巴利圣典/[240a]入出息念定篇.md】**
 
-# 入出息念定(ānāpānassatisamādhi)篇
 
 **【文件：[240]安那般那念定篇/[240]身随观 安那般那节 巴利圣典/[240b]身随观 安那般那节 巴利圣典.md】**
 
@@ -14134,7 +14450,7 @@ ettha ca obhāsādayo upakkilesavatthutāya upakkilesāti vuttā, na akusalattā
 
 **【文件：[535]色业处篇/[535b]慧地-根本-身之差别.md】**
 
-### 慧地-根本-身之差别(paññābhūmi-mūla-sarīravavatthāna)
+## 慧地-根本-身之差别(paññābhūmi-mūla-sarīravavatthāna)
 
 kathaṃ **bhāvetabbā**ti ettha pana yasmā imāya paññāya khandhāyatanadhātuindriyasaccapaṭiccasamuppādādibhedā dhammā **bhūmi**. 
 sīlavisuddhi ceva cittavisuddhi cāti imā dve visuddhiyo mūlaṃ.
@@ -14404,7 +14720,7 @@ Yāti pajjati etenāti yānaṃ, samathova yānaṃ samathayānaṃ, taṃ etass
 
 **【文件：[535]色业处篇/[545a]色(二十八)种.md】**
 
-### 二十八种色(rūpa)
+## 二十八种色(rūpa)
 
 在从心清净(cittavisuddhi)的阶段过渡到见清净(diṭṭhivisuddhi)的阶段时，对于以止为乘者(samathayānika)来说，有从名业处(nāmakammaṭṭhāna)开始重新用功的方法、从色业处(rūpakammaṭṭhāna)开始重新用功的方法这样两种方法；其中，从色业处开始重新用功的修习方式，现在就接着加以说明。 
 在说明之前，先把修行者(yogāvacara)们必须观照修习、收摄的二十八种色列举出来加以说明。
@@ -14671,7 +14987,7 @@ Kabaḷīkāro āhāro imassa kāyassa āhārapaccayena paccayo. (Paṭṭhāna,
 
 **【文件：[535]色业处篇/[552]开始摄取四大界的方法.md】**
 
-### 开始摄取四大界的方法
+## 开始摄取四大界的方法
 
 在止(samatha)篇中，佛陀(Buddha)结合建立定(samādhi)的种种方法，开示了(四十)种业处(kammaṭṭhāna)。
 而到了观(vipassanā)篇的时候，业处便只有色业处(rūpakammaṭṭhāna)与名业处(nāmakammaṭṭhāna)两种。
@@ -15568,7 +15884,7 @@ Asantaguṇasambhāvanalakkhaṇaṃ **sāṭheyyaṃ**. (Mahāṭī, 1, 84.)
 
 **【文件：[535]色业处篇/[581]一、具有信法 (第一精勤支法).md】**
 
-### 一、具有信(saddhā)之法 (第一精勤支(padhāniyaṅga)法)
+#### 一、具有信(saddhā)之法 (第一精勤支(padhāniyaṅga)法)
 
 施主菩提王子(bodhirājakumāra)……在修习业处(kammaṭṭhāna)的人身上必须具足的、名为精勤支的因缘支分，就是这(五)种。是哪(五)种呢——
 
@@ -15576,7 +15892,7 @@ Asantaguṇasambhāvanalakkhaṇaṃ **sāṭheyyaṃ**. (Mahāṭī, 1, 84.)
 
 **【文件：[535]色业处篇/[582]四种信与此处所需要的信.md】**
 
-### 信 (四) 种与此处所需要的信
+##### 信 (四) 种与此处所需要的信
 
 信(saddhā)有四种：来到信(āgamanasaddhā)、证得信(adhigamasaddhā)、确信(okappanasaddhā)、净信(pasādasaddhā)。
 一切知(sabbaññu)佛陀的诸位大菩萨的信，是从他们怀着「为了证得一切知智(sabbaññutañāṇa)」这样心志专注恳切的殊胜之信而发下殊胜大愿开始，一直到菩提座(bodhimaṇḍa)为止，依着次第一路相续而来的，因此名为**来到信**。
@@ -15614,7 +15930,7 @@ Sabbaṃ ca kho bhikkhave abhijānaṃ parijānaṃ virājayaṃ pajahaṃ bhabb
 
 **【文件：[535]色业处篇/[583]佛陀殊胜的菩提智.md】**
 
-### 佛陀殊胜的菩提智
+##### 佛陀殊胜的菩提智
 
 佛陀的(四)种道智(maggañāṇa)，由于是获得殊胜大一切知智(sabbaññutañāṇa)的根本原因，所以名为菩提(bodhi)。
 另一种说法是：殊胜的正自觉智(sammāsambodhiñāṇa)名为菩提。
@@ -15628,7 +15944,7 @@ Sabbaṃ ca kho bhikkhave abhijānaṃ parijānaṃ virājayaṃ pajahaṃ bhabb
 
 **【文件：[535]色业处篇/[584a]这只是说法的纲首.md】**
 
-### 这只是说法的纲首
+##### 这只是说法的纲首
 
 由于修行者(yogāvacara)比库(bhikkhu)一方能够以圆满的信心、即信(saddhā)之法作出这样的决断：「名为如来(Tathāgata)的正自觉者(sammāsambuddha)佛陀(Buddha)，确实无疑、善加透彻地知见了、获得了、证达了那伟大殊胜的正自觉智(sammāsambodhiñāṇa)」——因此，佛陀
 所宣说的、即道智(maggañāṇa)—果智(phalañāṇa)—涅槃(nibbāna)—教理(pariyatti)这(十)种殊胜之法，是能从轮回(saṃsāra)之流中出离的出离(niyyānika)善法，这一点也是如此，圣(ariya)僧团善加恭敬地实践、努力、修习那能从轮回之流中出离的出离善法，因而具足善行道(suppaṭipanna)之德，这一点也是如此——都只是修行者比库一方所能作出的决断而已。
@@ -15639,14 +15955,14 @@ Sabbaṃ ca kho bhikkhave abhijānaṃ parijānaṃ virājayaṃ pajahaṃ bhabb
 
 **【文件：[535]色业处篇/[584b]二、身体健康 (第二精勤支法).md】**
 
-### 二、身体健康 (第二精勤支(padhāniyaṅga)法)
+#### 二、身体健康 (第二精勤支(padhāniyaṅga)法)
 
 没有疾病，没有身体上的苦痛。 
 具足这样的消化之火界(pācaka tejo dhātu)：它能使食物均匀地消化，不过冷也不过热，处于中等的状态，适合于修习业处(kammaṭṭhāna)。
 
 **【文件：[535]色业处篇/[584c]三、远离诳与谄 (第三精勤支法).md】**
 
-### 三、远离诳(māyā)与谄(sāṭheyya) (第三精勤支(padhāniyaṅga)法)
+#### 三、远离诳(māyā)与谄(sāṭheyya) (第三精勤支(padhāniyaṅga)法)
 
 把自己身上并不真实具有的功德张扬出来、加以夸耀，这种性质特相就是谄 = 就是伪装。
 把自己身上确实存在的过失遮盖隐瞒起来，这种性质特相就是诳 = 就是欺瞒。
@@ -15655,14 +15971,14 @@ Sabbaṃ ca kho bhikkhave abhijānaṃ parijānaṃ virājayaṃ pajahaṃ bhabb
 
 **【文件：[535]色业处篇/[585a]四、具有正勤的勤勇精进 (第四精勤支法).md】**
 
-### 四、具有正勤(sammappadhāna)的勤勇精进(viriya) (第四精勤支(padhāniyaṅga)法)
+#### 四、具有正勤(sammappadhāna)的勤勇精进(viriya) (第四精勤支(padhāniyaṅga)法)
 
 为了断除不善(akusala)法、为了圆满善(kusala)法，他安住于热切而猛力地努力用功的勤勇精进之中；他有努力用功的能力；他有坚持不懈的努力。
 对于善法应尽的责任，他绝不放下。
 
 **【文件：[535]色业处篇/[585b]五、具足观智慧 (第五精勤支法).md】**
 
-### 五、具足观(vipassanā)智(ñāṇa)慧(paññā) (第五精勤支(padhāniyaṅga)法)
+#### 五、具足观(vipassanā)智(ñāṇa)慧(paññā) (第五精勤支(padhāniyaṅga)法)
 
 他有智慧；他具足能够了知色(rūpa)法、名(nāma)法生起与灭去的智慧。 
 他具足这样的观智慧：它是清净的，能够击碎、摧毁烦恼(kilesa)的坚厚团块，能够善巧地引导人到达苦(dukkha)的尽头——涅槃(nibbāna)。 (Ma, 3, 298-299.)
@@ -15792,7 +16108,7 @@ Evaṃ manasi karontena hi anupubbato, nātisīghato, nātisaṇikato, vikkhepap
 
 **【文件：[535]色业处篇/[588b]一、依照次第(anupubbato) = 请按次第观照.md】**
 
-### 一、依照次第(anupubbato) = 请按次第观照
+#### 一、依照次第(anupubbato) = 请按次第观照
 
 在作意、观照修习四大界的时候，要依照佛陀所宣说、开示、教诫的说法次第，依照从师长那里学来的次第——以「**地界(pathavīdhātu) 水界(āpodhātu)** **火界(tejodhātu) 风界(vāyodhātu)**」这样的方式取界的自性法为所缘，只按照次第去作意、观照修习。 
 意思是说：不要以「水界 风界 地界 火界」等等这样的方式，「这里跳一下、那里跳一下」地、不按次序地作意。 
@@ -15800,7 +16116,7 @@ Evaṃ manasi karontena hi anupubbato, nātisīghato, nātisaṇikato, vikkhepap
 
 **【文件：[535]色业处篇/[588c]二、不要过快(nātisīghato) = 不要太快.md】**
 
-### 二、不要过快(nātisīghato) = 不要太快
+#### 二、不要过快(nātisīghato) = 不要太快
 
 在按照这样的次第作意四大界(dhātu)的自性法时，也不要以极其飞快的速度，观完一界马上就换观另一界。 
 过失在于：对于极快地作意界的修行者(yogāvacara)来说，一层一层、一次接一次地观完一界又换一界这样的业处作意，确实是可以持续不断地进行下去。 
@@ -15810,7 +16126,7 @@ Evaṃ manasi karontena hi anupubbato, nātisīghato, nātisaṇikato, vikkhepap
 
 **【文件：[535]色业处篇/[588d]三、不要过慢 = 不要太慢.md】**
 
-### 三、不要过慢(nātisaṇikato) = 不要太慢
+#### 三、不要过慢(nātisaṇikato) = 不要太慢
 
 正如不应该以极其飞快的速度作意四大界(dhātu)那样，也同样不应该以极其缓慢拖沓的方式去作意。 
 过失在于：如果以极其缓慢拖沓的方式，按照次第一界接着一界地作意四大界，那么界业处(dhātukammaṭṭhāna)就再也不可能到达称为终结(pariyosāna)的最后阶段 = 近行定(upacārasamādhi)了。 
@@ -15819,7 +16135,7 @@ Evaṃ manasi karontena hi anupubbato, nātisīghato, nātisaṇikato, vikkhepap
 
 **【文件：[535]色业处篇/[589]四、遮止散乱 = 不可观照外在的所缘.md】**
 
-### 四、遮止散乱(vikkhepapaṭibāhanato) = 不可观照外在的所缘
+#### 四、遮止散乱(vikkhepapaṭibāhanato) = 不可观照外在的所缘
 
 **Vikkhepapaṭibāhanato**ti kammaṭṭhānaṃ vissajjetvā bahiddhā puthuttārammaṇe cetaso vikkhepo paṭibāhitabbo. 
 Bahiddhā vikkhepe hi sati kammaṭṭhānā parihāyati paridhaṃsati. 
@@ -15844,7 +16160,7 @@ Ekapadikamaggagāmī puriso cettha nidassetabbo. (Mahāṭī, 1, 434.)
 
 **【文件：[535]色业处篇/[590a]不希望产生错误的见解.md】**
 
-### 不希望产生错误的见解
+##### 不希望产生错误的见解
 
 修习界业处(dhātukammaṭṭhāna)的修行者(yogāvacara)完全不可以观照、不可以作意其他种种色法(rūpa)与名法(nāma)——不希望大家在这一点上产生这样错误的见解。 
 如果已经看见色聚(kalāpa)，并且能够以智(ñāṇa)分别、剖析，透彻地了知每一个色聚里面所含有的四大界(dhātu)，那就已经从界业处这条道路到达近行定(upacārasamādhi)的领域了。 
@@ -15853,7 +16169,7 @@ Ekapadikamaggagāmī puriso cettha nidassetabbo. (Mahāṭī, 1, 434.)
 
 **【文件：[535]色业处篇/[590b]应当以极大的正念行走.md】**
 
-### 应当以极大的正念行走
+##### 应当以极大的正念行走
 
 在一道深达百人身高的悬崖峭壁之上横架着一条只有一只脚掌宽的桥路，走在这条路上的人，如果不好好记住自己所踏的足迹，而是东张西望、看这看那、望南望北地走着，那么他的脚步就可能踏空滑倒，可能失足打滑。 
 那时，他就可能坠落到那深达百人身高的悬崖裂谷之中。 
@@ -15861,7 +16177,7 @@ Ekapadikamaggagāmī puriso cettha nidassetabbo. (Mahāṭī, 1, 434.)
 
 **【文件：[535]色业处篇/[590c]五、请修行到超越概念.md】**
 
-### 五、paṇṇattisamatikkamanato = 请修行到超越概念
+#### 五、paṇṇattisamatikkamanato = 请修行到超越概念
 
 **Paṇṇattisamatikkamanato**ti "yā ayaṃ pathavīdhātū"ti ādikā paṇṇatti, taṃ atikkamitvā lakkhaṇesu eva cittaṃ ṭhapetabbaṃ.
 Evaṃ paṇṇattiṃ vijahitvā kakkhaḷalakkhaṇādīsu eva manasikāraṃ pavattentassa lakkhaṇāni supākaṭāni suvibhūtāni hutvā upaṭṭhahanti.
@@ -15895,7 +16211,7 @@ Sace pana bahiddhāpi manasikāraṃ upasaṃharati, athassa āhiṇḍantā man
 
 **【文件：[535]色业处篇/[592a]空-无有情-非生命.md】**
 
-### 空-无有情-非生命
+##### 空-无有情-非生命
 
 像这样舍弃了「地」等等的名称概念(paññatti)，只在「硬」等等究竟法(paramattha)自性(sabhāva)之法的所缘上面，让作意(manasikāra)的工作生起 ---- 在这样修行的瑜伽行者(yogāvacara)善人的智(ñāṇa)当中，四大界(dhātu)的究竟法自性特相(lakkhaṇa)都变得非常清楚、非常鲜明地显现出来。
 凭着这样一次又一次、一遍又一遍地作意的力量，那位瑜伽行者的心就能够获得重复缘(āsevana paccaya)的熏习。
@@ -15910,7 +16226,7 @@ Sace pana bahiddhāpi manasikāraṃ upasaṃharati, athassa āhiṇḍantā man
 
 **【文件：[535]色业处篇/[592b]在外显现的情形.md】**
 
-### 在外(bahiddhā)显现的情形
+##### 在外(bahiddhā)显现的情形
 
 如果在外的世间也用智(ñāṇa)去贴近、去持取对四大界(dhātu)自性特相(lakkhaṇa)的作意(manasikāra)，那么当他这样用智贴近、持取时，在这位修行者(yogāvacara)的智的范围内，那些来回走动、觅食、往来居住的人、畜生等有情(satta)，就会舍去「有情」这一形态，而仅仅以四大界的聚合体的方式显现出来。
 那些人、畜生等有情所做的一切举止行为，都显现为仅仅是由四大界所构成的机械装置所产生的举止行为。
@@ -15918,7 +16234,7 @@ Sace pana bahiddhāpi manasikāraṃ upasaṃharati, athassa āhiṇḍantā man
 
 **【文件：[535]色业处篇/[592c]六、可以放开某些不明显的界.md】**
 
-### 六、anupaṭṭhānamuñcanato = 可以放开某些不明显的界
+#### 六、anupaṭṭhānamuñcanato = 可以放开某些不明显的界
 
 - 1. 地界(pathavīdhātu)的硬、软、粗、滑、重、轻的性质，
 - 2. 水界(āpodhātu)的流泻、黏结的性质，
@@ -15934,7 +16250,7 @@ Sace pana bahiddhāpi manasikāraṃ upasaṃharati, athassa āhiṇḍantā man
 
 **【文件：[535]色业处篇/[593a]乐触-苦触.md】**
 
-### 乐触-苦触
+##### 乐触-苦触
 
 在《法集论》(Dhammasaṅgaṇī)巴利圣典之中，佛陀于名为触处(phoṭṭhabbāyatana)的地界(pathavīdhātu)、火界(tejodhātu)、风界(vāyodhātu)这(三)种之中，各自加入乐触(sukhasamphassa)、苦触(dukkhasamphassa)这两种而作了开示。
 
@@ -15956,7 +16272,7 @@ Sace pana bahiddhāpi manasikāraṃ upasaṃharati, athassa āhiṇḍantā man
 
 **【文件：[535]色业处篇/[593b]七、请只优先观照自性相.md】**
 
-### 七、lakkhaṇato = 请只优先观照自性相
+#### 七、lakkhaṇato = 请只优先观照自性相
 
 - 1. 地界(pathavīdhātu)的硬的特相(kakkhaḷattalakkhaṇa) = 坚硬的性质特相，
 - 2. 水界(āpodhātu)的流动的特相(paggharaṇalakkhaṇa) = 流泻的性质特相，
@@ -15991,7 +16307,7 @@ Sace pana bahiddhāpi manasikāraṃ upasaṃharati, athassa āhiṇḍantā man
 
 **【文件：[535]色业处篇/[595]八、增上心经.md】**
 
-### 八、增上心经(Adhicitta Sutta)
+#### 八、增上心经(Adhicitta Sutta)
 
 这部经出现在《增支部(Aṅguttara Nikāya)》第一册三集(tikanipāta)的盐块品(loṇakapalla vagga)中 - 名称是**相经(Nimitta Sutta)**。 
 那部经的缅文译文在此呈现如下。
@@ -16065,7 +16381,7 @@ Sace pana bahiddhāpi manasikāraṃ upasaṃharati, athassa āhiṇḍantā man
 
 **【文件：[535]色业处篇/[598a]九、无上清凉性经.md】**
 
-### 九、无上清凉性经(Anuttarasītibhāva Sutta)
+#### 九、无上清凉性经(Anuttarasītibhāva Sutta)
 
 这部经出现在《增支部(Aṅguttara Nikāya)》六集第二个五十经篇的清凉品(sītivagga)中，名称是**清凉性经(Sītibhāva Sutta)**。 
 那部经的缅文译文如下。
@@ -16101,7 +16417,7 @@ Sace pana bahiddhāpi manasikāraṃ upasaṃharati, athassa āhiṇḍantā man
 
 **【文件：[535]色业处篇/[598b]所要表达的旨趣.md】**
 
-### 所要表达的旨趣
+##### 所要表达的旨趣
 
 - 一、如果由于过度努力精进等原因，精进(vīriya)太过而生起心散乱的掉举(uddhacca)，那么就应当以建立定(samādhi)来压低心态、抑制心态。
 - 二、如果由于努力精进太过低落等原因，心态在业处(kammaṭṭhāna)所缘上退缩不前，那么就应当依靠防护懈怠(kosajja)之危险的力量，以努力精进来策励心态、提升心态。
@@ -16110,7 +16426,7 @@ Sace pana bahiddhāpi manasikāraṃ upasaṃharati, athassa āhiṇḍantā man
 
 **【文件：[535]色业处篇/[599a]倾向于殊胜之法.md】**
 
-### 倾向于殊胜之法(paṇītādhimuttika)
+##### 倾向于殊胜之法(paṇītādhimuttika)
 
 **Paṇītādhimuttiko**ti paṇīte uttame maggaphale adhimutto ninnapoṇapabbhāro. (Aṅ, ṭī, 3, 146.)
 
@@ -16119,7 +16435,7 @@ Sace pana bahiddhāpi manasikāraṃ upasaṃharati, athassa āhiṇḍantā man
 
 **【文件：[535]色业处篇/[599b]十、觉支经 (火经) (相应部-3-98-100).md】**
 
-### 十、觉支经(Bojjhaṅga Sutta)（火经(Aggi Sutta)）（相应部、3、98-100。）
+#### 十、觉支经(Bojjhaṅga Sutta)（火经(Aggi Sutta)）（相应部、3、98-100。）
 
 这部经出现在《大品相应(Mahāvagga Saṃyutta)》巴利圣典的觉支相应第(98-99-100)页、经号(234)之中，题名为火经。 
 在《清净道论义注(Visuddhimagga Aṭṭhakathā)》第一册第(127)页等处，讲解相善巧(nimittakosalla)、修习善巧(bhāvanākosalla)诸节时，也正是引用这部火经来作说明的。 
@@ -17211,7 +17527,7 @@ Manodvāre hadayavatthu-kāya-bhāvadasakavasena ceva utusamuṭṭhānādivasen
 
 **【文件：[535]色业处篇/[640]色的生起之观照行相.md】**
 
-### 眼门(cakkhudvāra) (= 眼睛) 中所存在的色 (54) 种
+#### 眼门(cakkhudvāra) (= 眼睛) 中所存在的色 (54) 种
 
 |1. 眼十法聚(cakkhudasakakalāpa) |2. 身十法聚(kāyadasakakalāpa) |3. 性十法聚(bhāvadasakakalāpa) |4. 心生-八法聚(cittaja-aṭṭhakalāpa) |5. 时节生-八法聚(utuja-aṭṭhakalāpa) |6. 食生-八法聚(āhāraja-aṭṭhakalāpa)|
 |-|-|-|-|-|-|
@@ -17243,7 +17559,7 @@ Manodvāre hadayavatthu-kāya-bhāvadasakavasena ceva utusamuṭṭhānādivasen
 
 **注** ---- 这(54)种类别的色，被称为含有成分的眼(sasambhāracakkhu)。其中，眼净色也得名为净色眼(pasādacakkhu)。
 
-### 耳门(sotadvāra) (= 耳朵) 中所存在的色 (54) 种
+#### 耳门(sotadvāra) (= 耳朵) 中所存在的色 (54) 种
 
 |1. 耳十法聚(sotadasakakalāpa) |2. 身十法聚 |3. 性十法聚 |4. 心生-八法聚 |5. 时节生-八法聚 |6. 食生-八法聚|
 |-|-|-|-|-|-|
@@ -17265,7 +17581,7 @@ Manodvāre hadayavatthu-kāya-bhāvadasakavasena ceva utusamuṭṭhānādivasen
 **注** ---- 这(54)种类别的色，被称为含有成分的耳(sasambhārasota)。其中，耳净色也得到净色耳(pasādasota)这个名称。
 身十法聚等其余(5)种类别的色聚，它们的性质与含义，请按照前面眼门中所说的方法同样地记住。
 
-### 鼻门(ghānadvāra) (= 鼻子) 中所存在的色 (54) 种
+#### 鼻门(ghānadvāra) (= 鼻子) 中所存在的色 (54) 种
 
 1. 鼻十法聚(ghānadasakakalāpa) 2. 身十法聚 3. 性十法聚 4. 心生-八法聚 5. 时节生-八法聚 6. 食生-八法聚
 1. 地 1. 地 1. 地 1. 地 1. 地 1. 地
@@ -17314,7 +17630,7 @@ Manodvāre hadayavatthu-kāya-bhāvadasakavasena ceva utusamuṭṭhānādivasen
 个部分，加以分别剖析而观照。因此，在界业处详细修习法中，当数点某些某些身分之中所存在的诸色法时，
 若见到(44)这个数目，请记住：所指的正是上述(44)种类别的色法。色业处篇 表格 ḍ 645
 
-**意门(manodvāra) (= hadaya = 心脏) 中所存在的色 (54) 种**
+#### 意门(manodvāra) (= hadaya = 心脏) 中所存在的色 (54) 种
 
 |1. 心所依处十法聚(hadayadasakakalāpa) |2. 身十法聚 |3. 性十法聚 |4. 心生-八法聚 |5. 时节生-八法聚 |6. 食生-八法聚|
 |-|-|-|-|-|-|
@@ -18131,7 +18447,7 @@ Taṃnibbattānaṃ cittajarūpānaṃ uḷārapaṇītabhāvato. (Mahāṭī, 2
 
 **【文件：[535]色业处篇/[672b]一、食.md】**
 
-### 一、食(āhāra)
+#### 一、食(āhāra)
 
 Tattha **āhāro** nāma kabaḷīkāro āhāro. (Visuddhi, 2, 251.)
 
@@ -18181,7 +18497,7 @@ Pa. Yebhuyyavasena vā evaṃ vuttanti veditabbaṃ. (Anuṭī, 3, 258.)
 
 **【文件：[535]色业处篇/[674]以应当被吞食的事物为所在之处.md】**
 
-### 以应当被吞食的事物为所在之处(ajjhoharitabbavatthuka)
+##### 以应当被吞食的事物为所在之处(ajjhoharitabbavatthuka)
 
 所谓「四种等起的食素(catusamuṭṭhānika ojā)有着『应当被吃下去的食物』这样一个所在之处」，是指下面这样的情形。
 
@@ -18232,7 +18548,7 @@ Kabaḷaṃ karitvā ajjhoharitabbavatthukattā vā kabaḷīkāroti nāmameta�
 
 **【文件：[535]色业处篇/[676]博闻方面值得记住的事项.md】**
 
-### 博闻方面值得记住的事项
+##### 博闻方面值得记住的事项
 
 Ojāsaṅkhāto āhāro āhārasamuṭṭhānarūpaṃ ajjhoharaṇakāle ṭhānappattova samuṭṭhāpeti. (Abhidhammatthasaṅgaha.)
 
@@ -18283,7 +18599,7 @@ Evaṃ ojaṭṭhamakarūpāni āharati. (Ma, ṭṭha, 1, 213.)
 
 **【文件：[535]色业处篇/[678]二、食等起 = 因食而生的色.md】**
 
-### 二、食等起(āhārasamuṭṭhāna) = 因食而生的色
+#### 二、食等起(āhārasamuṭṭhāna) = 因食而生的色
 
 **Āhārasamuṭṭhānaṃ** nāma upādiṇṇaṃ kammajarūpaṃ paccayaṃ labhitvā tattha patiṭṭhāya ṭhānappattāya ojāya samuṭṭhāpitaṃ ojaṭṭhamakaṃ, ākāsadhātu lahutā mudutā kammaññatā upacayo santatīti cuddasavidhaṃ rūpaṃ. (Visuddhi, 2, 251.)
 
@@ -18317,7 +18633,7 @@ Tattha kammapaccayacittasamuṭṭhānādirūpassapi kammamūlakattā siyā kamm
 
 **【文件：[535]色业处篇/[679]三、食缘 = 有食作为支助的色.md】**
 
-### 三、食缘(āhārapaccaya) = 有食(āhāra)作为支助的色
+#### 三、食缘(āhārapaccaya) = 有食(āhāra)作为支助的色
 
 **Āhārapaccayaṃ** nāma “kabaḷīkāro āhāro imassa kāyassa āhārapaccayena paccayo” (Paṭṭhāna, 1, 7.) evaṃ vuttaṃ catusamuṭṭhānarūpaṃ. (Visuddhi, 2, 251.)
 
@@ -18329,7 +18645,7 @@ Tattha kammapaccayacittasamuṭṭhānādirūpassapi kammamūlakattā siyā kamm
 
 **【文件：[535]色业处篇/[680]四、食缘食等起.md】**
 
-### 四、食缘(āhārapaccaya) 食等起(āhārasamuṭṭhāna)
+#### 四、食缘(āhārapaccaya) 食等起(āhārasamuṭṭhāna)
 
 = 有食(āhāra)作为支助的、因食而生起的色
 
@@ -18369,7 +18685,7 @@ Sopi ṭhānappatto rūpaṃ samuṭṭhāpeti, tatrāpi ojā aññaṃ samuṭ�
 
 **【文件：[535]色业处篇/[681]一个应当探究的要点.md】**
 
-### 一个应当探究的要点
+##### 一个应当探究的要点
 
 Kabaḷīkāro āhāro imassa kāyassa āhārapaccayena paccayo. (Paṭṭhāna, 1, 7.)
 
@@ -18418,7 +18734,7 @@ Cittasamuṭṭhāno kabaḷīkāro āhāro cittasamuṭṭhānassa kāyassa āh
 
 **【文件：[535]色业处篇/[683]五、食缘时节转起.md】**
 
-### 五、食缘(āhārapaccaya) 时节转起(utusamuṭṭhāna)
+#### 五、食缘(āhārapaccaya) 时节转起(utusamuṭṭhāna)
 
 = 因有食(āhāra)作为支助的时节(utu)而生起的色
 
@@ -18498,7 +18814,7 @@ Parato utuno nissayajotanāyapi eseva nayo. (Mahāṭī, 2, 403-404.)
 
 **【文件：[535]色业处篇/[686]一、时节 = 火界.md】**
 
-### 一、时节(utu) = 火界(tejodhātu)
+#### 一、时节(utu) = 火界(tejodhātu)
 
 Tattha **utu** nāma catusamuṭṭhānā tejodhātu, uṇhautusītautūti evaṃ panesa duvidho hoti. (Visuddhi, 2, 251.)
 
@@ -18565,7 +18881,7 @@ Phusaṃ bhūtāni saṇṭhānaṃ, manasā gaṇhate yathā.
 
 **【文件：[535]色业处篇/[688]二、时节转起 = 由于时节而生起的色.md】**
 
-### 二、时节转起(utusamuṭṭhāna) = 由于时节而生起的色
+#### 二、时节转起(utusamuṭṭhāna) = 由于时节而生起的色
 
 **Utusamuṭṭhānaṃ** nāma catusamuṭṭhāno utu upādiṇṇakaṃ paccayaṃ labhitvā ṭhānappatto sarīre rūpaṃ samu- ṭṭhāpeti. 
 Taṃ saddanavakaṃ ākāsadhātu, lahutā, mudutā, kammaññatā, upacayo, santatīti pannarasavidhaṃ hoti. (Visuddhi, 2, 251-252.)
@@ -18585,7 +18901,7 @@ Utusamuṭṭhānoyeva hi utu upādinnakena vinā rūpaṃ samuṭṭhāpeti. (M
 
 **【文件：[535]色业处篇/[689]三、时节缘 = 有时节作为支助的色.md】**
 
-### 三、时节缘(utupaccaya) = 有时节(utu)作为支助的色
+#### 三、时节缘(utupaccaya) = 有时节(utu)作为支助的色
 
 **Utupaccayaṃ** nāma utu catusamuṭṭhānikānaṃ rūpānaṃ pavattiyā ca vināsassa ca paccayo hoti. (Visuddhi, 2, 252.)
 
@@ -18627,7 +18943,7 @@ Tenāha **“anupādinnapakkhe ṭhatvāpī”**ti, maṃsavinimuttakesalomanakh
 
 **【文件：[535]色业处篇/[690a]补充解说.md】**
 
-### 补充解说
+#### 补充解说
 
 若是以一期生命之中诸色最初开始生起的那个时刻作为基准来加以解说，就更加容易理解。 
 在结生(paṭisandhi)羯罗蓝(kalala)清液最初安立的那一刹那，身十法聚(kāyadasaka kalāpa)、性十法聚(bhāvadasaka kalāpa)、心所依处十法聚(hadayadasaka kalāpa)这(3)类色聚、(30)种色便开始生起。 
@@ -21056,7 +21372,7 @@ Sasantānatāya ahaṃ-kāravatthumhi appahīnamānassa pahīnākāraṃ sandhā
 
 **【文件：[769]止业处篇/[782]大帝须大长老.md】**
 
-### 大帝须大长老（Mahātissatthera）
+#### 大帝须大长老（Mahātissatthera）
 
 大帝须大长老从塔山（Cetiyapabbata）寺院前往阿努拉塔城（Anurādha）托钵。
 这位大长老平常的修行是这样的：从骨（aṭṭhika）业处（kammaṭṭhāna）的修行路线上建立定，直到达到初禅（paṭhamajjhāna）定，再以那定作为观（vipassanā）的基础足处（pādaka），转入观，使行法（saṅkhāra dhamma）登上（三）相（lakkhaṇa）的车乘而修习观照。
@@ -21072,7 +21388,7 @@ Sasantānatāya ahaṃ-kāravatthumhi appahīnamānassa pahīnākāraṃ sandhā
 
 **【文件：[769]止业处篇/[783]僧护大长老的侍者沙马内拉.md】**
 
-### 僧护大长老（Saṅgharakkhitatthera）的侍者沙马内拉（sāmaṇera）
+#### 僧护大长老（Saṅgharakkhitatthera）的侍者沙马内拉（sāmaṇera）
 
 有一位年轻的比库（bhikkhu）带着那位沙马内拉，为了取齿木而前往树林。
 沙马内拉从大路走下到路旁，往前走去的时候看见了一具不净（asubha）的尸体，他就以令人厌恶、恶心可憎的可厌（paṭikūla）行相来作意那具尸体，因而生起了初禅（paṭhamajjhāna）。
@@ -21131,7 +21447,7 @@ Sasantānatāya ahaṃ-kāravatthumhi appahīnamānassa pahīnākāraṃ sandhā
 
 **【文件：[769]止业处篇/[785]马拉迦大长老.md】**
 
-### 马拉迦大长老（Mallakatthera）
+#### 马拉迦大长老（Mallakatthera）
 
 那位马拉迦大长老拉着身为长部诵者（Dīghabhāṇaka）的阿婆耶大长老（Abhayatthera）的手，对他说：「贤友阿婆耶……请你首先把这个问题学起来」，接着这样说道：「在(三十二)身分（koṭṭhāsa）当中获得了(三十二)种初禅（paṭhamajjhāna）的马拉迦长老，假如夜间入一种禅、白天入一种禅，那么要经过半个多月才会再一次轮回接上。
 如果不是这样，而是每一天每一天都只取一个身分为所缘、只入一种初禅，那么要经过一个多月才会再一次轮回接上。」据说他曾经这样说过。(Visuddhi, 1, 257.)
